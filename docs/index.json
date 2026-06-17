@@ -1,15 +1,25 @@
 {
   "version": 1,
-  "built_at": "2026-06-17T07:50:39+09:00",
-  "total_items": 14,
+  "built_at": "2026-06-17T09:09:07+09:00",
+  "total_items": 53,
   "page_size": 20,
-  "total_pages": 1,
-  "seed": "2026-06-17T07:50:39+09:00",
+  "total_pages": 3,
+  "seed": "2026-06-17T09:09:07+09:00",
   "pages": [
     {
       "page": 1,
       "file": "feed_page_0001.json",
-      "count": 14
+      "count": 20
+    },
+    {
+      "page": 2,
+      "file": "feed_page_0002.json",
+      "count": 20
+    },
+    {
+      "page": 3,
+      "file": "feed_page_0003.json",
+      "count": 13
     }
   ]
 }
