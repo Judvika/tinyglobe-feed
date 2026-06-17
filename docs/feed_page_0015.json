@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "built_at": "2026-06-18T06:20:21+09:00",
+  "page": 15,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-06-17T20:04:52+09:00",
+      "country": "NO",
+      "country_ko": "노르웨이",
+      "id": "715fa4712d1e",
+      "image_url": "https://image.forskning.no/1262328.jpg?imageId=1262328&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+      "lang_original": "no",
+      "lat": 59.9139,
+      "lon": 10.7522,
+      "processed_at": "2026-06-17T22:16:37+09:00",
+      "raw_excerpt": "Forskerne er positive, men noen bekymrer seg for murene som skal bygges rundt disse små landsbyene. Vil resten av samfunnet miste kontakt med dem som lever med demens?",
+      "region": "Oslo",
+      "source_name": "Forskning.no",
+      "source_type": "google",
+      "source_url": "https://www.forskning.no/aldring-alzheimer-politikk/om-tre-ar-far-oslo-en-egen-landsby-for-mennesker-med-demens-er-vi-klare-for-det/1262272",
+      "summary_en": "Oslo will get its own village for people with dementia in about three years. Researchers are positive, but some worry about walls around the small village and whether residents may lose contact with the wider community.",
+      "summary_ko": "약 3년 뒤 오슬로에 치매 환자를 위한 별도 마을이 생길 예정이다. 연구자들은 긍정적으로 보지만, 작은 마을을 둘러싼 벽 때문에 입주자들이 사회와 멀어질 수 있다는 우려도 나온다.",
+      "title_en": "Oslo plans a village for people with dementia",
+      "title_ko": "오슬로에 치매 환자를 위한 마을이 생긴다",
+      "title_original": "Om tre år får Oslo en egen landsby for mennesker med demens. Er vi klare for det? - Forskning.no",
+      "triviality_score": 4
+    }
+  ]
+}
