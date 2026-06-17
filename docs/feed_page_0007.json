@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "built_at": "2026-06-17T12:52:03+09:00",
+  "page": 7,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-06-17T12:03:29+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "id": "e519f819d77a",
+      "image_url": "https://www.eldebate.com/files/article_social/files/fp/uploads/2024/01/10/659e997fe1ce7.r_d.709-325-8333.jpeg",
+      "lang_original": "es",
+      "lat": 39.4699,
+      "lon": -0.3763,
+      "processed_at": "2026-06-17T12:43:30+09:00",
+      "raw_excerpt": "La prensa del país sudamericano analiza los motivos que llevan a sus compatriotas a decantarse por la capital del Turia",
+      "region": "Valencia",
+      "source_name": "El Debate",
+      "source_type": "google",
+      "source_url": "https://www.eldebate.com/espana/comunidad-valenciana/20260114/ciudad-espanola-enamora-argentinos-ideal-familias_372678.html",
+      "summary_en": "El Debate reports that media in Argentina are discussing why many Argentines are drawn to Valencia, described as the capital of the Turia. The article frames the city as especially appealing for family life.",
+      "title_en": "The Spanish city winning over Argentines as ideal for families",
+      "title_original": "La ciudad española que enamora a los argentinos: «Ideal para familias» - El Debate",
+      "triviality_score": 3
+    }
+  ]
+}
