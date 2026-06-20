@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-20T20:26:06+09:00",
+  "built_at": "2026-06-20T22:21:52+09:00",
   "page": 34,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-06-20T18:02:02+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "펜틱턴에 공룡 전시 도착, 박물관이 흥미로운 전시회 개최",
       "title_original": "Dinosaurs shipped to Penticton as museum hosts ‘fascinating’ exhibit - Penticton Western News",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-20T22:02:03+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "b12243892e4d",
+      "image_url": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png",
+      "lang_original": "pt",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-20T22:18:09+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Alerta enviado a celulares trazia apenas a palavra 'misantropia', que significa aversão ou rejeição à humanidade.",
+      "region": null,
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/sistema-da-defesa-civil-e-suspenso-apos-invasao-e-disparo-falso",
+      "summary_en": "Hackers broke into Brazil's civil defense alert system and sent a false warning. The message only contained the word 'misantropia,' which means aversion to humanity. The system was shut down after the attack.",
+      "summary_ko": "해커가 브라질 방재 경보 시스템에 침투해 가짜 경고를 발송했다. 메시지에는 'misantropia'(인간혐오)라는 단어만 적혀 있었다. 사고 후 시스템이 중단됐다.",
+      "title_en": "Brazil civil defense system hacked to send fake 'misanthrope' alert",
+      "title_ko": "브라질 방재 경보 시스템 해킹, '인간혐오' 문자 발송",
+      "title_original": "Sistema da Defesa Civil é suspenso após invasão e disparo falso",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-20T22:02:05+09:00",
+      "country": "MX",
+      "country_ko": "멕시코",
+      "fallback_reason": "",
+      "id": "f475835665a6",
+      "image_url": "https://mexiconewsdaily.com/wp-content/uploads/2026/06/SaveClip.App_708959483_18457393861113851_1393981512981367187_n-1.jpg",
+      "lang_original": "en",
+      "lat": 19.4326,
+      "lon": -99.1332,
+      "processed_at": "2026-06-20T22:18:30+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "For World Cup visitors wondering where to eat and drink in Mexico City, Lydia Carey shares some of the capital's signature spots.",
+      "region": "Mexico City",
+      "source_name": "Mexico News Daily",
+      "source_type": "rss",
+      "source_url": "https://mexiconewsdaily.com/lifestyle/food/world-cup-in-mexico-city-where-to-eat-and-drink/",
+      "summary_en": "Mexico City has many great spots for eating and drinking during the World Cup. A local guide shares the capital's signature places for visitors.",
+      "summary_ko": "멕시코시티에는 월드컵 기간에 즐길 수 있는 훌륭한 식당과 술집이 많다. 현지 가이드가 방문객을 위해 수도 멕시코시티의 대표적인 맛집을 소개한다.",
+      "title_en": "Going to the World Cup in Mexico City? Here's where to eat and drink",
+      "title_ko": "멕시코시티 월드컵 관람객을 위한 맛집 가이드",
+      "title_original": "Going to the World Cup in Mexico City? Here’s where to eat and drink",
+      "triviality_score": 3
     }
   ]
 }
