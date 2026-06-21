@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-22T00:22:15+09:00",
+  "built_at": "2026-06-22T02:19:27+09:00",
   "page": 40,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-06-21T20:14:24+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "솔라레스 델 필라르: 코르도바에서 30분 거리에 들어서는 새로운 주거 단지",
       "title_original": "Solares del Pilar, el nuevo barrio abierto que nace en la ciudad (una vida mucho más tranquila a 30 minutos de Córdoba) - InfoNegocios",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-06-22T02:03:22+09:00",
+      "country": "CA",
+      "country_ko": "캐나다",
+      "fallback_reason": "",
+      "id": "ffe5b2cc05ce",
+      "image_url": "https://i.cbc.ca/ais/cdd4ebbe-a2cb-44f6-aeb6-918fa2c25e34,1781944180712/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3BResize%3D620",
+      "lang_original": "en",
+      "lat": 43.0896,
+      "lon": -79.0849,
+      "processed_at": "2026-06-22T02:17:28+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The fate of deer and elk at the now-closed Marineland in Niagara Falls, Ont., is uncertain, with an animal rights organization warning some of them could be bound for slaughterhouses, and urging provincial and federal officials to take action.",
+      "region": "Ontario",
+      "source_name": "CBC Canada",
+      "source_type": "rss",
+      "source_url": "https://www.cbc.ca/news/canada/hamilton/marineland-deer-elk-remain-9.7242376",
+      "summary_en": "The deer and elk at the closed Marineland park in Niagara Falls, Ontario face an uncertain future. An animal rights group warns some could end up in slaughterhouses and is asking government officials to step in.",
+      "summary_ko": "온타리오주 나이아가라폴스에 있는 폐쇄된 마린랜드의 사슴과 엘크의 운명이 불확실하다. 동물보호단체는 이들 중 일부가 도살장으로 보내질 수 있다고 경고하며 주 및 연방 당국에 조치를 촉구했다.",
+      "title_en": "Animal group warns Marineland deer and elk may go to slaughter",
+      "title_ko": "동물보호단체 \"폐쇄된 마린랜드 사슴·엘크 도살장行 우려\"",
+      "title_original": "Fate of Marineland's belugas is pretty much determined. Where will the deer, elk end up?",
+      "triviality_score": 4
     }
   ]
 }
