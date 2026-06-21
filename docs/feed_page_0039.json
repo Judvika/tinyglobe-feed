@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-21T18:20:39+09:00",
+  "built_at": "2026-06-21T20:19:47+09:00",
   "page": 39,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-06-21T16:01:58+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "모든 대화가 특별해지는 빅토리아 빌리지",
       "title_original": "💛 Step into Victoria Village where every conversation counts - BarrieToday.com",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-21T20:06:12+09:00",
+      "country": "CA",
+      "country_ko": "캐나다",
+      "fallback_reason": "",
+      "id": "d040d82513bd",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/toronto.com/content/tncms/assets/v3/editorial/9/bd/9bd1bba3-ad1a-5d94-ad1a-cc6536593466/6a35a87f8ae07.image.jpg?crop=1764%2C926%2C1%2C120&resize=1200%2C630&order=crop%2Cresize",
+      "lang_original": "en",
+      "lat": 42.86,
+      "lon": -79.06,
+      "processed_at": "2026-06-21T20:19:05+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Ontario’s Crystal Beach is a place you won’t want to miss while the balmy temperatures are among us. Here’s how to spend an ideal day in the sun.",
+      "region": "Ontario",
+      "source_name": "Toronto.com",
+      "source_type": "google",
+      "source_url": "https://www.toronto.com/publications/torontocom/crystal-beach-ontario/article_76f6291c-6310-5610-9eb7-92ddb195c12a.html",
+      "summary_en": "Crystal Beach in Ontario was once home to a famous amusement park. Now it offers visitors a beautiful white sand beach. Here is how to spend an ideal day in the sun.",
+      "summary_ko": "온타리오 주 크리스털 비치는 한때 유명한 놀이공원이 있던 곳이다. 지금은 방문객들에게 아름다운 백사장을 선사한다. 햇살 아래에서 완벽한 하루를 보내는 방법을 소개한다.",
+      "title_en": "This Ontario lakeside town has a stunning white sand beach",
+      "title_ko": "과거 놀이공원이 있던 온타리오 호반 마을, 지금은 백사장 명소로",
+      "title_original": "Formerly home to a famous amusement park, this lakeside Ontario town features a stunning white sand beach - Toronto.com",
+      "triviality_score": 4
     }
   ]
 }
