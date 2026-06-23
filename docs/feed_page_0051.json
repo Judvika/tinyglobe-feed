@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-06-24T06:20:14+09:00",
+  "page": 51,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-06-24T06:05:06+09:00",
+      "country": "MX",
+      "country_ko": "멕시코",
+      "fallback_reason": "",
+      "id": "69b50e1be653",
+      "image_url": "https://www.meganoticias.mx/uploads/noticias/nombran-pueblo-magico-a-santa-catarina-juquila-en-oaxaca-201228.jpg",
+      "lang_original": "es",
+      "lat": 16.2375,
+      "lon": -97.2917,
+      "processed_at": "2026-06-24T06:20:12+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "En el marco de la entrega y nombramiento de Pueblos Mágicos realizado por la Secretaría de Turismo Federal (SECTUR) encabezada por Miguel Torruco este...",
+      "region": "Oaxaca",
+      "source_name": "Meganoticias.MX",
+      "source_type": "google",
+      "source_url": "https://www.meganoticias.mx/salina-cruz/noticia/nombran-pueblo-mágico-a-santa-catarina-juquila-en-oaxaca/201228",
+      "summary_en": "Mexico's Federal Tourism Secretariat named Santa Catarina Juquila a Pueblo Mágico (Magical Town). The designation recognizes the town's cultural and natural heritage. It joins a program that promotes tourism to Mexico's most charming small communities.",
+      "summary_ko": "멕시코 연방관광청이 산타 카타리나 후퀼라를 '푸에블로 마히코'(마법의 마을)로 지정했다. 이 프로그램은 멕시코의 작고 매력적인 지역사회를 관광 명소로 육성하는 제도다. 이 마을은 독특한 문화와 자연유산을 인정받았다.",
+      "title_en": "Santa Catarina Juquila in Oaxaca named Magical Town",
+      "title_ko": "오아하카의 산타 카타리나 후퀼라, '마법의 마을'로 지정",
+      "title_original": "Nombran \"Pueblo Mágico\" a Santa Catarina Juquila en Oaxaca - Meganoticias.MX",
+      "triviality_score": 4
+    }
+  ]
+}

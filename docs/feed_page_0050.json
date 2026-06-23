@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-24T04:20:43+09:00",
+  "built_at": "2026-06-24T06:20:14+09:00",
   "page": 50,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-06-24T00:12:21+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "고아주, 9월 5일까지 플라스틱 퇴출한 가장 청정한 마을에 시상",
       "title_original": "Goa govt to reward cleanest, greenest village which bans plastic, waste dumps before Sept 5: CM - The Times of India",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-24T06:03:34+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "03039ade2983",
+      "image_url": "https://mid-noticias.curitiba.pr.gov.br/2026/thumb/00566936.jpeg",
+      "lang_original": "pt",
+      "lat": -25.4284,
+      "lon": -49.2733,
+      "processed_at": "2026-06-24T06:19:22+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A estação-tubo volta a receber a parada das linhas 022 e 023 - Inter 2, nos sentidos Cabral e Capão da Imbuia, além da linha de reforço X45 – Bairro Alto/Capão da Imbuia",
+      "region": "Curitiba",
+      "source_name": "Prefeitura de Curitiba",
+      "source_type": "google",
+      "source_url": "https://www.curitiba.pr.gov.br/noticias/estacao-tubo-detran-sera-reativada-no-sabado-e-ganha-integracao-temporal-para-facilitar-deslocamentos/83653?utm_content=mldn",
+      "summary_en": "The Detran tube station in Curitiba will reopen this Saturday. New bus lines and a time-based transfer system will make commuting easier. The changes help passengers traveling between Cabral and Capão da Imbuia.",
+      "summary_ko": "쿠리치바의 Detran 튜브 정류장이 이번 토요일 재개장한다. 새로운 버스 노선과 시간제 환승 시스템이 도입되어 출퇴근이 더 편리해질 예정이다. 카브랄과 카팡 다 임부이아 구간을 운행하는 승객들에게 도움이 될 전망이다.",
+      "title_en": "A bus station reopens in Curitiba on Saturday",
+      "title_ko": "쿠리치바 버스 정류장 토요일 재개장",
+      "title_original": "Estação-tubo Detran será reativada no sábado e ganha integração temporal para facilitar deslocamentos - Prefeitura de Curitiba",
+      "triviality_score": 5
     }
   ]
 }
