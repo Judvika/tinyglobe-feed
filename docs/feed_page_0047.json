@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-06-23T12:21:03+09:00",
+  "page": 47,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-06-23T12:13:42+09:00",
+      "country": "NO",
+      "country_ko": "노르웨이",
+      "fallback_reason": "",
+      "id": "7e3cb156586e",
+      "image_url": "https://vcdn.polarismedia.no/07839636-8552-4f46-a29d-fc586273615d?fit=crop&q=80&tight=false&w=1200&h=630",
+      "lang_original": "no",
+      "lat": 60.45,
+      "lon": 5.65,
+      "processed_at": "2026-06-23T12:20:52+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Bruvikanarane ber kommunen Â«innstendigÂ» om ikkje Ã¥ selja byggefeltet pÃ¥ Bruvik til Bergen Ã¸kologiske landsby (BÃL). RÃ¥dmannen meiner dei bÃ¸r fÃ¥ vilja si.",
+      "region": "Vestland",
+      "source_name": "bygdanytt.no",
+      "source_type": "google",
+      "source_url": "http://www.bygdanytt.no/nyheiter/n/wOpd7d/raadmannen-vil-ikkje-selja-til-boel",
+      "summary_en": "Residents of Bruvik village urgently ask the municipality not to sell a building field to Bergen Ecological Village (BOL). The chief administrator wants the sale to proceed despite local opposition. Villagers say the disputed project, nicknamed \"the pipe dream,\" has blocked all new construction and development in their community for years.",
+      "summary_ko": "브루비크 마을 주민들이 베르겐 생태마을(BØL)에 건설 부지를 팔지 말 것을 지자체에 간곡히 요청했다. 행정관은 주민 반대에도 매각을 강행하려는 입장이다. 주민들은 '공중성'이라 불리는 이 사업이 수년간 마을의 모든 신규 건축과 발전을 가로막아 왔다고 말한다.",
+      "title_en": "Villagers urge Norway municipality to reject eco-village land sale",
+      "title_ko": "브루비크 주민들 \"베르겐 생태마을에 부지 팔지 마라\"",
+      "title_original": "– «Luftslottet» har i mange år vore til hinder for all form for nybygging og utvikling i bygda - bygdanytt.no",
+      "triviality_score": 5
+    }
+  ]
+}
