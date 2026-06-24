@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-06-24T12:20:44+09:00",
+  "page": 52,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-06-24T12:10:31+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "b2b3eed85371",
+      "image_url": "https://cdn2.tribunaonline.com.br/img/Chamada-Home/310000/615x300/Rio-Branco-tem-forro-na-vespera-e-no-Dia-de-Sao-Jo0031449900202606231550/scaleDownProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn2.tribunaonline.com.br%2Fimg%2FChamada-Home%2F310000%2FRio-Branco-tem-forro-na-vespera-e-no-Dia-de-Sao-Jo0031449900202606231550.jpg%3Fxid%3D1459973&xid=1459973",
+      "lang_original": "pt",
+      "lat": -8.0476,
+      "lon": -34.877,
+      "processed_at": "2026-06-24T12:20:43+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Confira a programação da Avenida Rio Branco nesta terça (23) e quarta (24). O São João no Bairro do Recife tem shows gratuitos de forró e jogo do Brasil.",
+      "region": "Pernambuco",
+      "source_name": "Tribuna Online",
+      "source_type": "google",
+      "source_url": "https://tribunaonline.com.br/pernambuco/entretenimento/bairro-do-recife-tem-forro-na-vespera-e-no-dia-de-sao-joao-314499",
+      "summary_en": "Bairro do Recife holds free forro concerts on Tuesday and Wednesday for St John festivities. The event also shows a Brazil match on a big screen. The full schedule covers Avenida Rio Branco.",
+      "summary_ko": "헤시피 바이루 두 헤시피 지역에서 화요일과 수요일, 성 요한 축제를 맞아 무료 포로 공연이 열린다. 행사장 큰 화면에서는 브라질 국가대표 경기도 중계한다. 아베니다 히우 브랑쿠 일대에서 진행되는 전체 프로그램을 확인할 수 있다.",
+      "title_en": "Recife neighborhood has free forro shows for St John festival",
+      "title_ko": "헤시피의 바이루 두 헤시피에서 상주앙 축제 무료 포로 공연",
+      "title_original": "Bairro do Recife tem forró na véspera e no Dia de São João - Tribuna Online",
+      "triviality_score": 5
+    }
+  ]
+}
