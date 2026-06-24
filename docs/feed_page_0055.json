@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-25T06:21:17+09:00",
+  "built_at": "2026-06-25T08:23:36+09:00",
   "page": 55,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-06-25T02:03:56+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "전직 형사 남편 가석방 막으려는 여성의 법정 투쟁",
       "title_original": "Woman fights to have ex-policeman husband kept behind bars",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-06-25T08:01:47+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "2edb63afab28",
+      "image_url": "https://imagens.ebc.com.br/HYS0NawOoc_KfWNiNMg0heNNwAE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/22/_mg_0625.jpg?itok=Iu1X8ps7",
+      "lang_original": "pt",
+      "lat": -22.9068,
+      "lon": -43.1729,
+      "processed_at": "2026-06-25T08:17:30+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "O show estava programado esta quarta-feira (24), dia em que o espaço transmitirá o jogo entre o Brasil e a Escócia, marcado para as 19h",
+      "region": "Rio de Janeiro",
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/chuva-no-rj-cancela-show-em-transmissao-gratuita-de-jogo-do-brasil",
+      "summary_en": "A free outdoor show in Rio de Janeiro was canceled due to rain on Wednesday (24). The event was scheduled for the same night the venue would broadcast Brazil's match against Scotland at 7 PM.",
+      "summary_ko": "리우데자네이루에서 열릴 예정이던 무료 야외 공연이 폭우로 취소됐다. 해당 장소는 24일(수) 오후 7시 브라질 대 스코틀랜드 경기를 무료 중계할 계획이었다.",
+      "title_en": "Rain in Rio Cancels Show During Free Brazil Match Broadcast",
+      "title_ko": "리우 폭우, 브라질 경기 무료 중계 행사 취소",
+      "title_original": "Chuva no RJ cancela show em transmissão gratuita de jogo do Brasil",
+      "triviality_score": 4
     }
   ]
 }
