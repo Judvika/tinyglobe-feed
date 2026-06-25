@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-06-25T18:25:05+09:00",
+  "page": 58,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-06-25T18:04:56+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "a6faa11cd987",
+      "image_url": "https://th-i.thgim.com/public/incoming/otg556/article71144871.ece/alternates/LANDSCAPE_1200/IMG_9835.jpg",
+      "lang_original": "en",
+      "lat": 22.79,
+      "lon": 88.37,
+      "processed_at": "2026-06-25T18:25:05+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A priest, a life sized statue, a 39-pound cake and a tea seller’s lifelong devotion. Inside Lionel Messi’s annual birthday celebrations in West Bengal’s Ichhapur",
+      "region": "West Bengal",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/life-and-style/lionel-messis-39th-birthday-celebrations-in-bengals-ichhapur/article71144726.ece",
+      "summary_en": "A priest, a tea seller, and local fans celebrated Lionel Messi's 39th birthday in Ichhapur, West Bengal. They set up a life-sized statue and cut a 39-pound cake. The event shows the deep love for Messi in a small Indian town.",
+      "summary_ko": "서벵골 이차푸르에서 한 신부와 차 판매상 등 지역 팬들이 리오넬 메시의 39번째 생일을 기념했다. 실물 크기의 동상을 설치하고 39파운드 케이크를 컷팅했다. 이 작은 인도 마을의 메시에 대한 깊은 애정을 보여주는 현장이다.",
+      "title_en": "Messi fans in Bengal village hold 39th birthday party with statue and cake",
+      "title_ko": "벵골의 작은 마을, 메시 생일 맞아 동상과 케이크로 축하",
+      "title_original": "Lionel Messi’s 39th birthday celebrations in Bengal’s Ichhapur",
+      "triviality_score": 5
+    }
+  ]
+}
