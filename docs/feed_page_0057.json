@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-06-25T14:22:12+09:00",
+  "page": 57,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-06-25T14:14:07+09:00",
+      "country": "AR",
+      "country_ko": "아르헨티나",
+      "fallback_reason": "",
+      "id": "97f96333e57c",
+      "image_url": "https://bichosdecampo.com/wp-content/uploads/2025/11/ruta-10-adelia-maria-las-acequias-bichos-de-campo-3-e1779452278968.jpg",
+      "lang_original": "es",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-25T14:22:11+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "La ruta 10 es la única que recorre la provincia de Córdoba de forma íntegra y por allí pasa gran",
+      "region": "Córdoba Province",
+      "source_name": "Bichos de Campo",
+      "source_type": "google",
+      "source_url": "https://bichosdecampo.com/el-reclamo-por-la-pavimentacion-de-la-ruta-10-llega-a-la-defensoria-del-pueblo-para-algunos-hay-y-para-otros-no-es-discriminacion-dicen-los-productores-del-sur-de-cordoba/",
+      "summary_en": "Route 10 is the only road that crosses the entire province of Cordoba. Farmers from the south say the government paves some sections but ignores others, and they call it discrimination. The complaint has reached the Ombudsman's office.",
+      "summary_ko": "10번 국도는 코르도바 주를 가로지르는 유일한 도로다. 남부 농민들은 일부 구간만 포장되고 나머지는 방치되는 것은 차별이라며 주 옴부즈만에 진정을 제기했다.",
+      "title_en": "Farmers in southern Cordoba demand equal road paving",
+      "title_ko": "코르도바 남부 농민들, 도로 포장 차별에 항의",
+      "title_original": "El reclamo por la pavimentación de la ruta 10 llega a la Defensoría del Pueblo: “Para algunos hay y para otros no, es di - Bichos de Campo",
+      "triviality_score": 4
+    }
+  ]
+}
