@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-06-26T02:22:37+09:00",
+  "page": 60,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-06-26T02:11:14+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "fallback_reason": "",
+      "id": "ea6ccc414c18",
+      "image_url": "https://offloadmedia.feverup.com/secretnyc.co/wp-content/uploads/2026/06/25044105/shutterstock_2391796749.jpg",
+      "lang_original": "en",
+      "lat": 40.8465,
+      "lon": -73.7865,
+      "processed_at": "2026-06-26T02:22:27+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Escape to City Island in the Bronx. This 1.5-mile fishing village offers a quaint New England feel, fresh seafood, and rich maritime history.",
+      "region": "Bronx, New York",
+      "source_name": "Secret NYC",
+      "source_type": "google",
+      "source_url": "https://secretnyc.co/city-island-bronx-new-england-fishing-village/",
+      "summary_en": "City Island is a 1.5-mile fishing village in the Bronx, just a train ride from Manhattan. It offers a quiet New England atmosphere, fresh seafood, and a rich maritime history. A perfect summer escape from the city.",
+      "summary_ko": "시티 아일랜드는 브롱크스에 위치한 1.5마일 길이의 작은 어촌 마을로, 맨해튼에서 기차로 갈 수 있다. 조용한 뉴잉글랜드 분위기와 신선한 해산물, 풍부한 해양 역사를 자랑하며 도심을 벗어난 여름 휴양지로 제격이다.",
+      "title_en": "A hidden island in the Bronx feels like a Maine fishing village",
+      "title_ko": "맨해튼에서 기차로 닿는 은둔의 섬, 브롱크스의 시티 아일랜드",
+      "title_original": "Only a train ride from Manhattan: this hidden 1.5-mile island in the Bronx is a summer oasis that feels like a Maine fishing village - Secret NYC",
+      "triviality_score": 4
+    }
+  ]
+}
