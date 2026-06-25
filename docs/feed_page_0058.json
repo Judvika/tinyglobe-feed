@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-25T22:25:16+09:00",
+  "built_at": "2026-06-26T00:23:46+09:00",
   "page": 58,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-06-25T18:04:56+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "칼리컷대학교, 점성술 연구 제안 거부",
       "title_original": "Calicut University says ‘no’ to proposal for research on astrology",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-06-26T00:01:54+09:00",
+      "country": "SE",
+      "country_ko": "스웨덴",
+      "fallback_reason": "",
+      "id": "bfdc6507a979",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2019/07/watermarks-logo-sommarstangt.jpeg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-26T00:16:59+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "This Swedish word is often met with sighs of frustration from those who stay in the country's bigger cities throughout summer.",
+      "region": null,
+      "source_name": "The Local Sweden",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.se/20190708/swedish-word-of-the-day-sommarstngt",
+      "summary_en": "Sommarstängt means 'closed for summer' in Swedish. Many shops and businesses close for weeks during summer, which frustrates people who stay in big cities. The word captures a very Swedish summer tradition.",
+      "summary_ko": "Sommarstängt는 스웨덴어로 '여름 휴업'이라는 뜻입니다. 스웨덴 대도시에 여름 동안 머무는 사람들은 이 단어를 볼 때마다 한숨을 쉰다고 합니다. 이 단어는 스웨덴 특유의 여름 정취를 잘 담고 있습니다.",
+      "title_en": "Swedish word of the day: sommarstängt",
+      "title_ko": "오늘의 스웨덴어 단어: sommarstängt",
+      "title_original": "Swedish word of the day: sommarstängt",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-26T00:01:55+09:00",
+      "country": "DE",
+      "country_ko": "독일",
+      "fallback_reason": "",
+      "id": "92a5f5284cd6",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2019/07/watermarks-logo-word-of-the-day-blank-picture43.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-26T00:17:11+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Always thought that parking your car in the shade was the best thing to do? The German language seems to disagree.",
+      "region": null,
+      "source_name": "The Local Germany",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.de/20190711/german-word-of-the-day-der-schattenparker",
+      "summary_en": "A German word describes people who park their car in the shade. The word 'Schattenparker' literally means 'shadow parker'. Germans use this term for drivers who always look for a shady parking spot.",
+      "summary_ko": "독일어에는 그늘에 주차하는 사람을 가리키는 단어가 있습니다. '샤텐파커(Schattenparker)'는 말 그대로 '그늘 주차자'라는 뜻입니다. 독일인들은 항상 그늘진 주차 자리를 찾는 운전자를 이렇게 부릅니다.",
+      "title_en": "German word of the day: Der Schattenparker",
+      "title_ko": "오늘의 독일어 단어: Der Schattenparker",
+      "title_original": "German word of the day: Der Schattenparker",
+      "triviality_score": 4
     }
   ]
 }
