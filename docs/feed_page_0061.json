@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-26T10:19:40+09:00",
+  "built_at": "2026-06-26T12:20:17+09:00",
   "page": 61,
   "page_size": 20,
-  "count": 6,
+  "count": 8,
   "items": [
     {
       "collected_at": "2026-06-26T08:04:39+09:00",
@@ -148,6 +148,54 @@
       "title_ko": "아르헨티나 가족이 발렌시아로 몰리는 이유",
       "title_original": "Ideal para familias: las ventajas de la quinta ciudad de España con más argentinos radicados y una dificultad que enfrentan - Yahoo",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-26T12:03:08+09:00",
+      "country": "SG",
+      "country_ko": "싱가포르",
+      "fallback_reason": "",
+      "id": "4881e0192ad1",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--BYDX3gwY--/c_crop,h_548,w_975,x_1,y_71/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2023/06/12/bus.png?itok=7FA3f4km",
+      "lang_original": "en",
+      "lat": 1.3521,
+      "lon": 103.8198,
+      "processed_at": "2026-06-26T12:19:22+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The Ministry of Education previously said that operators would be able to impose a “time-bound” fuel surcharge to offset higher operating costs from July, should fuel prices remain elevated.",
+      "region": null,
+      "source_name": "CNA Singapore",
+      "source_type": "rss",
+      "source_url": "https://www.channelnewsasia.com/singapore/high-fuel-prices-school-bus-fare-increase-july-august-moe-6211871",
+      "summary_en": "Singapore's Ministry of Education now allows school bus operators to raise fares by up to 20% in July and August. The temporary increase helps cover higher fuel costs. Operators had asked for relief as fuel prices stayed high.",
+      "summary_ko": "싱가포르 교육부가 7월과 8월 한시적으로 학원버스 요금을 최대 20%까지 올릴 수 있도록 허용했다. 유류비 상승으로 어려움을 겪는 운송업체를 돕기 위한 조치다. 업체 측은 그동안 연료값 부담을 호소해 왔다.",
+      "title_en": "School bus fares can go up by 20% in July and August: MOE",
+      "title_ko": "7~8월 학원버스 요금 최대 20% 인상 허용",
+      "title_original": "School bus operators allowed to raise fares by up to 20% in July and August: MOE",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-26T12:07:41+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "fb47ba93e039",
+      "image_url": "https://s3.elespanol.com/2025/08/22/actualidad/1003743895708_258157730_1706x960.jpg?fmt=jpeg",
+      "lang_original": "es",
+      "lat": 40.9647,
+      "lon": -5.6639,
+      "processed_at": "2026-06-26T12:20:16+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "La joven, después de varios años viviendo en Valencia y en la capital de España, ha decidido marcharse a una ciudad mucho más pequeña y \"más práctica\". Más información: Un turista de Ceuta visita Madrid y se queda boquiabierto al ver la Castellana: \"Es la primera vez que nos pasa\".",
+      "region": "Castile and León",
+      "source_name": "El Español",
+      "source_type": "google",
+      "source_url": "https://www.elespanol.com/madrid/sociedad/20250830/venezolana-va-madrid-salamanca-cuenta-duro-cambio-dijera-isabela-anos-trt/1003743895597_0.html",
+      "summary_en": "After years living in Valencia and Madrid, a Venezuelan woman moved to Salamanca, a much smaller and more practical city. She talks about the hardest part of her change and what she would tell her 17-year-old self.",
+      "summary_ko": "발렌시아와 마드리드에서 여러 해를 보낸 한 베네수엘라 여성이 훨씬 작고 '더 실용적인' 도시인 살라망카로 이사했다. 그녀는 이 변화에서 가장 힘들었던 점과 17살 때의 자신에게 해주고 싶은 말을 털어놓는다.",
+      "title_en": "A Venezuelan woman leaves Madrid for smaller city Salamanca and shares her hardest adjustment",
+      "title_ko": "베네수엘라 여성, 마드리드 떠나 작은 도시 살라망카로 이사… 가장 힘들었던 변화 고백",
+      "title_original": "Una venezolana se va de Madrid a Salamanca y cuenta lo más duro su cambio: \"Si yo le dijera esto a la Isabela de 17 años...\" - El Español",
+      "triviality_score": 5
     }
   ]
 }
