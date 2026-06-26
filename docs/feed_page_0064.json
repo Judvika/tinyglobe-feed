@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-27T00:24:21+09:00",
+  "built_at": "2026-06-27T02:22:38+09:00",
   "page": 64,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-06-26T22:02:53+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "멜버른 근교 가성비 좋은 전원주택 마을 4곳",
       "title_original": "Four overlooked Victorian tree-change towns that won’t break the bank - The Age",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-27T02:01:52+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "84b695c275c6",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/06/watermarks-logo-spanish-word-of-the-day-carino.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-27T02:18:48+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Here’s an essential Spanish word to know and understand in a country renowned for its affectionate people.",
+      "region": null,
+      "source_name": "The Local Spain",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.es/20260626/spanish-word-of-the-day-carino",
+      "summary_en": "Cariño is a common Spanish word that means affection or endearment. People in Spain use it to show warmth to friends, family, and even strangers. Knowing this word helps visitors understand the local friendly culture.",
+      "summary_ko": "Cariño는 애정이나 다정함을 뜻하는 스페인어로, 스페인 사람들이 가족과 친구, 낯선 이에게도 따뜻한 마음을 전할 때 자주 쓰는 말입니다. 이 단어를 알면 스페인의 친근한 문화를 더 가까이 느낄 수 있습니다.",
+      "title_en": "Spanish Word of the Day: Cariño",
+      "title_ko": "오늘의 스페인어 단어: Cariño",
+      "title_original": "Spanish Word of the Day: Cariño",
+      "triviality_score": 4
     }
   ]
 }
