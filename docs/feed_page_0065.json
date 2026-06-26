@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-27T06:22:02+09:00",
+  "built_at": "2026-06-27T08:20:41+09:00",
   "page": 65,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-06-27T02:02:09+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "쌍둥이가 가득한 인도의 '트윈 타운' 마을",
       "title_original": "Inside India’s ‘Twin Town’ where everything seems to come in pairs - Firstpost",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-27T08:02:20+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "54c8ca28b1cf",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/522da138385e6392c3ebfaf854e358bc?impolicy=wcms_watermark_news&cropH=3600&cropW=6400&xPos=0&yPos=450&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-27T08:17:55+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "While some dung beetles rest, others get to work, and farmers are making trades.",
+      "region": null,
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-06-27/dung-beetle-exchange-between-south-australia-and-tasmania/106840364",
+      "summary_en": "Farmers in South Australia and Tasmania trade dung beetles through the mail. The beetles break down animal waste and improve soil health. Some farmers say they can hear the beetles buzzing inside the packages.",
+      "summary_ko": "남호주와 태즈메이니아 농부들이 우편으로 쇠똥구리를 교환하고 있다. 이 쇠똥구리들은 가축 분뇨를 분해해 토양 건강을 개선한다. 일부 농부들은 소포 안에서 윙윙거리는 소리를 듣는다고 말한다.",
+      "title_en": "'You can hear them': Thousands of dung beetles exchanged via post",
+      "title_ko": "\"소리가 들려요\": 우편으로 주고받은 수천 마리의 쇠똥구리",
+      "title_original": "'You can hear them': Thousands of dung beetles exchanged via post",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-27T08:03:24+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "f999c9a8ed68",
+      "image_url": "https://assets.spalla.io/019f05e2-e928-7008-b3a8-1b34d7ad467a/thumbnail-1782510189.jpg",
+      "lang_original": "pt",
+      "lat": -25.429,
+      "lon": -49.271,
+      "processed_at": "2026-06-27T08:19:18+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Moradores do bairro Caiuá, em Curitiba, denunciam acúmulo de lixo e entulho ao lado de uma unidade de saúde e de um centro de educação infantil. Material está no local há mais de dois meses e obriga pedestres a caminhar pela rua.",
+      "region": "Curitiba, Paraná",
+      "source_name": "band.com.br",
+      "source_type": "google",
+      "source_url": "https://www.band.com.br/band-parana/videos/lixo-e-entulho-bloqueiam-calcada-no-bairro-caiua-em-curitiba-202606261843",
+      "summary_en": "Residents of the Caiuá neighborhood in Curitiba report garbage piled up next to a health clinic and daycare center. The trash has been there for over two months and forces pedestrians to walk on the street.",
+      "summary_ko": "쿠리치바 카이우아 지역 주민들이 보건소와 어린이집 옆에 방치된 쓰레기와 폐기물 더미를 신고했다. 쓰레기가 두 달 넘게 그대로 쌓여 있어 보행자들이 차도로 내려서 걷고 있다.",
+      "title_en": "Trash blocks sidewalk in Caiuá neighborhood, Curitiba",
+      "title_ko": "쿠리치바 카이우아 지역, 쓰레기 더미가 인도 막아",
+      "title_original": "Lixo e entulho bloqueiam calçada no bairro Caiuá, em Curitiba - band.com.br",
+      "triviality_score": 4
     }
   ]
 }
