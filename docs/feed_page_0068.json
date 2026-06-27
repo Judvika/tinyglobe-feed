@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-27T22:22:00+09:00",
+  "built_at": "2026-06-28T00:26:16+09:00",
   "page": 68,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-06-27T18:03:12+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "Shoji, 일본발 투어 운영: 베르겐, 신혼부부 사이에서 '핫'한 도시로",
       "title_original": "Økonomi og næringsliv, Nyheter | Shoji organiserer turer fra Japan: – Bergen er «hot» blant nygifte - Bergensavisen",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-28T00:02:09+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "be06798ec9e5",
+      "image_url": "https://th-i.thgim.com/public/incoming/l3lx9v/article71154574.ece/alternates/LANDSCAPE_1200/Mango_03.jpg",
+      "lang_original": "en",
+      "lat": 15.3173,
+      "lon": 75.7139,
+      "processed_at": "2026-06-28T00:20:46+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Karnataka starts farmer registration for Totapuri mangoes under the MIP scheme, valid for one month from first transaction.",
+      "region": "Karnataka",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-opens-farmer-registration-for-totapuri-mangoes-under-mip-scheme/article71153909.ece",
+      "summary_en": "Karnataka has opened farmer registration for Totapuri mangoes under the Market Intervention Scheme. The registration is valid for one month from the first transaction.",
+      "summary_ko": "카르나타카주가 시장개입계획(MIP)에 따라 토타푸리 망고 품종에 대한 농가 등록을 시작했습니다. 등록은 첫 거래일로부터 한 달간 유효합니다.",
+      "title_en": "Karnataka starts farmer registration for Totapuri mangoes under MIP scheme",
+      "title_ko": "카르나타카주, 토타푸리 망고 MIP 계획 농가 등록 개시",
+      "title_original": "Karnataka opens farmer registration for Totapuri mangoes under MIP scheme",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-28T00:02:56+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "fb2e8ca28867",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-28T00:22:39+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "K.R. Meera issues a legal notice to Haritha Savithri over plagiarism allegations concerning their respective novels.",
+      "region": "Kerala",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/kerala/plagiarism-row-kr-meera-sends-legal-notice-to-haritha-savithri/article71154879.ece",
+      "summary_en": "K.R. Meera sent a legal notice to Haritha Savithri. She says Savithri copied parts of her novel. She wants an apology and payment for harm.",
+      "summary_ko": "K.R. 미라가 동료 작가 하리타 사비트리에게 법률 공문을 보냈다. 미라는 사비트리가 자신의 소설 일부를 표절했다고 주장한다. 공문은 사과와 손해배상을 요구하고 있다.",
+      "title_en": "Plagiarism Dispute: Author K.R. Meera Sends Legal Notice",
+      "title_ko": "표절 논란: K.R. 미라, 하리타 사비트리에 법률 공문 발송",
+      "title_original": "Plagiarism row: K.R. Meera sends legal notice to Haritha Savithri",
+      "triviality_score": 3
     }
   ]
 }
