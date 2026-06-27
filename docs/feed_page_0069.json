@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-28T04:21:36+09:00",
+  "built_at": "2026-06-28T06:22:09+09:00",
   "page": 69,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-06-28T00:03:42+09:00",
@@ -459,6 +459,30 @@
       "title_en": "TACTICS Sapporo Store Hosts Skateboard Event 'NORTHSIDE JAM'",
       "title_ko": "TACTICS 삿포로점, 스케이트보드 이벤트 'NORTHSIDE JAM' 개최",
       "title_original": "TACTICS Sapporo Storeが贈るスケートボードイベント「NORTHSIDE JAM」 - スポーツマニア",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-28T06:01:49+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "e077be69f696",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/00fb411154b846c05c19ecc0bcb21979?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -36.9565,
+      "lon": 140.74,
+      "processed_at": "2026-06-28T06:18:54+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The township of Naracoorte, nestled in South Australia's rural heartland, has put out the welcome mat for migrants, who have helped enrich its social fabric and boost the economy.",
+      "region": "South Australia",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-06-28/naracoorte-migrant-economy-volunteerism-multiculturism/106798482",
+      "summary_en": "Naracoorte is a small town in South Australia. It warmly welcomes migrants who help enrich the community and boost the local economy. The town still faces a housing shortage but does not turn people away.",
+      "summary_ko": "남호주 농촌 지역의 작은 마을 나라쿠트가 이민자들에게 따뜻한 환영을 보내고 있다. 이민자들은 마을 공동체를 풍요롭게 하고 지역 경제에도 활력을 불어넣고 있다. 주택 부족이라는 어려움에도 이 마을은 이민자들을 기꺼이 받아들이고 있다.",
+      "title_en": "Small Australian town welcomes migrants despite housing shortage",
+      "title_ko": "주택난에도 이민자 품은 작은 마을, 나라쿠트",
+      "title_original": "Housing shortage does not deter town from embracing migrants",
       "triviality_score": 5
     }
   ]
