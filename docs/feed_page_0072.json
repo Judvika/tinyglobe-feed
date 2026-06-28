@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-06-28T18:22:22+09:00",
+  "page": 72,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-06-28T18:05:25+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "45c81a965683",
+      "image_url": "https://elmon.cat/escapadeta/app/uploads/sites/32/2026/06/ocin-2026-06-24t185844.632.png",
+      "lang_original": "es",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-28T18:22:22+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "El pueblo de Valencia de 700 habitantes con la piscina natural más espectacular y fotografiada de España",
+      "region": "Valencia",
+      "source_name": "El Món",
+      "source_type": "google",
+      "source_url": "https://elmon.cat/escapadeta/es/destinos/el-pueblo-de-valencia-de-700-habitantes-con-la-piscina-natural-mas-espectacular-y-fotografiada-de-espana-9441/",
+      "summary_en": "A small town in Valencia with only 700 residents is home to what many call Spain's most beautiful natural swimming pool. The spot has become famous on social media for its crystal-clear water and stunning surroundings.",
+      "summary_ko": "발렌시아에 있는 주민 700명의 작은 마을에 스페인에서 가장 멋지다는 평가를 받는 자연 수영장이 있다. 맑고 투명한 물과 주변 경관 덕분에 SNS에서 큰 화제를 모으고 있다.",
+      "title_en": "A village of 700 people in Valencia has Spain's most spectacular natural pool",
+      "title_ko": "주민 700명 발렌시아 마을, 스페인에서 가장 아름다운 자연 수영장으로 유명세",
+      "title_original": "El pueblo de Valencia de 700 habitantes con la piscina natural más espectacular y fotografiada de España - El Món",
+      "triviality_score": 4
+    }
+  ]
+}
