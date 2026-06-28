@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-28T12:23:13+09:00",
+  "built_at": "2026-06-28T14:23:54+09:00",
   "page": 70,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-06-28T06:02:25+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "유카탄, 11월 미식의 수도가 되다",
       "title_original": "Yucatán, tierra de múltiples sabores - El Informador",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-06-28T14:01:44+09:00",
+      "country": "DE",
+      "country_ko": "독일",
+      "fallback_reason": "",
+      "id": "83f4b932df5e",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/08/watermarks-logo-delaney-van-MvCW2PE9Tbg-unsplash-1.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-28T14:18:03+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "When temperatures rise it can be hard to stay cool, but what happens when your rented flat starts feeling more sauna than sanctuary? Here's a look at your rights in Germany, and when you could be eligible for a rent reduction.",
+      "region": null,
+      "source_name": "The Local Germany",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.de/20250814/can-you-get-a-rent-reduction-if-your-apartment-gets-too-hot-in-germany",
+      "summary_en": "When your apartment gets very hot in summer, you may have the right to pay less rent. German law says your home must be livable, and extreme heat can make it unfit. Find out when you can ask your landlord for a rent reduction.",
+      "summary_ko": "여름철 아파트가 매우 뜨거워지면 세입자가 월세를 줄여달라고 요구할 권리가 생길 수 있다. 독일법은 주택이 살기 좋은 상태여야 한다고 규정하며, 극심한 더위는 이를 충족하지 못하는 사유가 된다. 언제 집주인에게 월세 인하를 요청할 수 있는지 알아보자.",
+      "title_en": "Can you get a rent reduction if your apartment gets too hot in Germany?",
+      "title_ko": "독일에서 아파트가 너무 뜨거우면 월세 인하를 받을 수 있을까?",
+      "title_original": "Can you get a rent reduction if your apartment gets too hot in Germany?",
+      "triviality_score": 4
     }
   ]
 }
