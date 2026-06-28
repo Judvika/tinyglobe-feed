@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-28T08:22:13+09:00",
+  "built_at": "2026-06-28T10:20:42+09:00",
   "page": 70,
   "page_size": 20,
-  "count": 12,
+  "count": 14,
   "items": [
     {
       "collected_at": "2026-06-28T06:02:25+09:00",
@@ -292,6 +292,54 @@
       "title_ko": "앤트워프 빌리지 경찰 보고서",
       "title_original": "Antwerp Village Police Reports - West Bend News",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-28T10:02:24+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "19bd5e93b6f8",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/32c96ba255e4f5499869255bb2ed954d?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -31.95,
+      "lon": 115.86,
+      "processed_at": "2026-06-28T10:19:06+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The disruption-plagued Perth-to-Bunbury train service is back on track following years of breakdowns and delays, but locals remain frustrated over the rollout.",
+      "region": "Western Australia",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-06-28/long-awaited-perth-to-bunbury-train-service-reopens/106846846",
+      "summary_en": "The train service between Perth and Bunbury has reopened after years of breakdowns and delays. Locals remain frustrated with how the service was brought back.",
+      "summary_ko": "수년간 고장과 지연으로 중단됐던 퍼스-번버리 간 열차 서비스가 마침내 재개됐다. 하지만 지역 주민들은 이번 운행 재개 과정에 여전히 불만을 나타내고 있다.",
+      "title_en": "Perth-to-Bunbury train service resumes after years of delays",
+      "title_ko": "퍼스-번버리 열차 서비스, 수년 만에 운행 재개",
+      "title_original": "Disruption-plagued Perth-to-Bunbury train service resumes after years of delays",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-28T10:09:44+09:00",
+      "country": "CH",
+      "country_ko": "스위스",
+      "fallback_reason": "",
+      "id": "ca999be5b12c",
+      "image_url": "https://www.watson.ch/imgdb/a3ee/Z1200,675,0,71,353,155/2565604118417353",
+      "lang_original": "de",
+      "lat": 46.95,
+      "lon": 7.45,
+      "processed_at": "2026-06-28T10:20:41+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Erstmals in der Geschichte gibt es im Bernbiet beim Playoff-Start kein Profi-Hockey mehr. Der letzte Zufluchtsort der Fans ist ein «gallisches Hockey-Dorf».",
+      "region": "Bern",
+      "source_name": "Watson",
+      "source_type": "google",
+      "source_url": "https://www.watson.ch/!421932637",
+      "summary_en": "For the first time in history, the Bern region faces the playoffs without a single professional hockey team. Fans find their last refuge in a \"Gallic hockey village\" that keeps the dream alive.",
+      "summary_ko": "사상 처음으로 베른 지역이 프로 하키팀 하나 없이 플레이오프 시즌을 맞았다. 팬들의 마지막 보루는 '갈리아식 하키 마을'뿐이다.",
+      "title_en": "The unthinkable becomes reality: no pro hockey in Bern at playoff time",
+      "title_ko": "말도 안 되는 현실: 베른 지역 플레이오프에 프로 하키가 사라졌다",
+      "title_original": "Das Unfassbare ist Realität geworden – zur Playoffzeit kein Profi-Hockey im Bernbiet - Watson",
+      "triviality_score": 4
     }
   ]
 }
