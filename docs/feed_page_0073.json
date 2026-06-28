@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-06-29T00:26:24+09:00",
+  "page": 73,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-06-29T00:15:55+09:00",
+      "country": "AR",
+      "country_ko": "아르헨티나",
+      "fallback_reason": "",
+      "id": "57a9d05565f7",
+      "image_url": "https://www.lavoz.com.ar/resizer/v2/D4UODLCEBRAWPKUXQAVEJA5PQA.jpg?width=630&quality=75&smart=true",
+      "lang_original": "es",
+      "lat": -31.4201,
+      "lon": -64.1888,
+      "processed_at": "2026-06-29T00:26:22+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "“Frida ¡Viva la vida!\" se llama este unipersonal basado en este personaje histórico del arte. La actriz habla sobre los desafíos de tamaña interpretación.",
+      "region": "Córdoba",
+      "source_name": "La Voz del Interior",
+      "source_type": "google",
+      "source_url": "https://www.lavoz.com.ar/espectaculos/escena/laura-azcurra-trae-a-frida-kahlo-a-cordoba-ella-es-rock-es-popu-es-absolutamente-transversal_0_WzoLpVViCY.html",
+      "summary_en": "The one-woman show 'Frida ¡Viva la vida!' comes to Cordoba. Actress Laura Azcurra talks about the challenges of playing the famous Mexican painter.",
+      "summary_ko": "원맨쇼 '프리다 비바 라 비다!'가 코르도바에서 공연된다. 배우 라우라 아스쿠르라는 유명 멕시코 화가를 연기하는 도전에 대해 이야기한다.",
+      "title_en": "Actress Laura Azcurra brings Frida Kahlo to Cordoba",
+      "title_ko": "라우라 아스쿠라가 코르도바에 프리다 칼로를 데려온다",
+      "title_original": "Entrevista. Laura Azcurra trae a Frida Kahlo a Córdoba: Ella es rock, es popu, es absolutamente transversal - La Voz del Interior",
+      "triviality_score": 3
+    }
+  ]
+}
