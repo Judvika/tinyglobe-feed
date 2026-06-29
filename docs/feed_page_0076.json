@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-29T22:22:13+09:00",
+  "built_at": "2026-06-30T00:23:14+09:00",
   "page": 76,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-06-29T20:02:51+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "메인주의 작은 마을 전체가 6백만 달러에 매물로 나왔습니다",
       "title_original": "You Can Buy an Entire Maine Village—Compete With Church—for $6 Million - Realtor.com",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-30T00:01:57+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "239d864a7ed3",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2024/06/watermarks-logo-AFP__20150701__DV2071173__v5__Preview.jpg@webp",
+      "lang_original": "en",
+      "lat": 42.5,
+      "lon": -2.5,
+      "processed_at": "2026-06-30T00:17:46+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Every June 29th, Spaniards in the winemaking region of La Rioja spend the day dousing each other in wine during 'la Batalla del Vino': the Battle of Wine.",
+      "region": "La Rioja",
+      "source_name": "The Local Spain",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.es/20240611/in-images-is-la-riojas-wine-battle-the-wildest-party-in-spain",
+      "summary_en": "Every June 29th, people in La Rioja, Spain throw wine at each other during the 'Batalla del Vino' festival. The event is a local tradition in the winemaking region where participants celebrate by drenching each other in wine.",
+      "summary_ko": "매년 6월 29일, 스페인 라 리오하 와인 산지에서는 '바탈라 델 비노'(와인 전투) 축제가 열린다. 참가자들은 서로에게 와인을 마구 들이부으며 이 지역 고유의 전통을 즐긴다.",
+      "title_en": "La Rioja's Wine Battle: locals cover each other in wine",
+      "title_ko": "라 리오하 '와인 전투', 현지인들 서로에게 와인 들이부으며 즐기는 축제",
+      "title_original": "IN IMAGES: Is La Rioja's Wine Battle the wildest party in Spain?",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-30T00:01:59+09:00",
+      "country": "IT",
+      "country_ko": "이탈리아",
+      "fallback_reason": "",
+      "id": "5d5a2d231209",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2023/01/watermarks-logo-Saldi-vetrine.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-30T00:17:55+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Italy's summer sales are about to start - here's what you need to know about the government-regulated period of discounts.",
+      "region": null,
+      "source_name": "The Local Italy",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.it/20260515/what-you-need-to-know-about-italys-2026-summer-sales",
+      "summary_en": "Italy's government-regulated summer sales season is about to begin. The discount period follows strict national rules on timing and pricing. Shoppers can expect official markdowns across the country.",
+      "summary_ko": "이탈리아 정부가 정한 여름 세일 기간이 곧 시작됩니다. 할인 시기와 가격 책정에 엄격한 전국 규정이 적용됩니다. 전국 매장에서 공식 할인을 기대할 수 있습니다.",
+      "title_en": "Italy's 2026 summer sales: what you need to know",
+      "title_ko": "2026년 이탈리아 여름 세일, 꼭 알아야 할 것",
+      "title_original": "What you need to know about Italy's 2026 summer sales",
+      "triviality_score": 3
     }
   ]
 }
