@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-06-29T16:22:46+09:00",
+  "page": 75,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-06-29T16:02:40+09:00",
+      "country": "JP",
+      "country_ko": "일본",
+      "fallback_reason": "",
+      "id": "23dc43b9d0b2",
+      "image_url": "https://www.sapporo.coop/assets/img/common/ogp.png",
+      "lang_original": "ja",
+      "lat": 42.8,
+      "lon": 140.8,
+      "processed_at": "2026-06-29T16:21:22+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "çæ´»ååçµåã³ã¼ããã£ã½ããåæµ·éå ã«100ä»¥ä¸ã®åºèãæ§ããå®å ¨ã»å®å¿ãªã³ã¼ãååãå® é ã·ã¹ãã ãããã¯ãã¯ãããå­è²ã¦ãç°å¢ãç¦ç¥ãªã©ãçµåå¡ããã®ããã®å¤å½©ãªäºæ¥­ãæ´»åããå±ããã¦ãã¾ããçµåå¡å å ¥ã¯Webããããæç¶ãããã ãã¾ãï¼",
+      "region": "Hokkaido",
+      "source_name": "生活協同組合コープさっぽろ",
+      "source_type": "google",
+      "source_url": "https://www.sapporo.coop/event-activity/hatake-de-restrauant/2026/5370.html",
+      "summary_en": "A farm in Makkari Village, Hokkaido turns into a restaurant for one day. Visitors can eat fresh vegetables right in the field. The event is part of the COOP Sapporo cooperative's local activities.",
+      "summary_ko": "홋카이도 마카리촌의 한 농장이 하루 동안 레스토랑으로 변신합니다. 방문객들은 밭에서 바로 신선한 채소를 맛볼 수 있습니다. 이 행사는 코프 삿포로 생활협동조합의 지역 활동의 일환입니다.",
+      "title_en": "September 6: Goto Farm in Makkari Village opens as a restaurant in the fields",
+      "title_ko": "9월 6일, 마카리촌 고토 농장이 밭에서 레스토랑을 엽니다",
+      "title_original": "9月6日 真狩村 ごとう農園｜畑でレストラン2026｜イベント・活動｜生活協同組合コープさっぽろ - 生活協同組合コープさっぽろ",
+      "triviality_score": 5
+    }
+  ]
+}
