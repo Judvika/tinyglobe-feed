@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-06-30T08:19:43+09:00",
+  "built_at": "2026-06-30T10:19:58+09:00",
   "page": 78,
   "page_size": 20,
-  "count": 8,
+  "count": 10,
   "items": [
     {
       "collected_at": "2026-06-30T06:07:27+09:00",
@@ -196,6 +196,54 @@
       "title_ko": "추카캅, 신설 원주민 위원회로 마야 대표성 강화",
       "title_original": "Tzucacab fortalece la representación del pueblo maya con nuevo Consejo Municipal Indígena - La Revista Peninsular",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-30T10:01:49+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "8656892c04a3",
+      "image_url": "https://th-i.thgim.com/public/incoming/o6dmua/article71164115.ece/alternates/LANDSCAPE_1200/_JAI8428.JPG",
+      "lang_original": "en",
+      "lat": 16.5062,
+      "lon": 80.648,
+      "processed_at": "2026-06-30T10:16:32+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Discover 'Coolphabets', an innovative app that simplifies language learning for children abroad through fun, engaging games.",
+      "region": "Vijayawada, Andhra Pradesh",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/cities/Vijayawada/master-your-mothertongue-the-coolphabets-way/article71158256.ece",
+      "summary_en": "After ten years of work, Kollu Ranjit and his friend Venkat built Coolphabets, an app that helps children learn languages through 45 fun games. The app works offline and uses AI to trace writing strokes and give scores. It is now available on iPhone and iPad in Telugu, Hindi, and Marathi.",
+      "summary_ko": "10년의 작업 끝에 콜루 란짓과 그의 친구 벤카트가 '쿨파벳' 앱을 만들었습니다. 이 앱은 45개의 재미있는 게임으로 아이들이 언어를 배울 수 있게 도와주며, 오프라인에서도 작동하고 AI가 글씨 획을 추적해 점수를 매겨줍니다. 현재 아이폰과 아이패드에서 텔루구어, 힌디어, 마라티어를 지원합니다.",
+      "title_en": "Vijayawada techie makes Coolphabets app to help children learn languages",
+      "title_ko": "비자야와다 출신 개발자, 어린이 언어 학습 앱 '쿨파벳' 출시",
+      "title_original": "Master your mother tongue, the ‘Coolphabets’ way",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-06-30T10:04:44+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "610baf3df5b3",
+      "image_url": "https://img.band.com.br/image/2026/06/29/nova-rotatoria-e-implantada-no-fanny-a-partir-desta-terca-feira-191530.jpg",
+      "lang_original": "pt",
+      "lat": -25.429,
+      "lon": -49.267,
+      "processed_at": "2026-06-30T10:19:58+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Intervenção da SMDT começa nesta terça, às 11h, para organizar o fluxo de veículos e ampliar a segurança de quem passa pela região",
+      "region": "Curitiba, Paraná",
+      "source_name": "band.com.br",
+      "source_type": "google",
+      "source_url": "https://www.band.com.br/band-parana/noticias/curitiba-tera-nova-rotatoria-em-cruzamento-no-bairro-fanny-202606291915",
+      "summary_en": "The Municipal Traffic Department starts work this Tuesday at 11 AM. The goal is to organize vehicle flow and make the area safer for everyone passing through.",
+      "summary_ko": "시 교통국이 화요일 오전 11시부터 공사에 들어간다. 차량 흐름을 정리하고 지역을 지나는 사람들의 안전을 높이기 위한 조치다.",
+      "title_en": "Curitiba will get a new roundabout at Fanny neighborhood crossing",
+      "title_ko": "쿠리치바 패니 지역 교차로에 새 로터리 생긴다",
+      "title_original": "Curitiba terá nova rotatória em cruzamento no bairro Fanny - band.com.br",
+      "triviality_score": 5
     }
   ]
 }
