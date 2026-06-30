@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-01T02:20:40+09:00",
+  "built_at": "2026-07-01T04:20:09+09:00",
   "page": 80,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-06-30T22:05:36+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "빈달셴타호 이야기 마당",
       "title_original": "Fortel­lerkveld om Bindals­jenta - banett.no",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-01T04:01:46+09:00",
+      "country": "MX",
+      "country_ko": "멕시코",
+      "fallback_reason": "",
+      "id": "cd5873d6cf12",
+      "image_url": "https://mexiconewsdaily.com/wp-content/uploads/2026/06/home-7.jpg",
+      "lang_original": "en",
+      "lat": 21.5395,
+      "lon": -105.2845,
+      "processed_at": "2026-07-01T04:14:50+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "It has been nearly 30 years since the Maná song \"En El Muelle de San Blas\" was released, yet its true story still has the power to surprise.",
+      "region": "Nayarit",
+      "source_name": "Mexico News Daily",
+      "source_type": "rss",
+      "source_url": "https://mexiconewsdaily.com/culture/the-real-story-behind-the-mana-song-en-el-muelle-de-san-blas/",
+      "summary_en": "A woman waited decades for her lover at the San Blas pier in Nayarit, Mexico. Her story inspired the famous Maná song. Nearly 30 years later, the true tale continues to surprise fans.",
+      "summary_ko": "멕시코 나야리트주 산블라스 부두에서 한 여인이 수년간 연인을 기다렸다. 그 사연이 유명한 마나의 노래에 영감을 주었다. 30년이 가까이 지난 지금도 이 실화는 팬들에게 새로움을 준다.",
+      "title_en": "The real story behind the Maná song 'En El Muelle de San Blas'",
+      "title_ko": "마나의 노래 '엔 엘 무에예 데 산 블라스'에 담긴 실화",
+      "title_original": "The real story behind the Maná song ‘En El Muelle de San Blas’",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-01T04:01:53+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "eeac69572d76",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "lang_original": "en",
+      "lat": 13.0827,
+      "lon": 80.2707,
+      "processed_at": "2026-07-01T04:15:12+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Hoteliers, bakers, tea shops, and wedding halls in Chennai urge government to reduce soaring commercial LPG prices.",
+      "region": "Chennai",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/cities/chennai/hoteliers-bakers-tea-shops-and-wedding-halls-seek-reduction-in-commercial-lpg-prices/article71162392.ece",
+      "summary_en": "Hoteliers, bakers, tea shops and wedding halls in Chennai are asking the government to lower the price of commercial LPG. They say the high cost is hurting their small businesses.",
+      "summary_ko": "첸나이의 호텔업자, 제빵사, 찻집, 결혼식장 업주들이 정부에 상업용 LPG 가격 인하를 요청하고 나섰다. 이들은 높은 가격으로 인해 영세 사업체가 큰 타격을 입고 있다고 호소한다.",
+      "title_en": "Chennai small businesses seek lower cooking gas prices",
+      "title_ko": "첸나이 소상공인, 상업용 LPG 가격 인하 요구",
+      "title_original": "Hoteliers, bakers, tea shops and wedding halls seek reduction in commercial LPG prices",
+      "triviality_score": 4
     }
   ]
 }
