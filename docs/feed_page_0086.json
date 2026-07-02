@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-02T08:21:55+09:00",
+  "built_at": "2026-07-02T10:20:36+09:00",
   "page": 86,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-02T04:03:39+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "헤시피, 바르제아 지역에 리모델링된 운동장 전달",
       "title_original": "Prefeitura do Recife entrega quadra requalificada na Várzea - Blog Cenário",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-02T10:03:08+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "c65c0919bab7",
+      "image_url": "https://imagens.ebc.com.br/383O71y9SWXGgoF6F1muG6Mxqoc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/962737-greve-onibus-9154.jpg?itok=9v9KVN1y",
+      "lang_original": "pt",
+      "lat": -22.9068,
+      "lon": -43.1729,
+      "processed_at": "2026-07-02T10:18:51+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Paralisação foi suspensa até a próxima segunda-feira (6), quando haverá nova rodada de negociação com patrões para decidir sobre reajuste para categoria.",
+      "region": "Rio de Janeiro",
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rodoviarios-do-rio-decidem-suspender-greve-e-onibus-voltam-circular",
+      "summary_en": "Bus drivers in Rio de Janeiro suspended their strike. Buses will run again until Monday (July 6) when new talks with employers begin. The negotiations will decide on salary adjustments for the category.",
+      "summary_ko": "리우데자네이루 버스 기사들이 파업을 중단했다. 월요일(7월 6일)까지 버스가 다시 운행되며, 이후 사용자 측과 새로운 협상이 시작된다. 이 협상에서 임금 조정 여부가 결정될 예정이다.",
+      "title_en": "Bus drivers in Rio suspend strike, buses return to streets",
+      "title_ko": "리우데자네이루 버스 기사들 파업 중단, 버스 운행 재개",
+      "title_original": "Rodoviários do Rio decidem suspender greve e ônibus voltam a circular",
+      "triviality_score": 3
     }
   ]
 }
