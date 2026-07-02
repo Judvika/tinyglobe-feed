@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-03T00:23:34+09:00",
+  "built_at": "2026-07-03T02:21:21+09:00",
   "page": 89,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-02T22:03:30+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "드라머 935 클래식 요트로 앤트워프 항해한 이야기",
       "title_original": "Sailing trip to Antwerp with my Drammer 935 Classic yacht - Team-BHP",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-03T02:01:47+09:00",
+      "country": "DE",
+      "country_ko": "독일",
+      "fallback_reason": "",
+      "id": "32572d1af727",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2024/04/watermarks-logo-415307506.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-03T02:16:34+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "With July 4th just around the corner, Americans all over Germany are making plants to celebrate Independence Day. Here's a look at where official events, and fireworks displays, can be found.",
+      "region": null,
+      "source_name": "The Local Germany",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.de/20260702/where-americans-in-germany-can-celebrate-independence-day",
+      "summary_en": "July 4th is coming soon. Americans across Germany are making plans for Independence Day. A guide shows where official events and fireworks displays can be found.",
+      "summary_ko": "7월 4일이 다가오면서 독일 전역에 거주하는 미국인들이 독립기념일을 계획하고 있다. 공식 행사와 불꽃놀이 장소를 확인할 수 있는 안내가 마련됐다.",
+      "title_en": "Where Americans in Germany can celebrate July 4th",
+      "title_ko": "독일 내 미국인들을 위한 독립기념일 행사 안내",
+      "title_original": "Where Americans in Germany can celebrate Independence Day",
+      "triviality_score": 3
     }
   ]
 }
