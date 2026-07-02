@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-02T10:20:36+09:00",
+  "built_at": "2026-07-02T12:20:28+09:00",
   "page": 87,
   "page_size": 20,
-  "count": 4,
+  "count": 5,
   "items": [
     {
       "collected_at": "2026-07-02T10:03:50+09:00",
@@ -100,6 +100,30 @@
       "title_ko": "고아 작은 마을 소녀에서 디지털 트렌드세터로",
       "title_original": "From small-town girl to digital trailblazer, how this influencer built a thriving brand online - The Goan",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-02T12:02:06+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "e7641028ab97",
+      "image_url": "https://imagens.ebc.com.br/NS237dgr-OdKlHQK2N3QTXfKPWc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rio_de_janeiro_2406219949_2.jpg?itok=ABG-d7bP",
+      "lang_original": "pt",
+      "lat": -22.9519,
+      "lon": -43.2105,
+      "processed_at": "2026-07-02T12:17:49+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A Petrobras e o Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) assinaram, nesta quarta-feira (1º), um acordo de cooperação ambiental para fortalecer a gestão do Parque Nacional da Tijuca, no Rio de Janeiro. Entre as principais medidas está a modernização do sistema de acesso ao Cristo Redentor, com a substituição das quatro escadas rolantes e a instalação de dois elevadores inclinados.",
+      "region": "Rio de Janeiro",
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/cristo-redentor-tera-novas-escadas-e-elevadores-de-acesso",
+      "summary_en": "Petrobras and ICMBio signed an environmental cooperation agreement to improve access to Christ the Redeemer in Rio de Janeiro. The plan includes replacing four escalators and installing two inclined elevators at the landmark.",
+      "summary_ko": "페트로브라스와 국립생물다양성보전연구소(ICMBio)가 리우데자네이루의 Cristo Redentor(예수상) 접근성 개선을 위한 환경 협력 협정을 체결했다. 주요 내용은 기존 에스컬레이터 4기를 교체하고 경사형 엘리베이터 2기를 설치하는 것이다.",
+      "title_en": "Christ the Redeemer to get new escalators and elevators",
+      "title_ko": "예수상, 새 에스컬레이터와 엘리베이터로 접근성 개선",
+      "title_original": "Cristo Redentor terá novas escadas e elevadores de acesso",
+      "triviality_score": 3
     }
   ]
 }
