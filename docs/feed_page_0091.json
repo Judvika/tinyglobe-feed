@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-03T08:21:00+09:00",
+  "page": 91,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-03T08:02:37+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "f983dc2b8262",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/17bbf2e9f78fb7f887da66761060f5f9?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=261&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -30.7489,
+      "lon": 121.4659,
+      "processed_at": "2026-07-03T08:19:04+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Kalgoorlie-Boulder's peak business group says the city's 30,000-strong population does not justify the development of another supermarket.",
+      "region": "Western Australia",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-07-03/kalgoorlie-boulder-residents-support-new-coles-rejection/106868696",
+      "summary_en": "A business group in Kalgoorlie-Boulder says the city does not need another supermarket. The city has 30,000 people. The regulator agreed six supermarkets are enough.",
+      "summary_ko": "칼굴리-볼더 지역 상공단체가 인구 3만 명의 도시에 추가 슈퍼마켓이 필요 없다고 주장했다. 호주 경쟁소비자위원회도 현재 6개 슈퍼마켓이 충분하다는 결정을 내렸다.",
+      "title_en": "Regulator says six supermarkets enough for Kalgoorlie",
+      "title_ko": "칼굴리, 슈퍼마켓 6개면 충분…규제기관 결정",
+      "title_original": "ACCC rules six supermarkets enough to service Kalgoorlie",
+      "triviality_score": 5
+    }
+  ]
+}
