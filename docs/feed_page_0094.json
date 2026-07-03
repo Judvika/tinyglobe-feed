@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-04T02:21:04+09:00",
+  "built_at": "2026-07-04T04:18:01+09:00",
   "page": 94,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-03T22:14:24+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "헤시피에서 무료 합동 결혼식 신청 시작",
       "title_original": "Defensoria Pública de Pernambuco abre inscrições para casamento coletivo no Recife - Blog do Alberto Alves",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-04T04:01:34+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "efa9cfa4b993",
+      "image_url": "https://imagens.ebc.com.br/nzfASjPoqC8WeGOCB0-F1yRlswc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc8423.jpg?itok=Bw3A2YRl",
+      "lang_original": "pt",
+      "lat": -22.9068,
+      "lon": -43.1729,
+      "processed_at": "2026-07-04T04:14:20+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Premiação reconhece bares, restaurantes e coletivos que unem gastronomia, memória, ancestralidade e geração de renda no Rio de Janeiro.",
+      "region": "Rio de Janeiro",
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/alerj-homenageia-espacos-de-afroturismo-com-diploma-abdias-nascimento",
+      "summary_en": "The Rio de Janeiro state legislature awarded the Abdias Nascimento Diploma to afrotourism venues. The prize recognizes bars, restaurants, and community groups that blend food, culture, heritage, and local income generation.",
+      "summary_ko": "리우데자네이루 주의회가 아프로투어리즘 공간 및 단체에 아브디아스 나시멘투 디플로마를 수여했습니다. 이 상은 음식, 문화, 전통, 소득 창출을 아우르는 바, 레스토랑과 공동체 단체를 기리는 상입니다.",
+      "title_en": "Rio legislature honors afrotourism spaces with Abdias Nascimento Diploma",
+      "title_ko": "리우 주의회, 아프로투어리즘 업소에 아브디아스 나시멘투 디플로마 수여",
+      "title_original": "Alerj homenageia espaços de afroturismo com Diploma Abdias Nascimento",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-04T04:01:34+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "a24813b9e4a3",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/08681def87f8cca5b3386c67593d8c9c?impolicy=wcms_watermark_news&cropH=554&cropW=984&xPos=0&yPos=40&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-04T04:14:28+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Each question in the ABC 50/50 quiz has only two options: one is right; the other is wrong. But there's a catch.",
+      "region": null,
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-07-04/abc-5050-quiz-july-4/106854710",
+      "summary_en": "The ABC 50/50 quiz gives you only two options for each question. One is right and the other is wrong, but there is a catch.",
+      "summary_ko": "ABC 50/50 퀴즈는 각 질문에 단 두 개의 선택지만 제시합니다. 하나는 정답이고 하나는 오답이지만, 함정이 숨어 있습니다.",
+      "title_en": "ABC 50/50 quiz: A July 4 special with an alien invasion, George III on TV and Taylor Swift",
+      "title_ko": "ABC 50/50 퀴즈: 외계인 침공, TV 속 조지 3세, 테일러 스위프트가 등장하는 7월 4일 특집",
+      "title_original": "ABC 5050 quiz: A July 4 special with an alien invasion, George III on TV and Taylor Swift",
+      "triviality_score": 4
     }
   ]
 }
