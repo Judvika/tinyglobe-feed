@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-03T14:21:13+09:00",
+  "built_at": "2026-07-03T16:23:57+09:00",
   "page": 91,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-03T08:02:37+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "1535년 건설, 브라질 식민지 최고 부촌이었던 도시: 헤시페에서 6km, 바로크 교회 20곳과 거대 인형의 고장",
       "title_original": "Fundada em 1535 como a vila mais rica do Brasil: a cidade nordestina que reúne 20 igrejas barrocas e bonecos gigantes a 6 km do Recife - Brasil 247",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-03T16:01:54+09:00",
+      "country": "DE",
+      "country_ko": "독일",
+      "fallback_reason": "",
+      "id": "de64cc4150bd",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-AFP__20260629__2283923437__v1__MidRes__GermanyVParaguayRoundOf32FifaWorldCup2026.jpg@webp",
+      "lang_original": "en",
+      "lat": 49.45,
+      "lon": 11.08,
+      "processed_at": "2026-07-03T16:17:28+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Germany team coach set to be replaced following World Cup failure, major public health insurance company criticises coalition's sick leave proposal, trams in Nuremberg and Leipzig remain disrupted after extreme heat and more news on Friday, July 3rd.",
+      "region": null,
+      "source_name": "The Local Germany",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.de/20260703/today-in-germany-a-roundup-of-the-latest-news-on-friday-129",
+      "summary_en": "Tram services in Nuremberg and Leipzig remain disrupted following extreme heat. The heat caused infrastructure damage affecting local transport. Repairs are ongoing as the region deals with the aftermath.",
+      "summary_ko": "뉘른베르크와 라이프치히에서 폭염 후 트램 운행이 계속 차질을 빚고 있다. 폭염으로 인프라가 손상돼 지역 대중교통이 영향을 받았다. 현재 복구 작업이 진행 중이다.",
+      "title_en": "Trams disrupted in Nuremberg and Leipzig after extreme heat",
+      "title_ko": "뉘른베르크와 라이프치히, 폭염 후 트램 운행 차질",
+      "title_original": "Today in Germany: A roundup of the latest news on Friday",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-03T16:02:00+09:00",
+      "country": "DK",
+      "country_ko": "덴마크",
+      "fallback_reason": "",
+      "id": "fc31c3f45d1a",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-20260702-152412-L-1920x1280web.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-03T16:18:12+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Greenland to tempt Danish nurses with bonuses and free housing, 600 sign up for meeting about 'caterpillar from hell' and autumnal weather expected this weekend. Here's Denmark's news on Friday.",
+      "region": null,
+      "source_name": "The Local Denmark",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.dk/20260703/today-in-denmark-a-roundup-of-the-latest-news-on-friday-51",
+      "summary_en": "Over 600 people have signed up for a local meeting about a pest called 'caterpillar from hell'. The event has drawn surprising interest across Denmark.",
+      "summary_ko": "덴마크의 한 지역 설명회에 '지옥에서 온 애벌레'라는 해충을 주제로 600명 넘는 사람들이 신청했습니다. 이 작은 지역 행사가 덴마크 안에서 예상 밖의 큰 관심을 받고 있습니다.",
+      "title_en": "Hundreds sign up for meeting about 'caterpillar from hell' in Denmark",
+      "title_ko": "덴마크 '지옥에서 온 애벌레' 설명회에 600명 신청",
+      "title_original": "Today in Denmark: A roundup of the latest news on Friday",
+      "triviality_score": 5
     }
   ]
 }
