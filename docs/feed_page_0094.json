@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-03T22:23:25+09:00",
+  "page": 94,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-03T22:14:24+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "c08461ff4500",
+      "image_url": "https://static.ffx.io/images/$zoom_0.2218%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_168%2C$y_354/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/0e117669b3ac67cd6ca9e9f7be1def70c4e1d32d4ca9378a429ef7215956ccb1",
+      "lang_original": "en",
+      "lat": -37.95,
+      "lon": 146.45,
+      "processed_at": "2026-07-03T22:23:24+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The gold rush-era Victorian town has just 17 full-time residents and is known colloquially among tourists as a “ghost town”, despite it being just a 2.5 hour drive from Melbourne.",
+      "region": "Victoria",
+      "source_name": "Nine.com.au",
+      "source_type": "google",
+      "source_url": "https://www.nine.com.au/australia-news/vic/walhalla-victoria-small-population-needs-more-residents-exclusive-20260630-p60bbo.html",
+      "summary_en": "Walhalla is a gold rush-era town in Victoria with only 17 full-time residents. Tourists call it a ghost town even though it is just 2.5 hours from Melbourne. The town becomes nearly empty every Monday when visitors leave.",
+      "summary_ko": "골드러시 시대에 번성했던 월할라는 빅토리아주에 있는 작은 마을로, 상시 거주자는 단 17명뿐이다. 멜버른에서 차로 2시간 30분 거리에 있음에도 관광객들 사이에서는 '유령 마을'로 불린다. 월요일이 되면 방문객들이 떠나면서 마을은 거의 텅 빈다.",
+      "title_en": "Tiny ghost town in Victoria only has 17 people left",
+      "title_ko": "빅토리아주의 작은 유령 마을, 주민 단 17명",
+      "title_original": "Tiny Victorian community turns into a ‘ghost town’ every Monday - Nine.com.au",
+      "triviality_score": 5
+    }
+  ]
+}
