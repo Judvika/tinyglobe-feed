@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-05T02:19:55+09:00",
+  "built_at": "2026-07-05T04:19:16+09:00",
   "page": 98,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-04T18:04:45+09:00",
@@ -459,6 +459,30 @@
       "title_en": "Former AIADMK leaders join TVK, meet Tamil Nadu Chief Minister Vijay",
       "title_ko": "AIADMK 출신 전직 장관·의원들, TVK 합류 후 타밀나두 주지사 Vijay와 첫 회동",
       "title_original": "Former Ministers, Ex-MLAs of AIADMK who joined TVK meet Chief Minister Vijay in Panaiyur",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-05T02:03:04+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "8c68832df921",
+      "image_url": "https://imagens.ebc.com.br/suh8A2I9RAs0b_9njoXw0Gp1J_Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/04/magali_moraes_e_val_benvindo.jpg?itok=ld_l7PUJ",
+      "lang_original": "pt",
+      "lat": -15.7939,
+      "lon": -47.8828,
+      "processed_at": "2026-07-05T04:15:13+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Presente no Festival Latinidades, em Brasília, espetáculo ironiza preconceitos.",
+      "region": "Brasília",
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/e-possivel-fazer-rir-e-incomodar-diz-atriz-do-humor-negro",
+      "summary_en": "A theater piece called 'Black Humor' is part of the Latinidades Festival in Brasília. The show uses comedy to challenge stereotypes. The actress says it is possible to make people laugh and feel uncomfortable.",
+      "summary_ko": "브라질리아에서 열리는 라티니다데스 축제에 '블랙 유머' 연극이 무대에 오른다. 이 공연은 코미디를 통해 고정관념에 도전한다. 출연 배우는 웃기면서도 불편함을 줄 수 있다고 말한다.",
+      "title_en": "Black Humor show at Brasília festival mocks prejudice",
+      "title_ko": "브라질리아 축제 '블랙 유머' 공연, 편견을 풍자하다",
+      "title_original": "É possível fazer rir e incomodar, diz atriz do projeto Humor Negro",
       "triviality_score": 3
     }
   ]
