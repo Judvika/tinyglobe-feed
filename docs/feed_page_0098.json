@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-04T18:20:20+09:00",
+  "page": 98,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-04T18:04:45+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "f416e5b54dec",
+      "image_url": "https://th-i.thgim.com/public/incoming/k53g9y/article71182244.ece/alternates/LANDSCAPE_1200/K.%20A.%20Thulasi_1.JPG",
+      "lang_original": "en",
+      "lat": 9.1,
+      "lon": 76.9,
+      "processed_at": "2026-07-04T18:20:20+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Minister K. A. Thulasi orders investigation into a tribal family's distress, highlighting bureaucratic negligence and urgent need for support.",
+      "region": "Kerala",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/kerala/kerala-minister-orders-probe-into-achencoil-tribal-familys-distress-local-st-promoter-removed/article71182061.ece",
+      "summary_en": "A minister in Kerala, India ordered an investigation into a tribal family's hardship. The case shows that government offices failed to help the family when they needed it most. A local tribal welfare officer was also removed from their post.",
+      "summary_ko": "케랄라 주 장관이 부족 가정의 어려움에 대한 조사를 지시했습니다. 이번 사건은 관료적 태만과 긴급한 지원 필요성을 드러냅니다. 현지 부족 복지 담당 공무원도 해임되었습니다.",
+      "title_en": "Kerala minister orders probe into tribal family's distress",
+      "title_ko": "케랄라 주 장관, 부족 가정 고충에 대한 조사 지시",
+      "title_original": "Kerala Minister orders probe into Achencoil tribal family’s distress; local ST promoter removed",
+      "triviality_score": 4
+    }
+  ]
+}
