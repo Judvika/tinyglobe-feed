@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-05T00:20:57+09:00",
+  "built_at": "2026-07-05T02:19:55+09:00",
   "page": 98,
   "page_size": 20,
-  "count": 17,
+  "count": 19,
   "items": [
     {
       "collected_at": "2026-07-04T18:04:45+09:00",
@@ -412,6 +412,54 @@
       "title_ko": "시티 걸스: 작은 마을 여성들의 도시 정착기를 그린 다큐멘터리",
       "title_original": "City Girls: An endearing documentary on small town women making it in the city - The News Minute",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-05T02:02:28+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "fallback_reason": "",
+      "id": "8b39aaa0216b",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2516x1415+0+1103/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5b%2Faa%2F7ad4fa2c46e78f26dd924f2a1440%2Fshisto-and-ladders-207281.jpg",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-05T02:18:02+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Spread by parasitic worms that can infect via a splash of water, schistosomiasis causes debilitating symptoms. It hits kids hard. A board game teaches how to prevent it.",
+      "region": null,
+      "source_name": "NPR News",
+      "source_type": "rss",
+      "source_url": "https://www.npr.org/2026/07/04/g-s1-129679/chutes-ladders-schistosomiasis-worms-parasites",
+      "summary_en": "Schisto & Ladders is a board game that teaches children how to prevent schistosomiasis. The disease is caused by parasitic worms that spread through water. The game turns prevention into a fun activity.",
+      "summary_ko": "Schisto & Ladders는 어린이들에게 주혈흡충증 예방법을 가르치는 보드게임이다. 이 질환은 물을 통해 퍼지는 기생충이 일으킨다. 게임은 예방 교육을 재미있는 활동으로 바꿔준다.",
+      "title_en": "Schisto & Ladders board game teaches kids to prevent parasitic worm disease",
+      "title_ko": "주혈흡충증 예방 보드게임 'Schisto & Ladders' 화제",
+      "title_original": "Move over Chutes & Ladders: Schisto & Ladders has educational value plus worms",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-05T02:03:07+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "6cdf44434fc7",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-05T02:18:44+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Former Ministers, Ex-MLAs of AIADMK who joined TVK meet Chief Minister Vijay for the first time in Panaiyur.",
+      "region": "Tamil Nadu",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/former-ministers-ex-mlas-of-aiadmk-who-joined-tvk-meet-chief-minister-vijay-in-panaiyur/article71182744.ece",
+      "summary_en": "Former ministers and ex-MLAs from the AIADMK party joined the TVK party and met Chief Minister Vijay for the first time in Panaiyur. This meeting shows a major change in Tamil Nadu state politics.",
+      "summary_ko": "AIADMK를 떠나 TVK에 합류한 전직 장관과 전직 주의회 의원들이 파나이유르에서 주지사 Vijay를 처음 만났다. 이 회동은 타밀나두 주 정치 지형의 큰 변화를 보여준다.",
+      "title_en": "Former AIADMK leaders join TVK, meet Tamil Nadu Chief Minister Vijay",
+      "title_ko": "AIADMK 출신 전직 장관·의원들, TVK 합류 후 타밀나두 주지사 Vijay와 첫 회동",
+      "title_original": "Former Ministers, Ex-MLAs of AIADMK who joined TVK meet Chief Minister Vijay in Panaiyur",
+      "triviality_score": 3
     }
   ]
 }
