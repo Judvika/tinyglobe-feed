@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-05T16:19:25+09:00",
+  "built_at": "2026-07-05T18:20:58+09:00",
   "page": 100,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-05T08:03:43+09:00",
@@ -459,6 +459,30 @@
       "title_en": "Bangladesh surfers chase Asian Games dream",
       "title_ko": "방글라데시 서퍼들, 아시안게임 꿈을 쫓다",
       "title_original": "Pipe dreams: Bangladesh surfers chase waves at Asian Games",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-05T18:01:49+09:00",
+      "country": "FR",
+      "country_ko": "프랑스",
+      "fallback_reason": "",
+      "id": "1c1abc8e6c2a",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-AFP__20260703__B98J8WM__v2__MidRes__TopshotFranceUsIndependenceAnniversaryMonument.jpg@webp",
+      "lang_original": "en",
+      "lat": 48.8584,
+      "lon": 2.2945,
+      "processed_at": "2026-07-05T18:17:25+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A man climbed the Eiffel Tower on Saturday and draped the US flag on Paris's emblematic landmark on the 250th anniversary of American independence, police said.",
+      "region": "Paris",
+      "source_name": "The Local France",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.fr/20260705/man-climbs-eiffel-tower-and-hangs-us-flag-on-americas-big-birthday",
+      "summary_en": "A man climbed the Eiffel Tower on Saturday and hung a US flag on the landmark. The act happened on the 250th anniversary of American independence. Police said they are investigating.",
+      "summary_ko": "한 남성이 토요일 에펠탑에 올라 미국 독립 250주년을 기념해 성조기를 걸었다. 경찰이 현재 조사 중이라고 밝혔다.",
+      "title_en": "Man climbs Eiffel Tower, hangs US flag on America's 250th birthday",
+      "title_ko": "에펠탑에 오른 남성, 미국 독립 250주년 맞아 성조기 게양",
+      "title_original": "Man climbs Eiffel Tower and hangs US flag on America's big birthday",
       "triviality_score": 4
     }
   ]
