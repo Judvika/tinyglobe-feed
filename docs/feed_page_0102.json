@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-06T04:19:40+09:00",
+  "built_at": "2026-07-06T06:18:58+09:00",
   "page": 102,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-06T00:01:50+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "파리야투카부 재활사업: 7월 16일까지 주택 기초공사 착수 예정",
       "title_original": "Pariyathukavu rehabilitation: foundation for houses likely by July 16",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-06T06:01:40+09:00",
+      "country": "CA",
+      "country_ko": "캐나다",
+      "fallback_reason": "",
+      "id": "7c96764cd741",
+      "image_url": "https://i.cbc.ca/ais/5604fe7f-d805-485a-a5fd-a9d381e5a5dd,1760122758813/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C341%2C6549%2C3683%29%3BResize%3D620",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-06T06:16:20+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Over 100 workers with Metro Vancouver's regional parks walked off the job on Sunday, with the union citing member frustration over lack of movement in talks with the district.",
+      "region": "British Columbia",
+      "source_name": "CBC Canada",
+      "source_type": "rss",
+      "source_url": "https://www.cbc.ca/news/canada/british-columbia/metro-vancouver-parks-strike-9.7259237",
+      "summary_en": "Over 100 workers who clean and maintain Metro Vancouver's regional parks walked off the job on Sunday. The union says members are frustrated because talks with the district are not moving forward.",
+      "summary_ko": "메트로 밴쿠버 지역 공원의 청소와 유지보수를 담당하는 100명 이상의 노동자들이 일요일 파업에 돌입했다. 노조는 지역 당국과의 교섭이 진전되지 않은 데 대한 조합원들의 불만이 파업 배경이라고 밝혔다.",
+      "title_en": "Metro Vancouver park workers go on strike",
+      "title_ko": "메트로 밴쿠버 공원 관리 노동자 파업 돌입",
+      "title_original": "Metro Vancouver workers responsible for cleaning, maintaining parks and trails walk off the job",
+      "triviality_score": 3
     }
   ]
 }
