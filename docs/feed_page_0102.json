@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-06T00:20:24+09:00",
+  "built_at": "2026-07-06T02:18:39+09:00",
   "page": 102,
   "page_size": 20,
-  "count": 11,
+  "count": 13,
   "items": [
     {
       "collected_at": "2026-07-06T00:01:50+09:00",
@@ -268,6 +268,54 @@
       "title_ko": "중세 그대로인 토스카나의 작은 성곽 마을",
       "title_original": "È la capitale del Medioevo e si trova in Italia, tutta da visitare - Esquire",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-06T02:01:47+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "bff5850b4219",
+      "image_url": "https://imagens.ebc.com.br/xUeLGhX5S8lHsNWbjYcYJv3UkK4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/05/concerto_da_rio_brass_band_na_igreja_sao_francisco_de_paula_no_centro_do_rio.jpg?itok=Nog-wHad",
+      "lang_original": "pt",
+      "lat": -22.9068,
+      "lon": -43.1729,
+      "processed_at": "2026-07-06T02:15:35+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Apresentação marca o quarto aniversário da Rio Brass Band, formada apenas por instrumentos de metais e percussão.",
+      "region": "Rio de Janeiro",
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/concerto-de-banda-em-igreja-no-rio-chama-atencao-para-encontro-mundial",
+      "summary_en": "A concert by Rio Brass Band marks the group's fourth anniversary at a church in Rio de Janeiro. The band uses only brass and percussion instruments.",
+      "summary_ko": "리우 브라스 밴드가 창단 4주년을 맞아 리우데자네이루의 한 교회에서 콘서트를 열었다. 이 밴드는 금관 악기와 타악기만으로 연주한다.",
+      "title_en": "Brass band concert in Rio church promotes world meeting",
+      "title_ko": "리우 교회에서 열린 브라스 밴드 콘서트, 세계 대회 홍보",
+      "title_original": "Concerto de banda em igreja no Rio chama atenção para encontro mundial",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-06T02:06:26+09:00",
+      "country": "FI",
+      "country_ko": "핀란드",
+      "fallback_reason": "",
+      "id": "d43ef63ed5c9",
+      "image_url": "https://img.ilcdn.fi/O4C8_fCXjqHyNQNla4WyEKJeOA8=/1200x630/top/filters:watermark(assets.ilcdn.fi/ilsome_v2.jpg,25,0,0)/img-s3.ilcdn.fi/3b0c5442b380fe7bba72f71a14850793fe86e2ce0b77b1a07f1ca629b647f67a.jpg",
+      "lang_original": "fi",
+      "lat": 64.26,
+      "lon": 23.95,
+      "processed_at": "2026-07-06T02:18:38+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Kalajoen kaupunki halusi huomioida asukkaitaan pienellÃ¤ joulutervehdyksellÃ¤. Kaupunginjohtajan mukaan kunta sai jÃ¤lleen hyvÃ¤n tilinpÃ¤Ã¤tÃ¶ksen.",
+      "region": "Kalajoki",
+      "source_name": "Iltalehti",
+      "source_type": "google",
+      "source_url": "https://www.iltalehti.fi/kotimaa/a/c3b0d952-57e7-4b64-ac1f-03ee17d24ea6",
+      "summary_en": "Kalajoki city wanted to give its residents a small Christmas greeting. The mayor says the municipality posted another good financial result. Every household will receive money as a gift.",
+      "summary_ko": "칼라요키 시가 주민들에게 작은 크리스마스 선물로 현금을 지급한다. 시장에 따르면 지자체는 또 한 번 좋은 재정 실적을 냈다. 모든 가정이 이 현금을 선물로 받게 된다.",
+      "title_en": "Small town gives cash gift to every home",
+      "title_ko": "작은 도시, 모든 가정에 현금 선물",
+      "title_original": "Pikkukaupunki antaa jokaiseen kotiin rahaa lahjaksi - Iltalehti",
+      "triviality_score": 5
     }
   ]
 }
