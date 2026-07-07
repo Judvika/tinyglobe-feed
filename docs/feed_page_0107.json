@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-07T08:19:40+09:00",
+  "built_at": "2026-07-07T10:20:44+09:00",
   "page": 107,
   "page_size": 20,
-  "count": 3,
+  "count": 5,
   "items": [
     {
       "collected_at": "2026-07-07T08:03:00+09:00",
@@ -76,6 +76,54 @@
       "title_ko": "몬트리올 인근 주택가에서 화물열차 46량 탈선…주민들 대피 소동",
       "title_original": "Repentigny, Que., residents shaken after train derailed just metres away from their homes",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-07T10:01:52+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "1e418810021b",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "lang_original": "en",
+      "lat": 32.73,
+      "lon": 74.87,
+      "processed_at": "2026-07-07T10:18:08+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Jammu police investigate Samagra Shiksha over a controversial book profiling separatist leaders, amid protests and official suspensions.",
+      "region": "Jammu and Kashmir",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/controversial-book-police-searchsamagra-shiksha-office-in-jammu/article71190677.ece",
+      "summary_en": "Police in Jammu raided the Samagra Shiksha office over a school book that profiles separatist leaders. Protests have broken out and officials have been suspended. The investigation continues.",
+      "summary_ko": "잠무 경찰이 분리주의 지도자를 소개한 논란의 교재와 관련해 사마그라 시크샤 사무실을 압수수색했다. 항의 시위가 벌어졌고 관련 공무원들은 직위 해제됐다. 수사는 진행 중이다.",
+      "title_en": "Police search education office in Jammu over controversial book",
+      "title_ko": "잠무 경찰, 논란의 교재 수사로 교육청 압수수색",
+      "title_original": "Controversial book: police search Samagra Shiksha office in Jammu",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-07T10:02:37+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "54cfb3510215",
+      "image_url": "https://th-i.thgim.com/public/incoming/mkahdq/article71191926.ece/alternates/LANDSCAPE_1200/Election15.jpg",
+      "lang_original": "en",
+      "lat": 18.35,
+      "lon": 81.92,
+      "processed_at": "2026-07-07T10:19:00+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Malkangiri leads Odisha with 27,653 voter deletions during the special intensive revision, raising concerns over electoral accuracy.",
+      "region": "Odisha",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/odisha/odisha-sir-malkangiri-records-27653-deletions-highest-in-the-state/article71189789.ece",
+      "summary_en": "Malkangiri district removed 27,653 voters from its rolls during a special revision drive, the highest in Odisha state. Officials say the clean-up targeted duplicate and deceased entries. Activists worry the deletions could affect electoral accuracy.",
+      "summary_ko": "말칸기리 지구가 특별 정밀 정리 작업에서 2만 7653명의 유권자를 명부에서 삭제해 오디샤 주에서 가장 많은 기록을 세웠다. 당국은 중복 등록과 사망자 명부 정리가 목적이라고 밝혔다. 시민단체는 이 삭제가 선거 정확성에 영향을 줄 수 있다고 우려한다.",
+      "title_en": "Malkangiri tops Odisha in voter deletions",
+      "title_ko": "말칸기리, 오디샤 주에서 유권자 삭제 1위",
+      "title_original": "Odisha SIR: Malkangiri records 27,653 deletions, highest in the State",
+      "triviality_score": 3
     }
   ]
 }
