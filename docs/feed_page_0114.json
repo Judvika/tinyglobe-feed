@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-08T22:26:58+09:00",
+  "page": 114,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-08T22:09:49+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "50b999c09a56",
+      "image_url": "https://www.cbnrecife.com/blogdoelielson/wp-content/uploads/2026/07/1200x_0.180731001783504789.jpeg",
+      "lang_original": "pt",
+      "lat": -8.05,
+      "lon": -34.93,
+      "processed_at": "2026-07-08T22:26:57+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Investimento de R$ 2,2 milhões da Prefeitura do Recife transformou uma das principais vias do bairro",
+      "region": "Pernambuco",
+      "source_name": "CBN Recife",
+      "source_type": "google",
+      "source_url": "https://www.cbnrecife.com/blogdoelielson/2026/07/08/prefeitura-do-recife-entrega-nova-drenagem-e-pavimentacao-a-rua-odilon-araujo-na-iputinga/",
+      "summary_en": "Recife city hall invested R$ 2.2 million to transform one of the main streets in the Iputinga neighborhood. The project includes new drainage and paving for Rua Odilon Araújo. This improves local infrastructure for residents.",
+      "summary_ko": "헤시피 시청이 220만 헤알을 투자해 이푸팅가 지역의 주요 도로 중 하나인 오딜론 아라우주 거리에 새 배수로와 포장 공사를 완료했다. 이 공사로 지역 주민들의 기반 시설이 개선될 전망이다.",
+      "title_en": "New drainage and paving delivered to Odilon Araújo Street in Iputinga",
+      "title_ko": "이푸팅가 오딜론 아라우주 거리, 새 배수로와 포장 공사 완료",
+      "title_original": "Prefeitura do Recife entrega nova drenagem e pavimentação à Rua Odilon Araújo, na Iputinga - CBN Recife",
+      "triviality_score": 5
+    }
+  ]
+}
