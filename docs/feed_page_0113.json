@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-08T18:23:43+09:00",
+  "page": 113,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-08T18:04:56+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "eafc1f34a004",
+      "image_url": "https://th-i.thgim.com/public/incoming/r42gy0/article71195264.ece/alternates/LANDSCAPE_1200/Mango_Totapuri3.JPG",
+      "lang_original": "en",
+      "lat": 15.3,
+      "lon": 75.7,
+      "processed_at": "2026-07-08T18:23:32+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Totapuri mango prices plummet to ₹3 per kg in APMC mandis due to massive oversupply and low juice factory demand, leaving Karnataka growers in severe distress.",
+      "region": "Karnataka",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/totapuri-mango-farmers-slip-further-into-distress-as-price-crash-continues/article71193640.ece",
+      "summary_en": "Totapuri mango prices have crashed to ₹3 per kg in APMC wholesale markets due to massive oversupply and weak demand from juice factories. The price collapse is causing severe distress for growers across Karnataka.",
+      "summary_ko": "카르나타카주 APMC 도매시장에서 토타푸리 망고 가격이 kg당 3루피까지 폭락했다. 대규모 공급 과잉과 주스 공장의 수요 부진으로 농민들이 심각한 어려움을 겪고 있다.",
+      "title_en": "Totapuri mango price crash leaves Karnataka farmers in distress",
+      "title_ko": "토타푸리 망고 가격 폭락에 카르나타카 농민들 시름",
+      "title_original": "Totapuri mango farmers slip further into distress as price crash continues",
+      "triviality_score": 4
+    }
+  ]
+}
