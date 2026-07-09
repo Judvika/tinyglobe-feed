@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-09T08:19:49+09:00",
+  "built_at": "2026-07-09T10:20:02+09:00",
   "page": 115,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-09T04:03:44+09:00",
@@ -459,6 +459,30 @@
       "title_en": "Four stories show a changing Puerto Vallarta",
       "title_ko": "푸에르토바야르타의 변화를 보여주는 네 가지 이야기",
       "title_original": "MND Local: 4 stories that reveal a changing Puerto Vallarta",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-09T10:01:48+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "ddf6024af0cf",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/32734eaa3a2a49b28fad8400292e92a5?impolicy=wcms_watermark_news&cropH=2412&cropW=4288&xPos=0&yPos=218&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-09T10:16:20+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A Western Australian gold miner has been hit with a fine of more than $100,000 for failing to protect a vulnerable bat species.",
+      "region": "Western Australia",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-07-09/gold-miner-warrawoona-fined-record-sum-over-threatened-bat/106879812",
+      "summary_en": "A gold miner in Western Australia was fined over $100,000 for failing to protect a vulnerable bat species. The fine is a record for bat habitat protection offenses in the state.",
+      "summary_ko": "서호주의 한 금광 업체가 취약한 박쥐 종을 보호하지 않아 10만 달러가 넘는 벌금을 부과받았다. 이는 박쥐 서식지 보호와 관련된 역대 최고 벌금이다.",
+      "title_en": "Record fine for gold miner over tiny bat",
+      "title_ko": "금광 업체, 작은 박쥐 보호 소홀로 기록적 벌금",
+      "title_original": "Record fine for gold miner thrusts tiny bat into spotlight",
       "triviality_score": 4
     }
   ]
