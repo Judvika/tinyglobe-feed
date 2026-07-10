@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-10T22:29:32+09:00",
+  "built_at": "2026-07-11T00:23:23+09:00",
   "page": 123,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-10T20:04:59+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "마셜 대학생, 스웨덴 웁살라 선교 여행 경험 공유",
       "title_original": "Marshall student takes mission trip to Uppsala, Sweden - marshallparthenon.com",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-10T22:02:11+09:00",
+      "country": "NL",
+      "country_ko": "네덜란드",
+      "fallback_reason": "",
+      "id": "8fc880c973c6",
+      "image_url": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2026/07/DutchNews1-e1783526171147.jpg",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-11T00:15:46+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "In the Netherlands it is customary to have your teeth checked by a dentist once a year and cleaned professionally once or twice, although much depends on the condition of your teeth. Do dentists all charge different prices? Are children’s check-ups really free? And is dental insurance worth it? Here are seven dental myths debunked with help from Lassus Tandartsen. Dental practices in the Netherlands are run by the state. Not true. Almost every dental practice in the Netherlands is...",
+      "region": null,
+      "source_name": "DutchNews.nl",
+      "source_type": "rss",
+      "source_url": "https://www.dutchnews.nl/2026/07/debunking-dutch-dental-myths-some-common-misunderstandings/",
+      "summary_en": "A Dutch dentist explains seven common misunderstandings about dental care in the Netherlands. Dental practices are not run by the state, and prices and insurance rules vary. The article covers checkups, cleaning, children's care, and insurance costs.",
+      "summary_ko": "네덜란드 치과 진료에 대한 일곱 가지 흔한 오해를 치과 전문가의 도움으로 풀어냈다. 치과가 국영이라는 말은 사실이 아니며, 가격과 보험 조건은 치과마다 다르다. 정기 검진, 스케일링, 아동 진료, 보험 혜택 등을 실제 사례와 함께 설명한다.",
+      "title_en": "Seven common Dutch dental myths debunked",
+      "title_ko": "네덜란드 치과에 대한 일곱 가지 오해",
+      "title_original": "Debunking Dutch dental myths: some common misunderstandings",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-11T00:02:11+09:00",
+      "country": "NL",
+      "country_ko": "네덜란드",
+      "fallback_reason": "",
+      "id": "99891ccfc7ad",
+      "image_url": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2026/07/Nightclub.jpg",
+      "lang_original": "en",
+      "lat": 52.1326,
+      "lon": 5.2913,
+      "processed_at": "2026-07-11T00:17:14+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "More than half of the Netherlands’ subsidised pop music venues (poppodia) ended 2025 with financial losses after a steep fall in club-night audiences dragged down overall attendance, the sector’s trade body has said. Visits to the 55 venues surveyed fell almost 5% from 2024 to just over 6.4 million, the Association of Dutch Music Venues and Festivals (VNPF) said in its latest annual figures, though attendance remained 3% above 2023. Club nights drove the drop, with visits down 14% in...",
+      "region": null,
+      "source_name": "DutchNews.nl",
+      "source_type": "rss",
+      "source_url": "https://www.dutchnews.nl/2026/07/more-than-half-of-dutch-music-venues-lost-money-in-2025/",
+      "summary_en": "More than half of the Netherlands' subsidised music venues lost money last year. A steep drop in club-night audiences pushed overall attendance down by 5 percent. The industry group said visits fell to 6.4 million across 55 venues.",
+      "summary_ko": "네덜란드 보조금 지원 음악 공연장 중 절반 이상이 지난해 적자를 기록했습니다. 클럽之夜 관객 급감으로 전체 관람객이 5% 감소했습니다. 업계 단체에 따르면 55개 공연장의 관람객은 640만 명으로 떨어졌습니다.",
+      "title_en": "Dutch Music Venues Struggle with Financial Losses in 2025",
+      "title_ko": "네덜란드 소규모 음악 공연장, 2025년 금전적 손실 기록",
+      "title_original": "More than half of Dutch music venues lost money in 2025",
+      "triviality_score": 3
     }
   ]
 }
