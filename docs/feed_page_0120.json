@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-10T10:20:15+09:00",
+  "built_at": "2026-07-10T12:04:34+09:00",
   "page": 120,
   "page_size": 20,
-  "count": 13,
+  "count": 14,
   "items": [
     {
       "collected_at": "2026-07-10T06:03:40+09:00",
@@ -316,6 +316,30 @@
       "title_ko": "레시피 주민들, BR-101 도로에서 재차 시위 벌여 정부 지원 요구",
       "title_original": "Moradores fazem novo protesto na BR-101, no Recife, e cobram auxílio do governo - Diario de Pernambuco",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-10T12:01:09+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "c489057a2aa8",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/0f2885541e5403d5e2dfbaafdbb95442?impolicy=wcms_watermark_news&cropH=924&cropW=1643&xPos=0&yPos=1&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -31.9505,
+      "lon": 115.8605,
+      "processed_at": "2026-07-10T12:02:59+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Perth boy Thomas Aldworth has been welcomed as an official helper by the City of Perth waste management team and he even has his own uniform.",
+      "region": "Perth, Western Australia",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-07-10/six-year-old-perth-boy-in-love-with-garbage-trucks-helps-council/106897322",
+      "summary_en": "Thomas Aldworth, a six-year-old boy from Perth, was welcomed as an official helper by the City of Perth waste management team. He loves garbage trucks and even has his own uniform.",
+      "summary_ko": "쓰레기 트럭을 좋아하는 여섯 살 퍼스 소년 토머스 알드워스가 퍼스시 청소팀의 공식 도우미로 환영받았다. 소년은 자신만의 유니폼까지 받았다.",
+      "title_en": "Six-year-old boy becomes official garbage truck helper in Perth",
+      "title_ko": "여섯 살 소년, 쓰레기 트럭 사랑으로 퍼스시 공식 도우미 됐다",
+      "title_original": "Six-year-old's love for garbage trucks earns him 'work' on bin rounds",
+      "triviality_score": 5
     }
   ]
 }
