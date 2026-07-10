@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-11T04:19:33+09:00",
+  "page": 125,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-11T04:09:31+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "0b5945f9e106",
+      "image_url": "https://www.cbnrecife.com/wp-content/uploads/2026/07/recnplay-1-_1_-1.png",
+      "lang_original": "pt",
+      "lat": -8.065,
+      "lon": -34.871,
+      "processed_at": "2026-07-11T04:19:33+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "O REC'n'Play tem como tema, em 2026, \"O futuro nasce aqui\"",
+      "region": "Pernambuco",
+      "source_name": "CBN Recife",
+      "source_type": "google",
+      "source_url": "https://www.cbnrecife.com/2026/07/10/recnplay-abre-inscricoes-festival-ocorre-de-11-a-14-de-novembro-no-bairro-do-recife/",
+      "summary_en": "REC'n'Play, a free annual technology and creativity festival, has opened registrations for its 8th edition. The event will take place November 11 to 14 in Bairro do Recife, a historic neighborhood in central Recife, Brazil. Last year the festival drew over 80,000 registrations across more than 1,000 activities.",
+      "summary_ko": "레시페 브라질 주의 레시페에서 매년 열리는 기술·창의력 축제 REC'n'Play가 제8회 대회 무료 참가 접수를 시작했다. 이번 축제는 11월 11일부터 14일까지 레시페 시내 레시페 동(Bairro do Recife)에서 개최된다. 지난해에는 1,000개가 넘는 프로그램에 8만 명 이상이 등록했다.",
+      "title_en": "Recife Neighborhood Tech Festival Opens Free Registration",
+      "title_ko": "레시페 기술 축제, 무료 참가 접수 시작",
+      "title_original": "REC’n’Play abre inscrições; festival ocorre de 11 a 14 de novembro no Bairro do Recife - CBN Recife",
+      "triviality_score": 4
+    }
+  ]
+}
