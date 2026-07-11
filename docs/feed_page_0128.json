@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-11T20:20:43+09:00",
+  "page": 128,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-11T20:12:24+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "b2dea950ef53",
+      "image_url": "https://images.mid-day.com/images/images/2026/jul/At-what-coast-a-1783734959323_d.png",
+      "lang_original": "en",
+      "lat": 15.5833,
+      "lon": 73.8667,
+      "processed_at": "2026-07-11T20:20:43+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A Goa-based collective’s effort to save the mangroves in their home state through art will resonate with environmentally-conscious, nature-loving Mumbaikars",
+      "region": "Goa",
+      "source_name": "Mid-day",
+      "source_type": "google",
+      "source_url": "https://www.mid-day.com/mumbai-guide/things-to-do/article/goas-aldona-village-from-mangrove-ecosystem-to-luxury-real-estate-hotspot-23639254",
+      "summary_en": "A group of artists in Aldona, a small village in North Goa, are using art to remind people about the mangrove ecosystems threatened by luxury real estate development. The collective wants urban citizens to reconnect with the natural world before it is too late. Their work highlights how gentrification is pushing out the very ecosystems that once defined the village.",
+      "summary_ko": "인도 북고아 알도나 마을의 예술가들이 럭셔리 부동산 개발에 위협받는 맹그로브 생태계를 예술로 알리기 위해 활동하고 있다. 이 단체는 도시 시민들이 자연과 다시 연결되어야 한다고 강조하며, 마을을 지탱하던 생태계가 사라지기 전에 관심을 가져달라고 호소하고 있다.",
+      "title_en": "Aldona Village Artists Fight to Save Goa's Mangroves from Luxury Real Estate",
+      "title_ko": "고아주 알도나 마을 예술가들, 럭셔리 부동산에 밀려나는 맹그로브를 예술로 지키다",
+      "title_original": "Goa’s Aldona village: From mangrove ecosystem to luxury real estate hotspot - Mid-day",
+      "triviality_score": 5
+    }
+  ]
+}
