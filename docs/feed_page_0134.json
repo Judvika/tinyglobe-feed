@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-13T08:20:41+09:00",
+  "page": 134,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-13T08:12:04+09:00",
+      "country": "FI",
+      "country_ko": "핀란드",
+      "fallback_reason": "",
+      "id": "0eb53ae27217",
+      "image_url": "https://image.seiska.fi/319215.webp?imageId=319215&width=1200&height=630&x=0&y=0&cropw=100&croph=100&&compression=100",
+      "lang_original": "fi",
+      "lat": 68.0,
+      "lon": 26.0,
+      "processed_at": "2026-07-13T08:20:40+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Entinen vapaaottelija vetäytyi luonnonhelmaan.",
+      "region": "Lapland",
+      "source_name": "Seiska.fi",
+      "source_type": "google",
+      "source_url": "https://www.seiska.fi/kotimaa/teemu-packalen-avautuu-ikimuistoisesta-reissustaan/1135105",
+      "summary_en": "Former MMA fighter Teemu Packalén completed a 10-day hiking trip from Turku through Finnish and Norwegian Lapland just months after neck surgery. He traveled with friends through Kilpisjärvi, Lyngen, and Tromsø, enjoying stunning autumn colors and challenging terrain. Packalén called the northern adventure unforgettable and praised the wild camping spots along the route.",
+      "summary_ko": "전 MMA 파이터 테무 파칼렌이 목 수술 직후 10일간 핀란드와 노르웨이 라플란드를 횡단하는 하이킹 여행을 완주했다. 친구들과 함께 킬피스յ르비, 린겐, 트롬쇠를 거치며 가을 단풍과 험한 지형을 경험했다. 파칼렌은 북쪽 모험이 잊을 수 없는 여행이었으며 야영 스팟들이 훌륭했다고 전했다.",
+      "title_en": "Finnish ex-MMA fighter shares unforgettable hiking trip through Lapland and Norway",
+      "title_ko": "핀란드 전 MMA 파이터, 라플란드와 노르웨이 10일 하이킹 여행기 공개",
+      "title_original": "Teemu Packalén avautuu ikimuistoisesta reissustaan - Seiska.fi",
+      "triviality_score": 4
+    }
+  ]
+}
