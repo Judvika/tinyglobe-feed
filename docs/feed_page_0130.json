@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-12T10:20:23+09:00",
+  "built_at": "2026-07-12T12:21:23+09:00",
   "page": 130,
   "page_size": 20,
-  "count": 16,
+  "count": 17,
   "items": [
     {
       "collected_at": "2026-07-12T08:01:41+09:00",
@@ -388,6 +388,30 @@
       "title_ko": "테일러 스위프트 결혼식장 밖 버려진 물건을 기념품으로 사는 팬들",
       "title_original": "A lost AirPod, AI fakes and the secret garden: How fans experienced Taylor Swift's private wedding",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-12T12:08:34+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "2646e2779ab4",
+      "image_url": "https://www.infobae.com/resizer/v2/XEDYOQQEMNACDKMQOUXOKLPOTE.jpg?auth=a733ce56a8f34210a1067c3804314b3509cd5136d1f63ce0e52ca09bd5236644&smart=true&width=1200&height=630&quality=85",
+      "lang_original": "es",
+      "lat": 41.76,
+      "lon": -2.47,
+      "processed_at": "2026-07-12T12:20:52+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "La Lobita, en el pequeño pueblo de Navaleno, se mantiene como el único restaurante con estrella de la provincia soriana",
+      "region": "Soria",
+      "source_name": "Infobae",
+      "source_type": "google",
+      "source_url": "https://www.infobae.com/espana/2025/11/06/la-ciudad-de-soria-pierde-su-unica-estrella-michelin-el-chef-oscar-garcia-cierra-baluarte-para-abrir-una-casa-de-comidas-en-la-montana/",
+      "summary_en": "Chef Oscar Garcia closes Baluarte, a Michelin-starred restaurant in Soria. He will open a new dining house in the mountains. La Lobita in Navaleno remains the only starred restaurant in the province.",
+      "summary_ko": "오스카르 가르시아 셰프가 소리아의 미쉐린 별 레스토랑 발루아르테를 폐업한다. 그는 산속에 새로운 식당을 열 계획이다. 나발레노의 라 로비타는 지역 내 유일한 별 레스토랑으로 남게 된다.",
+      "title_en": "Soria's Only Michelin Star Restaurant Closes as Chef Moves to Mountains",
+      "title_ko": "소리아의 유일한 미쉐린 별 레스토랑 폐업, 셰프는 산속으로 이동",
+      "title_original": "La ciudad de Soria pierde su única estrella Michelin: el chef Óscar García cierra Baluarte para abrir una “casa de comidas” en la montaña - Infobae",
+      "triviality_score": 4
     }
   ]
 }
