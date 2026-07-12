@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-12T14:19:58+09:00",
+  "page": 131,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-12T14:03:03+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "9c682c6b448c",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/f8d689b1a8bded8b78ba9172e734845d?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=3&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -33.8688,
+      "lon": 151.2093,
+      "processed_at": "2026-07-12T14:19:26+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The NRL is holding the \"World's Biggest Birthday Party\" for Jai Arrow as the South Sydney Rabbitohs host the Newcastle Knights in Sydney. Follow live.",
+      "region": "New South Wales",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-07-12/nrl-live-updates-round-19-jai-arrow-birthday/106903602",
+      "summary_en": "The NRL is celebrating Jai Arrow's birthday at a match in Sydney. The South Sydney Rabbitohs are hosting the Newcastle Knights. Arrow plays for the Rabbitohs.",
+      "summary_ko": "NRL이 시드니 경기장에서 제이 애로우의 생일을 축하하고 있다. 사우스 시드니 래빗오즈가 뉴캐슬 나이츠를 홈에서 맞이했다. 애로우는 래빗오즈 소속 선수로, 팀 동료들과 팬들이 함께 생일을 기념하고 있다.",
+      "title_en": "'World's Biggest Birthday Party' at Sydney NRL Match",
+      "title_ko": "시드니 NRL 경기장에서 '세계 최대 생일 파티' 열려",
+      "title_original": "Live: 'World's Biggest Birthday Party' for Arrow, Bunker denies Knights twice",
+      "triviality_score": 3
+    }
+  ]
+}
