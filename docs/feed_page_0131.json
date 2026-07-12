@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-12T20:18:47+09:00",
+  "built_at": "2026-07-12T22:19:45+09:00",
   "page": 131,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-12T14:03:03+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "텍사스 대학 캠퍼스에서 '아이스 팝' 전시한 예술가, 며칠 만에 전시 중단",
       "title_original": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-12T22:01:52+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "726f9f0cd734",
+      "image_url": "https://imagens.ebc.com.br/IK4ptmIjdZzcdkuBD_4QF5GS52k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/10/_raf7842.jpg?itok=IMaSTcIl",
+      "lang_original": "pt",
+      "lat": -10.9091,
+      "lon": -37.0677,
+      "processed_at": "2026-07-12T22:16:51+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Consideradas guardiãs da biodiversidade na região, mulheres que vivem da coleta e do manejo do fruto dependem da proteção de seus territórios para manter autonomia econômica e social.",
+      "region": "Sergipe",
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/catadoras-de-mangaba-resistem-especulacao-imobiliaria-em-aracaju",
+      "summary_en": "Women who collect and manage mangaba fruit in Aracaju are fighting to protect their territories from real estate speculation. Considered guardians of the region's biodiversity, these harvesters depend on their land to maintain economic and social independence.",
+      "summary_ko": "아라카주에서 망가바 열매를 수집·관리하며 살아가는 여성들이 부동산 투기로부터 자신들의 영역을 지키고 있다. 지역 생태계의 수호자로 불리는 이 수집원들은 경제적·사회적 자율성을 유지하기 위해선 땅 보호가 필수적이다.",
+      "title_en": "Mangaba Fruit Harvesters Fight Real Estate Speculation in Aracaju",
+      "title_ko": "아라카주 망가바 수집원들, 부동산 투기에 맞서다",
+      "title_original": "Catadoras de mangaba resistem à especulação imobiliária em Aracaju",
+      "triviality_score": 5
     }
   ]
 }
