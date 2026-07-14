@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-14T08:21:02+09:00",
+  "built_at": "2026-07-14T10:22:58+09:00",
   "page": 138,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-14T04:03:05+09:00",
@@ -459,6 +459,30 @@
       "title_en": "Singaporeans working in Malaysia weigh the trade-offs of cross-border commutes",
       "title_ko": "말레이시아 출퇴근 싱가포르인, 장단점 속 고민",
       "title_original": "Singaporeans working across Causeway speak of trade-offs - after Malaysia minister suggests growing numbers",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-14T10:01:56+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "5518bd996f45",
+      "image_url": "https://th-i.thgim.com/public/incoming/47rl4t/article71219050.ece/alternates/LANDSCAPE_1200/20260713285L.jpg",
+      "lang_original": "en",
+      "lat": 22.3,
+      "lon": 73.2,
+      "processed_at": "2026-07-14T10:18:56+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "BJP and Congress clash in Manjalpur bypoll nominations, highlighting governance issues and differing visions for the constituency.",
+      "region": "Gujarat",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/gujarat/bjp-congress-file-nominations-for-manjalpur-bypoll-trade-barbs-over-governance/article71217606.ece",
+      "summary_en": "BJP and Congress have filed nominations for the Manjalpur by-election in Gujarat, India. The two parties traded insults over local governance issues. Each party presented different plans for the constituency's future.",
+      "summary_ko": "BJP와 Congress가 인도 구자라트주 마ܢjalプル 보궐선거에 후보를 등록했습니다. 두 정당은 지역✑정 이슈를 놓고 서로 비난을 주고받았으며, 각각 선거구 미래에 대한 서로 다른 비전을 제시했습니다.",
+      "title_en": "BJP and Congress File Nominations for Gujarat By-Election",
+      "title_ko": "BJP와 Congress, 구자라트 보궐선거 후보 등록",
+      "title_original": "BJP, Congress file nominations for Manjalpur bypoll, trade barbs over governance",
       "triviality_score": 3
     }
   ]
