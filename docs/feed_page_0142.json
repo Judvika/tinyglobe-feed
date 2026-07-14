@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-14T22:25:35+09:00",
+  "page": 142,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-14T22:04:53+09:00",
+      "country": "CA",
+      "country_ko": "캐나다",
+      "fallback_reason": "",
+      "id": "02f0e4114325",
+      "image_url": "https://i.cbc.ca/ais/ff4d3ba4-b432-4481-b295-f0ea6c17714b,1783990937529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "lang_original": "en",
+      "lat": 49.0844,
+      "lon": -123.0585,
+      "processed_at": "2026-07-14T22:25:20+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Delta police said Monday they had arrested an employee of the business on July 7, who was subsequently released on conditions \"pending further investigation.\"",
+      "region": "British Columbia",
+      "source_name": "CBC Canada",
+      "source_type": "rss",
+      "source_url": "https://www.cbc.ca/news/canada/british-columbia/delta-police-investigate-alleged-fedex-staff-washroom-voyeurism-9.7268743",
+      "summary_en": "Delta police in British Columbia are investigating alleged voyeurism at a FedEx facility. An employee was arrested on July 7 and released pending further investigation.",
+      "summary_ko": "브리티시컬럼비아주의 델타 경찰은 페덱스 시설 직원 탈의실에서 발생한 몰카 촬영 혐의를 수사 중입니다. 한 직원이 7월 7일 체포되었다가 추가 조사를 위해 조건부로 석방되었습니다.",
+      "title_en": "Delta police investigate voyeurism in FedEx staff washroom",
+      "title_ko": "델타 경찰, 페덱스 직원 탈의실 몰카 혐의 수사",
+      "title_original": "Delta police investigate alleged voyeurism in FedEx staff washroom",
+      "triviality_score": 4
+    }
+  ]
+}
