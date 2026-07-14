@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-15T06:20:18+09:00",
+  "page": 144,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-15T06:07:18+09:00",
+      "country": "FI",
+      "country_ko": "핀란드",
+      "fallback_reason": "",
+      "id": "13468e0a4b12",
+      "image_url": "https://images.sanoma-sndp.fi/19de8f4fa99f4114bc0ad5987e8fd4d6.jpg/some/hs-default.jpg",
+      "lang_original": "fi",
+      "lat": 60.1699,
+      "lon": 24.9384,
+      "processed_at": "2026-07-15T06:20:17+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Pääkaupungin pinta-ala kuusinkertaistui vuoden 1946 alueliitoksilla",
+      "region": "Uusimaa",
+      "source_name": "HS.fi",
+      "source_type": "google",
+      "source_url": "https://www.hs.fi/pkseutu/art-2000002723847.html",
+      "summary_en": "A book review explores how Helsinki grew sixfold through 1946 territorial annexations and built strong municipal land ownership. The city now owns 65 percent of its administrative area, with property value twice that of all other Finnish municipalities combined.",
+      "summary_ko": "새 책은 1946년 편입으로 면적이 6배로 커진 헬싱키가 어떻게 공공 토지 소유를 강화했는지 조명한다. 현재 시가 전체 행정 면적의 65%를 소유하고 있으며, 그 가치는 핀란드 다른 지자체 전체를 합친 것의 두 배에 달한다.",
+      "title_en": "Helsinki Gained Control of Its Land Through Rural Shop History",
+      "title_ko": "헬싱키, 마을 상점 역사를 통해 땅의 주권 되찾아",
+      "title_original": "Helsinki pääsi maakaupoilla herraksi talossaan - HS.fi",
+      "triviality_score": 3
+    }
+  ]
+}
