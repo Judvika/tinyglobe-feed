@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-15T22:27:30+09:00",
+  "built_at": "2026-07-16T00:29:38+09:00",
   "page": 147,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-15T20:03:25+09:00",
@@ -459,6 +459,30 @@
       "title_en": "Petition launched to save Rutland sea dragon display plan",
       "title_ko": "러틀랜드 바다 용 화석 전시 구 Saving 청원 시작",
       "title_original": "Petition launched to save Rutland sea dragon display plan - BBC",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-16T00:01:55+09:00",
+      "country": "DE",
+      "country_ko": "독일",
+      "fallback_reason": "",
+      "id": "eb030399c214",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-austin-4tvvvpbzzHA-unsplash-1.jpg@webp",
+      "lang_original": "en",
+      "lat": 52.52,
+      "lon": 13.405,
+      "processed_at": "2026-07-16T00:17:34+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Cooling devices are increasingly hard to come by as Germany remains under the influence of back to back heatwaves, making it increasingly hard for remote workers to keep cool and get work done. We've found some Berlin spots that have good AC.",
+      "region": "Berlin",
+      "source_name": "The Local Germany",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.de/20260715/six-berlin-cafes-with-air-conditioning-where-you-can-work",
+      "summary_en": "Germany is in the middle of back to back heatwaves this summer. Remote workers are struggling to keep cool, so here are six Berlin cafes with good air conditioning where you can get work done.",
+      "summary_ko": "독일은 올여름 연이은 폭염이 이어지고 있습니다. 원격근무자들이 시원하게 지내기 어려워져, 작업하기 좋은 에어컨 카페 6곳을 소개합니다.",
+      "title_en": "Six Berlin cafes with air conditioning where you can work",
+      "title_ko": "에어컨이 있는 작업하기 좋은 베를린 카페 6곳",
+      "title_original": "Six Berlin cafes with air conditioning where you can work",
       "triviality_score": 5
     }
   ]
