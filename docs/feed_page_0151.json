@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-16T16:22:32+09:00",
+  "built_at": "2026-07-16T18:29:36+09:00",
   "page": 151,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-16T12:03:23+09:00",
@@ -459,6 +459,30 @@
       "title_en": "Man admits making makeshift crossbow to shoot ball bearings at crows",
       "title_ko": "까마귀에 볼베어링 쏘려고 셀프 석궁 만든 남자, 혐의 인정",
       "title_original": "Man admits making makeshift crossbow to shoot ball bearings at crows",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-16T18:01:52+09:00",
+      "country": "NL",
+      "country_ko": "네덜란드",
+      "fallback_reason": "",
+      "id": "dc7fdcfc3e29",
+      "image_url": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2026/07/P7090150-e1783595620731.jpg",
+      "lang_original": "en",
+      "lat": 51.9244,
+      "lon": 4.4777,
+      "processed_at": "2026-07-16T18:18:47+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Visitors have already stepped on the infamous peanut butter floor, less than a week after it opened in Rotterdam. The Depot of Museum Boijmans Van Beuningen said that at least one person had walked on the exhibit, and another had dropped their phone into the peanut butter while attempting to take a photo. In honour of Dutch conceptual artist Wim T. Schippers, who passed away in June, the museum brought back his most famous work, the peanut butter floor. Schippers...",
+      "region": "Rotterdam",
+      "source_name": "DutchNews.nl",
+      "source_type": "rss",
+      "source_url": "https://www.dutchnews.nl/2026/07/what-a-mess-visitors-step-in-peanut-butter-floor/",
+      "summary_en": "A museum in Rotterdam brought back a famous peanut butter floor exhibit to honor artist Wim T. Schippers. Within a week of opening, at least one visitor had walked on the sticky artwork. Another person dropped their phone into the peanut butter while trying to take a photo.",
+      "summary_ko": "로테르담 박물관이 예술가 빔 T. 스키퍼스를 기리기 위해 땅콩버터 바닥 전시물을 다시 선보였다. 개관 1주일 만에 한 관객이 끈적한 작품 위를 걸었고, 다른 관객은 사진을 찍으려다 휴대폰을 땅콩버터 속에 빠뜨렸다.",
+      "title_en": "Visitors Step in Peanut Butter Floor at Rotterdam Museum",
+      "title_ko": "로테르담 박물관서 관객들, 땅콩버터 바닥 전시물 밟아",
+      "title_original": "What a mess: visitors step in peanut butter floor",
       "triviality_score": 5
     }
   ]
