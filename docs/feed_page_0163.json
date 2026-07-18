@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-18T10:21:45+09:00",
+  "built_at": "2026-07-18T12:18:39+09:00",
   "page": 163,
   "page_size": 20,
-  "count": 6,
+  "count": 7,
   "items": [
     {
       "collected_at": "2026-07-18T10:01:42+09:00",
@@ -148,6 +148,30 @@
       "title_ko": "포르투 뮤지컬, 20주년 맞아 레시페에서 무료 콘퍼런스와 쇼케이스 개최",
       "title_original": "Porto Musical celebra 20 anos com conferências gratuitas, showcases e debates sobre o futuro da música, em setembro, no Bairro do Recife - JC",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-18T12:02:16+09:00",
+      "country": "MY",
+      "country_ko": "말레이시아",
+      "fallback_reason": "",
+      "id": "17af5093ee6f",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--xs8GAPBX--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/17/img_4849_copy.jpg?itok=YYvm4Sp4",
+      "lang_original": "en",
+      "lat": 1.5236,
+      "lon": 103.9093,
+      "processed_at": "2026-07-18T12:17:07+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Johor Chief Minister Onn Hafiz Ghazi said the Iskandar Puteri City Council has issued a cessation notice to one of the startup community's premises as well as an advertising licence notice for displaying non-compliant signboards.",
+      "region": "Johor",
+      "source_name": "CNA Singapore",
+      "source_type": "rss",
+      "source_url": "https://www.channelnewsasia.com/asia/johor-network-school-forest-city-israel-links-6262326",
+      "summary_en": "The Iskandar Puteri City Council in Johor, Malaysia has ordered a startup community school to stop operating at the Forest City site. The council said the school violated licensing rules and displayed non-compliant signs. The school's founder says they will continue operating despite the order.",
+      "summary_ko": "말레이시아 조호르주의 이스칸다르 푸테리 시의회가 포레스트시티 내 한 스타트업 커뮤니티 학교에 운영 중단 명령을 내렸습니다. 시의회는 해당 학교가 허가 규정을 위반하고 기준 미달 간판을 설치했다고 밝혔습니다. 학교 설립자는 명령에도 불구하고 운영을 계속하겠다고 밝혔습니다.",
+      "title_en": "Malaysian city orders school at Forest City to close over license issues",
+      "title_ko": "말레이시아 포레스트시티 학교, 허가 위반으로 운영 중단 명령",
+      "title_original": "Network School ordered to cease operations at Forest City site over licensing breach; founder says operations continue",
+      "triviality_score": 3
     }
   ]
 }
