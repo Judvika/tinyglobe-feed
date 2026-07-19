@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T10:19:41+09:00",
+  "built_at": "2026-07-19T12:20:40+09:00",
   "page": 167,
   "page_size": 20,
-  "count": 8,
+  "count": 9,
   "items": [
     {
       "collected_at": "2026-07-19T08:02:45+09:00",
@@ -196,6 +196,30 @@
       "title_ko": "메시와 같은 희귀 질환을 가진 호주 소년, 아르헨티나 응원",
       "title_original": "The Aussie Leo who shares the same condition as Messi is rooting for Argentina",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-19T12:02:47+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "05a78da7d63b",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/b577028f09698f6582ed105f9e768e61?impolicy=wcms_watermark_news&cropH=576&cropW=1024&xPos=0&yPos=53&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-19T12:19:13+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Tania Differding and Ella Crofts met as teenagers and have been inseparable since. The best friends, now aged 43, are planning the rest of their lives around one another.",
+      "region": null,
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-07-19/love-story-the-enduring-love-of-a-best-friend/106757660",
+      "summary_en": "Tania Differding and Ella Crofts met as teenagers and have been inseparable. Now 43, they are planning their future lives around one another.",
+      "summary_ko": "타니아 디퍼딩과 엘라 크로프트는 십대 시절 만난 후 떨어질 줄 모르는 사이가 되었습니다. 43세가 된 지금, 이들은 남은 생을 서로를 위해 살기로 했습니다.",
+      "title_en": "Best Friends Plan to Be Buried Side by Side",
+      "title_ko": "평생을 함께한 두 벗, 나란히 묻히기로 약속",
+      "title_original": "Love story: Why these best friends plan on being buried side by side",
+      "triviality_score": 5
     }
   ]
 }
