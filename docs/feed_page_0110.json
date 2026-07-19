@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 110,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-08T08:07:28+09:00",
-      "country": "BE",
-      "country_ko": "벨기에",
-      "fallback_reason": "",
-      "id": "f48b5efe121f",
-      "image_url": "https://newseu.cgtn.com/news/2021-05-15/Solved-140-year-old-mystery-of-Belgian-mayor-s-lost-heart-109LvV4G3Sg/img/ca9048836eb340aa8bb2f9506399d585/ca9048836eb340aa8bb2f9506399d585-1280.png",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-07-08T08:20:07+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Months of sleuthing and high-tech x-rays confirmed the copper box found in the fountain last summer contains Pierre David's 250-year old heart.",
-      "region": null,
-      "source_name": "newseu.cgtn.com",
-      "source_type": "google",
-      "source_url": "https://newseu.cgtn.com/news/2021-05-15/Solved-140-year-old-mystery-of-Belgian-mayor-s-lost-heart-109LvV4G3Sg/index.html",
-      "summary_en": "A copper box found in a fountain last summer was confirmed to contain the 250-year-old heart of Pierre David, a former Belgian mayor. Months of detective work and high-tech x-rays solved the mystery.",
-      "summary_ko": "지난 여름 분수대에서 발견된 구리 상자에 250년 전 벨기에 전 시장 피에르 다비드의 심장이 들어 있는 것으로 확인됐다. 첨단 X선과 수개월의 추적 조사 끝에 140년 된 미스터리가 풀렸다.",
-      "title_en": "140-year mystery of Belgian mayor's lost heart solved",
-      "title_ko": "벨기에 전 시장 심장, 140년 만에 실종 미스터리 해결",
-      "title_original": "Solved: 140 year-old mystery of Belgian mayor's lost heart - newseu.cgtn.com",
-      "triviality_score": 5
-    },
     {
       "collected_at": "2026-07-08T10:02:04+09:00",
       "country": "BR",
@@ -484,6 +460,30 @@
       "title_ko": "노레브로가데 비계 붕괴로 남성 중태",
       "title_original": "Today in Denmark: A roundup of the latest news on Wednesday",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-08T16:02:04+09:00",
+      "country": "FI",
+      "country_ko": "핀란드",
+      "fallback_reason": "",
+      "id": "94bc451db50f",
+      "image_url": "https://img.img-cdn.yle.fi/crop_extract,w_5472,h_3078,x_0,y_312/crop_fill,w_1200,h_628/f_auto/39-16721576a4b887c31574/1783335448",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-08T16:19:31+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Finnish skate shop, Beyond, is marking its 20th anniversary with a special-edition Nike SB shoe.",
+      "region": null,
+      "source_name": "YLE News",
+      "source_type": "rss",
+      "source_url": "https://yle.fi/a/74-20235106",
+      "summary_en": "Beyond, a Finnish skate shop, is celebrating its 20th anniversary. They worked with Nike to release a special SB shoe designed by architect Alvar Aalto. The sneaker takes ideas from Aalto's famous building shapes.",
+      "summary_ko": "핀란드 현지 스케이트숍 비욘드가 창립 20주년을 맞아 나이키와 협업했다. 알바르 알토의 건축 디자인을 새긴 SB 한정판 신발을 내놓은 것. 신발에는 알토의 대표 건축물 곡선과 형태가 반영됐다.",
+      "title_en": "Finnish architect Alvar Aalto inspires new Nike sneaker",
+      "title_ko": "핀란드 건축가 알바르 알토에서 영감 받은 나이키 한정판 스니커즈",
+      "title_original": "Finnish architect Alvar Aalto inspires newly-released Nike sneaker",
+      "triviality_score": 5
     }
   ]
 }

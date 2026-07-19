@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 102,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-06T08:02:14+09:00",
-      "country": "MX",
-      "country_ko": "멕시코",
-      "fallback_reason": "",
-      "id": "9dc2b1f19b34",
-      "image_url": "https://oaxaca.eluniversal.com.mx/resizer/v2/K44UKQEAQVAFVMMUADMDP7SKPY.jpg?auth=86bbc14d236d95075d40f3fe16c4af5c2cee736c9b2cb980d8bbe8da0b7b241b",
-      "lang_original": "es",
-      "lat": 17.2029,
-      "lon": -96.8016,
-      "processed_at": "2026-07-06T08:17:13+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Este es el pueblo conocido mundialmente como la \"cuna del quesillo\". No te pierdas de su Expo Feria durante la fiesta de la Guelaguetza 2026",
-      "region": "Oaxaca",
-      "source_name": "El Universal Oaxaca",
-      "source_type": "google",
-      "source_url": "https://oaxaca.eluniversal.com.mx/mas-de-oaxaca/en-que-pueblo-de-oaxaca-se-vende-el-mejor-quesillo/",
-      "summary_en": "Reyes Etla is a small town in Oaxaca, Mexico, known as the birthplace of quesillo (Oaxaca cheese). The cheese was found by accident in 1835 when a girl left curd too long. The town holds its cheese fair on July 18-20 during Guelaguetza 2026.",
-      "summary_ko": "레예스 에틀라는 멕시코 오아하카주에 있는 작은 마을로, 케시요(오아하카 치즈)의 발상지로 알려져 있다. 이 치즈는 1835년 한 소녀가 커드를 너무 오래 방치했다가 우연히 발견했다. 이 마을에서는 2026년 7월 18~20일 과엘라게차 축제 기간 중 치즈 박람회가 열린다.",
-      "title_en": "Reyes Etla: the Oaxaca town that invented quesillo cheese",
-      "title_ko": "케시요 치즈를 처음 만든 오아하카의 작은 마을, 레예스 에틀라",
-      "title_original": "¿En qué pueblo de Oaxaca se vende el mejor quesillo? - El Universal Oaxaca",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-07-06T08:02:22+09:00",
       "country": "JP",
@@ -484,6 +460,30 @@
       "title_ko": "'지옥에서 온 애벌레' 독성 송충이, 스웨덴 상륙 가능성",
       "title_original": "Expert warns toxic caterpillar could spread to Sweden",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-06T16:04:27+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "183d97fa2ca9",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/ee9a6842124049c6d7cbdb3bc57bfdff?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=110&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -35.2809,
+      "lon": 149.13,
+      "processed_at": "2026-07-06T16:21:52+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A woman's campaign for change after her own frightening experience being broken down outside Canberra will see NRMA roadside assistance contractors required to provide a code to customers to verify their identity.",
+      "region": "Canberra, ACT",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-07-06/act-terrifying-roadside-assistance-ordeal-sparks-national-change/106885192",
+      "summary_en": "A woman was stranded outside Canberra after her car broke down. Her frightening experience led to a new safety rule. NRMA roadside helpers must now give customers a code to prove who they are.",
+      "summary_ko": "캔버라 외곽에서 차량이 고장 나 길에 갇혔던 여성의 무서운 경험이 전국적인 안전 규정 변화로 이어졌다. NRMA 긴급출동 협력업체는 이제 고객에게 직원 신원을 확인할 수 있는 코드를 제공해야 한다. 이번 조치는 길에서 도움을 기다리는 운전자를 보호하기 위한 것이다.",
+      "title_en": "Woman's scary roadside ordeal brings new safety rules",
+      "title_ko": "길가에 차량 고장으로 갇힌 여성의 무서운 경험, 전국 긴급출동 규정 바꿨다",
+      "title_original": "'Terrifying' roadside assistance ordeal sparks national change",
+      "triviality_score": 3
     }
   ]
 }

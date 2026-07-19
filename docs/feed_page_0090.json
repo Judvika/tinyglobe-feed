@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 90,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-03T10:02:20+09:00",
-      "country": "AU",
-      "country_ko": "호주",
-      "fallback_reason": "",
-      "id": "a91ed2782b47",
-      "image_url": "https://live-production.wcms.abc-cdn.net.au/414f721c2a75c251daf833eed1691990?impolicy=wcms_watermark_news&cropH=1060&cropW=1884&xPos=3&yPos=11&width=862&height=485&imformat=generic",
-      "lang_original": "en",
-      "lat": -35.01,
-      "lon": 138.56,
-      "processed_at": "2026-07-03T10:17:15+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Eva Phelps was 82 when she refused to sell her land for the development of Marion Shopping Centre, so it was built around her, making her small house a veritable castle.",
-      "region": "South Australia",
-      "source_name": "ABC Australia News",
-      "source_type": "rss",
-      "source_url": "https://www.abc.net.au/news/2026-07-03/remembering-miss-stayput-eva-phelps-stand-westfield-marion/106869454",
-      "summary_en": "Eva Phelps was 82 when she refused to sell her land for the Marion Shopping Centre development. The mall was built around her house, making it a tiny castle. Her legendary stand is now being remembered.",
-      "summary_ko": "에바 펠프스는 82세에 마리온 쇼핑센터 개발을 위해 자신의 땅을 팔지 않았다. 결국 쇼핑몰이 그녀의 집을 에워싸고 지어졌고, 작은 집은 성처럼 남았다. 그녀의 전설적인 저항이 지금 다시 회자되고 있다.",
-      "title_en": "'Miss Stayput' stands ground against Australia's biggest mall",
-      "title_ko": "'미스 스테이풋', 호주 최대 쇼핑몰에 맞서 싸우다",
-      "title_original": "Remembering 'Miss Stayput's' legendary stand against SA's largest shopping mall",
-      "triviality_score": 5
-    },
     {
       "collected_at": "2026-07-03T10:02:59+09:00",
       "country": "CO",
@@ -484,6 +460,30 @@
       "title_ko": "말썽꾸러기 물개 닐, 팬들에게 인기지만 당국은 걱정",
       "title_original": "Australian officials ask fans to respect the privacy of Neil, a trouble-making seal",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-03T16:02:44+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "8fe62f13473a",
+      "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/5uwalg/article71177627.ece/alternates/LANDSCAPE_1200/Lok.jpeg",
+      "lang_original": "en",
+      "lat": 16.43,
+      "lon": 80.57,
+      "processed_at": "2026-07-03T16:21:40+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "IT Minister Nara Lokesh laid the foundation for ₹6.30-crore development works at the Sri Lakshmi Narasimha Swamy temple, including a new Yagasala.",
+      "region": "Andhra Pradesh",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/lokesh-lays-foundation-for-630-crore-works-at-mangalagiri-sri-lakshmi-narasimha-swamy-temple/article71177480.ece",
+      "summary_en": "IT Minister Nara Lokesh laid the foundation for new development works worth ₹6.30 crore at the Sri Lakshmi Narasimha Swamy temple in Mangalagiri. The project includes building a new Yagasala and other facilities.",
+      "summary_ko": "IT 장관 나타 로케시가 망갈라기리 스리 락슈미 나라심하 스와미 사원에서 6.30크로르 규모의 개발 공사 기공식을 가졌다. 이 프로젝트에는 새 야가살라(제사 시설) 건립이 포함된다.",
+      "title_en": "Minister Lokesh starts ₹6.30-crore temple development works in Mangalagiri",
+      "title_ko": "로케시 장관, 망갈라기리 사원에 6.30크로르 개발 공사 기공",
+      "title_original": "Lokesh lays foundation for ₹6.30-crore works at Mangalagiri Sri Lakshmi Narasimha Swamy temple",
+      "triviality_score": 4
     }
   ]
 }

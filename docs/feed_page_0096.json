@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 96,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-04T16:02:30+09:00",
-      "country": "SE",
-      "country_ko": "스웨덴",
-      "fallback_reason": "",
-      "id": "af3d937b59be",
-      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/04/watermarks-logo-3.jpg@webp",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-07-04T16:17:23+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Are you ready to play Games, a new mix of puzzles and word teasers with a Swedish language twist?",
-      "region": null,
-      "source_name": "The Local Sweden",
-      "source_type": "rss",
-      "source_url": "https://www.thelocal.se/20250409/boost-your-swedish-and-test-your-sweden-knowledge-with-the-local-games",
-      "summary_en": "The Local Sweden has released The Local Games, a new mix of puzzles and word teasers. The games have a Swedish language twist and test your knowledge about Sweden.",
-      "summary_ko": "더 로컬 스웨덴이 스웨덴어와 스웨덴 상식을 테스트하는 새로운 게임 시리즈 '더 로컬 게임즈'를 출시했다. 퍼즐과 단어 맞추기가 섞인 이 게임은 스웨덴어 표현을 재미있게 익힐 수 있도록 구성됐다.",
-      "title_en": "The Local Sweden launches word and puzzle games to boost your Swedish",
-      "title_ko": "스웨덴 현지 매체, 스웨덴어 실력 향상 위한 퀴즈·퍼즐 게임 출시",
-      "title_original": "Boost your Swedish and test your Sweden knowledge with The Local Games",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-07-04T16:02:32+09:00",
       "country": "DK",
@@ -484,6 +460,30 @@
       "title_ko": "어머니날 인기 장소 1위, 오아하카의 마법 같은 마을",
       "title_original": "Este pueblo mágico de OAXACA es el preferido por las mamás para festejar el 10 de mayo - El Heraldo de México",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-04T20:02:54+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "fallback_reason": "",
+      "id": "12d57781b620",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--WkVXeUda--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-04T101531Z_1_LYNXMPEM6309K_RTROPTP_3_USA-AI-MODELS.JPG?itok=lU80zFuJ",
+      "lang_original": "en",
+      "lat": 36.8529,
+      "lon": -75.977,
+      "processed_at": "2026-07-04T20:19:21+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "WASHINGTON, July 4 : Here Now Health isn't an AI-based company, but its quick path from an idea in founder Michelle Turner's mind to an operating mental health platform for foster children relied deeply on the technology now restructuring the U.S. economy.Working from her Virginia Beach home, she used AI tool",
+      "region": "Virginia Beach",
+      "source_name": "CNA Singapore",
+      "source_type": "rss",
+      "source_url": "https://www.channelnewsasia.com/business/one-small-business-ai-was-key-quick-start-and-expansion-6232026",
+      "summary_en": "Michelle Turner started a mental health platform for foster children from her home in Virginia Beach. She used AI tools to build and grow the business quickly, even though her company is not an AI company.",
+      "summary_ko": "미국 버지니아비치에 사는 미셸 터너는 위탁 아동을 위한 정신 건강 플랫폼을 집에서 창업했다. AI 기업은 아니지만 창업부터 확장까지 AI 도구를 적극 활용해 빠르게 성장할 수 있었다.",
+      "title_en": "For one small business, AI was key to a quick start and expansion",
+      "title_ko": "AI 없이 못 자란다, 한 소규모 사업체의 성장 비결",
+      "title_original": "For one small business, AI was key to a quick start and expansion",
+      "triviality_score": 3
     }
   ]
 }

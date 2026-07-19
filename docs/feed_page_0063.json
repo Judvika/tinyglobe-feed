@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 63,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-26T22:02:53+09:00",
-      "country": "CH",
-      "country_ko": "스위스",
-      "fallback_reason": "",
-      "id": "6319491a098e",
-      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/06/watermarks-logo-293.jpg@webp",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-26T22:19:13+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "In real estate lingo, what counts most is ‘location, location, location.’ But in Switzerland, many other factors enter into play when choosing the best place to live, a new analysis reveals.",
-      "region": null,
-      "source_name": "The Local Switzerland",
-      "source_type": "rss",
-      "source_url": "https://www.thelocal.ch/20260626/revealed-the-best-municipality-in-switzerland-to-live-in-2026",
-      "summary_en": "A new study ranks Swiss municipalities by quality of life. Location is important, but many other factors also matter. The analysis reveals which town came out on top this year.",
-      "summary_ko": "스위스 지자체의 삶의 질 순위를 매긴 새 조사가 나왔다. 입지도 중요하지만 그 외에도 다양한 요소가 고려된다. 올해 1위를 차지한 마을은 어디일까.",
-      "title_en": "The best municipality in Switzerland to live in 2026 is revealed",
-      "title_ko": "2026년 스위스에서 가장 살기 좋은 지자체 공개",
-      "title_original": "REVEALED: The 'best municipality' in Switzerland to live in 2026",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-06-26T22:02:56+09:00",
       "country": "FI",
@@ -484,6 +460,30 @@
       "title_ko": "오늘의 스페인어 단어: Cariño",
       "title_original": "Spanish Word of the Day: Cariño",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-27T02:02:09+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "7eafb8f618b8",
+      "image_url": "https://s03.video.glbimg.com/x720/14732902.jpg",
+      "lang_original": "pt",
+      "lat": -25.4284,
+      "lon": -49.2733,
+      "processed_at": "2026-06-27T02:19:36+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Interdição começa hoje e ocorre para continuidade de obras de drenagem na região do Tarumã.",
+      "region": "Paraná",
+      "source_name": "G1",
+      "source_type": "google",
+      "source_url": "https://g1.globo.com/pr/parana/videos-meio-dia-parana/video/avenida-victor-ferreira-do-amaral-tem-bloqueio-no-sentido-bairro-em-curitiba-14732902.ghtml",
+      "summary_en": "Avenue Victor Ferreira do Amaral is blocked from today for drainage construction in the Tarumã region. The closure runs in the bairro-direction and will last for the continuity of the works.",
+      "summary_ko": "쿠리치바의 빅토르 페헤이라 두 아마랄 아베니다가 타루망 지역 배수로 공사로 인해 오늘부터 통제된다. 차단은 바이루 방향 구간이며 공사 진행을 위한 조치다.",
+      "title_en": "Victor Ferreira do Amaral Avenue blocked in Curitiba from today for drainage work",
+      "title_ko": "쿠리치바 빅토르 페헤이라 두 아마랄 아베니다, 배수 공사로 통행 차단",
+      "title_original": "Avenida Victor Ferreira do Amaral tem bloqueio no sentido bairro em Curitiba - G1",
+      "triviality_score": 5
     }
   ]
 }

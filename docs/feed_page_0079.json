@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 79,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-30T22:06:40+09:00",
-      "country": "US",
-      "country_ko": "미국",
-      "fallback_reason": "",
-      "id": "2de5023f064a",
-      "image_url": "https://www.mlive.com/resizer/v2/43Z2CEYCUZCHVINMEIOGEBP6LU.JPG?auth=c1cd482fe80c452bb599d414a5c0788ef2127b25767cfd378ab4ac1d739d6b1a&width=1280&smart=true&quality=90",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-30T22:21:57+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Two popular restaurants are now listed for sale publicly in this small Michigan town",
-      "region": "Michigan",
-      "source_name": "MLive.com",
-      "source_type": "google",
-      "source_url": "https://www.mlive.com/galleries/6E2XHYBGLNEV7OUBNUBB6FD2JE/",
-      "summary_en": "Two well-known restaurants in a small Michigan town have been put up for sale. The listings are public and draw attention from locals.",
-      "summary_ko": "미시간의 작은 마을에 있는 인기 레스토랑 2곳이 매물로 나왔습니다. 공개 매물로 등록되면서 지역 주민들의 관심을 받고 있습니다.",
-      "title_en": "Two popular restaurants listed for sale in small Michigan town",
-      "title_ko": "미시간 작은 마을 인기 레스토랑 2곳 매물로 나와",
-      "title_original": "Two popular restaurants are now listed for sale publicly in this small Michigan town - MLive.com",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-07-01T00:01:52+09:00",
       "country": "SE",
@@ -484,6 +460,30 @@
       "title_ko": "주민 200명의 아르헨티나 마을, 지구상 가장 아름다운 풍경 중 하나로 꼽혀",
       "title_original": "Dónde queda el pueblo argentino de 200 habitantes con uno de los paisajes más increíbles del planeta - La Gaceta",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-01T04:02:41+09:00",
+      "country": "MX",
+      "country_ko": "멕시코",
+      "fallback_reason": "opencode failed: opencode JSON/schema parse failed: Expecting ',' delimiter: line 4 column 28 (char 346); output=```json\n{\n  \"title_en\": \"San Miguel de Allende mayor warns city is nearing tourism limit\",\n  \"summary_en\": \"San Miguel de Allende welcomed two million visitors in 2025. The mayor says the city needs new infrastructure before it can handle more tourists. An airport and a golf course are being discussed as possible projects.\",\n  \"title_ko\": \"산미겔데아옌데 시장 \"관광객 수용 한계…인프라 확충 필요\"\",\n  \"summary_ko\": \"산미겔데아옌데가 2025년 방문객 200만 명을 기록했습니다. 시장은 새로운 기반 시설 없이 더 많은 관광객을 감당하기 어렵다고 밝혔습니다. 공항과 골프장 건설이 가능한 프로젝트로 논의되고 있습니다.\",\n  \"country\": \"MX\",\n  \"country_ko\": \"멕시코\",\n  \"region\": \"Guanajuato\",\n  \"lat\": 20.9153,\n  \"lon\": -100.7454,\n  \"triviality_score\": 4\n}\n```\n\n\n> build · big-pickle\n\n% WebFetch https://mexiconewsdaily.com/lifestyle/mnd-local-mayor-addresses-tourist-growth-in-san-miguel-de-allende/",
+      "id": "b6e3ad818b59",
+      "image_url": "https://mexiconewsdaily.com/wp-content/uploads/2026/06/jezael-melgoza-9KnIH_dKmGE-unsplash-1.jpg",
+      "lang_original": "en",
+      "lat": 20.914,
+      "lon": -100.745,
+      "processed_at": "2026-07-01T04:16:49+09:00",
+      "provider_used": "codex_fallback",
+      "raw_excerpt": "After welcoming two million visitors in 2025, San Miguel de Allende's mayor says the city may be at its limit without new infrastructure.",
+      "region": "San Miguel de Allende",
+      "source_name": "Mexico News Daily",
+      "source_type": "rss",
+      "source_url": "https://mexiconewsdaily.com/lifestyle/mnd-local-mayor-addresses-tourist-growth-in-san-miguel-de-allende/",
+      "summary_en": "San Miguel de Allende welcomed two million visitors in 2025. The mayor says the city may be at its limit unless it gets new infrastructure.",
+      "summary_ko": "산미겔데아옌데는 2025년에 관광객 200만 명을 맞았다. 시장은 새 기반 시설이 없으면 도시가 한계에 이를 수 있다고 말했다.",
+      "title_en": "San Miguel de Allende faces tourist growth limits",
+      "title_ko": "산미겔데아옌데, 관광객 증가로 한계 우려",
+      "title_original": "MND Local: Mayor addresses tourism growth in San Miguel de Allende",
+      "triviality_score": 4
     }
   ]
 }

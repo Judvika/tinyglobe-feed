@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 40,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-22T00:01:58+09:00",
-      "country": "ES",
-      "country_ko": "스페인",
-      "fallback_reason": "",
-      "id": "e2fe25d5c7e8",
-      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/06/watermarks-logo-AFP__20260615__B77432P__v1__MidRes__FblWc2026Match14EspCpv.jpg@webp",
-      "lang_original": "en",
-      "lat": 40.4168,
-      "lon": -3.7038,
-      "processed_at": "2026-06-22T00:17:39+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "The public screening of Spain's World Cup match against Saudi Arabia in Madrid later on Sunday has been cancelled because of extreme heat forecast for the Spanish capital, officials said.",
-      "region": "Madrid",
-      "source_name": "The Local Spain",
-      "source_type": "rss",
-      "source_url": "https://www.thelocal.es/20260621/madrid-scraps-public-screening-of-spain-world-cup-match-over-heat",
-      "summary_en": "Madrid officials canceled a public screening of Spain's World Cup match against Saudi Arabia due to extreme heat forecast for the city. The event was scheduled for Sunday evening.",
-      "summary_ko": "마드리드 당국이 스페인의 사우디아라비아전 월드컵 공개 응원 중계를 폭염 예보로 취소했다. 일요일 저녁에 예정됐던 야외 상영이 무산됐다.",
-      "title_en": "Madrid cancels outdoor World Cup screening because of extreme heat",
-      "title_ko": "마드리드, 폭염으로 월드컵 길거리 응원 취소",
-      "title_original": "Madrid scraps public screening of Spain World Cup match over heat",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-06-22T00:02:01+09:00",
       "country": "CA",
@@ -484,6 +460,30 @@
       "title_ko": "카르나타카주 NEET 재시험, 학생 4명 응시 불가…정치권 공방",
       "title_original": "Four students not allowed to write NEET in the State, leads to political slugfest",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-06-22T04:13:15+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "fallback_reason": "",
+      "id": "ea16fd43fce9",
+      "image_url": "https://npr.brightspotcdn.com/dims4/default/5d1f916/2147483647/strip/true/crop/562x295+0+216/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2Fa8%2Fb23936cd440fa5c45e158aa05ee5%2Fnaples-summer-sale.jpg",
+      "lang_original": "en",
+      "lat": 43.97,
+      "lon": -70.61,
+      "processed_at": "2026-06-22T04:20:32+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A Naples Village Green Summer Sale is being sponsored by the Naples Historical Society on Saturday, July 13 from 9 a.m. – 3 p.m. The rain date will be Sunday, July 14. A variety of vendors will be on hand to sell new and used items, crafts, plants, jewelry and more. Proceeds benefit the Naples Historical Society. Come shop for some treasures at unbeatable prices!",
+      "region": "Maine",
+      "source_name": "Maine Public",
+      "source_type": "google",
+      "source_url": "https://www.mainepublic.org/community-calendar/event/naples-village-green-summer-sale-09-07-2024-09-56-28",
+      "summary_en": "The Naples Historical Society sponsors a summer sale at Naples Village Green on July 13. Vendors sell new and used items, crafts, plants, jewelry, and more. Proceeds benefit the Naples Historical Society.",
+      "summary_ko": "네이플스 역사협회가 7월 13일 네이플스 빌리지 그린에서 여름 바자회를 엽니다. 벤더들이 신품·중고품, 공예품, 식물, 주얼리 등을 판매합니다. 수익금은 네이플스 역사협회에 기부됩니다.",
+      "title_en": "Naples Village Green Summer Sale",
+      "title_ko": "네이플스 빌리지 그린 여름 바자회",
+      "title_original": "Naples Village Green Summer Sale - Maine Public",
+      "triviality_score": 5
     }
   ]
 }

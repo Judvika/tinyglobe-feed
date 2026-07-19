@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 44,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-22T22:02:19+09:00",
-      "country": "NO",
-      "country_ko": "노르웨이",
-      "fallback_reason": "",
-      "id": "7aa35acfd7b7",
-      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2023/06/watermarks-logo-green-ant-QASf6qFTfA4-unsplash.jpeg@webp",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-22T22:19:29+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Norwegians celebrate Midsummer by lighting bonfires on June 23rd, the eve of the Christian festival of the Nativity of John the Baptist, or Sankthansaften. Here are the best places to enjoy the festivities.",
-      "region": null,
-      "source_name": "The Local Norway",
-      "source_type": "rss",
-      "source_url": "https://www.thelocal.no/20250623/the-best-places-to-celebrate-sankthans-in-oslo",
-      "summary_en": "Norwegians light bonfires on June 23rd for Sankthansaften, the Midsummer celebration. Here are the best places to enjoy the festivities in Oslo, Bergen and Trondheim.",
-      "summary_ko": "노르웨이 사람들은 6월 23일 산크탄스 전야(Sankthansaften)에 모닥불을 피우며 한여름을 축하한다. 오슬로, 베르겐, 트론헤임에서 축제를 즐기기 좋은 장소들을 소개한다.",
-      "title_en": "Best places to celebrate Sankthansaften in Oslo, Bergen and Trondheim",
-      "title_ko": "오슬로, 베르겐, 트론헤임에서 산크탄스 전야제 즐기기 좋은 장소",
-      "title_original": "The best places to celebrate Sankthansaften in Oslo, Bergen and Trondheim",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-06-22T22:02:21+09:00",
       "country": "CH",
@@ -484,6 +460,30 @@
       "title_ko": "쿠리치바에서 오토바이가 정차 중인 쓰레기 트럭 추돌, 수거원 부상",
       "title_original": "Vídeo! Motociclista bate em caminhão de lixo parado e coletor fica ferido no Alto da Glória, em Curitiba - Banda B",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-23T06:01:38+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "cb79bbeb6eba",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/b041fac07c0356b132ec8803a28b498d?impolicy=wcms_watermark_news&cropH=1361&cropW=2420&xPos=0&yPos=229&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-23T06:15:57+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Eight councils are calling for urgent safety upgrades to the popular freight and travel route spanning three states.",
+      "region": null,
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-06-23/sturt-highway-needs-urgent-upgrades-taskforce-says/106798514",
+      "summary_en": "Eight local councils are calling for urgent safety upgrades on the Sturt Highway. The busy freight and travel route stretches across three states.",
+      "summary_ko": "8개 지역 의회가 스터트 고속도로의 긴급 안전 개선을 촉구하고 있다. 이 혼잡한 화물·여행 도로는 3개 주에 걸쳐 있다.",
+      "title_en": "Calls to upgrade 'sketchy' Sturt Highway freight route",
+      "title_ko": "'위험한' 스터트 고속도로 개선 촉구",
+      "title_original": "Calls to upgrade 'sketchy' Sturt Highway freight route",
+      "triviality_score": 3
     }
   ]
 }

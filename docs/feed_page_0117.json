@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 117,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-09T22:05:15+09:00",
-      "country": "IN",
-      "country_ko": "인도",
-      "fallback_reason": "",
-      "id": "11c05e6c505f",
-      "image_url": "https://th-i.thgim.com/public/incoming/py5ba0/article71202041.ece/alternates/LANDSCAPE_1200/DSC_7115.JPG",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-07-09T22:22:58+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Tamil Nadu CM Vijay to distribute job orders to kin of 32 stampede victims and inaugurate a footwear manufacturing unit.",
-      "region": "Tamil Nadu",
-      "source_name": "The Hindu National",
-      "source_type": "rss",
-      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-to-distribute-govt-job-appointment-orders-to-kin-of-32-karur-stampede-victims/article71201656.ece",
-      "summary_en": "Tamil Nadu Chief Minister Vijay will hand out government job appointment orders to the relatives of 32 people who died in a stampede in Karur. He will also open a new shoe factory in the area.",
-      "summary_ko": "타밀나두 주 빌라이 주지사가 카루르 압사 사고 사망자 32명의 유가족에게 정부 일자리 임용장을 직접 전달한다. 또한 지역 내 신규 신발 공장 준공식도 함께 진행할 예정이다.",
-      "title_en": "Tamil Nadu leader to give government job letters to families of 32 crowd disaster victims",
-      "title_ko": "타밀나두 주지사, 압사 사망자 32명 유가족에 공무원 임용장 전달",
-      "title_original": "Tamil Nadu CM Vijay to distribute govt. job appointment orders to kin of 32 Karur stampede victims",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-07-09T22:13:58+09:00",
       "country": "US",
@@ -484,6 +460,30 @@
       "title_ko": "장애인도 이용할 수 있는 초장거리 산악자전거 트레일 버몬트에 생긴다",
       "title_original": "OUTDOOR ACCESS FOR DISABLED IN VERMONT",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-10T04:02:25+09:00",
+      "country": "MX",
+      "country_ko": "멕시코",
+      "fallback_reason": "",
+      "id": "db22db6046c9",
+      "image_url": "https://mexiconewsdaily.com/wp-content/uploads/2026/07/ajaysinh-chauhan-YEC5gIGR-Qo-unsplash-1.jpg",
+      "lang_original": "en",
+      "lat": 20.6597,
+      "lon": -103.3496,
+      "processed_at": "2026-07-10T04:17:31+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Water problems in Guadalajara will require an extensive financial investment to fix, authorities say, although World Cup economic boosts help.",
+      "region": "Jalisco",
+      "source_name": "Mexico News Daily",
+      "source_type": "rss",
+      "source_url": "https://mexiconewsdaily.com/news/mnd-local-multi-year-plan-announced-to-fix-water-problems-in-guadalajara-plus-a-world-cup-economic-boost/",
+      "summary_en": "Authorities say fixing Guadalajara's water problems needs a large financial investment. The World Cup is expected to help boost the local economy.",
+      "summary_ko": "당국은 과달라하라의 상수도 문제를 해결하려면 대규모 재정 투자가 필요하다고 밝혔다. 월드컵 경제 활성화 효과가 재원 마련에 도움이 될 전망이다.",
+      "title_en": "Multi-year plan to fix water problems in Guadalajara",
+      "title_ko": "과달라하라 상수도 문제 해결 위한 다년 계획 발표",
+      "title_original": "MND Local: Multi-year plan announced to fix water problems in Guadalajara, plus a World Cup economic boost",
+      "triviality_score": 3
     }
   ]
 }

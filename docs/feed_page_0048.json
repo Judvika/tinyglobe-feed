@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 48,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-23T20:03:54+09:00",
-      "country": "IN",
-      "country_ko": "인도",
-      "fallback_reason": "",
-      "id": "2da03bc2937e",
-      "image_url": "https://th-i.thgim.com/public/incoming/v03ygc/article71134813.ece/alternates/LANDSCAPE_1200/Dhyana_Hin_Che_Jpg.jpg",
-      "lang_original": "en",
-      "lat": 12.4,
-      "lon": 75.7,
-      "processed_at": "2026-06-23T20:22:35+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Sri M withdraws meditation retreat plans in Kodagu after villagers' protests over ecological and cultural concerns near Malma Hills.",
-      "region": "Kodagu, Karnataka",
-      "source_name": "The Hindu National",
-      "source_type": "rss",
-      "source_url": "https://www.thehindu.com/news/national/karnataka/kodagu-villagers-opposition-forces-spiritual-guru-sri-m-to-withdraw-proposed-meditation-retreat/article71133745.ece",
-      "summary_en": "A spiritual guru named Sri M canceled his meditation retreat plans in Kodagu, India. Local villagers protested because they worried about the impact on nature and culture near Malma Hills. The retreat will not happen there.",
-      "summary_ko": "인도 코다구 지역에서 영적 지도자 스리 M의 명상 수련회 계획이 취소됐다. 주민들이 말마 언덕 인근의 생태와 문화에 미칠 영향을 우려해 반대했기 때문이다. 이 수련회는 해당 장소에서 열리지 않게 됐다.",
-      "title_en": "Sri M withdraws meditation retreat after Kodagu villagers protest",
-      "title_ko": "스리 M, 주민 반대로 코다구 명상 수련회 계획 철회",
-      "title_original": "Kodagu villagers’ opposition forces spiritual guru Sri M to withdraw proposed meditation retreat",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-06-23T20:04:42+09:00",
       "country": "FR",
@@ -484,6 +460,30 @@
       "title_ko": "삼바 음악가들, 문화계 여성 노동자 정책 논의",
       "title_original": "Sambistas debatem políticas públicas para trabalhadoras na cultura",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-24T00:02:46+09:00",
+      "country": "CA",
+      "country_ko": "캐나다",
+      "fallback_reason": "",
+      "id": "5dc56411a38f",
+      "image_url": "https://i.cbc.ca/ais/86f85154-715a-4573-a27e-a5c34a0c4e47,1781882912584/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C860%2C483%29%3BResize%3D620",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-24T00:19:50+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Nearly two years into its provincewide ban on cellphones in Nova Scotia public schools, the province's education minister says it's helping to reduce distraction and improve learning. Some students are following the rules, while others need more convincing.",
+      "region": "Nova Scotia",
+      "source_name": "CBC Canada",
+      "source_type": "rss",
+      "source_url": "https://www.cbc.ca/news/canada/nova-scotia/school-cellphone-ban-nova-scotia-technology-learning-9.7241771",
+      "summary_en": "Nova Scotia banned cellphones in public schools two years ago. The education minister says the ban helps students focus and learn better. Some students follow the rules, but others still need to be convinced.",
+      "summary_ko": "노바스코샤 주는 2년 전 공립학교에서 휴대전화 사용을 전면 금지했습니다. 주 교육부 장관은 이 정책이 학생들의 주의력 분산을 줄이고 학습 향상에 도움이 되고 있다고 말합니다. 일부 학생들은 규칙을 잘 따르지만, 아직 설득이 더 필요한 학생들도 있습니다.",
+      "title_en": "Nova Scotia's school cellphone ban: 2 years in",
+      "title_ko": "노바스코샤 교실 휴대전화 금지, 2년째 진행 중",
+      "title_original": "N.S. banned cellphones in classrooms 2 years ago. Here's how it's going",
+      "triviality_score": 3
     }
   ]
 }

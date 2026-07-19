@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 87,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-02T18:07:59+09:00",
-      "country": "DE",
-      "country_ko": "독일",
-      "fallback_reason": "",
-      "id": "2a2ca0c9d34f",
-      "image_url": "https://brusselssignal.eu/content/uploads/2025/10/cropped-WhatsApp-Image-2025-10-29-at-16.09.02.jpeg",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-07-02T19:01:12+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "The sudden appearance of a large number of German flags in a small town in rural Germany has caused a flap in political and media circles. As local newspaper Siegner Zeitung reports…",
-      "region": "rural Germany",
-      "source_name": "Brussels Signal",
-      "source_type": "google",
-      "source_url": "https://brusselssignal.eu/2025/10/police-launch-extremism-probe-after-unknown-persons-hang-numerous-german-flags/",
-      "summary_en": "Unknown persons hung numerous German flags across a small town in rural Germany. The sudden display has triggered a police extremism investigation. Local newspaper Siegner Zeitung first reported the incident.",
-      "summary_ko": "독일 시골의 한 작은 마을에 알 수 없는 인물들이 독일 국기를 대량으로 게시했습니다. 갑작스러운 게양으로 경찰이 극단주의 혐의 수사에 나섰습니다. 지역 신문 지크너 차이퉁이 먼저 보도했습니다.",
-      "title_en": "German flags mysteriously appear in small German town, sparking extremism probe",
-      "title_ko": "독일 작은 마을에 갑자기 등장한 독일 국기들…경찰, 극단주의 수사 착수",
-      "title_original": "Police launch extremism probe after unknown persons hang numerous German flags - Brussels Signal",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-07-02T18:12:09+09:00",
       "country": "FR",
@@ -484,6 +460,30 @@
       "title_ko": "멕시코시티 '루저스 카페', 월드컵에서 진 팬들의 안식처로",
       "title_original": "Eliminated but not alone: Mexico City cafe becomes haven for World Cup heartbreak",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-02T22:16:42+09:00",
+      "country": "NL",
+      "country_ko": "네덜란드",
+      "fallback_reason": "",
+      "id": "cdfb406ab490",
+      "image_url": "https://czv.897.myftpupload.com/wp-content/uploads/2023/06/Alexander-van-de-Bunt-min.jpg",
+      "lang_original": "en",
+      "lat": 51.8867,
+      "lon": 5.4314,
+      "processed_at": "2026-07-02T22:23:04+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Archaeologists discovered a 4,000-year-old sanctuary during excavations of the model industrial estate in the town of Tiel, located 72 kilometers from the Hague in the Netherlands.",
+      "region": "Gelderland",
+      "source_name": "Arkeonews",
+      "source_type": "google",
+      "source_url": "https://czv.897.myftpupload.com/archaeologists-find-4000-year-old-sanctuary-in-netherlands/",
+      "summary_en": "Archaeologists discovered a 4,000-year-old sanctuary in Tiel, Netherlands. The find came during excavations of a model industrial estate. Tiel is located 72 kilometers from The Hague.",
+      "summary_ko": "네덜란드 틸(Tiel)에서 고고학자들이 4,000년 된 성소를 발굴했습니다. 이 성소는 모범 산업단지 발굴 작업 중 발견되었습니다. 틸은 헤이그에서 72km 떨어져 있습니다.",
+      "title_en": "4,000-year-old sanctuary found in Netherlands",
+      "title_ko": "네덜란드에서 4,000년 된 성소 발견",
+      "title_original": "Archaeologists find 4,000-year-old Sanctuary in Netherlands - Arkeonews",
+      "triviality_score": 3
     }
   ]
 }

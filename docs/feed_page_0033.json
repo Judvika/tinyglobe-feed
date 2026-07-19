@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:07+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 33,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-20T14:04:17+09:00",
-      "country": "BR",
-      "country_ko": "브라질",
-      "fallback_reason": "",
-      "id": "2004ce3ed5bb",
-      "image_url": "https://mid-noticias.curitiba.pr.gov.br/2026/thumb/00567177.jpg",
-      "lang_original": "pt",
-      "lat": -25.4284,
-      "lon": -49.2733,
-      "processed_at": "2026-06-20T18:18:20+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "A nova estrutura da Sanepar atende diretamente os moradores do Tatuquara, Umbará, CIC, Sítio Cercado e Pinheirinho",
-      "region": "Paraná",
-      "source_name": "Prefeitura de Curitiba",
-      "source_type": "google",
-      "source_url": "https://www.curitiba.pr.gov.br/noticias/bairros-da-regiao-sul-de-curitiba-tem-nova-unidade-de-armazenamento-de-agua-tratada/83687?utm_content=mldn",
-      "summary_en": "The new Sanepar facility serves residents of Tatuquara, Umbará, CIC, Sítio Cercado and Pinheirinho. It improves treated water storage capacity in Curitiba's southern region.",
-      "summary_ko": "사네파르의 새 시설이 타투쿠아라, 움바라, CIC, 시치우 세르카두, 피네이리뉴 주민들에게 정수를 공급한다. 쿠리치바 남부 지역의 정수 저장 용량이 개선되었다.",
-      "title_en": "Southern Curitiba neighborhoods get new treated water storage unit",
-      "title_ko": "쿠리치바 남부 지역, 새 정수 저장 시설 준공",
-      "title_original": "Bairros da região sul de Curitiba têm nova unidade de armazenamento de água tratada - Prefeitura de Curitiba",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-06-20T14:07:10+09:00",
       "country": "CH",
@@ -484,6 +460,30 @@
       "title_ko": "폭염에도 시원한 프랑스 동굴 주택, 일부 주민들에겐 '선택 아닌 필수'",
       "title_original": "'Like a fridge': French cave homes offer lucky few respite from heat",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-20T20:02:10+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "7339751642e0",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/06/watermarks-logo-AFP__20250701__64DV6T3__v2__MidRes__TopshotFranceWeatherHeatwave.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-20T20:20:26+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "In this week’s Inside Spain, we look at how a group of teachers has set up a temperature-monitoring platform which exposes how many Spanish school buildings remain ill-equipped for early heatwaves, and the impact on teachers and pupils.",
+      "region": null,
+      "source_name": "The Local Spain",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.es/20260620/inside-spain-how-schools-arent-equipped-to-deal-with-the-early-heat",
+      "summary_en": "A group of teachers built a platform to track temperatures in schools. It shows many school buildings are not prepared for early heatwaves. The heat is hurting both teachers and students.",
+      "summary_ko": "교사들이 학교 건물 온도를 추적하는 플랫폼을 만들었다. 많은 학교가 이른 폭염에 대비하지 못한 것으로 나타났다. 폭염은 교사와 학생 모두에게 영향을 미치고 있다.",
+      "title_en": "Spanish schools not ready for early heatwaves",
+      "title_ko": "스페인 학교들, 이른 폭염에 대비하지 못해",
+      "title_original": "Inside Spain: How schools aren't equipped to deal with the early heat",
+      "triviality_score": 3
     }
   ]
 }

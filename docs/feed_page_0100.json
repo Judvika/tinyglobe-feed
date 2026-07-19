@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 100,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-05T18:03:50+09:00",
-      "country": "CA",
-      "country_ko": "캐나다",
-      "fallback_reason": "",
-      "id": "11574340780d",
-      "image_url": "https://i.cbc.ca/ais/1.7493796,1756420186000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C105%2C1000%2C562%29%3BResize%3D620",
-      "lang_original": "en",
-      "lat": 49.8,
-      "lon": -119.5,
-      "processed_at": "2026-07-05T18:20:39+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Warm rivers and streams are becoming a growing concern for salmon in B.C.’s Interior with another low sockeye return anticipated in Okanagan waters this fall.",
-      "region": "British Columbia",
-      "source_name": "CBC Canada",
-      "source_type": "rss",
-      "source_url": "https://www.cbc.ca/news/canada/british-columbia/okanagan-sockeye-return-expected-to-stay-low-warm-rivers-9.7258978",
-      "summary_en": "Warm rivers and streams are worrying experts who track salmon in British Columbia. Another low sockeye salmon return is expected in Okanagan waters this fall.",
-      "summary_ko": "브리티시컬럼비아 내륙 지역의 강과 하천 수온 상승이 연어에 위협이 되고 있다. 올가을 오카나간 호수에서도 낮은 홍연어 회귀율이 예상된다.",
-      "title_en": "Warm rivers raise concern for salmon in B.C.'s Interior",
-      "title_ko": "따뜻해진 강물, BC주 내륙 연어에 위협",
-      "title_original": "Warm rivers raise concern for salmon in B.C.'s Interior",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-07-05T20:01:47+09:00",
       "country": "MX",
@@ -484,6 +460,30 @@
       "title_ko": "마디아프라데시주, ASMITA 남부지구 카누·카약 선수권대회 종합우승",
       "title_original": "Madhya Pradesh emerges overall champion at ASMITA South Zone canoeing and kayaking championship",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-06T00:03:21+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "849db2947aa2",
+      "image_url": "https://imagens.ebc.com.br/ZudDd8iIYK6xqc9GyntAuEkWEgs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/05/paulina.jpg?itok=mC1EHwfc",
+      "lang_original": "pt",
+      "lat": -21.12,
+      "lon": -56.48,
+      "processed_at": "2026-07-06T00:18:48+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Festival reúne este ano filmes de 13 países da América do Sul, consolidando o evento como um espaço de encontro entre culturas e linguagens do território sul-americano.",
+      "region": "Mato Grosso do Sul",
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/atriz-chilena-paulina-garcia-sera-homenageada-no-bonito-cinesur",
+      "summary_en": "The Bonito Cinesur film festival in Brazil will honor Chilean actress Paulina Garcia. This year the festival brings together films from 13 South American countries. It has become a meeting place for the cultures and languages of the South American region.",
+      "summary_ko": "브라질 보니투에서 열리는 시네수르 영화제가 올해 칠레 배우 파울리나 가르시아를 기념한다. 이번 영화제는 남미 13개국 영화를 초청하며 남미 문화와 언어의 교류의 장으로 자리 잡았다.",
+      "title_en": "Chilean actress Paulina Garcia honored at Bonito Cinesur film festival",
+      "title_ko": "칠레 배우 파울리나 가르시아, 브라질 보니투 영화제서 공로상",
+      "title_original": "Atriz chilena Paulina Garcia será a homenageada no Bonito Cinesur",
+      "triviality_score": 3
     }
   ]
 }

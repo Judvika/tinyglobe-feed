@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:07+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 32,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-20T10:03:46+09:00",
-      "country": "AU",
-      "country_ko": "호주",
-      "fallback_reason": "",
-      "id": "81f153b708f7",
-      "image_url": "https://live-production.wcms.abc-cdn.net.au/743b81f3e73169622e9ee4a73bc25f80?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=538&width=862&height=485&imformat=generic",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-20T14:24:21+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "One minute, Kate Scott was a LifeFlight volunteer. The next, she was a mother dialling Triple Zero. But the service that saved her daughter is facing a shortfall.",
-      "region": null,
-      "source_name": "ABC Australia News",
-      "source_type": "rss",
-      "source_url": "https://www.abc.net.au/news/2026-06-20/medical-student-survived-remote-cattle-property-crash/106797876",
-      "summary_en": "Kate Scott was once a LifeFlight volunteer. She later had to call Triple Zero for her own daughter after a crash on a remote cattle property. The rescue flight service that saved her daughter now faces a funding shortfall.",
-      "summary_ko": "케이트 스콧은 한때 LifeFlight 자원봉사자였다. 이후 외딴 목장에서 딸이 사고를 당해 직접 긴급전화를 걸어야 했다. 딸을 구한 구급 헬기 서비스가 현재 자금 부족에 직면했다.",
-      "title_en": "Family pushes for rescue flights after daughter survives remote crash",
-      "title_ko": "원격지 추락 사고 생존한 딸, 가족이 구급 헬기 지원 호소",
-      "title_original": "Family of medical student who survived remote crash advocates for rescue flights",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-06-20T10:11:13+09:00",
       "country": "US",
@@ -484,6 +460,30 @@
       "title_ko": "애들레이드 크로우스 팬들, 전직 선수 토니 모드라 쾌유 기원 박수",
       "title_original": "Applause for Modra as Ricciuto describes optimism following surgery",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-20T14:04:17+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "2004ce3ed5bb",
+      "image_url": "https://mid-noticias.curitiba.pr.gov.br/2026/thumb/00567177.jpg",
+      "lang_original": "pt",
+      "lat": -25.4284,
+      "lon": -49.2733,
+      "processed_at": "2026-06-20T18:18:20+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A nova estrutura da Sanepar atende diretamente os moradores do Tatuquara, Umbará, CIC, Sítio Cercado e Pinheirinho",
+      "region": "Paraná",
+      "source_name": "Prefeitura de Curitiba",
+      "source_type": "google",
+      "source_url": "https://www.curitiba.pr.gov.br/noticias/bairros-da-regiao-sul-de-curitiba-tem-nova-unidade-de-armazenamento-de-agua-tratada/83687?utm_content=mldn",
+      "summary_en": "The new Sanepar facility serves residents of Tatuquara, Umbará, CIC, Sítio Cercado and Pinheirinho. It improves treated water storage capacity in Curitiba's southern region.",
+      "summary_ko": "사네파르의 새 시설이 타투쿠아라, 움바라, CIC, 시치우 세르카두, 피네이리뉴 주민들에게 정수를 공급한다. 쿠리치바 남부 지역의 정수 저장 용량이 개선되었다.",
+      "title_en": "Southern Curitiba neighborhoods get new treated water storage unit",
+      "title_ko": "쿠리치바 남부 지역, 새 정수 저장 시설 준공",
+      "title_original": "Bairros da região sul de Curitiba têm nova unidade de armazenamento de água tratada - Prefeitura de Curitiba",
+      "triviality_score": 3
     }
   ]
 }

@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 81,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-01T10:02:33+09:00",
-      "country": "BR",
-      "country_ko": "브라질",
-      "fallback_reason": "",
-      "id": "0450b7cb5718",
-      "image_url": "https://www.bandab.com.br/wp-content/uploads/2026/06/carro-pega-fogo-br-277-cajuru-curitiba.jpg",
-      "lang_original": "pt",
-      "lat": -25.429,
-      "lon": -49.271,
-      "processed_at": "2026-07-01T10:16:30+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Uma família viveu momentos de tensão no fim da tarde desta terça-feira (30), após o carro em que estava pegar fogo na BR-277, no bairro Cajuru, em",
-      "region": "Curitiba, Paraná",
-      "source_name": "Banda B",
-      "source_type": "google",
-      "source_url": "https://www.bandab.com.br/transito/carro-pega-fogo-br-277-cajuru-curitiba-familia/",
-      "summary_en": "A family experienced tense moments Tuesday evening when their car caught fire on the BR-277 highway in the Cajuru neighborhood of Curitiba. A couple, two children and their dog were inside but escaped safely. The vehicle was completely destroyed by the flames.",
-      "summary_ko": "한 가족이 화요일 저녁 브라질 쿠리치바 BR-277 고속도로 카주루 지역에서 차량 화재로 긴박한 상황을 겪었다. 차에는 부부와 두 자녀, 반려견이 타고 있었으나 모두 무사히 대피했다. 차량은 불에 타 완전히 소실됐다.",
-      "title_en": "Car catches fire on BR-277 highway with couple, two children and dog inside; vehicle destroyed",
-      "title_ko": "BR-277 고속도로에서 부부·두 자녀·반려견 탄 차량 전소",
-      "title_original": "Vídeo impressionante! Carro pega fogo na BR-277 com casal, duas crianças e cachorro; veículo é destruído - Banda B",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-07-01T10:04:10+09:00",
       "country": "CA",
@@ -484,6 +460,30 @@
       "title_ko": "외국인 노동자, 미지급 초과수당 소송에서 2만 싱가포르 달러 승소",
       "title_original": "Foreign worker takes company to court for unpaid overtime, wins S$20,000",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-01T16:04:34+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "d10389a869c1",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/31e7ea4b1eb6ee632282cc524a747753?impolicy=wcms_watermark_news&cropH=1875&cropW=3333&xPos=0&yPos=2793&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-01T16:21:24+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Women share how a lack of sex is impacting their marriage, and ways they're trying to spice things up.",
+      "region": null,
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-07-01/women-on-wanting-to-end-the-sex-rut-in-their-marriage/106779846",
+      "summary_en": "Australian women open up about how a lack of intimacy is affecting their marriages. They share practical ways they are trying to bring the spark back.",
+      "summary_ko": "호주 여성들이 부족한 부부관계가 결혼 생활에 미치는 영향과 관계에 활력을 되찾기 위해 시도 중인 방법들을 털어놓는다.",
+      "title_en": "Women share being in a 'sex rut' and tips to climb out",
+      "title_ko": "'섹스 습관화'에 빠진 여성들과 빠져나오는 팁",
+      "title_original": "Women on being in a 'sex rut' and tips for climbing out",
+      "triviality_score": 4
     }
   ]
 }

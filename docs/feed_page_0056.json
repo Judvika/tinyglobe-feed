@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 56,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-25T12:17:56+09:00",
-      "country": "NO",
-      "country_ko": "노르웨이",
-      "fallback_reason": "",
-      "id": "c14d32098d83",
-      "image_url": "https://image.bygg.no/2218489.jpg?imageId=2218489&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-      "lang_original": "no",
-      "lat": 60.29,
-      "lon": 5.33,
-      "processed_at": "2026-06-25T12:22:15+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Kjøpesenter-området Lagunen i Bergen skal, ifølge planene, vokse seg til en liten by i byen.",
-      "region": "Bergen",
-      "source_name": "Bygg.no",
-      "source_type": "google",
-      "source_url": "https://www.bygg.no/bergen-bildekarusell-byutvikling/slik-skal-lagunen-i-bergen-bli-by-bildekarusell/2218420",
-      "summary_en": "The shopping center area Lagunen in Bergen will grow into a small city within the city under new development plans. The project aims to turn the area into a more urban and lively district.",
-      "summary_ko": "베르겐의 쇼핑센터 지역인 라구넨이 계획에 따라 도시 속의 작은 도시로 성장할 예정이다. 이 개발 프로젝트는 이 지역을 더욱 도시적이고 활기찬 공간으로 탈바꿈시키는 것을 목표로 한다.",
-      "title_en": "How Lagunen in Bergen is planned to become a city within the city",
-      "title_ko": "베르겐 라구넨, 도시 속 도시로 변신한다",
-      "title_original": "Slik skal Lagunen i Bergen bli by (Bildekarusell) - Bygg.no",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-06-25T12:18:14+09:00",
       "country": "NO",
@@ -484,6 +460,30 @@
       "title_ko": "콴타스, 앨리스스프링스-멜버른 직항 노선 중단",
       "title_original": "Qantas axes Alice Springs-Melbourne route amid high cost, falling demand",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-06-25T18:02:39+09:00",
+      "country": "DK",
+      "country_ko": "덴마크",
+      "fallback_reason": "",
+      "id": "7b97b25aec92",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2023/06/watermarks-logo-20210527-083311-3-1920x1280we.jpeg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-25T18:22:00+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Summer can leave foreigners baffled by Danes’ seasonal habits. Here's our guide to small talk when the sun comes out.",
+      "region": null,
+      "source_name": "The Local Denmark",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.dk/20230612/five-danish-phrases-you-only-hear-in-summer",
+      "summary_en": "Summer brings out special Danish phrases that can confuse foreigners. This guide explains small talk expressions Danes use when the sun appears.",
+      "summary_ko": "여름이 되면 덴마크인들이 쓰는 특별한 표현들에 외국인은 당황하기 마련입니다. 이 가이드는 햇살이 나면 덴마크 사람들이 사용하는 가벼운 대화 표현을 소개합니다.",
+      "title_en": "Five Danish phrases you only hear in summer",
+      "title_ko": "여름에만 듣는 다섯 가지 덴마크어 표현",
+      "title_original": "Five Danish phrases you only hear in summer",
+      "triviality_score": 4
     }
   ]
 }

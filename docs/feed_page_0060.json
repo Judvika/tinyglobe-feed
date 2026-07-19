@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 60,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-26T08:03:08+09:00",
-      "country": "AU",
-      "country_ko": "호주",
-      "fallback_reason": "",
-      "id": "6aa402b72e80",
-      "image_url": "https://live-production.wcms.abc-cdn.net.au/bfba7471df18fd759a8aa42ce98999b6?impolicy=wcms_watermark_news&cropH=2214&cropW=3936&xPos=0&yPos=80&width=862&height=485&imformat=generic",
-      "lang_original": "en",
-      "lat": -36.0,
-      "lon": 150.0,
-      "processed_at": "2026-06-26T08:19:05+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "The NSW government says a reset is needed to ensure the sustainable future of the abalone fishery along the south coast, but commercial divers say the reduction is a \"pretty disgusting state of affairs\".",
-      "region": "NSW south coast",
-      "source_name": "ABC Australia News",
-      "source_type": "rss",
-      "source_url": "https://www.abc.net.au/news/2026-06-26/abalone-allowable-catch-slashed/106840330",
-      "summary_en": "The NSW government has slashed the abalone catch limit by 41 percent along the south coast to ensure the fishery survives. Commercial divers say the cut destroys their livelihoods and is deeply unfair.",
-      "summary_ko": "NSW 주정부가 남부 해안 전복 어업의 지속가능성을 위해 포획 허용량을 41% 삭감했다. 상업 잠수부들은 이번 조치가 생업을 위협하는 가혹한 처사라고 반발했다.",
-      "title_en": "Abalone divers say 41 percent catch reduction a kick in the face",
-      "title_ko": "전복 어부들 \"포획량 41% 감축은 생존권 위협\"",
-      "title_original": "Abalone divers say 41 per cent catch reduction 'a kick in the face'",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-06-26T08:03:50+09:00",
       "country": "IN",
@@ -484,6 +460,30 @@
       "title_ko": "오스트리아, 기록적 폭염과 극심한 교통 정체 예고",
       "title_original": "Today in Austria: A roundup of the latest news on Friday",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-06-26T16:01:56+09:00",
+      "country": "GB",
+      "country_ko": "영국",
+      "fallback_reason": "",
+      "id": "2abfc95c8a8d",
+      "image_url": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-17.58.34-e1782456908816.jpeg",
+      "lang_original": "en",
+      "lat": 51.4545,
+      "lon": -2.5879,
+      "processed_at": "2026-06-26T16:18:31+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "It was no Kansas City nor was it Hamburg, but Bristol turned orange on Thursday evening for the first-ever fan march to a cricket match. The 50-odd Dutch supporters were unmissable, clad in their bright orange football and cricket jerseys turning heads of the locals as they snaked their way from the harbourside to the Bristol County Ground on Nevil Road – two miles away – on an extremely hot day. An orange inflatable bus bopped to the sounds of...",
+      "region": "Bristol, England",
+      "source_name": "DutchNews.nl",
+      "source_type": "rss",
+      "source_url": "https://www.dutchnews.nl/2026/06/an-orange-bus-dinghy-leads-march-in-bristol-for-womens-cricket/",
+      "summary_en": "About 50 Dutch cricket supporters in bright orange jerseys marched two miles through Bristol to the County Ground for a women's cricket match. An orange inflatable bus led the parade on a very hot evening. Locals watched as the fans made their way from the harbourside to Nevil Road.",
+      "summary_ko": "주황색 유니폼을 입은 네덜란드 크리켓 팬 약 50명이 브리스톨 거리를 2마일 행진하며 여자 크리켓 경기장으로 향했다. 주황색 풍선 버스가 대열 앞에서 무더운 저녁을 이끌었고, 항구에서 네빌 로드까지 이어진 행진에 지역 주민들의 시선이 쏠렸다.",
+      "title_en": "Dutch fans march through Bristol for women's cricket match",
+      "title_ko": "네덜란드 팬들, 브리스톨 여자 크리켓 경기 행진",
+      "title_original": "An orange bus dinghy leads march in Bristol for women’s cricket",
+      "triviality_score": 5
     }
   ]
 }

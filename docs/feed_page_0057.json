@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 57,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-25T18:02:39+09:00",
-      "country": "DK",
-      "country_ko": "덴마크",
-      "fallback_reason": "",
-      "id": "7b97b25aec92",
-      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2023/06/watermarks-logo-20210527-083311-3-1920x1280we.jpeg@webp",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-25T18:22:00+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Summer can leave foreigners baffled by Danes’ seasonal habits. Here's our guide to small talk when the sun comes out.",
-      "region": null,
-      "source_name": "The Local Denmark",
-      "source_type": "rss",
-      "source_url": "https://www.thelocal.dk/20230612/five-danish-phrases-you-only-hear-in-summer",
-      "summary_en": "Summer brings out special Danish phrases that can confuse foreigners. This guide explains small talk expressions Danes use when the sun appears.",
-      "summary_ko": "여름이 되면 덴마크인들이 쓰는 특별한 표현들에 외국인은 당황하기 마련입니다. 이 가이드는 햇살이 나면 덴마크 사람들이 사용하는 가벼운 대화 표현을 소개합니다.",
-      "title_en": "Five Danish phrases you only hear in summer",
-      "title_ko": "여름에만 듣는 다섯 가지 덴마크어 표현",
-      "title_original": "Five Danish phrases you only hear in summer",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-06-25T18:02:44+09:00",
       "country": "AU",
@@ -484,6 +460,30 @@
       "title_ko": "인도 15세 크리켓 선수, 잉글랜드서 별도 라커룸 배정",
       "title_original": "Why Vaibhav Sooryvanshi can’t share Team India’s changing room in England?",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-25T22:03:43+09:00",
+      "country": "IT",
+      "country_ko": "이탈리아",
+      "fallback_reason": "",
+      "id": "b500bf2e51e5",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2021/08/watermarks-logo-Pennichella-1.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-25T22:23:21+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Here's a word you might need after lunch on a long, hot Italian summer afternoon.",
+      "region": null,
+      "source_name": "The Local Italy",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.it/20210816/italian-word-of-the-day-pennichella",
+      "summary_en": "Pennichella is an Italian word for a short afternoon nap. People in Italy often take a pennichella after lunch on hot summer days. The word describes a simple pleasure of Italian daily life.",
+      "summary_ko": "Pennichella는 짧은 오후 낮잠을 뜻하는 이탈리아어 단어입니다. 이탈리아 사람들은 무더운 여름날 점심 식사 후에 페니켈라를 즐깁니다. 이 단어는 이탈리아 일상의 소박한 즐거움을 담고 있습니다.",
+      "title_en": "Italian word of the day: 'Pennichella'",
+      "title_ko": "오늘의 이탈리아어 단어: 'Pennichella'",
+      "title_original": "Italian word of the day: 'Pennichella'",
+      "triviality_score": 5
     }
   ]
 }

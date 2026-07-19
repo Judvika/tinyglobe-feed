@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 49,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-24T00:02:46+09:00",
-      "country": "CA",
-      "country_ko": "캐나다",
-      "fallback_reason": "",
-      "id": "5dc56411a38f",
-      "image_url": "https://i.cbc.ca/ais/86f85154-715a-4573-a27e-a5c34a0c4e47,1781882912584/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C860%2C483%29%3BResize%3D620",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-24T00:19:50+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Nearly two years into its provincewide ban on cellphones in Nova Scotia public schools, the province's education minister says it's helping to reduce distraction and improve learning. Some students are following the rules, while others need more convincing.",
-      "region": "Nova Scotia",
-      "source_name": "CBC Canada",
-      "source_type": "rss",
-      "source_url": "https://www.cbc.ca/news/canada/nova-scotia/school-cellphone-ban-nova-scotia-technology-learning-9.7241771",
-      "summary_en": "Nova Scotia banned cellphones in public schools two years ago. The education minister says the ban helps students focus and learn better. Some students follow the rules, but others still need to be convinced.",
-      "summary_ko": "노바스코샤 주는 2년 전 공립학교에서 휴대전화 사용을 전면 금지했습니다. 주 교육부 장관은 이 정책이 학생들의 주의력 분산을 줄이고 학습 향상에 도움이 되고 있다고 말합니다. 일부 학생들은 규칙을 잘 따르지만, 아직 설득이 더 필요한 학생들도 있습니다.",
-      "title_en": "Nova Scotia's school cellphone ban: 2 years in",
-      "title_ko": "노바스코샤 교실 휴대전화 금지, 2년째 진행 중",
-      "title_original": "N.S. banned cellphones in classrooms 2 years ago. Here's how it's going",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-06-24T00:03:30+09:00",
       "country": "CH",
@@ -484,6 +460,30 @@
       "title_ko": "과달라하라, 멕시코 월드컵 승리 환호와 홍수·전기자전거 소식",
       "title_original": "MND Local: Guadalajara cheers a big World Cup win for Mexico, plus flooding and e-bike news",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-24T04:03:08+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "68bd18eb96af",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/38c51eccd35844a456f2c9f18f377d17?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=60&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -33.77,
+      "lon": 151.12,
+      "processed_at": "2026-06-24T04:18:29+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Two senior academics from Macquarie University allege they were targeted for redundancy because of their union activity.",
+      "region": "New South Wales",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-06-24/macquarie-uni-targeted-staff-for-redundancy-union-fair-work/106827810",
+      "summary_en": "Two senior academics at Macquarie University say the school targeted them for layoffs because of their union activity. They have taken their case to the Fair Work Commission. One said the decision made them feel 'punched in the guts.'",
+      "summary_ko": "매쿼리대학교의 두 선임 교수가 노조 활동을 이유로 정리해고 대상이 되었다며 연방 공정위원회(Fair Work Commission)에 제소했다. 이들은 학교 측이 노조 활동가를 표적으로 삼았다고 주장한다. 한 교수는 이번 결정에 '배신감을 느꼈다'고 말했다.",
+      "title_en": "Sacked union-active academics take university to court",
+      "title_ko": "노조 활동한 교수들, 정리해고 부당함 주장하며 공정위원회 제소",
+      "title_original": "'Punched in the guts': Sacked academics take uni to Fair Work Commission",
+      "triviality_score": 3
     }
   ]
 }

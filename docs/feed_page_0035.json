@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 35,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-21T00:01:57+09:00",
-      "country": "BR",
-      "country_ko": "브라질",
-      "fallback_reason": "",
-      "id": "297d896632ce",
-      "image_url": "https://imagens.ebc.com.br/NVVGpWtARuVPw7TWKtlLpslpUho=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/20/print_de_aviso_de_alerta_da_defesa_civil.jpg?itok=cQ9ApWgn",
-      "lang_original": "pt",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-21T00:16:37+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Segundo o Dicionário Houaiss, a palavra misantropia significa “ódio pela humanidade, falta de sociabilidade, melancolia, depressão, tristeza”.",
-      "region": null,
-      "source_name": "Agencia Brasil",
-      "source_type": "rss",
-      "source_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/misantropia-saiba-o-que-significa-mensagem-disparada-em-alerta-falso",
-      "summary_en": "A fake alert message in Brazil used the word 'misantropia' (misanthropy), puzzling many recipients. The news explains the dictionary definition of the word.",
-      "summary_ko": "브라질에서 가짜 경고 문자에 'misantropia'(인간혐오)라는 단어가 쓰여 수신자들이 당황했다. 언론이 Houaiss 사전을 인용해 이 단어의 의미를 풀이했다.",
-      "title_en": "Misanthropy: The Word That Confused Brazilians in a Fake Alert",
-      "title_ko": "'인간혐오'란? 브라질 가짜 경고로 화제된 단어",
-      "title_original": "Misantropia: saiba o que significa mensagem disparada em alerta falso",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-06-21T00:01:58+09:00",
       "country": "MX",
@@ -484,6 +460,30 @@
       "title_ko": "유럽 폭염에 프랑스, 축제 행사장 주류 판매 금지",
       "title_original": "Europe swelters under heatwave, France restricts alcohol consumption",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-06-21T04:02:22+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "49e182ed2465",
+      "image_url": "https://imagens.ebc.com.br/EvxdUTZr6lIgjud0Ullv4rH17oI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/cbd-4474903.jpg?itok=eTxicNpp",
+      "lang_original": "pt",
+      "lat": -3.85,
+      "lon": -32.42,
+      "processed_at": "2026-06-21T04:15:49+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Tratamento com canabidiol foi viabilizado pelo Projeto Noronha, iniciativa conjunta entre a Abecmed, AMA-FN e a Administração Distrital da ilha.",
+      "region": "Fernando de Noronha",
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/projeto-apoia-maes-e-criancas-atipicas-tratadas-base-de-cannabis",
+      "summary_en": "The Noronha Project provides cannabidiol treatment to mothers and children with special needs on Fernando de Noronha island. The initiative is a partnership between Abecmed, AMA-FN and the local district administration.",
+      "summary_ko": "노로냐 프로젝트가 페르난도 데 노로냐 섬에서 엄마와 특수 돌봄이 필요한 아이들에게 카나비디올 치료를 지원하고 있다. 이 프로젝트는 Abecmed, AMA-FN 및 지역 행정부의 협력으로 운영된다.",
+      "title_en": "Project helps mothers and special-needs children with cannabis treatment on Noronha Island",
+      "title_ko": "페르난도 데 노로냐 섬, 엄마·특수돌봄아동 위한 카나비스 치료 프로젝트",
+      "title_original": "Projeto apoia mães e crianças atípicas tratadas à base de cannabis",
+      "triviality_score": 4
     }
   ]
 }

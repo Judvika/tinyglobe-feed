@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 109,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-08T02:03:48+09:00",
-      "country": "BR",
-      "country_ko": "브라질",
-      "fallback_reason": "",
-      "id": "633e47f3df13",
-      "image_url": "https://www.bandab.com.br/wp-content/uploads/2026/07/rua-pub-bar-curitiba-reboucas-karaoke-1.jpg",
-      "lang_original": "pt",
-      "lat": -25.429,
-      "lon": -49.267,
-      "processed_at": "2026-07-08T02:18:56+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Rua Pub em Curitiba aposta em nostalgia dos anos 90 e 2000, karaokê, DJs, pizzas e drinks autorais. Uma saída comum vira experiência completa.",
-      "region": "Paraná",
-      "source_name": "Banda B",
-      "source_type": "google",
-      "source_url": "https://www.bandab.com.br/cultura/gastronomia/rua-pub-um-dos-bares-mais-divertidos-curitiba-experiencia/",
-      "summary_en": "Rua Pub in Curitiba brings back the 90s and 2000s with karaoke, DJs, pizzas and signature drinks. What looks like an ordinary spot turns out to be a full experience inside.",
-      "summary_ko": "쿠리치바의 루아 펍(Rua Pub)이 90년대와 2000년대 향수를 불러일으키는 카리브 음악과 노래방, DJ, 피자, 시그니처 칵테일로 인기다. 겉보기엔 평범하지만 안은 완전히 다른 경험을 선사한다.",
-      "title_en": "Hidden 90s nostalgia pub surprises visitors in Curitiba",
-      "title_ko": "쿠리치바에 숨은 90년대 감성 펍, 겉으론 몰라",
-      "title_original": "Quem passa na frente nem imagina o que existe lá dentro; conheça a experiência do Rua Pub em Curitiba - Banda B",
-      "triviality_score": 5
-    },
     {
       "collected_at": "2026-07-08T02:08:54+09:00",
       "country": "AT",
@@ -484,6 +460,30 @@
       "title_ko": "'급한 성격' 아기, 쿠리치바에서 병원 도착 전 구급차 안에서 탄생",
       "title_original": "Bebê ‘apressadinho’ nasce dentro de ambulância na Linha Verde antes de chegar ao hospital em Curitiba - Banda B",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-08T08:07:28+09:00",
+      "country": "BE",
+      "country_ko": "벨기에",
+      "fallback_reason": "",
+      "id": "f48b5efe121f",
+      "image_url": "https://newseu.cgtn.com/news/2021-05-15/Solved-140-year-old-mystery-of-Belgian-mayor-s-lost-heart-109LvV4G3Sg/img/ca9048836eb340aa8bb2f9506399d585/ca9048836eb340aa8bb2f9506399d585-1280.png",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-08T08:20:07+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Months of sleuthing and high-tech x-rays confirmed the copper box found in the fountain last summer contains Pierre David's 250-year old heart.",
+      "region": null,
+      "source_name": "newseu.cgtn.com",
+      "source_type": "google",
+      "source_url": "https://newseu.cgtn.com/news/2021-05-15/Solved-140-year-old-mystery-of-Belgian-mayor-s-lost-heart-109LvV4G3Sg/index.html",
+      "summary_en": "A copper box found in a fountain last summer was confirmed to contain the 250-year-old heart of Pierre David, a former Belgian mayor. Months of detective work and high-tech x-rays solved the mystery.",
+      "summary_ko": "지난 여름 분수대에서 발견된 구리 상자에 250년 전 벨기에 전 시장 피에르 다비드의 심장이 들어 있는 것으로 확인됐다. 첨단 X선과 수개월의 추적 조사 끝에 140년 된 미스터리가 풀렸다.",
+      "title_en": "140-year mystery of Belgian mayor's lost heart solved",
+      "title_ko": "벨기에 전 시장 심장, 140년 만에 실종 미스터리 해결",
+      "title_original": "Solved: 140 year-old mystery of Belgian mayor's lost heart - newseu.cgtn.com",
+      "triviality_score": 5
     }
   ]
 }

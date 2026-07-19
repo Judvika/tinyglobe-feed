@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 91,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-03T16:02:44+09:00",
-      "country": "IN",
-      "country_ko": "인도",
-      "fallback_reason": "",
-      "id": "8fe62f13473a",
-      "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/5uwalg/article71177627.ece/alternates/LANDSCAPE_1200/Lok.jpeg",
-      "lang_original": "en",
-      "lat": 16.43,
-      "lon": 80.57,
-      "processed_at": "2026-07-03T16:21:40+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "IT Minister Nara Lokesh laid the foundation for ₹6.30-crore development works at the Sri Lakshmi Narasimha Swamy temple, including a new Yagasala.",
-      "region": "Andhra Pradesh",
-      "source_name": "The Hindu National",
-      "source_type": "rss",
-      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/lokesh-lays-foundation-for-630-crore-works-at-mangalagiri-sri-lakshmi-narasimha-swamy-temple/article71177480.ece",
-      "summary_en": "IT Minister Nara Lokesh laid the foundation for new development works worth ₹6.30 crore at the Sri Lakshmi Narasimha Swamy temple in Mangalagiri. The project includes building a new Yagasala and other facilities.",
-      "summary_ko": "IT 장관 나타 로케시가 망갈라기리 스리 락슈미 나라심하 스와미 사원에서 6.30크로르 규모의 개발 공사 기공식을 가졌다. 이 프로젝트에는 새 야가살라(제사 시설) 건립이 포함된다.",
-      "title_en": "Minister Lokesh starts ₹6.30-crore temple development works in Mangalagiri",
-      "title_ko": "로케시 장관, 망갈라기리 사원에 6.30크로르 개발 공사 기공",
-      "title_original": "Lokesh lays foundation for ₹6.30-crore works at Mangalagiri Sri Lakshmi Narasimha Swamy temple",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-07-03T16:03:24+09:00",
       "country": "IN",
@@ -484,6 +460,30 @@
       "title_ko": "퀸즐랜드 재활용 수거소 계속 운영된다",
       "title_original": "Recycling depots to remain open amid safety concerns",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-03T20:02:00+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "540209434278",
+      "image_url": "https://th-i.thgim.com/public/incoming/7tnu1t/article71178307.ece/alternates/LANDSCAPE_1200/Structural-shifGRTG2A1H2.4.jpg.jpg",
+      "lang_original": "en",
+      "lat": 15.3173,
+      "lon": 75.7139,
+      "processed_at": "2026-07-03T20:19:51+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Karnataka's SC students await tuition refunds for management/NRI seats, despite government allocations and promises from a year ago.",
+      "region": "Karnataka",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/government-yet-to-refund-tuition-fee-of-sc-students-who-got-managementnri-medical-engineering-seats/article71175091.ece",
+      "summary_en": "Scheduled Caste students in Karnataka who paid high fees for management or NRI seats in medical and engineering colleges are still waiting for refunds. The government promised to reimburse them over a year ago but has not yet paid. Students say the delay is causing financial hardship.",
+      "summary_ko": "카르나타카 주에서 관리자 추천·NRI 특별전형으로 의대·공대에 진학한 SC(지정 카스트) 학생들이 납부한 등록금을 아직 돌려받지 못하고 있다. 주 정부는 1년 전 보상을 약속했으나 지금까지 이행하지 않았으며, 학생들은 재정적 어려움을 호소하고 있다.",
+      "title_en": "Karnataka delays tuition refunds for SC students",
+      "title_ko": "카르나타카 주, SC 학생 등록금 환급 계속 지연",
+      "title_original": "Karnataka government yet to refund tuition fee of SC students who got management/NRI medical, engineering seats",
+      "triviality_score": 4
     }
   ]
 }

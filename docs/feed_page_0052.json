@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 52,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-24T18:01:55+09:00",
-      "country": "FI",
-      "country_ko": "핀란드",
-      "fallback_reason": "",
-      "id": "b696134a484b",
-      "image_url": "https://img.img-cdn.yle.fi/crop_extract,w_1919,h_1080,x_0,y_0/crop_fill,w_1200,h_628/f_auto/39-16644136a38ea13c357e/1782114972",
-      "lang_original": "en",
-      "lat": 60.4664,
-      "lon": 26.9458,
-      "processed_at": "2026-06-24T18:19:58+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Encounters with lynx in Finland are rare, but becoming more common as their population increases.",
-      "region": "Kotka",
-      "source_name": "YLE News",
-      "source_type": "rss",
-      "source_url": "https://yle.fi/a/74-20233009",
-      "summary_en": "A lynx was spotted relaxing in a yard in Kotka, Finland. Encounters with lynx are still rare in the country, but they are becoming more common as the population grows.",
-      "summary_ko": "핀란드 Kotka의 한 마당에서 스라소니가 느긋하게 쉬는 모습이 포착됐다. 핀란드에서 스라소니 조우는 아직 드물지만, 개체 수 증가로 점점 더 흔해지고 있다.",
-      "title_en": "Watch: Lynx lounges in Kotka",
-      "title_ko": "Kotka에서 스라소니가 느긋하게 쉬는 모습 포착",
-      "title_original": "Watch: Lynx lounges in Kotka",
-      "triviality_score": 5
-    },
     {
       "collected_at": "2026-06-24T18:02:42+09:00",
       "country": "DK",
@@ -484,6 +460,30 @@
       "title_ko": "타스마니아에서 가장 사랑스러운 작은 마을 10곳",
       "title_original": "10 Of The Most Adorable Small Towns In Tasmania - WorldAtlas",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-24T20:09:28+09:00",
+      "country": "FR",
+      "country_ko": "프랑스",
+      "fallback_reason": "",
+      "id": "58680042d357",
+      "image_url": "https://cdn-s-www.leprogres.fr/images/32DEE6C6-C57E-4465-BB54-AF2C647256B2/FB1200/photo-1782294855.jpg",
+      "lang_original": "fr",
+      "lat": 45.764,
+      "lon": 4.8357,
+      "processed_at": "2026-06-24T20:25:36+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Pour la première fois de son histoire, le Village Cinéma du Festival Lumière prendra ses quartiers au cœur de la Métropole à la Cité de ...",
+      "region": "Auvergne-Rhône-Alpes",
+      "source_name": "Le Progrès",
+      "source_type": "google",
+      "source_url": "https://www.leprogres.fr/culture-loisirs/2026/06/24/le-village-cinema-du-festival-lumiere-va-s-installer-dans-un-batiment-emblematique-lyonnais",
+      "summary_en": "For the first time ever, the Cinema Village of the Lumière Festival will be set up in a landmark building in Lyon. The popular open-air cinema space will operate at the Cité de... during the event. This is a big change for the festival's outdoor movie area.",
+      "summary_ko": "뤼미에르 축제의 시네마 빌리지가 사상 처음으로 리옹의 랜드마크 건물에 자리 잡습니다. 야외 영화 공간은 축제 기간 동안 시테 드...에서 운영될 예정입니다. 축제의 야외 상영 공간에 큰 변화가 생긴 것입니다.",
+      "title_en": "Lyon Film Festival's Cinema Village moves to iconic building",
+      "title_ko": "리옹 영화제 시네마 빌리지, 상징적 건물로 이전",
+      "title_original": "Lyon. Le Village Cinéma du Festival Lumière va s’installer dans un bâtiment emblématique lyonnais - Le Progrès",
+      "triviality_score": 4
     }
   ]
 }

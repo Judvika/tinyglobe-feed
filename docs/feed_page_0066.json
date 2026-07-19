@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 66,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-27T14:02:36+09:00",
-      "country": "MX",
-      "country_ko": "멕시코",
-      "fallback_reason": "",
-      "id": "d1e5aea4dc0c",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--JfQCxBAs--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-27T042352Z_1_LYNXMPEM5Q06W_RTROPTP_3_SOCCER-WORLDCUP-URY-ESP.JPG?itok=O0IaCG5J",
-      "lang_original": "en",
-      "lat": 20.6597,
-      "lon": -103.3496,
-      "processed_at": "2026-06-27T14:19:28+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "GUADALAJARA, Mexico, June 26 : Manolo el del Bombo is gone, but in Mexico the drum still speaks for him.Spain beat Uruguay 1-0 on Friday to top Group H and reach the knockout stage of the World Cup. For the Spain supporters in Guadalajara, the victory was tinged with sadness. Manuel Caceres, the drum-p",
-      "region": "Guadalajara",
-      "source_name": "CNA Singapore",
-      "source_type": "rss",
-      "source_url": "https://www.channelnewsasia.com/sport/spain-fans-keep-manolos-drumbeat-alive-in-mexico-6214821",
-      "summary_en": "Spain beat Uruguay 1-0 to reach the World Cup knockout stage. For Spain supporters in Guadalajara, the joy of victory mixed with sadness. They kept beating Manolo el del Bombo's drum to honor the famous fan who is no longer there.",
-      "summary_ko": "스페인이 우루과이를 1-0으로 꺾고 월드컵 조별리그를 통과했다. 과달라하라의 스페인 팬들은 승리의 기쁨과 함께 아쉬움도 느꼈다. 그들은 전설적인 팬 마놀로 엘 델 봄보의 북을 대신해 두드리며 그의 전통을 이어갔다.",
-      "title_en": "Spain fans keep Manolo's drumbeat alive in Mexico",
-      "title_ko": "멕시코에서 울려 퍼진 마놀로의 북소리, 스페인 팬들이 이어가다",
-      "title_original": "Spain fans keep Manolo's drumbeat alive in Mexico",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-06-27T14:04:46+09:00",
       "country": "CV",
@@ -484,6 +460,30 @@
       "title_ko": "이번 주 덴마크 주요 일정",
       "title_original": "On the Agenda: What's happening in Denmark this week",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-06-27T18:03:12+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "fd9efc9427eb",
+      "image_url": "https://www.noticiasdelvino.com/wp-content/uploads/Revilla.jpg",
+      "lang_original": "es",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-27T18:24:39+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "En plena ruta hacia la Región de Murcia, Miguel Ángel Revilla decidió abandonar la autovía para darse un homenaje muy concreto: un plato de paella en un discreto restaurante de un pueblo de Valencia. El expresidente cántabro convirtió esa parada en una declaración pública sobre cuál es, para él, la auténtica paella valenciana, un plato ... Leer más",
+      "region": "Valencia",
+      "source_name": "Noticias del Vino",
+      "source_type": "google",
+      "source_url": "https://www.noticiasdelvino.com/escapadas/2026/06/27/la-paella-del-restaurante-de-un-pequeno-pueblo-de-valencia-que-ha-cautivado-a-miguel-angel-revilla-65327/",
+      "summary_en": "Miguel Angel Revilla left the highway during a trip to Murcia. He stopped at a small restaurant in a Valencia village for paella. The former politician declared this place serves the real Valencian paella.",
+      "summary_ko": "미겔 앙헬 레비야 전 칸타브리아 주지사가 무르시아로 가는 길에 고속도로를 벗어나 발렌시아의 작은 마을 식당에 들렀다. 그는 이곳이야말로 진정한 발렌시아식 파에야를 맛볼 수 있는 곳이라며 공개적으로 극찬했다.",
+      "title_en": "Politician takes detour for 'true' Valencian paella at small village restaurant",
+      "title_ko": "작은 발렌시아 마을 식당의 파에야, 전직 정치인을 사로잡다",
+      "title_original": "La paella del restaurante de un pequeño pueblo de Valencia que ha cautivado a Miguel Ángel Revilla - Noticias del Vino",
+      "triviality_score": 4
     }
   ]
 }

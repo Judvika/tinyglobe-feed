@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 106,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-07T12:01:46+09:00",
-      "country": "IN",
-      "country_ko": "인도",
-      "fallback_reason": "",
-      "id": "c55193584761",
-      "image_url": "https://th-i.thgim.com/public/incoming/qa5244/article71191980.ece/alternates/LANDSCAPE_1200/11908_6_7_2026_17_27_45_4_DSC_6702.JPG",
-      "lang_original": "en",
-      "lat": 19.076,
-      "lon": 72.8777,
-      "processed_at": "2026-07-07T12:17:56+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Weather today LIVE: Get updates on Mumbai rain, traffic, train services and IMD weather forecasts as heavy showers continue unabated across the city.",
-      "region": "Maharashtra",
-      "source_name": "The Hindu National",
-      "source_type": "rss",
-      "source_url": "https://www.thehindu.com/news/national/india-weather-today-live-updates-monsoon-rain-mumbai-maharashtra-imd-rain-alert-july-7-2026/article71191976.ece",
-      "summary_en": "Mumbai remains under heavy monsoon rain with an orange alert from the weather department. Schools and colleges in the city are closed as rain continues to disrupt traffic, train services, and daily life.",
-      "summary_ko": "뭄바이에 기록적인 장맛비가 이어지면서 기상 당국이 주의보를 발령했다. 시내 학교와 대학이 휴교했으며, 출근길 교통과 열차 운행에도 큰 차질이 빚어지고 있다.",
-      "title_en": "Mumbai schools and colleges closed due to heavy rain, orange alert declared",
-      "title_ko": "뭄바이 폭우로 학교·대학 휴교, 주의보 발령",
-      "title_original": "Mumbai schools and colleges closed, IMD declares ‘orange’ alert | Monsoon LIVE updates",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-07-07T12:03:02+09:00",
       "country": "AU",
@@ -484,6 +460,30 @@
       "title_ko": "사이버라바드 음식점 4곳 위생 점검서 위반 사항 적발",
       "title_original": "Sanitation lapses found during food safety inspections at four Cyberabad restaurants",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-07T18:01:35+09:00",
+      "country": "SE",
+      "country_ko": "스웨덴",
+      "fallback_reason": "",
+      "id": "99bdb2caaa89",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-sdlfh3P-b5tHqE_NormalHires.jpg@webp",
+      "lang_original": "en",
+      "lat": 55.605,
+      "lon": 13.003,
+      "processed_at": "2026-07-07T18:16:36+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "English speakers who don't speak Swedish can currently only donate blood in Stockholm, Gothenburg and Uppsala, but The Local has been told of plans to roll out the service to southern Sweden this autumn.",
+      "region": "Skåne",
+      "source_name": "The Local Sweden",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.se/20260707/sweden-to-roll-out-english-language-blood-donation-in-malmo-and-lund",
+      "summary_en": "English speakers who don't speak Swedish can currently only donate blood in Stockholm, Gothenburg and Uppsala. New plans will extend the service to southern Sweden this autumn.",
+      "summary_ko": "스웨덴어를 못하는 영어권 거주자는 현재 스톡홀름, 예테보리, 웁살라에서만 헌혈이 가능하다. 올 가을 남부 스웨덴의 말뫼와 룬드로 영어 헌혈 서비스가 확대될 예정이다.",
+      "title_en": "Sweden to roll out English-language blood donation in Malmö and Lund",
+      "title_ko": "스웨덴, 말뫼·룬드에서 영어 헌혈 서비스 확대",
+      "title_original": "Sweden to roll out English-language blood donation in Malmö and Lund",
+      "triviality_score": 3
     }
   ]
 }

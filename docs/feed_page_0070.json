@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 70,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-28T14:01:53+09:00",
-      "country": "DK",
-      "country_ko": "덴마크",
-      "fallback_reason": "",
-      "id": "b3544097d9c1",
-      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/06/watermarks-logo-20251103-170728-L-1920x1279web.jpg@webp",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-28T14:18:25+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Denmark’s rail operator DSB scrapped its popular summer travel pass last year, but all is not lost if you’re on the lookout for a heavily discounted train trip this summer.",
-      "region": null,
-      "source_name": "The Local Denmark",
-      "source_type": "rss",
-      "source_url": "https://www.thelocal.dk/20260609/how-to-save-on-rail-travel-in-denmark-in-the-summer-of-2026",
-      "summary_en": "Denmark's rail operator DSB stopped its popular summer travel pass last year. But you can still find cheap train trips this summer with a few tricks.",
-      "summary_ko": "덴마크 철도 운영사 DSB가 인기 있었던 여름 여행 패스를 작년에 없앴다. 하지만 몇 가지 요령만 알면 올여름에도 저렴한 기차 여행을 즐길 수 있다.",
-      "title_en": "How to save on rail travel in Denmark in the summer of 2026",
-      "title_ko": "2026년 여름, 덴마크 철도 여행 할인받는 법",
-      "title_original": "How to save on rail travel in Denmark in the summer of 2026",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-06-28T14:01:55+09:00",
       "country": "NO",
@@ -484,6 +460,30 @@
       "title_ko": "이번 일요일 쿠리티바 노점 장터 주소와 시간 안내",
       "title_original": "Veja os endereços e horários das feiras de rua em Curitiba no domingo - band.com.br",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-28T18:05:25+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "45c81a965683",
+      "image_url": "https://elmon.cat/escapadeta/app/uploads/sites/32/2026/06/ocin-2026-06-24t185844.632.png",
+      "lang_original": "es",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-28T18:22:22+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "El pueblo de Valencia de 700 habitantes con la piscina natural más espectacular y fotografiada de España",
+      "region": "Valencia",
+      "source_name": "El Món",
+      "source_type": "google",
+      "source_url": "https://elmon.cat/escapadeta/es/destinos/el-pueblo-de-valencia-de-700-habitantes-con-la-piscina-natural-mas-espectacular-y-fotografiada-de-espana-9441/",
+      "summary_en": "A small town in Valencia with only 700 residents is home to what many call Spain's most beautiful natural swimming pool. The spot has become famous on social media for its crystal-clear water and stunning surroundings.",
+      "summary_ko": "발렌시아에 있는 주민 700명의 작은 마을에 스페인에서 가장 멋지다는 평가를 받는 자연 수영장이 있다. 맑고 투명한 물과 주변 경관 덕분에 SNS에서 큰 화제를 모으고 있다.",
+      "title_en": "A village of 700 people in Valencia has Spain's most spectacular natural pool",
+      "title_ko": "주민 700명 발렌시아 마을, 스페인에서 가장 아름다운 자연 수영장으로 유명세",
+      "title_original": "El pueblo de Valencia de 700 habitantes con la piscina natural más espectacular y fotografiada de España - El Món",
+      "triviality_score": 4
     }
   ]
 }

@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 121,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-10T20:02:31+09:00",
-      "country": "FI",
-      "country_ko": "핀란드",
-      "fallback_reason": "",
-      "id": "5a3fadb6d805",
-      "image_url": "https://img.img-cdn.yle.fi/crop_extract,w_1920,h_1080,x_0,y_0/crop_fill,w_1200,h_628/f_auto/39-16540326a1fd1c41d138/1780470265",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-07-10T20:20:39+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Wider availability of free condoms could help reduce infections, a THL research professor suggests.",
-      "region": null,
-      "source_name": "YLE News",
-      "source_type": "rss",
-      "source_url": "https://yle.fi/a/74-20235813",
-      "summary_en": "Sexually transmitted diseases are spreading differently in Finland after the Russian border closure. A THL research professor suggests making free condoms more widely available. This could help reduce infections.",
-      "summary_ko": "러시아 국경 폐쇄 이후 핀란드에서 성병 확산 양상이 달라졌다. THL 연구 교수는 무료 콘돔 공급을 확대하면 감염을 줄이는 데 도움이 될 수 있다고 제안했다.",
-      "title_en": "Finland sees new STD trends after Russia closed its border",
-      "title_ko": "러시아 국경 폐쇄 후 핀란드 성병 확산 양상 변화",
-      "title_original": "Sexually transmitted diseases spread differently in Finland since Russian border closure",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-07-10T20:03:21+09:00",
       "country": "NL",
@@ -484,6 +460,30 @@
       "title_ko": "시바모가에서 급식 노동자 단체 항의",
       "title_original": "Midday meal workers stage protest in Shivamogga",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-10T22:05:20+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "0597f7b30be6",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "lang_original": "en",
+      "lat": 10.787,
+      "lon": 79.1378,
+      "processed_at": "2026-07-10T22:29:16+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Thanjavur Consumers Protection Association demands a White Paper on the HR and CE Department addressing various grievances and practices.",
+      "region": "Tamil Nadu",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/cities/Tiruchirapalli/consumer-association-demands-white-paper-on-hr-and-ce-department/article71206454.ece",
+      "summary_en": "A consumer protection association in Thanjavur, India is demanding a detailed report about the HR and CE Department. They want to know about problems and unfair practices in the department. The report will help address concerns of local residents.",
+      "summary_ko": "인도 타ñ자부르 소비자보호협회가 HR 및 CE부서에 대한 공식 보고서를 요구하고 있다. 그들은 부서의 여러 불만사항과 관행을 다루는 백서를 원한다. 이 보고서는 시민들의 우려를 해결하는 데 도움이 될 것으로 기대된다.",
+      "title_en": "Consumer group demands official report on government department",
+      "title_ko": "타ñ자부르 소비자단체, 정부부서 감사보고서 요구",
+      "title_original": "Consumer association demands White Paper on HR and CE Department",
+      "triviality_score": 4
     }
   ]
 }

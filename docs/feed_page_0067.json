@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 67,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-27T18:03:12+09:00",
-      "country": "ES",
-      "country_ko": "스페인",
-      "fallback_reason": "",
-      "id": "fd9efc9427eb",
-      "image_url": "https://www.noticiasdelvino.com/wp-content/uploads/Revilla.jpg",
-      "lang_original": "es",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-27T18:24:39+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "En plena ruta hacia la Región de Murcia, Miguel Ángel Revilla decidió abandonar la autovía para darse un homenaje muy concreto: un plato de paella en un discreto restaurante de un pueblo de Valencia. El expresidente cántabro convirtió esa parada en una declaración pública sobre cuál es, para él, la auténtica paella valenciana, un plato ... Leer más",
-      "region": "Valencia",
-      "source_name": "Noticias del Vino",
-      "source_type": "google",
-      "source_url": "https://www.noticiasdelvino.com/escapadas/2026/06/27/la-paella-del-restaurante-de-un-pequeno-pueblo-de-valencia-que-ha-cautivado-a-miguel-angel-revilla-65327/",
-      "summary_en": "Miguel Angel Revilla left the highway during a trip to Murcia. He stopped at a small restaurant in a Valencia village for paella. The former politician declared this place serves the real Valencian paella.",
-      "summary_ko": "미겔 앙헬 레비야 전 칸타브리아 주지사가 무르시아로 가는 길에 고속도로를 벗어나 발렌시아의 작은 마을 식당에 들렀다. 그는 이곳이야말로 진정한 발렌시아식 파에야를 맛볼 수 있는 곳이라며 공개적으로 극찬했다.",
-      "title_en": "Politician takes detour for 'true' Valencian paella at small village restaurant",
-      "title_ko": "작은 발렌시아 마을 식당의 파에야, 전직 정치인을 사로잡다",
-      "title_original": "La paella del restaurante de un pequeño pueblo de Valencia que ha cautivado a Miguel Ángel Revilla - Noticias del Vino",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-06-27T18:12:44+09:00",
       "country": "FR",
@@ -484,6 +460,30 @@
       "title_ko": "표절 논란: K.R. 미라, 하리타 사비트리에 법률 공문 발송",
       "title_original": "Plagiarism row: K.R. Meera sends legal notice to Haritha Savithri",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-06-28T00:03:42+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "903422ca5521",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "lang_original": "en",
+      "lat": 9.5,
+      "lon": 76.33,
+      "processed_at": "2026-06-28T00:23:47+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "DYFI protests against CM's rejection of a local holiday for the historic Champakulam Moolam Boat Race in Alappuzha.",
+      "region": "Kerala",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/kerala/boat-race-row-dyfi-stages-protest-against-cm/article71154871.ece",
+      "summary_en": "Youth group DYFI protested against the Chief Minister's refusal to declare a local holiday for the historic Champakulam Moolam Boat Race in Alappuzha, Kerala. The boat race is a centuries-old tradition on the Pamba River.",
+      "summary_ko": "케랄라 알라푸자에서 열리는 유서 깊은 참파쿨람 물람 보트 경주에 대해 주 수반이 지역 공휴일 지정을 거부하자 청년단체 DYFI가 항의 시위를 벌였다. 이 보트 경주는 팜바 강에서 수백 년째 이어져 온 전통이다.",
+      "title_en": "Kerala youth stage protest over boat race holiday dispute",
+      "title_ko": "케랄라 전통 보트 경주 공휴일 거부 항의",
+      "title_original": "Boat race row: DYFI stages protest against CM",
+      "triviality_score": 4
     }
   ]
 }

@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:07+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 34,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-20T20:02:10+09:00",
-      "country": "ES",
-      "country_ko": "스페인",
-      "fallback_reason": "",
-      "id": "7339751642e0",
-      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/06/watermarks-logo-AFP__20250701__64DV6T3__v2__MidRes__TopshotFranceWeatherHeatwave.jpg@webp",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-20T20:20:26+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "In this week’s Inside Spain, we look at how a group of teachers has set up a temperature-monitoring platform which exposes how many Spanish school buildings remain ill-equipped for early heatwaves, and the impact on teachers and pupils.",
-      "region": null,
-      "source_name": "The Local Spain",
-      "source_type": "rss",
-      "source_url": "https://www.thelocal.es/20260620/inside-spain-how-schools-arent-equipped-to-deal-with-the-early-heat",
-      "summary_en": "A group of teachers built a platform to track temperatures in schools. It shows many school buildings are not prepared for early heatwaves. The heat is hurting both teachers and students.",
-      "summary_ko": "교사들이 학교 건물 온도를 추적하는 플랫폼을 만들었다. 많은 학교가 이른 폭염에 대비하지 못한 것으로 나타났다. 폭염은 교사와 학생 모두에게 영향을 미치고 있다.",
-      "title_en": "Spanish schools not ready for early heatwaves",
-      "title_ko": "스페인 학교들, 이른 폭염에 대비하지 못해",
-      "title_original": "Inside Spain: How schools aren't equipped to deal with the early heat",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-06-20T20:02:24+09:00",
       "country": "UG",
@@ -484,6 +460,30 @@
       "title_ko": "야이트바흐알름에서의 목장 여인 생활",
       "title_original": "Das Leben als Sennerin auf der Jaidbachalm im Krimml - RTS Regional TV Salzburg",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-21T00:01:57+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "297d896632ce",
+      "image_url": "https://imagens.ebc.com.br/NVVGpWtARuVPw7TWKtlLpslpUho=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/20/print_de_aviso_de_alerta_da_defesa_civil.jpg?itok=cQ9ApWgn",
+      "lang_original": "pt",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-21T00:16:37+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Segundo o Dicionário Houaiss, a palavra misantropia significa “ódio pela humanidade, falta de sociabilidade, melancolia, depressão, tristeza”.",
+      "region": null,
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/misantropia-saiba-o-que-significa-mensagem-disparada-em-alerta-falso",
+      "summary_en": "A fake alert message in Brazil used the word 'misantropia' (misanthropy), puzzling many recipients. The news explains the dictionary definition of the word.",
+      "summary_ko": "브라질에서 가짜 경고 문자에 'misantropia'(인간혐오)라는 단어가 쓰여 수신자들이 당황했다. 언론이 Houaiss 사전을 인용해 이 단어의 의미를 풀이했다.",
+      "title_en": "Misanthropy: The Word That Confused Brazilians in a Fake Alert",
+      "title_ko": "'인간혐오'란? 브라질 가짜 경고로 화제된 단어",
+      "title_original": "Misantropia: saiba o que significa mensagem disparada em alerta falso",
+      "triviality_score": 4
     }
   ]
 }

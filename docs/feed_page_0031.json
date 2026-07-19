@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:07+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 31,
   "page_size": 20,
   "count": 20,
@@ -414,30 +414,6 @@
       "triviality_score": 3
     },
     {
-      "collected_at": "2026-06-20T08:14:50+09:00",
-      "country": "IR",
-      "country_ko": "이란",
-      "fallback_reason": "",
-      "id": "0c74c4089260",
-      "image_url": "https://static.toiimg.com/thumb/msid-107964091,width-1070,height-580,resizemode-75,imgsize-1154694,pt-32,y_pad-40/107964091.jpg",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-20T14:21:08+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "While the exact origin of the lipstick remains unknown due to looting, researchers are confident that it hails from a local Bronze Age civilization, possibly the ancient Marḫaši. However, questions about the identity of the lipstick's owner and whether it implies the invention of lipstick in ancient Iran remain elusive.",
-      "region": null,
-      "source_name": "The Times of India",
-      "source_type": "google",
-      "source_url": "https://timesofindia.indiatimes.com/travel/travel-news/3600-year-old-worlds-oldest-lipstick-discovered-in-iran/articleshow/107964091.cms",
-      "summary_en": "Archaeologists have discovered a 3600-year-old lipstick in Iran, possibly the oldest known lipstick in the world. The artifact comes from a local Bronze Age civilization called Marḫaši. Its exact origin remains unclear because of looting.",
-      "summary_ko": "이란에서 3600년 전 립스틱이 발견되어 세계 최고(最古) 립스틱으로 추정된다. 이 유물은 청동기 시대 마르하시 문명에서 나온 것으로 보인다. 도굴로 인해 정확한 출처와 소유주는 아직 확인되지 않았다.",
-      "title_en": "World's oldest lipstick, 3600 years old, found in Iran",
-      "title_ko": "이란서 세계에서 가장 오래된 3600년 전 립스틱 발견",
-      "title_original": "3600-year-old world’s oldest lipstick discovered in Iran! - The Times of India",
-      "triviality_score": 3
-    },
-    {
       "collected_at": "2026-06-20T10:01:37+09:00",
       "country": "CA",
       "country_ko": "캐나다",
@@ -484,6 +460,30 @@
       "title_ko": "페이스북 한 줄이 28명 북부 온타리오 작가들의 책으로 이어졌다",
       "title_original": "Facebook call leads to anthology featuring 28 Northern Ontario writers - Village Report",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-20T10:03:46+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "81f153b708f7",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/743b81f3e73169622e9ee4a73bc25f80?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=538&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-20T14:24:21+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "One minute, Kate Scott was a LifeFlight volunteer. The next, she was a mother dialling Triple Zero. But the service that saved her daughter is facing a shortfall.",
+      "region": null,
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-06-20/medical-student-survived-remote-cattle-property-crash/106797876",
+      "summary_en": "Kate Scott was once a LifeFlight volunteer. She later had to call Triple Zero for her own daughter after a crash on a remote cattle property. The rescue flight service that saved her daughter now faces a funding shortfall.",
+      "summary_ko": "케이트 스콧은 한때 LifeFlight 자원봉사자였다. 이후 외딴 목장에서 딸이 사고를 당해 직접 긴급전화를 걸어야 했다. 딸을 구한 구급 헬기 서비스가 현재 자금 부족에 직면했다.",
+      "title_en": "Family pushes for rescue flights after daughter survives remote crash",
+      "title_ko": "원격지 추락 사고 생존한 딸, 가족이 구급 헬기 지원 호소",
+      "title_original": "Family of medical student who survived remote crash advocates for rescue flights",
+      "triviality_score": 3
     }
   ]
 }

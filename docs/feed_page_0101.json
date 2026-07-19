@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 101,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-06T00:03:21+09:00",
-      "country": "BR",
-      "country_ko": "브라질",
-      "fallback_reason": "",
-      "id": "849db2947aa2",
-      "image_url": "https://imagens.ebc.com.br/ZudDd8iIYK6xqc9GyntAuEkWEgs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/05/paulina.jpg?itok=mC1EHwfc",
-      "lang_original": "pt",
-      "lat": -21.12,
-      "lon": -56.48,
-      "processed_at": "2026-07-06T00:18:48+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Festival reúne este ano filmes de 13 países da América do Sul, consolidando o evento como um espaço de encontro entre culturas e linguagens do território sul-americano.",
-      "region": "Mato Grosso do Sul",
-      "source_name": "Agencia Brasil",
-      "source_type": "rss",
-      "source_url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/atriz-chilena-paulina-garcia-sera-homenageada-no-bonito-cinesur",
-      "summary_en": "The Bonito Cinesur film festival in Brazil will honor Chilean actress Paulina Garcia. This year the festival brings together films from 13 South American countries. It has become a meeting place for the cultures and languages of the South American region.",
-      "summary_ko": "브라질 보니투에서 열리는 시네수르 영화제가 올해 칠레 배우 파울리나 가르시아를 기념한다. 이번 영화제는 남미 13개국 영화를 초청하며 남미 문화와 언어의 교류의 장으로 자리 잡았다.",
-      "title_en": "Chilean actress Paulina Garcia honored at Bonito Cinesur film festival",
-      "title_ko": "칠레 배우 파울리나 가르시아, 브라질 보니투 영화제서 공로상",
-      "title_original": "Atriz chilena Paulina Garcia será a homenageada no Bonito Cinesur",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-07-06T00:03:22+09:00",
       "country": "IN",
@@ -484,6 +460,30 @@
       "title_ko": "바티칸, '축구 아기 예수' 성지를 공식 순례지로 승격",
       "title_original": "El Jalapeño: Vatican elevates Soccer Baby Jesus shrine to full pilgrimage status, citing ‘undeniable results’",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-06T08:02:14+09:00",
+      "country": "MX",
+      "country_ko": "멕시코",
+      "fallback_reason": "",
+      "id": "9dc2b1f19b34",
+      "image_url": "https://oaxaca.eluniversal.com.mx/resizer/v2/K44UKQEAQVAFVMMUADMDP7SKPY.jpg?auth=86bbc14d236d95075d40f3fe16c4af5c2cee736c9b2cb980d8bbe8da0b7b241b",
+      "lang_original": "es",
+      "lat": 17.2029,
+      "lon": -96.8016,
+      "processed_at": "2026-07-06T08:17:13+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Este es el pueblo conocido mundialmente como la \"cuna del quesillo\". No te pierdas de su Expo Feria durante la fiesta de la Guelaguetza 2026",
+      "region": "Oaxaca",
+      "source_name": "El Universal Oaxaca",
+      "source_type": "google",
+      "source_url": "https://oaxaca.eluniversal.com.mx/mas-de-oaxaca/en-que-pueblo-de-oaxaca-se-vende-el-mejor-quesillo/",
+      "summary_en": "Reyes Etla is a small town in Oaxaca, Mexico, known as the birthplace of quesillo (Oaxaca cheese). The cheese was found by accident in 1835 when a girl left curd too long. The town holds its cheese fair on July 18-20 during Guelaguetza 2026.",
+      "summary_ko": "레예스 에틀라는 멕시코 오아하카주에 있는 작은 마을로, 케시요(오아하카 치즈)의 발상지로 알려져 있다. 이 치즈는 1835년 한 소녀가 커드를 너무 오래 방치했다가 우연히 발견했다. 이 마을에서는 2026년 7월 18~20일 과엘라게차 축제 기간 중 치즈 박람회가 열린다.",
+      "title_en": "Reyes Etla: the Oaxaca town that invented quesillo cheese",
+      "title_ko": "케시요 치즈를 처음 만든 오아하카의 작은 마을, 레예스 에틀라",
+      "title_original": "¿En qué pueblo de Oaxaca se vende el mejor quesillo? - El Universal Oaxaca",
+      "triviality_score": 4
     }
   ]
 }

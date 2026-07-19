@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 125,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-11T16:04:35+09:00",
-      "country": "IN",
-      "country_ko": "인도",
-      "fallback_reason": "",
-      "id": "0d824e8a9e2d",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "lang_original": "en",
-      "lat": 26.8467,
-      "lon": 80.9462,
-      "processed_at": "2026-07-11T16:22:57+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "U.P. govt. changes State university name ‘partially’",
-      "region": "Uttar Pradesh",
-      "source_name": "The Hindu National",
-      "source_type": "rss",
-      "source_url": "https://www.thehindu.com/news/national/other-states/up-govt-drops-urdu-arabi-farsi-from-state-universitys-name/article61626639.ece",
-      "summary_en": "The Uttar Pradesh government has changed the name of a state university by removing Urdu, Arbi, and Farsi from its title. The move is seen as part of a broader cultural and linguistic shift in the northern Indian state. Officials say the change reflects a push to simplify the institution's identity.",
-      "summary_ko": "우타르프라데시 주정부가 주립 대학 이름에서 우르도어, 아라비어, 페르시아어를 제외하는 변경을 단행했다. 이번 조치는 북부 인도 주에서 벌어지는 문화적·언어적 변화의 일환으로 해석된다. 당국은 이번 변경이 대학 정체성 단순화를 위한 것이라고 밝혔다.",
-      "title_en": "Uttar Pradesh Renames State University, Drops Urdu Words",
-      "title_ko": "우타르프라데시 주정부, 대학 이름에서 우르두어 제외해 변경",
-      "title_original": "U.P. govt. changes State university name ‘partially’",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-07-11T16:08:45+09:00",
       "country": "MX",
@@ -484,6 +460,30 @@
       "title_ko": "인도, 고다바리 푸샤람 축제 준비에 580크로르 루피 투자 계획",
       "title_original": "Government plans ₹580-crore push for Godavari Pushkaram works",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-11T22:03:08+09:00",
+      "country": "MX",
+      "country_ko": "멕시코",
+      "fallback_reason": "",
+      "id": "260843352fa4",
+      "image_url": "https://www.escapadah.com/u/fotografias/m/2026/4/14/f1280x720-67880_199555_5050.jpg",
+      "lang_original": "es",
+      "lat": 17.3,
+      "lon": -96.4,
+      "processed_at": "2026-07-11T22:18:19+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Consulta las condiciones climÃ¡ticas de CapulÃ¡lpam este sÃ¡bado 11 de julio para planear tu escapada a la sierra",
+      "region": "Oaxaca",
+      "source_name": "Escapada H",
+      "source_type": "google",
+      "source_url": "https://www.escapadah.com/pueblos-magicos/2026/7/10/clima-pronostico-en-capulalpam-para-este-sabado-11-de-julio-42498.html",
+      "summary_en": "Check the weather in Capulálpam for this Saturday, July 11. Plan your trip to the mountains by checking the local temperatures and conditions.",
+      "summary_ko": "카풀알팜의 7월 11일 토요일 날씨를 확인하세요. 기온과 기상 조건을 참고하여 산으로의 여행을 계획해 보세요.",
+      "title_en": "Weather forecast in Capulálpam, Oaxaca for Saturday, July 11: Temperatures and conditions for your visit to the Pueblo Mágico",
+      "title_ko": "7월 11일 토요일 카풀알팜 오아사카 날씨 예보: 푸에블로 마히코 방문을 위한 기온과 기상 조건",
+      "title_original": "Clima y pronóstico en Capulálpam Oaxaca sábado 11 de julio: temperaturas y condiciones meteorológicas para tu visita al pueblo mágico - Escapada H",
+      "triviality_score": 5
     }
   ]
 }

@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 69,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-28T06:02:25+09:00",
-      "country": "IN",
-      "country_ko": "인도",
-      "fallback_reason": "",
-      "id": "fdbce618341f",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "lang_original": "en",
-      "lat": 11.1271,
-      "lon": 78.6569,
-      "processed_at": "2026-06-28T06:19:59+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Guest lecturers in Tamil Nadu allege recruitment irregularities for Assistant Professors, demanding transparency and reform in the selection process.",
-      "region": "Tamil Nadu",
-      "source_name": "The Hindu National",
-      "source_type": "rss",
-      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/guest-lecturers-body-allege-anomalies-in-recruitment-process-of-assistant-professors/article71155201.ece",
-      "summary_en": "Guest lecturers in Tamil Nadu claim the recruitment process for Assistant Professors has irregularities. They are demanding transparency and reform in the selection system.",
-      "summary_ko": "타밀나두의 게스트 강사들이 조교수 채용 과정에 부정이 있다고 주장하며 투명성과 제도 개혁을 요구하고 있다. 이들은 비정규직 신분에서 정식 교수직으로 가는 길이 공정해야 한다고 강조했다.",
-      "title_en": "Guest lecturers in Tamil Nadu allege unfair hiring for Assistant Professors",
-      "title_ko": "타밀나두 게스트 강사들, 조교수 채용 비리 의혹 제기",
-      "title_original": "Guest lecturers’ body allege anomalies in recruitment process of Assistant Professors",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-06-28T06:03:17+09:00",
       "country": "IN",
@@ -484,6 +460,30 @@
       "title_ko": "독일에서 아파트가 너무 뜨거우면 월세 인하를 받을 수 있을까?",
       "title_original": "Can you get a rent reduction if your apartment gets too hot in Germany?",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-28T14:01:53+09:00",
+      "country": "DK",
+      "country_ko": "덴마크",
+      "fallback_reason": "",
+      "id": "b3544097d9c1",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/06/watermarks-logo-20251103-170728-L-1920x1279web.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-28T14:18:25+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Denmark’s rail operator DSB scrapped its popular summer travel pass last year, but all is not lost if you’re on the lookout for a heavily discounted train trip this summer.",
+      "region": null,
+      "source_name": "The Local Denmark",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.dk/20260609/how-to-save-on-rail-travel-in-denmark-in-the-summer-of-2026",
+      "summary_en": "Denmark's rail operator DSB stopped its popular summer travel pass last year. But you can still find cheap train trips this summer with a few tricks.",
+      "summary_ko": "덴마크 철도 운영사 DSB가 인기 있었던 여름 여행 패스를 작년에 없앴다. 하지만 몇 가지 요령만 알면 올여름에도 저렴한 기차 여행을 즐길 수 있다.",
+      "title_en": "How to save on rail travel in Denmark in the summer of 2026",
+      "title_ko": "2026년 여름, 덴마크 철도 여행 할인받는 법",
+      "title_original": "How to save on rail travel in Denmark in the summer of 2026",
+      "triviality_score": 3
     }
   ]
 }

@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 42,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-22T10:03:24+09:00",
-      "country": "AU",
-      "country_ko": "호주",
-      "fallback_reason": "",
-      "id": "586740fd8737",
-      "image_url": "https://live-production.wcms.abc-cdn.net.au/44dffd90e4b95ed667f497ef449c2b35?impolicy=wcms_watermark_news&cropH=636&cropW=1131&xPos=0&yPos=86&width=862&height=485&imformat=generic",
-      "lang_original": "en",
-      "lat": -28.0167,
-      "lon": 153.4,
-      "processed_at": "2026-06-22T10:19:35+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "The Queensland government has released the plan nine months after controversially scrapping stage 4 light rail amid community pushback.",
-      "region": "Queensland",
-      "source_name": "ABC Australia News",
-      "source_type": "rss",
-      "source_url": "https://www.abc.net.au/news/2026-06-22/metro-buses-alternative-to-axed-stage-four-light-rail-gold-coast/106825972",
-      "summary_en": "The Queensland government released a plan for buses to replace a scrapped tram line. Stage 4 of the light rail was canceled nine months ago after community complaints. The new bus fleet will connect the southern Gold Coast to the existing tram system.",
-      "summary_ko": "퀸즐랜드 주정부가 폐지된 경전철 4단계 구간을 대체할 버스 노선 계획을 발표했다. 9개월 전 주민 반발로 경전철 확장이 취소된 바 있다. 새 버스 차량은 골드코스트 남부와 기존 경전철을 연결할 예정이다.",
-      "title_en": "New bus fleet to connect southern Gold Coast to light rail",
-      "title_ko": "골드코스트 남부와 경전철 잇는 새 버스 노선 계획 발표",
-      "title_original": "Bus fleet set to connect southern Gold Coast to existing light rail",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-06-22T10:04:31+09:00",
       "country": "CA",
@@ -484,6 +460,30 @@
       "title_ko": "노르웨이 오늘의 표현: Ikke sant",
       "title_original": "Norwegian expression of the day: Ikke sant",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-22T18:03:03+09:00",
+      "country": "DE",
+      "country_ko": "독일",
+      "fallback_reason": "",
+      "id": "e19de40e25ff",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/06/watermarks-logo-jamesqube-highway-2909336_1280.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-22T18:20:04+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Germany is closing a legal loophole that has allowed drivers to trade points they've been given on their licence for speeding. We break it down, along with other driving changes you'll want to be aware of.",
+      "region": null,
+      "source_name": "The Local Germany",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.de/20260616/key-changes-for-drivers-in-germany-starting-july-1st",
+      "summary_en": "Germany will close a loophole that lets drivers trade speeding points on their license. Other driving changes also take effect from July 1st. Drivers should review the new rules carefully.",
+      "summary_ko": "독일이 운전면허 속도 위반 벌점을 거래할 수 있던 법적 허점을 막는다. 7월 1일부터 다른 운전 관련 변경 사항도 함께 시행된다. 운전자들은 새 규정을 꼼꼼히 확인해야 한다.",
+      "title_en": "Key driving rule changes in Germany starting July 1st",
+      "title_ko": "7월 1일부터 달라지는 독일 운전 규정",
+      "title_original": "Key changes for drivers in Germany starting July 1st",
+      "triviality_score": 3
     }
   ]
 }

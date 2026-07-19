@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 88,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-02T22:16:42+09:00",
-      "country": "NL",
-      "country_ko": "네덜란드",
-      "fallback_reason": "",
-      "id": "cdfb406ab490",
-      "image_url": "https://czv.897.myftpupload.com/wp-content/uploads/2023/06/Alexander-van-de-Bunt-min.jpg",
-      "lang_original": "en",
-      "lat": 51.8867,
-      "lon": 5.4314,
-      "processed_at": "2026-07-02T22:23:04+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Archaeologists discovered a 4,000-year-old sanctuary during excavations of the model industrial estate in the town of Tiel, located 72 kilometers from the Hague in the Netherlands.",
-      "region": "Gelderland",
-      "source_name": "Arkeonews",
-      "source_type": "google",
-      "source_url": "https://czv.897.myftpupload.com/archaeologists-find-4000-year-old-sanctuary-in-netherlands/",
-      "summary_en": "Archaeologists discovered a 4,000-year-old sanctuary in Tiel, Netherlands. The find came during excavations of a model industrial estate. Tiel is located 72 kilometers from The Hague.",
-      "summary_ko": "네덜란드 틸(Tiel)에서 고고학자들이 4,000년 된 성소를 발굴했습니다. 이 성소는 모범 산업단지 발굴 작업 중 발견되었습니다. 틸은 헤이그에서 72km 떨어져 있습니다.",
-      "title_en": "4,000-year-old sanctuary found in Netherlands",
-      "title_ko": "네덜란드에서 4,000년 된 성소 발견",
-      "title_original": "Archaeologists find 4,000-year-old Sanctuary in Netherlands - Arkeonews",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-07-03T00:01:57+09:00",
       "country": "FR",
@@ -484,6 +460,30 @@
       "title_ko": "퀘벡 최대 매립지, 비상 승인으로 폐기물 더 높이 쌓기로",
       "title_original": "Quebec's biggest landfill gets emergency approval to pile garbage higher",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-03T02:03:24+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "e05c7fd0f374",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "lang_original": "en",
+      "lat": 16.5062,
+      "lon": 80.648,
+      "processed_at": "2026-07-03T02:19:31+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Andhra Loyola College celebrates 191 students securing paid internships after completing an Employability Readiness Training Programme.",
+      "region": "Andhra Pradesh",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/191-andhra-loyola-students-secure-paid-internships/article71175271.ece",
+      "summary_en": "191 students at Andhra Loyola College earned paid internships after finishing a job readiness training program. The program helped them build skills to find work. The college celebrated their success.",
+      "summary_ko": "안드라 로욜라 대학 학생 191명이 취업 준비 훈련 프로그램을 마치고 유급 인턴십을 확보했습니다. 이 프로그램은 학생들이 취업에 필요한 능력을 갖추도록 도왔습니다. 대학 측은 이들의 성과를 축하했습니다.",
+      "title_en": "191 Andhra Loyola students secure paid internships",
+      "title_ko": "안드라 로욜라 대학 학생 191명, 유급 인턴십 확보",
+      "title_original": "191 Andhra Loyola students secure paid internships",
+      "triviality_score": 4
     }
   ]
 }

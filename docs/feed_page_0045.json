@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 45,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-23T06:01:38+09:00",
-      "country": "AU",
-      "country_ko": "호주",
-      "fallback_reason": "",
-      "id": "cb79bbeb6eba",
-      "image_url": "https://live-production.wcms.abc-cdn.net.au/b041fac07c0356b132ec8803a28b498d?impolicy=wcms_watermark_news&cropH=1361&cropW=2420&xPos=0&yPos=229&width=862&height=485&imformat=generic",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-23T06:15:57+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Eight councils are calling for urgent safety upgrades to the popular freight and travel route spanning three states.",
-      "region": null,
-      "source_name": "ABC Australia News",
-      "source_type": "rss",
-      "source_url": "https://www.abc.net.au/news/2026-06-23/sturt-highway-needs-urgent-upgrades-taskforce-says/106798514",
-      "summary_en": "Eight local councils are calling for urgent safety upgrades on the Sturt Highway. The busy freight and travel route stretches across three states.",
-      "summary_ko": "8개 지역 의회가 스터트 고속도로의 긴급 안전 개선을 촉구하고 있다. 이 혼잡한 화물·여행 도로는 3개 주에 걸쳐 있다.",
-      "title_en": "Calls to upgrade 'sketchy' Sturt Highway freight route",
-      "title_ko": "'위험한' 스터트 고속도로 개선 촉구",
-      "title_original": "Calls to upgrade 'sketchy' Sturt Highway freight route",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-06-23T06:01:39+09:00",
       "country": "MX",
@@ -484,6 +460,30 @@
       "title_ko": "오슬로 도시 계획, 부동산 개발에 종속되다",
       "title_original": "Byplanlegging i Oslo er redusert til å være eiendomsutvikling - Aftenposten",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-06-23T10:10:15+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "23824d799143",
+      "image_url": "https://s2-g1.glbimg.com/sdl1ujNxSKpKP7p8x9kEP-s8PwI=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/y/kh88AKRjSJswM0Sqjlzw/artes-g1-2026-06-22t111842.958.jpg",
+      "lang_original": "pt",
+      "lat": -8.0476,
+      "lon": -34.877,
+      "processed_at": "2026-06-23T10:20:11+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Apresentação aconteceu na Avenida Rio Branco, no Bairro do Recife. Cantora paraibana cumpria agenda em Pernambuco e visitou o Museu Cais do Sertão.",
+      "region": "Pernambuco",
+      "source_name": "G1",
+      "source_type": "google",
+      "source_url": "https://g1.globo.com/pe/pernambuco/sao-joao/noticia/2026/06/22/roberta-miranda-faz-show-surpresa-e-de-graca-no-meio-de-avenida-no-recife-video.ghtml",
+      "summary_en": "Brazilian singer Roberta Miranda performed a surprise free concert on Avenida Rio Branco in Recife. She sang Luiz Gonzaga songs for locals passing by. The show happened during her visit to Pernambuco state.",
+      "summary_ko": "브라질 가수 호베르타 미란다가 헤시피의 히우브랑쿠 대로에서 깜짝 무료 공연을 열었다. 길을 지나던 시민들에게 루이스 곤자가의 노래를 들려주었으며, 페르남부쿠 주 일정 중에 이뤄졌다.",
+      "title_en": "Roberta Miranda sings surprise free show in the middle of a Recife avenue",
+      "title_ko": "호베르타 미란다, 헤시피 대로 한복판에서 깜짝 무료 공연",
+      "title_original": "Roberta Miranda faz show surpresa e de graça no meio de avenida do Recife cantando músicas de Luiz Gonzaga; VÍDEO - G1",
+      "triviality_score": 5
     }
   ]
 }

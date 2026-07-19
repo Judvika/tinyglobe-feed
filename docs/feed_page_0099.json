@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 99,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-05T10:03:29+09:00",
-      "country": "AU",
-      "country_ko": "호주",
-      "fallback_reason": "",
-      "id": "07d7f471b812",
-      "image_url": "https://live-production.wcms.abc-cdn.net.au/68c585d8738d301127712969c4a53c52?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "lang_original": "en",
-      "lat": -34.5,
-      "lon": 117.5,
-      "processed_at": "2026-07-05T10:18:27+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Farmers in WA's south say the standalone power systems they got from Western Power after being moved off the grid have been problematic.",
-      "region": "Western Australia",
-      "source_name": "ABC Australia News",
-      "source_type": "rss",
-      "source_url": "https://www.abc.net.au/news/2026-07-05/maintenance-issues-in-wa-standalone-power-systems/106807116",
-      "summary_en": "Farmers in southern Western Australia say the solar battery systems they got from Western Power are breaking down. The power units were given to them when they were taken off the main electricity grid. Farmers report the systems have been unreliable and hard to maintain.",
-      "summary_ko": "서호주 남부 농민들이 웨스턴 파워에서 지급받은 태양광 배터리 시스템의 잦은 고장을 호소하고 있다. 본토 전력망에서 분리된 농가에 설치된 이 장치는 신뢰성이 떨어지고 유지보수도 어렵다고 농민들은 전한다.",
-      "title_en": "Farmers stuck with broken standalone power systems",
-      "title_ko": "고장난 독립 전력 시스템에 발 묶인 호주 농민들",
-      "title_original": "Farmers stuck with 'broken' standalone power systems",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-07-05T10:04:08+09:00",
       "country": "IN",
@@ -484,6 +460,30 @@
       "title_ko": "사가 온천에서 대중탕 플러그 뽑아 체포된 남성",
       "title_original": "Man arrested for pulling plug from public bath at Saga hot spring resort",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-05T18:03:50+09:00",
+      "country": "CA",
+      "country_ko": "캐나다",
+      "fallback_reason": "",
+      "id": "11574340780d",
+      "image_url": "https://i.cbc.ca/ais/1.7493796,1756420186000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C105%2C1000%2C562%29%3BResize%3D620",
+      "lang_original": "en",
+      "lat": 49.8,
+      "lon": -119.5,
+      "processed_at": "2026-07-05T18:20:39+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Warm rivers and streams are becoming a growing concern for salmon in B.C.’s Interior with another low sockeye return anticipated in Okanagan waters this fall.",
+      "region": "British Columbia",
+      "source_name": "CBC Canada",
+      "source_type": "rss",
+      "source_url": "https://www.cbc.ca/news/canada/british-columbia/okanagan-sockeye-return-expected-to-stay-low-warm-rivers-9.7258978",
+      "summary_en": "Warm rivers and streams are worrying experts who track salmon in British Columbia. Another low sockeye salmon return is expected in Okanagan waters this fall.",
+      "summary_ko": "브리티시컬럼비아 내륙 지역의 강과 하천 수온 상승이 연어에 위협이 되고 있다. 올가을 오카나간 호수에서도 낮은 홍연어 회귀율이 예상된다.",
+      "title_en": "Warm rivers raise concern for salmon in B.C.'s Interior",
+      "title_ko": "따뜻해진 강물, BC주 내륙 연어에 위협",
+      "title_original": "Warm rivers raise concern for salmon in B.C.'s Interior",
+      "triviality_score": 3
     }
   ]
 }

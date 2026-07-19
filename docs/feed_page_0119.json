@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 119,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-10T10:02:28+09:00",
-      "country": "AU",
-      "country_ko": "호주",
-      "fallback_reason": "",
-      "id": "969c366ff4d3",
-      "image_url": "https://live-production.wcms.abc-cdn.net.au/409692ec7badc2465ccca646f75d84e6?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-07-10T10:18:16+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Traditional owners from WA's Wheatbelt say a historic native title settlement has increased division among Noongar groups.",
-      "region": "Western Australia",
-      "source_name": "ABC Australia News",
-      "source_type": "rss",
-      "source_url": "https://www.abc.net.au/news/2026-07-10/traditional-owner-dispute-wa-wheatbelt/106876318",
-      "summary_en": "Traditional owners from Western Australia's Wheatbelt region say a historic native title settlement has caused more division among Noongar groups. They feel ignored by authorities as development moves forward.",
-      "summary_ko": "서호주 밀벨트 지역의 전통 소유주들은 역사적인 원주민 토지 소유권 합의가 누아르 집단 간 분열을 오히려 심화시켰다고 말한다. 개발이 진행되는 가운데 당국이 그들의 목소리를 무시하고 있다고 호소했다.",
-      "title_en": "WA traditional owners say they are being ignored amid developments",
-      "title_ko": "서호주 전통 소유주들, 개발 속 무시당한다고 호소",
-      "title_original": "WA traditional owners say they are being ignored amid developments",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-07-10T10:03:09+09:00",
       "country": "AU",
@@ -484,6 +460,30 @@
       "title_ko": "온타리오 호숫가의 동화마을, 걸어서 다 즐기는 매력",
       "title_original": "Canada's Underrated Lake Ontario Village Is A Charming And Walkable Escape With Shops, Tasty Eats, And Art - AOL.com",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-10T16:02:34+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "8bd77a62e000",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/1c00a6e0d4c67b61ccf1d68db5213ee1?impolicy=wcms_watermark_news&cropH=876&cropW=1558&xPos=0&yPos=82&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -37.8136,
+      "lon": 144.9631,
+      "processed_at": "2026-07-10T16:19:12+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "For the first time, Victoria's Early Childhood Regulatory Authority has used its powers to suspend a childcare operator, closing 45 family day care residences across Melbourne.",
+      "region": "Victoria",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-07-10/childcare-regulator-suspends-gabow-family-day-care/106902652",
+      "summary_en": "Victoria's early childhood regulator has suspended a childcare operator for the first time. The action closed 45 family day care homes across Melbourne.",
+      "summary_ko": "빅토리아주 조기아동규제당국이 처음으로 보육 운영자에 대한 자격정지 권한을 행사해 멜버른 전역 가정형 어린이집 45곳을 폐쇄했습니다.",
+      "title_en": "Regulator closes 45 family day care residences across Melbourne",
+      "title_ko": "멜버른 가정형 어린이집 45곳, 규제기관에 의해 운영 중단",
+      "title_original": "Regulator closes 45 family day care residences across Melbourne",
+      "triviality_score": 3
     }
   ]
 }

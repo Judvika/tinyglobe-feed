@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 83,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-01T20:03:11+09:00",
-      "country": "BR",
-      "country_ko": "브라질",
-      "fallback_reason": "",
-      "id": "ea668894a544",
-      "image_url": "https://imagens.ebc.com.br/lkpD-2NIckBdFA2_lYSrV7pxVCc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/24/0d7a2188.jpg?itok=qjH1DuTK",
-      "lang_original": "pt",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-07-01T20:22:12+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Entre os destaques da programação neste ano estão as cantoras Karol Conká e Linn, além da escritora Ana Maria Gonçalves",
-      "region": null,
-      "source_name": "Agencia Brasil",
-      "source_type": "rss",
-      "source_url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-06/festival-latinidades-promove-vivencia-sobre-saude-das-mulheres-negras",
-      "summary_en": "The Latinidades Festival in Brazil runs programs about black women's health. This year's highlights include singers Karol Conká and Linn, and writer Ana Maria Gonçalves. The festival mixes culture and health discussions for black women.",
-      "summary_ko": "브라질에서 열리는 라티니다지스 축제가 흑인 여성 건강을 주제로 한 프로그램을 진행한다. 올해 하이라이트는 가수 카롤 콩카와 린, 그리고 작가 아나 마리아 곤살베스의 참여다. 이 축제는 흑인 여성을 위한 문화와 건강 논의를 결합한다.",
-      "title_en": "Latinidades Festival holds programs on black women's health",
-      "title_ko": "라티니다지스 축제, 흑인 여성 건강 프로그램 마련",
-      "title_original": "Festival Latinidades promove vivências sobre saúde das mulheres negras",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-07-01T20:03:13+09:00",
       "country": "US",
@@ -484,6 +460,30 @@
       "title_ko": "삿포로 여름 축제 안내",
       "title_original": "さっぽろ夏まつり - ようこそさっぽろ",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-02T00:02:35+09:00",
+      "country": "AT",
+      "country_ko": "오스트리아",
+      "fallback_reason": "",
+      "id": "906374db9d9f",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-Vienna-Airport-Large.jpeg@webp",
+      "lang_original": "en",
+      "lat": 48.1103,
+      "lon": 16.5697,
+      "processed_at": "2026-07-02T00:20:06+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Passengers flying from Vienna Airport can now leave laptops, phones and liquids in their hand luggage at security, as new CT scanners are introduced across all terminals.",
+      "region": "Vienna",
+      "source_name": "The Local Austria",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.at/20260701/2l-bottles-laptops-vienna-airport-announces-new-security-rules",
+      "summary_en": "Vienna Airport now uses CT scanners at all security checkpoints. Travelers can leave laptops, phones, and liquids in their hand luggage. The new rules allow bottles up to 2 liters.",
+      "summary_ko": "비엔나 공항이 모든 보안 검색대에 CT 스캐너를 도입했다. 승객은 노트북, 휴대폰, 액체류를 손에 든 가방에 넣은 채로 통과할 수 있다. 최대 2리터 용기까지 반입이 가능해졌다.",
+      "title_en": "Vienna Airport lets passengers keep laptops and liquids in bags at security",
+      "title_ko": "비엔나 공항, 노트북·액체류 가방에 넌 채로 보안통과 허용",
+      "title_original": "2L bottles, laptops: Vienna Airport announces new security rules",
+      "triviality_score": 3
     }
   ]
 }

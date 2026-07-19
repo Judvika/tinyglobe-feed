@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T22:44:08+09:00",
+  "built_at": "2026-07-20T00:46:41+09:00",
   "page": 68,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-28T00:03:42+09:00",
-      "country": "IN",
-      "country_ko": "인도",
-      "fallback_reason": "",
-      "id": "903422ca5521",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "lang_original": "en",
-      "lat": 9.5,
-      "lon": 76.33,
-      "processed_at": "2026-06-28T00:23:47+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "DYFI protests against CM's rejection of a local holiday for the historic Champakulam Moolam Boat Race in Alappuzha.",
-      "region": "Kerala",
-      "source_name": "The Hindu National",
-      "source_type": "rss",
-      "source_url": "https://www.thehindu.com/news/national/kerala/boat-race-row-dyfi-stages-protest-against-cm/article71154871.ece",
-      "summary_en": "Youth group DYFI protested against the Chief Minister's refusal to declare a local holiday for the historic Champakulam Moolam Boat Race in Alappuzha, Kerala. The boat race is a centuries-old tradition on the Pamba River.",
-      "summary_ko": "케랄라 알라푸자에서 열리는 유서 깊은 참파쿨람 물람 보트 경주에 대해 주 수반이 지역 공휴일 지정을 거부하자 청년단체 DYFI가 항의 시위를 벌였다. 이 보트 경주는 팜바 강에서 수백 년째 이어져 온 전통이다.",
-      "title_en": "Kerala youth stage protest over boat race holiday dispute",
-      "title_ko": "케랄라 전통 보트 경주 공휴일 거부 항의",
-      "title_original": "Boat race row: DYFI stages protest against CM",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-06-28T00:04:09+09:00",
       "country": "IT",
@@ -484,6 +460,30 @@
       "title_ko": "주택난에도 이민자 품은 작은 마을, 나라쿠트",
       "title_original": "Housing shortage does not deter town from embracing migrants",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-28T06:02:25+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "fdbce618341f",
+      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
+      "lang_original": "en",
+      "lat": 11.1271,
+      "lon": 78.6569,
+      "processed_at": "2026-06-28T06:19:59+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Guest lecturers in Tamil Nadu allege recruitment irregularities for Assistant Professors, demanding transparency and reform in the selection process.",
+      "region": "Tamil Nadu",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/guest-lecturers-body-allege-anomalies-in-recruitment-process-of-assistant-professors/article71155201.ece",
+      "summary_en": "Guest lecturers in Tamil Nadu claim the recruitment process for Assistant Professors has irregularities. They are demanding transparency and reform in the selection system.",
+      "summary_ko": "타밀나두의 게스트 강사들이 조교수 채용 과정에 부정이 있다고 주장하며 투명성과 제도 개혁을 요구하고 있다. 이들은 비정규직 신분에서 정식 교수직으로 가는 길이 공정해야 한다고 강조했다.",
+      "title_en": "Guest lecturers in Tamil Nadu allege unfair hiring for Assistant Professors",
+      "title_ko": "타밀나두 게스트 강사들, 조교수 채용 비리 의혹 제기",
+      "title_original": "Guest lecturers’ body allege anomalies in recruitment process of Assistant Professors",
+      "triviality_score": 4
     }
   ]
 }
