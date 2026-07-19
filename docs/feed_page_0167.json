@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T16:20:25+09:00",
+  "built_at": "2026-07-19T18:23:26+09:00",
   "page": 167,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-19T08:02:45+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "우티 주민들, 고유 이름 우다가만달람 복원 촉구",
       "title_original": "CM Vijay urged to rename Udhagamandalam",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-19T18:01:45+09:00",
+      "country": "SE",
+      "country_ko": "스웨덴",
+      "fallback_reason": "",
+      "id": "42b44fa248a8",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2023/05/watermarks-logo-michael_jonsson-nallo_swedish_lapland-5675.webp@webp",
+      "lang_original": "en",
+      "lat": 62.0,
+      "lon": 15.0,
+      "processed_at": "2026-07-19T18:16:21+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Sweden's summers are so gorgeous that you'd be a fool to spend much time abroad. From mountain hikes around Kebnekaise and Åredalen to the beaches of Österlen and Gotland, from upmarket brunches to loppis flea markets, here are our readers' top tips on what to do.",
+      "region": null,
+      "source_name": "The Local Sweden",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.se/20230519/readers-reveal-top-tips-for-things-to-do-in-sweden-this-summer",
+      "summary_en": "Readers of The Local Sweden picked their top summer activities. They love hiking near Kebnekaise and Åredalen and relaxing on the beaches of Gotland and Österlen. Local flea markets and brunch spots are also popular picks.",
+      "summary_ko": "더 로컬 스웨덴 독자들이 뽑은 여름 활동 추천 목록이다. 케브네카이세와 오레달렌 근처 산행, 고틀란드와 외스테르렌 해변 휴식이 인기다. 벼룩시장과 브런치 맛집도 높은 평가를 받았다.",
+      "title_en": "Readers share favorite summer things to do in Sweden",
+      "title_ko": "독자들이 꼽은 올여름 스웨덴 할 일 베스트 팁",
+      "title_original": "Readers reveal: Top tips for things to do in Sweden this summer",
+      "triviality_score": 3
     }
   ]
 }
