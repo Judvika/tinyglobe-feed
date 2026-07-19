@@ -1,32 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T20:35:05+09:00",
+  "built_at": "2026-07-19T22:44:07+09:00",
   "page": 18,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-18T02:13:26+09:00",
-      "country": "ES",
-      "country_ko": "스페인",
-      "id": "f917dd941e17",
-      "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2023/08/03/numero-habitantes-cordoba-U58154206173lPl-1024x512@abc.jpg",
-      "lang_original": "es",
-      "lat": 37.8882,
-      "lon": -4.7794,
-      "processed_at": "2026-06-18T12:19:23+09:00",
-      "raw_excerpt": "La capital roza las 320.000 personas y es la tercera de Andalucía y duodécima de España",
-      "region": "Cordoba, Andalusia",
-      "source_name": "ABC",
-      "source_type": "google",
-      "source_url": "https://www.abc.es/espana/andalucia/cordoba/cuantos-habitantes-ciudad-cordoba-20230803111110-nts.html",
-      "summary_en": "Cordoba is close to 320,000 people. It is the third largest city in Andalusia and the twelfth largest in Spain.",
-      "summary_ko": "코르도바 시 인구가 32만 명에 가까워졌다. 안달루시아에서는 세 번째, 스페인 전체에서는 열두 번째로 인구가 많은 도시다.",
-      "title_en": "How many people live in Cordoba?",
-      "title_ko": "코르도바 시 인구는 몇 명일까",
-      "title_original": "¿Cuántos habitantes tiene la ciudad de Córdoba? - ABC",
-      "triviality_score": 3
-    },
     {
       "collected_at": "2026-06-18T02:13:27+09:00",
       "country": "BE",
@@ -444,6 +422,28 @@
       "title_ko": "오래된 감옥이 작은 박물관으로",
       "title_original": "Ein altes Gefängnis wird zum Museum - SalzburgerLand Tourismus",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-18T04:14:05+09:00",
+      "country": "CA",
+      "country_ko": "캐나다",
+      "id": "8e6146e4a99e",
+      "image_url": "https://www.mtlblog.com/media-library/a-person-in-a-small-town-in-quebec-right-a-street-in-a-small-town-in-quebec.jpg?id=62256239&width=1200&height=600&coordinates=0%2C36%2C0%2C36",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-18T14:18:05+09:00",
+      "raw_excerpt": "Quebec is home to plenty of stunning small towns and picturesque villages, but some of its most magical spots are the ones you barely hear about.",
+      "region": "Quebec",
+      "source_name": "MTL Blog",
+      "source_type": "google",
+      "source_url": "https://www.mtlblog.com/lesser-known-small-towns-in-quebec-to-visit",
+      "summary_en": "Quebec has many pretty small towns and villages. This article points to lesser-known places that still feel special and charming.",
+      "summary_ko": "퀘벡에는 아름다운 작은 마을과 그림 같은 시골 마을이 많습니다. 이 글은 잘 알려지지 않았지만 특별하고 정겨운 분위기를 지닌 곳들을 소개합니다.",
+      "title_en": "7 Small Quebec Towns Worth Visiting",
+      "title_ko": "가볼 만한 퀘벡의 작은 마을 7곳",
+      "title_original": "7 adorable small towns in Quebec you've probably never heard of but definitely should visit - MTL Blog",
+      "triviality_score": 4
     }
   ]
 }

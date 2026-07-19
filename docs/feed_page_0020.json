@@ -1,32 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T20:35:05+09:00",
+  "built_at": "2026-07-19T22:44:07+09:00",
   "page": 20,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-18T07:22:31+09:00",
-      "country": "IN",
-      "country_ko": "인도",
-      "id": "518cd47c7a67",
-      "image_url": "https://cf-images.assettype.com/downtoearth%2F2026-03-12%2F8txtcc1i%2Friver-2.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-18T16:23:04+09:00",
-      "raw_excerpt": "Residents of Chittur-Thathamangalam in Kerala rejected a state-led development plan, fearing it would harm their livelihoods and environment. Instead, they created a participatory master plan prioritizing climate resilience and historic water systems, showcasing a unique approach to urban planning.",
-      "region": "Kerala",
-      "source_name": "Down To Earth",
-      "source_type": "google",
-      "source_url": "https://www.downtoearth.org.in/agriculture/in-this-kerala-town-ponds-farms-and-commons-shaped-its-plans-for-the-future",
-      "summary_en": "People in Chittur-Thathamangalam rejected a state development plan. They made their own master plan to protect local jobs, ponds, farms, shared land, and old water systems.",
-      "summary_ko": "케랄라주 치투르-타타망갈람 주민들은 주 정부의 개발 계획이 생계와 환경을 해칠 수 있다며 거부했다. 대신 일자리, 연못, 농지, 공동 공간, 오래된 물 관리 체계를 지키는 주민 참여형 마스터플랜을 만들었다.",
-      "title_en": "Kerala town makes its own climate plan",
-      "title_ko": "케랄라의 한 마을, 주민 손으로 기후 대응 계획 마련",
-      "title_original": "In this Kerala town, ponds, farms and commons shaped its plans for the future - Down To Earth",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-06-18T07:22:41+09:00",
       "country": "IT",
@@ -443,6 +421,28 @@
       "title_en": "Viral Birthday Invite Brought Crowds to Haren",
       "title_ko": "페이스북에 퍼진 생일 초대장, 하런에 몰린 수천 명",
       "title_original": "The True Story Behind Netflix's Trainwreck: The Real Project X - Time Magazine",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-18T07:29:39+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "id": "21b0971b4bdb",
+      "image_url": "https://admin.onlyinyourstate.com/wp-content/uploads/sites/2/2026/06/Owls-Head-Featured-Image.png?w=1200",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-19T12:59:03+09:00",
+      "raw_excerpt": "There's an amazing small town near Birch Point State Park in Maine that will turn a trip to this beautiful-but-tiny park into a full-day adventure.",
+      "region": "Maine",
+      "source_name": "Only In Your State",
+      "source_type": "google",
+      "source_url": "https://www.onlyinyourstate.com/nature/maine/town-near-birch-point-state-park-me",
+      "summary_en": "A small town near Birch Point State Park in Maine can make a short park visit into a full-day trip. The article presents the town as a hidden gem beside the tiny park.",
+      "summary_ko": "메인주의 Birch Point State Park 근처에 있는 작은 마을이 짧은 공원 나들이를 하루 여행으로 바꿔 줄 수 있다는 내용입니다. 이 글은 그 마을을 작은 공원 곁의 숨은 명소로 소개합니다.",
+      "title_en": "Small Town Near Birch Point State Park",
+      "title_ko": "메인주 작은 주립공원 옆 숨은 마을",
+      "title_original": "Visit the Hidden Gem Small Town Right Next Door to Birch Point State Park in Maine - Only In Your State",
       "triviality_score": 4
     }
   ]

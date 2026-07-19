@@ -1,32 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T20:35:05+09:00",
+  "built_at": "2026-07-19T22:44:07+09:00",
   "page": 17,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-18T02:11:43+09:00",
-      "country": "ES",
-      "country_ko": "스페인",
-      "id": "55ce831591d0",
-      "image_url": "https://mc-media.b-cdn.net/articulos/articulos-52197.jpg",
-      "lang_original": "es",
-      "lat": 36.5957,
-      "lon": -4.6373,
-      "processed_at": "2026-06-18T10:23:17+09:00",
-      "raw_excerpt": "The institutional act will take place on the 28th in the Andalusia Park in Las Lagunas from 12:00 hours",
-      "region": "Mijas, Andalusia",
-      "source_name": "Mijas International",
-      "source_type": "google",
-      "source_url": "https://mijasinternational.com/actualidad/33568/live-music-dances-and-flag-raising-to-commemorate-the-day-of-andalusia-in-mijas/",
-      "summary_en": "Mijas will hold an event for Andalusia Day at Andalusia Park in Las Lagunas. It will include live music, dances, and a flag-raising ceremony from 12:00 on the 28th.",
-      "summary_ko": "미하스는 라스 라구나스의 안달루시아 공원에서 안달루시아의 날 기념행사를 연다. 28일 낮 12시부터 라이브 음악, 춤 공연, 깃발 게양식이 진행된다.",
-      "title_en": "Mijas Marks Andalusia Day With Music and Flag Raising",
-      "title_ko": "미하스, 음악과 깃발 게양으로 안달루시아의 날 기념",
-      "title_original": "Live music, dances and flag-raising to commemorate the Day of Andalusia in Mijas - Mijas International",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-06-18T02:11:52+09:00",
       "country": "US",
@@ -444,6 +422,28 @@
       "title_ko": "네덜란드 경찰, 가짜 보리스 존슨 운전자 체포",
       "title_original": "Dutch police arrest fake ‘Boris Johnson’ for suspected drink-driving - The Guardian",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-06-18T02:13:26+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "id": "f917dd941e17",
+      "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2023/08/03/numero-habitantes-cordoba-U58154206173lPl-1024x512@abc.jpg",
+      "lang_original": "es",
+      "lat": 37.8882,
+      "lon": -4.7794,
+      "processed_at": "2026-06-18T12:19:23+09:00",
+      "raw_excerpt": "La capital roza las 320.000 personas y es la tercera de Andalucía y duodécima de España",
+      "region": "Cordoba, Andalusia",
+      "source_name": "ABC",
+      "source_type": "google",
+      "source_url": "https://www.abc.es/espana/andalucia/cordoba/cuantos-habitantes-ciudad-cordoba-20230803111110-nts.html",
+      "summary_en": "Cordoba is close to 320,000 people. It is the third largest city in Andalusia and the twelfth largest in Spain.",
+      "summary_ko": "코르도바 시 인구가 32만 명에 가까워졌다. 안달루시아에서는 세 번째, 스페인 전체에서는 열두 번째로 인구가 많은 도시다.",
+      "title_en": "How many people live in Cordoba?",
+      "title_ko": "코르도바 시 인구는 몇 명일까",
+      "title_original": "¿Cuántos habitantes tiene la ciudad de Córdoba? - ABC",
+      "triviality_score": 3
     }
   ]
 }

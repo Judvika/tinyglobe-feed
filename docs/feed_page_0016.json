@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T20:35:05+09:00",
+  "built_at": "2026-07-19T22:44:07+09:00",
   "page": 16,
   "page_size": 20,
   "count": 20,
@@ -402,28 +402,6 @@
       "triviality_score": 4
     },
     {
-      "collected_at": "2026-06-18T02:11:37+09:00",
-      "country": "JP",
-      "country_ko": "일본",
-      "id": "fab5a15b066b",
-      "image_url": "https://cdn.image.st-hatena.com/image/scale/42adb9e0281ff50cdefb2ab07b11fc2d236cb57b/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fw%2Fweekendkanazawa%2F20240724%2F20240724152837.jpg",
-      "lang_original": "ja",
-      "lat": 36.5613,
-      "lon": 136.6562,
-      "processed_at": "2026-06-18T10:22:57+09:00",
-      "raw_excerpt": "金沢市片町にある「とおりゃんせ KANAZAWA FOODLABO」にて、「はしご酒2024」が7月18日～8月30日の期間限定で開催！ 多彩なジャンルのお店が提供するドリンクをお得に楽しめるビアガーデンイベントが、2年ぶりに帰ってきました♡ さっそく編集部も、はしご酒しにお邪魔してきましたよ！ 繁華街・片町の一角に佇む「とおりゃんせ KANAZAWA FOODLABO」。 フレンチやイタリアンをはじめ、韓国料理やおばんざい、BARなど、個性豊かな9の飲食店が集まる屋台村です。 アオハルか！ 今回は、7月18日〜8月30日の期間中、毎週木・金曜で開催される「はしご酒2024」に潜入！ 共通ドリ…",
-      "region": "Kanazawa, Ishikawa",
-      "source_name": "weekend-kanazawa.com",
-      "source_type": "google",
-      "source_url": "https://www.weekend-kanazawa.com/entry/touryanse2024",
-      "summary_en": "A bar-hopping event called Hashigozake 2024 is being held at Tooryanse Kanazawa Food Labo in Katamachi, Kanazawa. Visitors can enjoy drinks from nine different food stalls on Thursdays and Fridays until August 30.",
-      "summary_ko": "가나자와 가타마치의 `とおりゃんせ KANAZAWA FOODLABO`에서 `はしご酒2024` 행사가 열리고 있다. 방문객들은 8월 30일까지 매주 목요일과 금요일에 아홉 곳의 다양한 음식점 음료를 즐길 수 있다.",
-      "title_en": "Kanazawa Food Village Holds Bar-Hopping Event",
-      "title_ko": "가나자와 푸드 야타이촌에서 술집 순례 행사 개최",
-      "title_original": "金沢の屋台村「とおりゃんせ KANAZAWA FOOD LABO」にて「はしご酒2024」が8/30（金）までの期間限定で開催！お得にはしご酒できるイベントにお邪魔してきました - weekend-kanazawa.com",
-      "triviality_score": 5
-    },
-    {
       "collected_at": "2026-06-18T02:11:41+09:00",
       "country": "FR",
       "country_ko": "프랑스",
@@ -443,6 +421,28 @@
       "title_en": "Thonon-les-Bains keeps its imperial story",
       "title_ko": "토농레뱅, 제국의 흔적을 간직한 도시",
       "title_original": "À 2 heures et demie de Lyon : Thonon-les-Bains, ville impériale - - Lyon people",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-18T02:11:43+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "id": "55ce831591d0",
+      "image_url": "https://mc-media.b-cdn.net/articulos/articulos-52197.jpg",
+      "lang_original": "es",
+      "lat": 36.5957,
+      "lon": -4.6373,
+      "processed_at": "2026-06-18T10:23:17+09:00",
+      "raw_excerpt": "The institutional act will take place on the 28th in the Andalusia Park in Las Lagunas from 12:00 hours",
+      "region": "Mijas, Andalusia",
+      "source_name": "Mijas International",
+      "source_type": "google",
+      "source_url": "https://mijasinternational.com/actualidad/33568/live-music-dances-and-flag-raising-to-commemorate-the-day-of-andalusia-in-mijas/",
+      "summary_en": "Mijas will hold an event for Andalusia Day at Andalusia Park in Las Lagunas. It will include live music, dances, and a flag-raising ceremony from 12:00 on the 28th.",
+      "summary_ko": "미하스는 라스 라구나스의 안달루시아 공원에서 안달루시아의 날 기념행사를 연다. 28일 낮 12시부터 라이브 음악, 춤 공연, 깃발 게양식이 진행된다.",
+      "title_en": "Mijas Marks Andalusia Day With Music and Flag Raising",
+      "title_ko": "미하스, 음악과 깃발 게양으로 안달루시아의 날 기념",
+      "title_original": "Live music, dances and flag-raising to commemorate the Day of Andalusia in Mijas - Mijas International",
       "triviality_score": 4
     }
   ]

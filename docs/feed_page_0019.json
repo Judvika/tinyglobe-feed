@@ -1,32 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T20:35:05+09:00",
+  "built_at": "2026-07-19T22:44:07+09:00",
   "page": 19,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-18T04:14:05+09:00",
-      "country": "CA",
-      "country_ko": "캐나다",
-      "id": "8e6146e4a99e",
-      "image_url": "https://www.mtlblog.com/media-library/a-person-in-a-small-town-in-quebec-right-a-street-in-a-small-town-in-quebec.jpg?id=62256239&width=1200&height=600&coordinates=0%2C36%2C0%2C36",
-      "lang_original": "en",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-18T14:18:05+09:00",
-      "raw_excerpt": "Quebec is home to plenty of stunning small towns and picturesque villages, but some of its most magical spots are the ones you barely hear about.",
-      "region": "Quebec",
-      "source_name": "MTL Blog",
-      "source_type": "google",
-      "source_url": "https://www.mtlblog.com/lesser-known-small-towns-in-quebec-to-visit",
-      "summary_en": "Quebec has many pretty small towns and villages. This article points to lesser-known places that still feel special and charming.",
-      "summary_ko": "퀘벡에는 아름다운 작은 마을과 그림 같은 시골 마을이 많습니다. 이 글은 잘 알려지지 않았지만 특별하고 정겨운 분위기를 지닌 곳들을 소개합니다.",
-      "title_en": "7 Small Quebec Towns Worth Visiting",
-      "title_ko": "가볼 만한 퀘벡의 작은 마을 7곳",
-      "title_original": "7 adorable small towns in Quebec you've probably never heard of but definitely should visit - MTL Blog",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-06-18T04:14:12+09:00",
       "country": "JP",
@@ -444,6 +422,28 @@
       "title_ko": "여름에 조용히 찾기 좋은 버몬트 작은 마을들",
       "title_original": "10 Best Small Towns In Vermont For A Crowd-Free Summer - WorldAtlas",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-06-18T07:22:31+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "id": "518cd47c7a67",
+      "image_url": "https://cf-images.assettype.com/downtoearth%2F2026-03-12%2F8txtcc1i%2Friver-2.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-06-18T16:23:04+09:00",
+      "raw_excerpt": "Residents of Chittur-Thathamangalam in Kerala rejected a state-led development plan, fearing it would harm their livelihoods and environment. Instead, they created a participatory master plan prioritizing climate resilience and historic water systems, showcasing a unique approach to urban planning.",
+      "region": "Kerala",
+      "source_name": "Down To Earth",
+      "source_type": "google",
+      "source_url": "https://www.downtoearth.org.in/agriculture/in-this-kerala-town-ponds-farms-and-commons-shaped-its-plans-for-the-future",
+      "summary_en": "People in Chittur-Thathamangalam rejected a state development plan. They made their own master plan to protect local jobs, ponds, farms, shared land, and old water systems.",
+      "summary_ko": "케랄라주 치투르-타타망갈람 주민들은 주 정부의 개발 계획이 생계와 환경을 해칠 수 있다며 거부했다. 대신 일자리, 연못, 농지, 공동 공간, 오래된 물 관리 체계를 지키는 주민 참여형 마스터플랜을 만들었다.",
+      "title_en": "Kerala town makes its own climate plan",
+      "title_ko": "케랄라의 한 마을, 주민 손으로 기후 대응 계획 마련",
+      "title_original": "In this Kerala town, ponds, farms and commons shaped its plans for the future - Down To Earth",
+      "triviality_score": 4
     }
   ]
 }

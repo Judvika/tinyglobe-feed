@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-19T20:35:05+09:00",
+  "built_at": "2026-07-19T22:44:07+09:00",
   "page": 22,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-06-18T08:11:16+09:00",
-      "country": "CH",
-      "country_ko": "스위스",
-      "fallback_reason": "",
-      "id": "a2f1e6dd320a",
-      "image_url": "https://www.persoenlich.com/sites/default/files/agentur-berat-unternehmen-mit-zielgruppe-familie-2083.jpg",
-      "lang_original": "de",
-      "lat": null,
-      "lon": null,
-      "processed_at": "2026-06-19T14:17:20+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Vor fünf Jahren haben Eva Hefti und Sarah Pfäffli das Online-Familienmagazin lanciert. Nun stossen sie in die Kommunikationsberatung vor.",
-      "region": null,
-      "source_name": "persoenlich.com",
-      "source_type": "google",
-      "source_url": "https://www.persoenlich.com/prcorporate-communication/agentur-berat-unternehmen-mit-zielgruppe-familie",
-      "summary_en": "Eva Hefti and Sarah Pfäffli started an online family magazine five years ago. Now they are moving into communication consulting. Their agency advises companies that target families.",
-      "summary_ko": "에바 헤프티와 사라 페플리는 5년 전 온라인 가족 매거진을 창간했다. 이제 이들은 커뮤니케이션 컨설팅으로 영역을 넓힌다. 가족을 타깃으로 하는 기업들을 대상으로 자문한다.",
-      "title_en": "Small-town agency helps companies reach families",
-      "title_ko": "작은 마을 가족 전문 매거진, 커뮤니케이션 컨설팅까지 영역 확장",
-      "title_original": "Kleinstadt: Agentur berät Unternehmen mit Zielgruppe Familie - persoenlich.com",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-06-18T08:11:42+09:00",
       "country": "CH",
@@ -484,6 +460,30 @@
       "title_ko": "2027년 싱가포르 공휴일 발표, 5개 연휴 기대",
       "title_original": "Singapore public holiday dates for 2027 released, with 5 long weekends",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-06-18T12:03:41+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "fallback_reason": "",
+      "id": "bbef24e04313",
+      "image_url": "https://www.worldatlas.com/r/w1200-q80/upload/f7/7b/0e/wisconsin-s3cdn.jpg",
+      "lang_original": "en",
+      "lat": 44.5,
+      "lon": -89.5,
+      "processed_at": "2026-06-19T16:18:06+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Wisconsin’s small towns welcome visitors with distinct identities: Swiss heritage, trolls, river art, pie shops, dark-sky parks, and harbor life.",
+      "region": "Wisconsin",
+      "source_name": "WorldAtlas",
+      "source_type": "google",
+      "source_url": "https://www.worldatlas.com/cities/12-most-welcoming-towns-in-wisconsin-s-countryside-2026.html",
+      "summary_en": "Wisconsin's small towns welcome visitors with distinct local charms like Swiss heritage, trolls, river art, and pie shops. Dark-sky parks and harbor life add to the appeal of these countryside communities.",
+      "summary_ko": "위스콘신의 작은 마을들은 스위스 유산, 트롤, 강변 예술, 파이 가게, 다크스카이 공원, 항구 생활 등 각기 다른 정체성으로 방문객을 맞이합니다. 이 시골 마을들은 저마다 독특한 지역 색깔을 자랑합니다.",
+      "title_en": "12 Most Welcoming Small Towns in Wisconsin's Countryside",
+      "title_ko": "위스콘신 시골 마을 12곳, 저마다 다른 매력으로 방문객을 반기다",
+      "title_original": "12 Most Welcoming Towns In Wisconsin's Countryside - WorldAtlas",
+      "triviality_score": 5
     }
   ]
 }
