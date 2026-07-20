@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "built_at": "2026-07-20T14:48:48+09:00",
+  "built_at": "2026-07-20T16:38:34+09:00",
   "page": 153,
   "page_size": 20,
   "count": 20,
@@ -246,30 +246,6 @@
       "triviality_score": 5
     },
     {
-      "collected_at": "2026-07-20T04:08:36+09:00",
-      "country": "IN",
-      "country_ko": "인도",
-      "fallback_reason": "",
-      "id": "5ca422f105c3",
-      "image_url": "https://www.thehindu.com/theme/images/og-image.png",
-      "lang_original": "en",
-      "lat": 13.05,
-      "lon": 77.57,
-      "processed_at": "2026-07-20T10:37:10+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "Deputy Commissioner of Police (North East Division), Mithun Kumar G.K., directed station officers to ensure the strict implementation of the rotation of duties among police personnel during the inspection of Amruthahalli Police Station.",
-      "region": "Karnataka",
-      "source_name": "The Hindu National",
-      "source_type": "rss",
-      "source_url": "https://www.thehindu.com/news/national/karnataka/dcp-stresses-on-strict-rotation-of-duties/article71241689.ece",
-      "summary_en": "A deputy police commissioner visited a police station in Bangalore and told officers to strictly follow duty rotation rules. He said rotating officers between stations is important for fair policing. The official reviewed operations during his inspection.",
-      "summary_ko": "인도 방갈로르의 한 경찰서를 방문한 경찰 부국장이 직원들의 순환근무를 철저히 시행할 것을 지시했습니다. 그는 여러 경찰서에 걸쳐 근무를 순환 배치하는 것이 공정한 치안에 중요하다고 강조했습니다. 이 관리는 점검 과정에서 근무 실태를 살폈습니다.",
-      "title_en": "Police chief stresses strict duty rotation",
-      "title_ko": "경찰 부국장, 순환근무 엄격 준수 강조",
-      "title_original": "Deputy Commissioner of Police stresses on strict rotation of duties",
-      "triviality_score": 4
-    },
-    {
       "collected_at": "2026-07-20T04:08:38+09:00",
       "country": "NZ",
       "country_ko": "뉴질랜드",
@@ -484,6 +460,30 @@
       "title_ko": "지차 지구 라도비치 마을 내부 화재, 즉시 진화",
       "title_original": "Ραδοβίζι Δήμου Ζίτσας :Άμεση η κατάσβεση φωτιάς μέσα στο χωριό - EPIRUS TV NEWS",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-20T04:18:47+09:00",
+      "country": "TH",
+      "country_ko": "태국",
+      "fallback_reason": "",
+      "id": "f8dca3102ef1",
+      "image_url": "https://images.topnews.co.th/2026/07/ปก-web-ขยับรับเทรนด์โลก.jpg",
+      "lang_original": "th",
+      "lat": 18.7883,
+      "lon": 100.7726,
+      "processed_at": "2026-07-20T12:39:30+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "จังหวัดน่านเดินหน้าผลักดัน",
+      "region": "Nan",
+      "source_name": "topnews.co.th",
+      "source_type": "google",
+      "source_url": "https://www.topnews.co.th/news/1625829",
+      "summary_en": "Nan province launched the Nan Coffee Go Green program to raise local coffee into high-value eco-friendly markets. The governor handed coffee seedlings to five pilot communities to replace corn farms and protect watershed areas. Officials say the province now has more than 800 coffee shops, reflecting strong growth from farmers to roasters to cafes.",
+      "summary_ko": "태국 NAN Province가 'Nan Coffee Go Green' 프로그램을 출범시켜 지역 커피를 고부가가치 친환경 시장으로 끌어올리고 있다. 주지사는 벼 replanting을 대체해 수원지를 복원하기 위해 5개 시범 마을에 커피 묘목을 전달했다. 관계자에 따르면 도내 커피숍은 이미 800곳을 넘어 농민에서 로스터, 카페까지 연결된 커피 경제가 빠르게 성장하고 있다.",
+      "title_en": "Nan Province Pushes Coffee to Premium Green Markets",
+      "title_ko": "_customize NAN Province, 'Nan Coffee Go Green'로 프리미엄 친환경 시장 공략 나서",
+      "title_original": "น่านเดินหน้า \"Nan Coffee Go Green\" ยกระดับกาแฟสู่ตลาดมูลค่าสูง ผู้ว่าฯ ชูเศรษฐกิจสีเขียว เกษตรจังหวัดเผยมีร้านกาแฟกว่า 800 ร้าน - topnews.co.th",
+      "triviality_score": 5
     }
   ]
 }

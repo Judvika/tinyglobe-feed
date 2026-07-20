@@ -1,34 +1,10 @@
 {
   "version": 2,
-  "built_at": "2026-07-20T14:48:48+09:00",
+  "built_at": "2026-07-20T16:38:34+09:00",
   "page": 155,
   "page_size": 20,
   "count": 20,
   "items": [
-    {
-      "collected_at": "2026-07-20T06:04:51+09:00",
-      "country": "US",
-      "country_ko": "미국",
-      "fallback_reason": "",
-      "id": "8dcaddbec20b",
-      "image_url": "https://www.cooperativa.cl/noticias/site/artic/20260719/imag/foto_0000000120260719163034.jpg",
-      "lang_original": "es",
-      "lat": 40.8135,
-      "lon": -74.0745,
-      "processed_at": "2026-07-20T12:51:23+09:00",
-      "provider_used": "opencode",
-      "raw_excerpt": "El histórico exboxeador estadounidense mostró su apoyo a la albiceleste en el duelo decisivo contra España.",
-      "region": null,
-      "source_name": "Cooperativa",
-      "source_type": "rss",
-      "source_url": "https://www.cooperativa.cl/noticias/deportes/mundial-2026/final/mike-tyson-llego-al-estadio-y-se-puso-la-camiseta-de-argentina-para-la/2026-07-19/163034.html",
-      "summary_en": "Former boxing champion Mike Tyson arrived at the 2026 FIFA World Cup final wearing an Argentina team jersey. The American legend showed his support for Argentina in their decisive match against Spain.",
-      "summary_ko": "전 복싱 챔피언 마이크 타이슨이 2026 FIFA 월드컵 결승전에 아르헨티나 유니폼을 입고 나타났다. 미국의 전설적인 복서는 스페인과의 결정적인 경기에서 아르헨티나에 대한 지지를 보여주었다.",
-      "title_en": "Mike Tyson shows up at World Cup final wearing Argentina jersey",
-      "title_ko": "마이크 타이슨, 월드컵 결승전에 아르헨티나 유니폼 입고 등장",
-      "title_original": "Mike Tyson llegó al estadio y se puso la camiseta de Argentina para la final del Mundial",
-      "triviality_score": 4
-    },
     {
       "collected_at": "2026-07-20T06:06:26+09:00",
       "country": "IN",
@@ -484,6 +460,30 @@
       "title_ko": "펌프 고장 후 Limpopo 마을 주민들, '이제 하수와 함께 살아야 합니다'",
       "title_original": "‘We live with sewage now,’ say Limpopo village residents after pump failure - Daily Maverick",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-20T06:24:07+09:00",
+      "country": "GB",
+      "country_ko": "영국",
+      "fallback_reason": "",
+      "id": "9eb29ca9561c",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3cd7/live/18753890-4558-11f1-bd52-e755d604ece4.jpg",
+      "lang_original": "en",
+      "lat": 50.45,
+      "lon": -4.63,
+      "processed_at": "2026-07-20T14:43:11+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The proposals have not yet been submitted to Cornwall Council although locals have seen them.",
+      "region": "Cornwall",
+      "source_name": "BBC",
+      "source_type": "google",
+      "source_url": "https://www.bbc.com/news/articles/cdep7k4l0d0o",
+      "summary_en": "Plans for new wind turbines have been proposed for the village of Helland in Cornwall. Local residents have raised concerns about the proposals. The plans have not yet been submitted to Cornwall Council.",
+      "summary_ko": "콘월주 헬란드 마을에 새 풍력발전기 건설 계획이 추진되고 있다. 지역 주민들은 이 계획에 대해 우려를 표하고 있다. 현재 해당 계획은 콘월주 의회에 아직 제출되지 않은 상태다.",
+      "title_en": "Wind turbine plans opposed in Cornwall village of Helland",
+      "title_ko": "콘월주 헬란드 마을, 풍력발전기 설치 계획에 반대",
+      "title_original": "Wind turbine plans opposed in Cornwall village of Helland - BBC",
+      "triviality_score": 5
     }
   ]
 }
