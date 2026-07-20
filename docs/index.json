@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-20T06:49:15+09:00",
-  "total_items": 3429,
+  "built_at": "2026-07-20T09:03:49+09:00",
+  "total_items": 3030,
   "page_size": 20,
-  "total_pages": 172,
+  "total_pages": 152,
   "seed": "stable",
   "pages": [
     {
@@ -764,107 +764,7 @@
     {
       "page": 152,
       "file": "feed_page_0152.json",
-      "count": 20
-    },
-    {
-      "page": 153,
-      "file": "feed_page_0153.json",
-      "count": 20
-    },
-    {
-      "page": 154,
-      "file": "feed_page_0154.json",
-      "count": 20
-    },
-    {
-      "page": 155,
-      "file": "feed_page_0155.json",
-      "count": 20
-    },
-    {
-      "page": 156,
-      "file": "feed_page_0156.json",
-      "count": 20
-    },
-    {
-      "page": 157,
-      "file": "feed_page_0157.json",
-      "count": 20
-    },
-    {
-      "page": 158,
-      "file": "feed_page_0158.json",
-      "count": 20
-    },
-    {
-      "page": 159,
-      "file": "feed_page_0159.json",
-      "count": 20
-    },
-    {
-      "page": 160,
-      "file": "feed_page_0160.json",
-      "count": 20
-    },
-    {
-      "page": 161,
-      "file": "feed_page_0161.json",
-      "count": 20
-    },
-    {
-      "page": 162,
-      "file": "feed_page_0162.json",
-      "count": 20
-    },
-    {
-      "page": 163,
-      "file": "feed_page_0163.json",
-      "count": 20
-    },
-    {
-      "page": 164,
-      "file": "feed_page_0164.json",
-      "count": 20
-    },
-    {
-      "page": 165,
-      "file": "feed_page_0165.json",
-      "count": 20
-    },
-    {
-      "page": 166,
-      "file": "feed_page_0166.json",
-      "count": 20
-    },
-    {
-      "page": 167,
-      "file": "feed_page_0167.json",
-      "count": 20
-    },
-    {
-      "page": 168,
-      "file": "feed_page_0168.json",
-      "count": 20
-    },
-    {
-      "page": 169,
-      "file": "feed_page_0169.json",
-      "count": 20
-    },
-    {
-      "page": 170,
-      "file": "feed_page_0170.json",
-      "count": 20
-    },
-    {
-      "page": 171,
-      "file": "feed_page_0171.json",
-      "count": 20
-    },
-    {
-      "page": 172,
-      "file": "feed_page_0172.json",
-      "count": 9
+      "count": 10
     }
   ]
 }
