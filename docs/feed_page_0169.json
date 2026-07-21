@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-21T20:40:51+09:00",
+  "page": 169,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-21T16:02:28+09:00",
+      "country": "NO",
+      "country_ko": "노르웨이",
+      "fallback_reason": "",
+      "id": "b6a8890049ff",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/04/watermarks-logo-erik-karits-r6PynlurQ2M-unsplash.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-21T20:40:50+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "In Norway, one of the most dangerous animals is also one of the smallest: the tick. It is important that you are aware of how to protect yourself and your family.",
+      "region": null,
+      "source_name": "The Local Norway",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.no/20260422/explained-how-to-protect-yourself-during-norways-tick-season",
+      "summary_en": "Ticks are among the most dangerous animals in Norway despite their small size. It is important to know how to protect yourself and your family during tick season.",
+      "summary_ko": "노르웨이에서 가장 위험한 동물 중 하나는 작지만 진드기입니다. 진드기 시즌에는 자신과 가족을 보호하는 방법을 아는 것이 중요합니다.",
+      "title_en": "How to protect yourself during Norway's tick season",
+      "title_ko": "노르웨이 진드기 시즌에서 자신을 보호하는 방법",
+      "title_original": "EXPLAINED: How to protect yourself during Norways tick season",
+      "triviality_score": 4
+    }
+  ]
+}
