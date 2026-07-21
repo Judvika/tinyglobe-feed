@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-21T09:04:44+09:00",
+  "built_at": "2026-07-21T10:39:45+09:00",
   "page": 163,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-20T22:03:25+09:00",
@@ -459,6 +459,30 @@
       "title_en": "Northern Italy to see more storms as heatwave breaks from Tuesday",
       "title_ko": "이탈리아 북부, 화요일부터 폭풍 더해지며 폭염 종료 예고",
       "title_original": "Northern Italy set for more storms as heatwave to break from Tuesday",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-20T22:03:04+09:00",
+      "country": "DE",
+      "country_ko": "독일",
+      "fallback_reason": "",
+      "id": "cda1ca99a5be",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/08/watermarks-logo-AFP__20081110__Par2260075__v1001__HighRes__ItalyAviationSocialTransportStrike-1.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-21T10:24:43+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "European airport bosses have warned that new EU border checks are significantly increasing waiting times for British nationals arriving in the bloc, in some cases tripling the average.",
+      "region": null,
+      "source_name": "The Local Germany",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.de/20260720/airport-bosses-warn-eus-new-border-checks-triple-waiting-times-for-brits",
+      "summary_en": "European airport officials warn that new EU border checks are making British travelers wait much longer. Some airports report wait times up to three times longer than before.",
+      "summary_ko": "유럽 공항 관계자들이 새로운 EU 국경 검사로 영국인 승객들의 대기 시간이 크게 늘어났다고 경고합니다. 일부 공항에서는 이전보다 3배 긴 대기 시간이 보고되고 있습니다.",
+      "title_en": "New EU border checks triple waiting times for British travelers",
+      "title_ko": "EU 새로운 국경 검사, 영국인 대기 시간 3배 증가",
+      "title_original": "Airport bosses warn EU's new border checks triple waiting times for Brits",
       "triviality_score": 3
     }
   ]
