@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-22T20:39:57+09:00",
+  "page": 177,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-22T12:03:22+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "bbcef7276be2",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/398a9b9b171f827bf53a5f72b233654b?impolicy=wcms_watermark_news&cropH=2592&cropW=4608&xPos=0&yPos=194&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -35.0681,
+      "lon": 138.8508,
+      "processed_at": "2026-07-22T20:39:56+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The state government last week announced a $61.1 million preschool and primary school would be built on a 5.5-hectare parcel of land in Mount Barker's south-east, including on the site of popular Thai restaurant Wok The Duck.",
+      "region": "South Australia",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-07-22/sa-government-pausing-compulsory-acquisition-of-wok-the-duck/106943264",
+      "summary_en": "The South Australian government has paused plans to take over a popular Thai restaurant called Wok The Duck. The restaurant was going to be cleared for a new school project. The government announced a $61.1 million preschool and primary school would be built on the land.",
+      "summary_ko": "남호주 정부가 인기 태국 음식점 'Wok The Duck'의 강제수용 계획을 보류했다. 해당 식당 부지에는 6,110만 달러 규모의 유치원과 초등학교가 건설될 예정이었다. 정부는 이 토지에 새로운 학교를 짓기 위해 식당 철거를 추진하고 있었다.",
+      "title_en": "SA government pauses compulsory acquisition of popular restaurant",
+      "title_ko": "남호주 정부, 인기 식당 강제수용 보류",
+      "title_original": "SA government hits 'pause' on compulsory acquisition of popular restaurant",
+      "triviality_score": 4
+    }
+  ]
+}
