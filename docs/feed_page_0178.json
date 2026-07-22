@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-23T04:41:01+09:00",
+  "built_at": "2026-07-23T06:43:00+09:00",
   "page": 178,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-22T14:07:00+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "네트워크 스쿨 포레스트시티 캠퍼스 폐쇄 명령에 구성원들 실망",
       "title_original": "‘Hopes are dashed’: Network School members express frustration after Forest City campus ordered to close",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-22T18:03:58+09:00",
+      "country": "CH",
+      "country_ko": "스위스",
+      "fallback_reason": "",
+      "id": "59f1ede7a967",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-ramillu-bbq-825711_1280.jpeg@webp",
+      "lang_original": "en",
+      "lat": 46.8,
+      "lon": 8.2,
+      "processed_at": "2026-07-23T06:24:12+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Firing up the barbecue outdoors, surrounded by spectacular Swiss nature, is one of the favoured summer activities for many people. But amid dire drought conditions, what are the rules this summer?",
+      "region": null,
+      "source_name": "The Local Switzerland",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.ch/20260722/explained-is-barbecuing-in-switzerland-allowed-during-the-drought",
+      "summary_en": "Switzerland is experiencing a severe drought this summer. Outdoor barbecuing is a popular activity, but strict rules now apply. Residents must follow specific safety measures to prevent fires.",
+      "summary_ko": "스위스는 올여름 심각한 가뭄을 겪고 있습니다. 야외 바비큐는 인기 있는 활동이지만, 이제는 엄격한 규칙이 적용됩니다. 주민들은 화재를 방지하기 위해 특정 안전 조치를 따라야 합니다.",
+      "title_en": "Is Barbecuing in Switzerland Allowed During the Drought?",
+      "title_ko": "가뭄 중 스위스에서 바비큐를 허용하나요?",
+      "title_original": "EXPLAINED: Is barbecuing in Switzerland allowed during the drought?",
+      "triviality_score": 5
     }
   ]
 }
