@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-25T04:47:23+09:00",
+  "built_at": "2026-07-25T06:46:03+09:00",
   "page": 194,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-24T12:04:17+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "커, 여자 A리그에 더 많은 투자 촉구",
       "title_original": "A-League Women needs more investment to bring Matildas home, says Kerr",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-24T16:05:22+09:00",
+      "country": "VN",
+      "country_ko": "베트남",
+      "fallback_reason": "",
+      "id": "cb1e7045b10a",
+      "image_url": "https://vcdn1-english.vnecdn.net/2026/07/23/ckwc12of2317845098251784510041-1683-5672-1784812492.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=UI0yBhmpWFZekz_sfLFEkQ",
+      "lang_original": "en",
+      "lat": 21.03,
+      "lon": 105.85,
+      "processed_at": "2026-07-25T06:25:22+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Hanoi is considering regulated entertainment zones operating beyond midnight or around the clock as it seeks to turn the night-time economy into a major growth engine, contributing about 5% of the capital’s GRDP by 2030.",
+      "region": "Hanoi",
+      "source_name": "VNExpress International",
+      "source_type": "rss",
+      "source_url": "https://e.vnexpress.net/news/news/vietnam-s-capital-wants-to-set-up-zones-for-nightclubs-karaoke-bars-to-open-24-hours-a-day-5100951.html",
+      "summary_en": "Hanoi is looking at letting nightclubs and karaoke bars stay open all day and night. The city wants its night-time economy to grow and make up 5% of the local economy by 2030.",
+      "summary_ko": "하니는 심야 이후나 24시간 운영되는 유흥지구를 도입하는 방안을 검토하고 있다. 이는 야간 경제를 주요 성장 동력으로 키우기 위한 계획으로, 2030년까지 수도권 경제의 약 5%를 차지하는 것이 목표다.",
+      "title_en": "Hanoi considers 24-hour nightclub and karaoke zones",
+      "title_ko": "하니, 24시간 유흥지구 도입 검토",
+      "title_original": "Vietnam's capital wants to set up zones for nightclubs, karaoke bars to open 24 hours a day",
+      "triviality_score": 3
     }
   ]
 }
