@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-24T09:09:01+09:00",
+  "built_at": "2026-07-24T11:18:52+09:00",
   "page": 189,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-23T20:02:52+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "상파울루 3개 노선 열차 운행 중단",
       "title_original": "Três linhas de trens têm funcionamento interrompido em São Paulo",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-23T20:04:39+09:00",
+      "country": "GR",
+      "country_ko": "그리스",
+      "fallback_reason": "",
+      "id": "8135aaa4fca2",
+      "image_url": "https://www.news.gr/wp-content/uploads/images/2026/07/23/ia/iatrikh-proti.jpg",
+      "lang_original": "el",
+      "lat": 37.9838,
+      "lon": 23.7275,
+      "processed_at": "2026-07-24T11:01:25+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "«Είναι η μεγαλύτερη επιτυχία που θα μπορούσα να έχω ουσιαστικά. Είναι η ύψιστη ικανοποίηση»",
+      "region": "Athens",
+      "source_name": "News.gr",
+      "source_type": "rss",
+      "source_url": "https://www.news.gr/ellada/article/4183672/proti-stin-iatriki-athinon-i-maria-michaela-chereti-i-axia-tou-kathenos-den-metriete-mono-me-ta-moria.html",
+      "summary_en": "Maria-Michaila Chereti ranked first in the Athens Medical School entrance exam. She said this is the greatest success she could have hoped for. The value of each person is not measured only by grades.",
+      "summary_ko": "마리아 미하엘라 사이레티가 아테네 의과대학 입학시험에서 전체 1위를 차지했습니다. 그녀는 \"할 수 있는 가장 큰 성공\"이라며 기쁨을 표현했습니다. 각 사람의 가치는 성적만으로 측정되지 않는다고 말했습니다.",
+      "title_en": "Maria-Michaila Chereti Tops Medicine Entrance Exam in Athens",
+      "title_ko": "아테네 의대 입학시험 전체 1위 마리아 미하엘라 사이레티",
+      "title_original": "Πρώτη στην Ιατρική Αθηνών η Μαρία-Μιχαέλα Χαιρέτη – «Η αξία του καθενός δεν μετριέται μόνο με τα μόρια»",
+      "triviality_score": 5
     }
   ]
 }
