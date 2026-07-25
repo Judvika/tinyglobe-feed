@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-26T00:46:07+09:00",
+  "built_at": "2026-07-26T02:47:32+09:00",
   "page": 203,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-25T16:02:44+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "캐나다 혈액 서비스, 혈액 재고 20% 급감에 긴급 헌혈 요청",
       "title_original": "Canadian Blood Services supply drops nearly 20% since June, prompting call for urgent blood donations",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-25T16:05:03+09:00",
+      "country": "GR",
+      "country_ko": "그리스",
+      "fallback_reason": "",
+      "id": "e2a13b797fba",
+      "image_url": "https://deliver2.siliconweb.com/cretetv/image.thumb?key=eBgtEDN7m9OeCWA3FFFVNg",
+      "lang_original": "el",
+      "lat": 35.15,
+      "lon": 25.75,
+      "processed_at": "2026-07-26T02:27:58+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Πήγαμε στα Δαμάνια Δεν έχουμε λόγια Έχουμε πολλές εικόνες Τρομερές ιστορίες Απίθανους ανθρώπους Και ένα χωριό που μοιάζει με κρυμμένο διαμαντάκι στην ενδοχώρα",
+      "region": "Crete",
+      "source_name": "κρητη tv",
+      "source_type": "google",
+      "source_url": "https://www.cretetv.gr/episode/kala-tha-paei-auto/damania/",
+      "summary_en": "Visitors explored Damania, a small village hidden in Crete's interior. They described it as a beautiful diamond with incredible people and wonderful stories to share.",
+      "summary_ko": "방문자들은 크레테 내륙에 숨겨진 작은 마을 다마니아를 탐방했습니다. 그들은 이곳을 믿을 수 없이 아름다운 사람들과 멋진 이야기가 있는 보석 같은 마을이라고 묘사했습니다.",
+      "title_en": "Damania: A Hidden Village Gem in Crete",
+      "title_ko": "다마니아: 크레테 내륙의 숨겨진 보석 마을",
+      "title_original": "Δαμάνια - κρητη tv",
+      "triviality_score": 5
     }
   ]
 }
