@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-25T22:46:17+09:00",
+  "built_at": "2026-07-26T00:46:07+09:00",
   "page": 202,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-25T10:17:22+09:00",
@@ -459,6 +459,30 @@
       "title_en": "Museum City of Mértola Celebrates 40 Years of Archaeology",
       "title_ko": "메르톨라 박물관 도시, 고고학 40주년 기념",
       "title_original": "Cidade Museu de Mértola - 40 anos de arqueologia e valorização do património - Portugal Resident",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-25T16:02:40+09:00",
+      "country": "FR",
+      "country_ko": "프랑스",
+      "fallback_reason": "",
+      "id": "01f304f89aa3",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2023/07/watermarks-logo-faire-le-keke.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-26T00:28:30+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "This French expression is an old one, but still very popular amongst today’s youth.",
+      "region": null,
+      "source_name": "The Local France",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.fr/20260724/french-expression-of-the-day-faire-le-keke",
+      "summary_en": "This French expression is old but remains popular with young people today. It is a common phrase in French culture.",
+      "summary_ko": "이 프랑스 표현은 오래되었지만 오늘날 젊은이들 사이에서 여전히 인기 있다. 프랑스 문화에서 자주 쓰이는 말이다.",
+      "title_en": "French Expression of the Day: Faire le kéké",
+      "title_ko": "오늘의 프랑스 표현: Faire le kéké",
+      "title_original": "French Expression of the Day: Faire le kéké",
       "triviality_score": 5
     }
   ]
