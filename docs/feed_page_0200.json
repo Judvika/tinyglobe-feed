@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-25T18:44:36+09:00",
+  "built_at": "2026-07-25T20:46:37+09:00",
   "page": 200,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-25T04:19:15+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "컨트리 라이프: \"왜 알파카를 안 키우나?\"",
       "title_original": "Country Life: \"Why not llamas?\"",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-25T08:05:14+09:00",
+      "country": "CL",
+      "country_ko": "칠레",
+      "fallback_reason": "",
+      "id": "e4a5c642e7f9",
+      "image_url": "https://www.cooperativa.cl/noticias/site/artic/20260724/imag/foto_0000000220260724181927.jpg",
+      "lang_original": "es",
+      "lat": -33.45,
+      "lon": -70.67,
+      "processed_at": "2026-07-25T20:27:50+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "El arquero de Cabo Verde aceptó la propuesta del conjunto \"albo\", de acuerdo a la prensa argentina.",
+      "region": "Santiago",
+      "source_name": "Cooperativa",
+      "source_type": "rss",
+      "source_url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/golpe-al-mercado-aseguran-que-vozinha-esta-listo-para-fichar-en-colo/2026-07-24/181927.html",
+      "summary_en": "The Cape Verde goalkeeper has accepted the offer from Colo Colo. Argentine media report the deal is done.",
+      "summary_ko": "카베르데 출신 골키퍼가 아르헨티나 매체에 따르면 콜로콜로의 제안을 수락했습니다.",
+      "title_en": "Transfer shock: Vozinha ready to sign with Colo Colo",
+      "title_ko": "이적 시장 타격! 볼지나, 콜로콜로 합류 준비 완료",
+      "title_original": "¡Golpe al mercado! Aseguran que Vozinha está listo para fichar en Colo Colo",
+      "triviality_score": 3
     }
   ]
 }
