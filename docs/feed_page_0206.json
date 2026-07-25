@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-26T04:38:45+09:00",
+  "page": 206,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-25T22:04:26+09:00",
+      "country": "IS",
+      "country_ko": "아이슬란드",
+      "fallback_reason": "",
+      "id": "7fe1f86c381f",
+      "image_url": "https://www.icelandreview.com/wp-content/uploads/2025/07/21545412349_38ff2abc39_k.jpg",
+      "lang_original": "en",
+      "lat": 66.05,
+      "lon": -23.5,
+      "processed_at": "2026-07-26T04:38:44+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The transformation of the road network in Iceland’s southern Westfjords is continuing, with new bridges at Djúpifjörður and Gufufjörður taking shape. The region’s last unpaved stretch across Dynjandisheiði is steadily disappearing. The infrastructure upgrades are expected to make journeys through the remote region safer and more reliable for both residents and visitors. For local communities,…",
+      "region": "Westfjords",
+      "source_name": "Iceland Review",
+      "source_type": "rss",
+      "source_url": "https://www.icelandreview.com/news/easier-access-to-the-westfjords-prompts-mixed-reactions/",
+      "summary_en": "Road work is changing the Westfjords in Iceland. New bridges are being built and the last dirt road is being paved. Some people are happy about safer trips, but others worry the quiet character of the area may fade.",
+      "summary_ko": "아이슬란드 서부 피요르드 지역의 도로가 크게 바뀌고 있다. 새 다리가 놓이고 마지막 비포장도로가 포장되고 있어 더 안전한 여행이 기대된다. 하지만 이.remote한 지역의 고요한 분위기가 사라질까 걱정하는 주민들도 있다.",
+      "title_en": "New Bridges in Iceland's Westfjords Bring Mixed Feelings",
+      "title_ko": "아이슬란드 서부 피요르드 새 다리 공사, 주민 반응 엇갈려",
+      "title_original": "Easier Access to the Westfjords Prompts Mixed Reactions",
+      "triviality_score": 4
+    }
+  ]
+}
