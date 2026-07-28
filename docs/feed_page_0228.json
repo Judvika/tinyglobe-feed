@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-07-29T04:34:19+09:00",
+  "page": 228,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-07-29T02:02:33+09:00",
+      "country": "IT",
+      "country_ko": "이탈리아",
+      "fallback_reason": "",
+      "id": "74b668193d4c",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-AFP__20260727__C3AG6TF__v1__MidRes__ItalyArtCultureMonument.jpg@webp",
+      "lang_original": "en",
+      "lat": 41.9028,
+      "lon": 12.4964,
+      "processed_at": "2026-07-29T04:33:48+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "28-year-old Valerio Tuveri became known on social media as \"the guy who cleans Rome\" after he began posting videos of himself cleaning graffiti from the Italian capital's walls.",
+      "region": "Roma",
+      "source_name": "The Local Italy",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.it/20260728/the-man-cleaning-romes-walls-one-graffiti-tag-at-a-time",
+      "summary_en": "28-year-old Valerio Tuveri became known on social media as 'the guy who cleans Rome'. He posts videos of himself cleaning graffiti from the Italian capital's walls.",
+      "summary_ko": "28세 발레리오 투베리는 로마 벽에서 낙서를 지우는 영상을 올리며 '로마 청소부'로 알려졌습니다. 그는 소셜 미디어에 영상을 올려 주목받고 있습니다.",
+      "title_en": "The man cleaning Rome's walls, one graffiti tag at a time",
+      "title_ko": "로마 벽 낙서를 지우는 청년",
+      "title_original": "The man cleaning Rome's walls, one graffiti tag at a time",
+      "triviality_score": 5
+    }
+  ]
+}
