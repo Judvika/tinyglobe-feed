@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-30T00:36:03+09:00",
+  "built_at": "2026-07-30T02:35:07+09:00",
   "page": 233,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-29T22:02:39+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "리스본 타일 장인의 헌정 동상",
       "title_original": "The Tilemakers statue in Lisbon",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-07-30T00:05:32+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "8789441a5808",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1778508513/3.jpg",
+      "lang_original": "en",
+      "lat": 37.1773,
+      "lon": -7.5439,
+      "processed_at": "2026-07-30T02:26:12+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Just outside Vila Nova de Cacela, a former family-owned farm has been transformed into a boutique hotel surrounded by orchards and countryside.",
+      "region": "Algarve",
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-07-29/centuries-old-algarve-estate-reborn-as-a-peaceful-luxury-retreat/1062534",
+      "summary_en": "A former family farm outside Vila Nova de Cacela has become a boutique hotel surrounded by orchards and countryside. The centuries-old estate in Algarve has been transformed into a peaceful luxury retreat.",
+      "summary_ko": "빌라 노바 드 카셀라 외곽에 있던 옛 가족 농장이 과수원과 시골 풍경 속 부티크 호텔로 바뀌었다. 수백 년 역사의 이 저택은 알가르브 지역에서 평화로운 고급 휴양지로 다시 태어났다.",
+      "title_en": "Centuries-old Algarve estate reborn as peaceful luxury retreat",
+      "title_ko": "수백 년 역사 알가르브 저택, 평화로운 고급 휴양지로 재탄생",
+      "title_original": "Centuries-old Algarve estate reborn as a peaceful luxury retreat",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-30T00:06:43+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "4f68f2de7761",
+      "image_url": "https://th-i.thgim.com/public/incoming/btqrst/article71282413.ece/alternates/LANDSCAPE_1200/10215_29_7_2026_18_25_21_1_IMG_20260729_WA0063.JPG",
+      "lang_original": "en",
+      "lat": 13.22,
+      "lon": 79.1,
+      "processed_at": "2026-07-30T02:26:38+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Chittoor police initiate a crackdown on overloaded vehicles transporting schoolchildren, prioritizing student safety and enforcing road regulations.",
+      "region": "Andhra Pradesh",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/chittoor-police-launch-drive-against-overloaded-vehicles-carrying-schoolchildren/article71281679.ece",
+      "summary_en": "Police in Chittoor, Andhra Pradesh have started a special drive against overloaded vehicles that carry schoolchildren. The operation focuses on student safety and enforcing road traffic rules.",
+      "summary_ko": "안드라프라데시주 치투르 경찰이 학생을 태운 과적 차량을 집중 단속하는 특별 작전을 시작했다. 이번 단속은 학생 안전과 교통 법규 준수를 최우선 목표로 한다.",
+      "title_en": "Chittoor police crack down on overloaded school vehicles",
+      "title_ko": "치투르 경찰, 과적 학원 차량 집중 단속",
+      "title_original": "Chittoor police launch drive against overloaded vehicles carrying schoolchildren",
+      "triviality_score": 4
     }
   ]
 }
