@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-30T02:35:07+09:00",
+  "built_at": "2026-07-30T05:00:53+09:00",
   "page": 234,
   "page_size": 20,
-  "count": 7,
+  "count": 9,
   "items": [
     {
       "collected_at": "2026-07-30T00:09:53+09:00",
@@ -172,6 +172,54 @@
       "title_ko": "역사적인 학교가 심각한 보수 필요 상태",
       "title_original": "‘Deteriorating state of Phoenix Secondary School worrying’",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-30T02:07:23+09:00",
+      "country": "GB",
+      "country_ko": "영국",
+      "fallback_reason": "",
+      "id": "0fcd91dac2f3",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d064/live/cba91460-8b56-11f1-8322-5bf52455cf04.jpg",
+      "lang_original": "en",
+      "lat": 54.7603,
+      "lon": -1.3306,
+      "processed_at": "2026-07-30T04:24:05+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The former Dewhirst site, in Peterlee, has had piles of mixed industrial waste fly-tipped on it.",
+      "region": "County Durham",
+      "source_name": "BBC England",
+      "source_type": "rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c5yr7xvx5zzo",
+      "summary_en": "About 400 tonnes of mixed industrial waste has been illegally dumped on the former Dewhirst factory site in Peterlee, County Durham. Local authorities are investigating the large-scale fly-tipping incident.",
+      "summary_ko": "피터리에 있는 옛 듀어하이트 공장 부지에 약 400톤의 산업 혼합 폐기물이 불법 투기되었습니다. 지역 당국이 이번 대규모 불법 폐기물 투기 사건을 조사하고 있습니다.",
+      "title_en": "About 400 tonnes of waste dumped on factory site",
+      "title_ko": "피터리 공장 부지에 400톤 쓰레기 불법 투기",
+      "title_original": "About 400 tonnes of waste dumped on factory site",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-30T02:16:19+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "fallback_reason": "",
+      "id": "22cabc58b942",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/6/dc/6dc0ffec-f06a-5f7a-8e4b-98fe6f411709/5f569d3732ed0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "lang_original": "en",
+      "lat": 43.49,
+      "lon": -112.04,
+      "processed_at": "2026-07-30T04:25:09+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "‘It’s completely unique as far as we know’",
+      "region": "Idaho",
+      "source_name": "Post Register",
+      "source_type": "google",
+      "source_url": "https://www.postregister.com/news/local/museum-of-idaho-exhibit-to-showcase-restored-200-year-old-flag/article_b5ab4f19-be2c-5755-a759-c581902dfe49.html",
+      "summary_en": "The Museum of Idaho will display a restored 200-year-old flag that experts describe as completely unique. The exhibit highlights the preservation work done on the rare historic artifact.",
+      "summary_ko": "아이다호 박물관이 200년 된 깃발을 복원해 전시합니다. 전문가들은 이 깃발이 완전히 독특한 유물이라고 말합니다. 이번 전시는 희귀한 역사 유물의 복원 작업을 조명합니다.",
+      "title_en": "Museum of Idaho to showcase restored 200-year-old flag",
+      "title_ko": "아이다호 박물관, 200년 된 깃발 복원 전시회 열어",
+      "title_original": "Museum of Idaho exhibit to showcase restored 200-year-old flag - Post Register",
+      "triviality_score": 4
     }
   ]
 }
