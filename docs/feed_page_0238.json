@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-31T00:34:54+09:00",
+  "built_at": "2026-07-31T02:33:47+09:00",
   "page": 238,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-30T20:17:03+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "말린 망고, 코카콜라보다 당분 더 많아",
       "title_original": "Dried mango contains more sugar than Coca-Cola",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-31T00:03:10+09:00",
+      "country": "GR",
+      "country_ko": "그리스",
+      "fallback_reason": "",
+      "id": "76a99c4e2d00",
+      "image_url": "https://www.news.gr/wp-content/uploads/images/2019/12/22/Α/ΑΠΑΓΟΡΕΥΤΙΚΟ-ΑΠΟΠΛΟΥ.jpg",
+      "lang_original": "el",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-31T02:24:10+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Ποια δρομολόγια δεν θα εκτελεστούν",
+      "region": null,
+      "source_name": "News.gr",
+      "source_type": "rss",
+      "source_url": "https://www.news.gr/ellada/article/4188717/4188717.html",
+      "summary_en": "Stormy winds are disrupting ferry services in Greece. Many routes will not run as scheduled. Travelers should check for cancellations before heading to ports.",
+      "summary_ko": "그리스 연안에서 강풍으로 페리 서비스가 차질을 빚고 있다. 여러 항로가 예정대로 운항하지 않는다. 여행객은 출항 전 결항 여부를 확인해야 한다.",
+      "title_en": "Storm winds cancel ferries in Greece",
+      "title_ko": "그리스, 태풍급 바람에 페리 운항 중단",
+      "title_original": "Προβλήματα στις ακτοπλοϊκές συγκοινωνίες λόγω θυελλωδών ανέμων",
+      "triviality_score": 3
     }
   ]
 }
