@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-30T07:07:27+09:00",
+  "built_at": "2026-07-30T09:02:29+09:00",
   "page": 234,
   "page_size": 20,
-  "count": 9,
+  "count": 11,
   "items": [
     {
       "collected_at": "2026-07-30T00:09:53+09:00",
@@ -220,6 +220,54 @@
       "title_ko": "아이다호 박물관, 200년 된 깃발 복원 전시회 열어",
       "title_original": "Museum of Idaho exhibit to showcase restored 200-year-old flag - Post Register",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-30T06:02:27+09:00",
+      "country": "AR",
+      "country_ko": "아르헨티나",
+      "fallback_reason": "",
+      "id": "01545db1b917",
+      "image_url": "https://buenosairesherald.com/wp-content/uploads/2026/07/Get-Out-July-29.jpg",
+      "lang_original": "en",
+      "lat": -34.6037,
+      "lon": -58.3816,
+      "processed_at": "2026-07-30T09:01:10+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "From an intimate magic show and a charity lunch by Francis Mallmann to immersive contemporary art, a silent film with live music, a documentary on Argentina's 2001 collapse and surprise 35mm screenings, here's what to do in Buenos Aires this weekend",
+      "region": "Buenos Aires",
+      "source_name": "Buenos Aires Herald",
+      "source_type": "rss",
+      "source_url": "https://buenosairesherald.com/what-to-do-in-argentina/what-to-do-in-buenos-aires/get-out/get-out-rosalia-mallmann-and-35mm-movies",
+      "summary_en": "This article lists things to do in Buenos Aires this weekend. Events include a magic show, a charity lunch by Francis Mallmann, art exhibits, a silent film with live music, and 35mm movie screenings. It covers a range of cultural activities around the city.",
+      "summary_ko": "친밀한 마술 공연부터 프란시스 말만의 자선 점심, 몰입형 현대 미술, 라이브 음악이 있는 무성 영화, 아르헨티나 2001년 붕괴에 관한 다큐멘터리, 깜짝 35mm 상영까지 다양합니다. 이번 주말 부에노스아이레스에서 즐길 거리를 소개하는 기사입니다.",
+      "title_en": "Get Out! Rosalia, Mallmann and 35mm movies in Buenos Aires this weekend",
+      "title_ko": "이번 주말 부에노스아이레스: 로살리아, 말만, 그리고 35mm 영화",
+      "title_original": "Get Out! Rosalía, Mallmann and 35mm movies",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-30T06:02:29+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "f8e119f252a9",
+      "image_url": "https://th-i.thgim.com/public/incoming/qv7rgw/article71283204.ece/alternates/LANDSCAPE_1200/OLA_UBER_FASTRACK_CAB_DRIVER_PROTEST_CAR_05.jpg",
+      "lang_original": "en",
+      "lat": 10.8505,
+      "lon": 76.2711,
+      "processed_at": "2026-07-30T09:01:22+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Kerala Tourism advocates for driver facilities in hotel star ratings following protests for better washroom amenities at luxury resorts.",
+      "region": "Kerala",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/kerala/kerala-tourism-to-push-for-driver-facilities-in-star-rating-norms-for-hotels-and-resorts/article71277591.ece",
+      "summary_en": "Kerala Tourism plans to add driver facilities to hotel star-rating rules. Drivers protested for better washroom access at luxury resorts. The new norms could require rest areas and toilets for drivers.",
+      "summary_ko": "케랄라 관광청이 호텔 등급 평가 기준에 운전자 편의시설을 포함하는 방안을 추진한다. 고급 리조트에서 운전자들이 화장실 등 편의시설 부족에 항의한 데 따른 조치다. 새 기준에는 휴게 공간과 화장실이 포함될 예정이다.",
+      "title_en": "Kerala wants driver facilities in hotel star ratings",
+      "title_ko": "케랄라 관광청, 호텔 별점에 운전자 편의시설 반영 추진",
+      "title_original": "Kerala Tourism to push for driver facilities in star-rating norms for hotels and resorts",
+      "triviality_score": 5
     }
   ]
 }
