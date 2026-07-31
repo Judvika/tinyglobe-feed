@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-31T14:35:36+09:00",
+  "built_at": "2026-07-31T16:37:16+09:00",
   "page": 241,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-31T08:03:36+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "오클랜드 싱크홀 복구에 최대 두 달 걸릴 수도",
       "title_original": "Complex Auckland sinkhole could take up to two months to fix",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-31T12:03:30+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "61af03dba83e",
+      "image_url": "https://imagens.ebc.com.br/xGXepzfbosZaoUTbr6iGPbjy-Go=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/trbr0560.jpg?itok=oFM4XYPv",
+      "lang_original": "pt",
+      "lat": -22.9486,
+      "lon": -43.1564,
+      "processed_at": "2026-07-31T16:25:46+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Desembargador alega que suspensão não é dano irreparável",
+      "region": "Rio de Janeiro",
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/justica-mantem-suspensao-de-obras-de-tirolesa-no-pao-de-acucar",
+      "summary_en": "A court in Rio de Janeiro decided to keep the zipline works at Sugarloaf Mountain suspended. An appellate judge said the suspension is not irreparable damage. The construction will stay stopped for now.",
+      "summary_ko": "리우데자네이루 법원이 슈가로프 마운틴의 집라인 공사 중단을 계속 유지하기로 했다. 항소심 판사는 중단이 회복할 수 없는 피해는 아니라고 밝혔다. 공사는 당분간 멈춘 상태로 남는다.",
+      "title_en": "Court keeps Sugarloaf zipline works suspended",
+      "title_ko": "슈가로프 마운틴 집라인 공사, 법원이 중단 유지 결정",
+      "title_original": "Justiça mantém suspensão de obras de tirolesa no Pão de Açúcar",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-07-31T12:04:43+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "cbd0f743ffef",
+      "image_url": "https://th-i.thgim.com/public/incoming/jbww1/article71288880.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-07-31%20at%2008.04.33.jpeg",
+      "lang_original": "en",
+      "lat": 13.6288,
+      "lon": 79.4192,
+      "processed_at": "2026-07-31T16:26:44+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Tirupati prepares for the 81st Thyagaraja Music Festival, featuring renowned artists from August 1 to 5.",
+      "region": "Andhra Pradesh",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/tirupati-all-set-for-thyagaraja-music-festival-from-august-1/article71286855.ece",
+      "summary_en": "Tirupati is preparing for the 81st Thyagaraja Music Festival. Famous artists will perform there from August 1 to 5.",
+      "summary_ko": "티루파티가 제81회 티야가라자 음악제를 준비하고 있습니다. 유명 음악가들이 8월 1일부터 5일까지 공연할 예정입니다.",
+      "title_en": "Tirupati ready for Thyagaraja music festival",
+      "title_ko": "티루파티 티야가라자 음악제 준비 완료",
+      "title_original": "Tirupati all set for Thyagaraja music festival from August 1",
+      "triviality_score": 5
     }
   ]
 }
