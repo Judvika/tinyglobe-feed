@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-31T20:33:54+09:00",
+  "built_at": "2026-07-31T22:33:55+09:00",
   "page": 243,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-07-31T16:06:03+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "스위스 국적 신청 서류 8월부터 디지털화",
       "title_original": "How the new digitalised system will improve Swiss citizenship process",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-31T20:02:49+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "1abc4753d00b",
+      "image_url": "https://th-i.thgim.com/public/news/national/andhra-pradesh/nwtgy1/article71290021.ece/alternates/LANDSCAPE_1200/Gaur.jpeg",
+      "lang_original": "en",
+      "lat": 15.9,
+      "lon": 78.7,
+      "processed_at": "2026-07-31T22:24:31+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Gaurs will be translocated from central India to the Nagarjunasagar-Srisailam Tiger Reserve from September to expand the prey base for tigers, the PCCF said.",
+      "region": "Andhra Pradesh",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-to-bring-gaurs-from-mp-india-to-feed-nallamalas-tigers/article71289693.ece",
+      "summary_en": "Gaurs will be moved from central India to the Nagarjunasagar-Srisailam Tiger Reserve starting in September. The move is meant to expand the prey base for tigers living in the Nallamala forests.",
+      "summary_ko": "9월부터 중부 인도의 인도들소가 나가르주나사가르 스리사일람 호랑이 보호구역으로 옮겨진다. 날라말라 숲의 호랑이를 위해 먹잇감을 늘리려는 조치다.",
+      "title_en": "Andhra Pradesh to bring gaurs from central India to feed Nallamala's tigers",
+      "title_ko": "안드라프라데시, 중부 인도에서 인도들소 옮겨와 호랑이 먹이 늘린다",
+      "title_original": "Andhra Pradesh to bring gaurs from central India to feed Nallamala’s tigers",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-31T20:02:52+09:00",
+      "country": "IS",
+      "country_ko": "아이슬란드",
+      "fallback_reason": "",
+      "id": "c589eac2fd38",
+      "image_url": "https://www.icelandreview.com/wp-content/uploads/2026/07/American_mink-scaled.jpg",
+      "lang_original": "en",
+      "lat": 64.17,
+      "lon": -21.6,
+      "processed_at": "2026-07-31T22:25:25+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "This column is part of ‘Notes From a Cold Country’, a series in which Iceland Review’s former Editor shares observations from a decade of living in Iceland. This is its final instalment. Watching the response to the escape of hundreds, perhaps thousands, of American mink in Mosfellsbær this week felt a little surreal. It also…",
+      "region": "Mosfellsbær",
+      "source_name": "Iceland Review",
+      "source_type": "rss",
+      "source_url": "https://www.icelandreview.com/opinions-columns/on-escaped-mink-other-immigrants/",
+      "summary_en": "Hundreds, maybe thousands, of American mink escaped from a farm in Mosfellsbær, Iceland, this week. A writer watches how the town reacts and says it feels a little surreal. The story wraps up her long-running column about a decade of life in Iceland.",
+      "summary_ko": "이번 주 아이슬란드 모스펠스베르의 한 농장에서 미국산 밍크 수백 마리, 어쩌면 수천 마리가 탈출했다. 칼럼니스트는 마을 사람들의 반응을 지켜보며 현실감이 없다고 느낀다. 이 이야기는 그녀가 아이슬란드에서 보낸 10년을 기록해 온 칼럼의 마지막 편이다.",
+      "title_en": "Hundreds of Mink Escape a Farm in Iceland",
+      "title_ko": "아이슬란드 마을에서 밍크 수백 마리가 탈출했다",
+      "title_original": "One Fur the Road | The Curious Case of the Escaped Mink",
+      "triviality_score": 5
     }
   ]
 }
