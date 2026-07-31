@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-07-31T07:09:13+09:00",
+  "built_at": "2026-07-31T09:02:11+09:00",
   "page": 240,
   "page_size": 20,
-  "count": 5,
+  "count": 6,
   "items": [
     {
       "collected_at": "2026-07-31T02:05:50+09:00",
@@ -123,6 +123,30 @@
       "title_en": "Heavy Rain Hits Southern Chile, Rivers Rise and Waterfall Closed",
       "title_ko": "칠레 남부 폭우로 강물 불어나고 폭포 폐쇄",
       "title_original": "Avanza el temporal: Crecidas de ríos en el sur y alerta preventiva ante su llegada a la zona central",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-07-31T06:03:35+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "df5c5bb405c8",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/ef14022a36da594e5e310eeac50c0f74?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-07-31T09:02:00+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The South Australian Veterans Court Pilot Program is an Australian-first initiative which advocates hope will help \"break the cycle\" of offending.",
+      "region": "South Australia",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-07-31/sa-veterans-court-pilot-program-becomes-australian-first/106951930",
+      "summary_en": "The South Australian Veterans Court Pilot Program is the first of its kind in the country. It aims to help veterans who have offended break the cycle of reoffending. Supporters call the initiative life-saving.",
+      "summary_ko": "사우스오스트레일리아주가 호주 최초로 참전용사 전담 법원 시범 프로그램을 시작합니다. 이 법원은 법을 어긴 참전용사들이 범죄의 악순환에서 벗어나도록 돕는 것이 목표입니다. 지지자들은 이 프로그램이 생명을 구하는 중요한 조치라고 말합니다.",
+      "title_en": "Australian-first veterans court to launch in South Australia",
+      "title_ko": "호주 최초, 사우스오스트레일리아주 참전용사 전담 법원 출범",
+      "title_original": "'Life-saving' Australian-first veterans court to launch in SA",
       "triviality_score": 3
     }
   ]
