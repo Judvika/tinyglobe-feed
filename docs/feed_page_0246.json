@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-01T04:35:53+09:00",
+  "built_at": "2026-08-01T07:06:46+09:00",
   "page": 246,
   "page_size": 20,
-  "count": 12,
+  "count": 14,
   "items": [
     {
       "collected_at": "2026-08-01T00:06:52+09:00",
@@ -292,6 +292,54 @@
       "title_ko": "불가리아 다뉴브강 바닥에서 매머드 뼈 발견",
       "title_original": "Mammoth bones found on parched bed of Danube in Bulgaria - The New Indian Express",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-01T02:07:31+09:00",
+      "country": "CL",
+      "country_ko": "칠레",
+      "fallback_reason": "",
+      "id": "94778c5649e2",
+      "image_url": "https://www.cooperativa.cl/noticias/site/artic/20260731/imag/foto_0000000120260731123700.jpg",
+      "lang_original": "es",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-08-01T06:24:08+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "El DT de la U fue consultado respecto al complejo momento dirigencial que vive el equipo.",
+      "region": null,
+      "source_name": "Cooperativa",
+      "source_type": "rss",
+      "source_url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/fernando-gago-en-argentina-diriamos-que-no-hay-que-hacerse-el-pavo-con/2026-07-31/123700.html",
+      "summary_en": "The coach of Universidad de Chile was asked about the hard moment the club's leadership is going through. He said people should not act as if nothing is happening. He answered using a common saying from his home country Argentina.",
+      "summary_ko": "유니베르시다드 데 칠레 감독이 구단 지도부가 겪는 어려운 상황에 대해 질문을 받았다. 가고 감독은 지금 벌어지고 있는 일에 모른 척하면 안 된다고 말했다. 아르헨티나에서 흔히 쓰는 말로 답을 전했다.",
+      "title_en": "Gago: 'In Argentina we would say don't play the fool about what is happening'",
+      "title_ko": "가고 감독 \"아르헨티나에서는 지금 벌어지는 일에 모른 척하지 말라고 한다\"",
+      "title_original": "Fernando Gago: \"En Argentina diríamos que no hay que hacerse el pavo con lo que está sucediendo\"",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-01T02:22:34+09:00",
+      "country": "IE",
+      "country_ko": "아일랜드",
+      "fallback_reason": "",
+      "id": "e2ab8a9a99ae",
+      "image_url": "https://www.rte.ie/images/0006a5dc-1600.jpg",
+      "lang_original": "en",
+      "lat": 51.7073,
+      "lon": -8.5226,
+      "processed_at": "2026-08-01T06:24:30+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The operators of a not-for-profit museum which has taken ownership of the wreck of the Lusitania has called on the Government to make it easier for licensed divers to recover artefacts from it.",
+      "region": "Kinsale, County Cork",
+      "source_name": "RTE.ie",
+      "source_type": "google",
+      "source_url": "https://www.rte.ie/news/ireland/2019/0507/1047908-luisitania/",
+      "summary_en": "A small non-profit museum in Kinsale now owns the wreck of the Lusitania. The ship sank off the Irish coast in 1915. Its operators want the government to make it easier for licensed divers to bring back objects from the wreck.",
+      "summary_ko": "킨세일에 있는 비영리 소규모 박물관이 루시타니아호의 난파선을 소유하게 됐습니다. 이 배는 1915년 아일랜드 앞바다에서 침몰했습니다. 박물관 운영진은 면허를 가진 잠수사들이 난파선에서 유물을 회수할 수 있도록 정부가 기준을 완화해 달라고 요청했습니다.",
+      "title_en": "Lusitania wreck gifted to Kinsale museum",
+      "title_ko": "루시타니아호 난파선, 킨세일 박물관에 기증돼",
+      "title_original": "Lusitania wreck gifted to Kinsale museum - RTE.ie",
+      "triviality_score": 3
     }
   ]
 }
