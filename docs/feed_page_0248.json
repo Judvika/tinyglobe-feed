@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-08-01T12:33:51+09:00",
+  "page": 248,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-01T10:02:34+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "80caa416c0ad",
+      "image_url": "https://th-i.thgim.com/public/incoming/cd518x/article71287570.ece/alternates/LANDSCAPE_1200/vjkvg-tb%205.JPG",
+      "lang_original": "en",
+      "lat": 15.9,
+      "lon": 79.5,
+      "processed_at": "2026-08-01T12:33:50+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "For tuberculosis (TB) patients from economically backward regions, financial assistance through government initiatives is as crucial as medication. Delays in disbursing aid are affecting the recovery of patients from across the State as they struggle to afford nutritious food and travel for treatment",
+      "region": "Andhra Pradesh",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/delayed-aid-prolonged-ordeal/article71286239.ece",
+      "summary_en": "TB patients from poor areas in Andhra Pradesh need government money aid as much as medicine. Delays in sending the money are hurting their recovery. Many cannot afford good food or travel for treatment.",
+      "summary_ko": "경제적으로 어려운 지역의 결핵 환자에게는 약만큼이나 정부 지원금이 중요합니다. 지원금 지급이 늦어지면서 주 전역의 환자들이 회복에 어려움을 겪고 있습니다. 영양가 있는 음식과 치료를 위한 교통비를 마련하기 어렵기 때문입니다.",
+      "title_en": "Late money aid slows TB patients' recovery",
+      "title_ko": "지원금 늦게 나와 결핵 환자들의 회복도 더뎌져",
+      "title_original": "Delayed aid, prolonged ordeal",
+      "triviality_score": 3
+    }
+  ]
+}
