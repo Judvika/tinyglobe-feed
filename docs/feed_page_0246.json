@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-01T07:06:46+09:00",
+  "built_at": "2026-08-01T09:01:33+09:00",
   "page": 246,
   "page_size": 20,
-  "count": 14,
+  "count": 16,
   "items": [
     {
       "collected_at": "2026-08-01T00:06:52+09:00",
@@ -340,6 +340,54 @@
       "title_ko": "루시타니아호 난파선, 킨세일 박물관에 기증돼",
       "title_original": "Lusitania wreck gifted to Kinsale museum - RTE.ie",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-01T06:02:24+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "d285572890fd",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1785527234/cover-YouCut-20260731-201625628.0000000.jpg",
+      "lang_original": "en",
+      "lat": 37.0769,
+      "lon": -8.1175,
+      "processed_at": "2026-08-01T09:00:22+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Visitors looking for something a little different this summer can now enjoy a new series of themed dinner evenings in Vilamoura, with a different cuisine taking centre stage on selected nights throughout the week.",
+      "region": "Algarve",
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-07-31/we-tried-vilamouras-new-world-inspired-dinner-nights/1064035",
+      "summary_en": "A new series of themed dinner evenings has started in Vilamoura this summer. Each night features a different cuisine from around the world. It is a good choice for visitors who want to try something different.",
+      "summary_ko": "이번 여름 빌라무라에서 세계 각 나라 요리를 주제로 한 새로운 저녁 행사가 시작됐다. 요일마다 다른 나라의 음식이 주인공이 된다. 색다른 경험을 원하는 방문객에게 좋은 선택이다.",
+      "title_en": "New world-food dinner nights in Vilamoura",
+      "title_ko": "빌라무라에 새 저녁 테마 행사, 매일 다른 나라 요리",
+      "title_original": "We tried Vilamoura's new world-inspired dinner nights",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-01T06:03:36+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "743767b1bfc6",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/6bcf407974bd63f43c7acd4aa6d4f28b?impolicy=wcms_watermark_news&cropH=3132&cropW=5568&xPos=0&yPos=762&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -24.1138,
+      "lon": 152.7149,
+      "processed_at": "2026-08-01T09:00:46+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Cyclone Alfred's slow approach to Queensland in 2025 created cooler sea temperatures that helped 90 per cent of damaged coral around Lady Elliot Island to recover. Now there's hope of a new spawning event.",
+      "region": "퀸즐랜드",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-08-01/lady-elliot-island-bleached-coral-recovers-cyclone-alfred/106949612",
+      "summary_en": "Cyclone Alfred cooled the sea near Queensland in 2025. This helped 90 per cent of damaged coral around Lady Elliot Island to recover. People now hope for a new coral spawning event.",
+      "summary_ko": "2025년 퀸즐랜드로 천천히 다가온 사이클론 알프레드가 바닷물 온도를 낮췄습니다. 덕분에 레이디 엘리엇 섬 주변 상처 입은 산호의 90퍼센트가 회복됐습니다. 이제 새로운 산호 산란을 기대하고 있습니다.",
+      "title_en": "Bleached coral recovers after cyclone cools the sea",
+      "title_ko": "사이클론이 바닷물을 식혀 표백 산호가 놀랍게 회복",
+      "title_original": "Bleached coral's 'incredible recovery' as cyclone cools water temperature",
+      "triviality_score": 4
     }
   ]
 }
