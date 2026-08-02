@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-08-03T04:31:12+09:00",
+  "page": 256,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-03T04:18:52+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "9b1d741f0fab",
+      "image_url": "https://blogdomagno.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-02-at-10.26.29.jpeg",
+      "lang_original": "pt",
+      "lat": -8.0476,
+      "lon": -34.877,
+      "processed_at": "2026-08-03T04:31:11+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Por Mônica Moraes – especial para o Blog A convenção do PSD no Bairro do Recife começou sob percalços: quedas de energia interromperam a transmissão de áudio logo nos primeiros discursos, prejudicando as falas de candidatos no palco. O problema, recorrente na região em grandes eventos, costuma ser contornado com planejamento técnico adequado — algo […]",
+      "region": "레시피, 페르남부쿠",
+      "source_name": "Blog do Magno",
+      "source_type": "google",
+      "source_url": "https://blogdomagno.com.br/quedas-de-energia-atrapalham-inicio-da-convencao-do-psd-no-bairro-do-recife/",
+      "summary_en": "Power outages interrupted the audio feed during the first speeches at the PSD convention in Recife. The problem is common for large events in the area. Candidates on stage had their remarks affected.",
+      "summary_ko": "레시피에서 열린 PSD 전당대회가 정전으로 시작부터 차질을 빚었습니다. 첫 연설 도중 오디오 송출이 끊겨 무대 위 후보들의 발언이 방해를 받았습니다. 이 지역에서는 큰 행사 때 이런 문제가 자주 발생한다고 합니다.",
+      "title_en": "Power outages disrupt start of PSD convention in Recife",
+      "title_ko": "레시피 PSD 전당대회, 정전으로 시작부터 차질",
+      "title_original": "Quedas de energia atrapalham início da convenção do PSD no Bairro do Recife - Blog do Magno",
+      "triviality_score": 4
+    }
+  ]
+}
