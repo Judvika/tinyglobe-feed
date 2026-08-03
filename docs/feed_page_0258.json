@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-03T20:33:29+09:00",
+  "built_at": "2026-08-03T22:33:49+09:00",
   "page": 258,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-03T18:02:22+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "가수 미탐 따라 다낭에 가서 호아박 시골에서 느린 하루 보내기",
       "title_original": "Theo chân Mỹ Tâm về Đà Nẵng, thử một ngày sống chậm ở làng quê Hòa Bắc - Tạp chí Saostar",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-03T20:04:00+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "90f943eca7dc",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2021/02/watermarks-logo-pexels-kampus-6181091.jpg@webp",
+      "lang_original": "en",
+      "lat": 41.3874,
+      "lon": 2.1686,
+      "processed_at": "2026-08-03T22:25:14+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Even if you speak Spanish, if you're living in Catalonia, it's a good idea to learn some Catalan too. Here are some basic phrases you need to get by.",
+      "region": "Catalonia",
+      "source_name": "The Local Spain",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.es/20210226/the-essential-catalan-phrases-you-need-in-catalonia",
+      "summary_en": "Living in Catalonia means more than just Spanish. Learning some basic Catalan phrases helps you get by day to day. Here are the essential ones to know.",
+      "summary_ko": "카탈루냐에 살면 스페인어만으로는 부족합니다. 기본적인 카탈루냐어 몇 가지를 배워 두면 일상생활이 훨씬 편해집니다. 알아 두면 좋은 필수 표현들을 소개합니다.",
+      "title_en": "Essential Catalan phrases for newcomers",
+      "title_ko": "카탈루냐에서 꼭 알아야 할 카탈루냐어 표현",
+      "title_original": "The essential Catalan phrases you need in Catalonia",
+      "triviality_score": 3
     }
   ]
 }
