@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-03T16:34:48+09:00",
+  "built_at": "2026-08-03T18:38:28+09:00",
   "page": 257,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-03T10:06:27+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "학교가 등하교 시간 도로를 닫아 안전을 지킨다",
       "title_original": "Schools close roads to make drop-offs safer: 'It felt very chaotic'",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-08-03T16:04:53+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "3c27afb82c94",
+      "image_url": "https://th-i.thgim.com/public/incoming/tf6e5c/article71300112.ece/alternates/LANDSCAPE_1200/Subramaniyaswamy%20temple.JPG",
+      "lang_original": "en",
+      "lat": 9.882,
+      "lon": 78.071,
+      "processed_at": "2026-08-03T18:26:53+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Supreme Court to hear Tamil Nadu's plea on lighting a lamp at Thirupparankundram, denying interim relief amid tradition debates.",
+      "region": "Tamil Nadu",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/thirupparankundram-row-supreme-court-agrees-to-hear-tn-government-plea-but-gives-the-state-no-interim-relief/article71300072.ece",
+      "summary_en": "Tamil Nadu asked the Supreme Court to allow lighting a lamp at Thirupparankundram temple. The court agreed to hear the case but gave no interim relief. The debate over this tradition continues.",
+      "summary_ko": "타밀나두 정부는 티루파랑쿤드람 사원에서 등불을 켜게 해 달라고 대법원에 요청했습니다. 대법원은 사건을 심리하기로 했지만 임시 조치는 내리지 않았습니다. 전통을 둘러싼 논쟁은 계속되고 있습니다.",
+      "title_en": "Supreme Court hears Tamil Nadu plea on temple lamp tradition",
+      "title_ko": "타밀나두 사원 등불 전통, 대법원이 재판 열기로",
+      "title_original": "Thirupparankundram row: Supreme Court agrees to hear T.N. government plea, but gives the State no interim relief",
+      "triviality_score": 3
     }
   ]
 }
