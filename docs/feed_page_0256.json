@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-03T08:30:43+09:00",
+  "built_at": "2026-08-03T10:32:25+09:00",
   "page": 256,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-03T04:18:52+09:00",
@@ -459,6 +459,30 @@
       "title_en": "Former Córdoba doctors' leader publishes book 'The Country Doctor'",
       "title_ko": "코르도바 전 의사협회장, '마을 의사' 책 출간",
       "title_original": "«El médico de pueblo es el que trata integralmente a la población, no sólo a las personas sino a la sociedad» - El Debate",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-03T10:02:39+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "187782f4732b",
+      "image_url": "https://imagens.ebc.com.br/LqOfz2HsF6qhnm_iS5RVKE6YYcE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/02/la_bisbal_voce_foi_especial_obrigada_pela_leveza_seguimos_por_mais_proxima_1-gigapixel-architectural-scale-2_00x.jpg?itok=lpmFgDbN",
+      "lang_original": "pt",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-08-03T10:26:10+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Tenista precisa virar decisão no set final, vence cinco games seguidos e fatura torneio mais importante desde 2023. Pigossi garante vaga também no qualificatório do US Open da última semana de agosto.",
+      "region": null,
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/tenista-laura-pigossi-e-campea-na-espanha-e-volta-ao-top-200",
+      "summary_en": "Brazilian tennis player Laura Pigossi came back in the final set and won five games in a row. She won her most important title since 2023 in Spain. The win also gives her a spot in the US Open qualifier in late August.",
+      "summary_ko": "브라질 테니스 선수 라우라 피고시가 마지막 세트에서 역전하며 다섯 게임을 연달아 따냈다. 스페인에서 열린 대회에서 2023년 이후 가장 값진 우승을 차지했다. 이 우승으로 8월 마지막 주 미국 오픈 예선 진출권도 확보했다.",
+      "title_en": "Laura Pigossi wins tennis title in Spain, returns to top 200",
+      "title_ko": "라우라 피고시, 스페인 테니스 대회 우승…톱 200 복귀",
+      "title_original": "Tenista Laura Pigossi é campeã na Espanha e volta ao top 200",
       "triviality_score": 3
     }
   ]
