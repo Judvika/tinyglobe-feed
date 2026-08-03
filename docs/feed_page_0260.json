@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-08-04T00:33:31+09:00",
+  "page": 260,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-04T00:04:18+09:00",
+      "country": "AT",
+      "country_ko": "오스트리아",
+      "fallback_reason": "",
+      "id": "0981541f3e0a",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/07/watermarks-logo-pexels-olly-3768582.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-08-04T00:31:16+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Summers are getting hotter in Austria, and temperatures have already soared past 30C. Here's how not to let it affect your sleep.",
+      "region": null,
+      "source_name": "The Local Austria",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.at/20220714/austrian-heatwave-six-tips-to-get-a-better-nights-sleep",
+      "summary_en": "Summers in Austria are getting hotter. Temperatures have already passed 30C. Here is how to sleep well in the heat.",
+      "summary_ko": "오스트리아의 여름이 점점 더 더워지고 있습니다. 기온은 이미 30도를 넘어섰습니다. 더위 속에서도 잘 자는 방법을 소개합니다.",
+      "title_en": "Austrian heatwave: Six tips to get a better night's sleep",
+      "title_ko": "오스트리아 폭염: 숙면을 위한 여섯 가지 팁",
+      "title_original": "Austrian heatwave: Six tips to get a better night's sleep",
+      "triviality_score": 4
+    }
+  ]
+}
