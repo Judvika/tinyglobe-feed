@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-05T12:34:38+09:00",
+  "built_at": "2026-08-05T14:34:27+09:00",
   "page": 268,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-05T06:02:36+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "코파 칠레 산 펠리페 원정 경기 시청 안내",
       "title_original": "¿Cuándo y dónde ver la visita de la U a San Felipe en la Copa Chile?",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-05T08:03:51+09:00",
+      "country": "MX",
+      "country_ko": "멕시코",
+      "fallback_reason": "",
+      "id": "bbfe1d125333",
+      "image_url": "https://mexiconewsdaily.com/wp-content/uploads/2026/08/josh-withers-dyq0WAh_Rsw-unsplash-1.jpg",
+      "lang_original": "en",
+      "lat": 25.8,
+      "lon": -111.9,
+      "processed_at": "2026-08-05T14:25:22+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Baja California Sur is a state defined by unusual extremes, from its enormous coastline to municipal disparities in population and tourism.",
+      "region": "Baja California Sur",
+      "source_name": "Mexico News Daily",
+      "source_type": "rss",
+      "source_url": "https://mexiconewsdaily.com/travel/mnd-local-baja-california-sur-by-the-numbers-in-2026/",
+      "summary_en": "This state has many unusual extremes, from a very long coastline to big differences between its cities in population and tourism. The article shares key numbers about Baja California Sur in 2026.",
+      "summary_ko": "이 주는 아주 긴 해안선부터 도시마다 크게 다른 인구와 관광 수준까지, 독특한 극단으로 유명합니다. 이 기사는 2026년 바하칼리포르니아수르의 주요 숫자들을 소개합니다.",
+      "title_en": "Baja California Sur by the numbers in 2026",
+      "title_ko": "2026년 바하칼리포르니아수르 숫자로 보기",
+      "title_original": "MND Local: Baja California Sur by the numbers in 2026",
+      "triviality_score": 4
     }
   ]
 }
