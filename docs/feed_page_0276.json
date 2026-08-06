@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-06T16:33:23+09:00",
+  "built_at": "2026-08-06T18:33:54+09:00",
   "page": 276,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-06T12:03:36+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "오아시스 주최사, 크네보스 공원 행사 허가 획득",
       "title_original": "Oasis promoter granted Knebworth events licence",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-06T16:03:37+09:00",
+      "country": "SG",
+      "country_ko": "싱가포르",
+      "fallback_reason": "",
+      "id": "94754fee7dbb",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Pz8iMFu---/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/05/ndp_volunteers_1.png?itok=hEzYnfht",
+      "lang_original": "en",
+      "lat": 1.3326,
+      "lon": 103.8503,
+      "processed_at": "2026-08-06T18:22:32+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Since 2015, Toa Payoh residents have come together each year to create a National Day flag display, with Singapore flags arranged into a giant number across two HDB blocks to mark the nation's birthday.",
+      "region": "Toa Payoh",
+      "source_name": "CNA Singapore",
+      "source_type": "rss",
+      "source_url": "https://www.channelnewsasia.com/singapore/volunteers-behind-singapore-61-birthday-celebrations-6300446",
+      "summary_en": "Every year since 2015, residents of Toa Payoh work together to make a big flag display. They arrange Singapore flags into a giant number across two HDB blocks. It is a neighborhood tradition to mark the nation's birthday.",
+      "summary_ko": "토아파요 주민들은 2015년부터 매년 함께 모여 국경일 깃발 전시를 만들어 왔습니다. 두 동의 공공주택 건물에 싱가포르 국기들을 배열해 거대한 숫자를 만듭니다. 나라의 생일을 기념하는 마을 전통입니다.",
+      "title_en": "Toa Payoh Residents Make a Giant Flag Number for National Day",
+      "title_ko": "토아파요 주민들, 국경일 맞아 깃발로 거대한 숫자 만들다",
+      "title_original": "From giant flag displays to NDP rehearsals: Meet the volunteers behind Singapore's 61st birthday celebrations",
+      "triviality_score": 5
     }
   ]
 }
