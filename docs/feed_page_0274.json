@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-06T08:43:55+09:00",
+  "built_at": "2026-08-06T10:34:09+09:00",
   "page": 274,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-06T04:16:35+09:00",
@@ -459,6 +459,30 @@
       "title_en": "Home filmed without my consent, says CJP spokesperson",
       "title_ko": "동의 없이 집을 촬영당했다고 말한 CJP 대변인",
       "title_original": "Home filmed without my consent: CJP spokesperson Saurav Das",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-06T08:04:51+09:00",
+      "country": "CL",
+      "country_ko": "칠레",
+      "fallback_reason": "",
+      "id": "a1b7272ac8b6",
+      "image_url": "https://www.cooperativa.cl/noticias/site/artic/20260805/imag/foto_0000001920260805093928.png",
+      "lang_original": "es",
+      "lat": -33.5072,
+      "lon": -70.606,
+      "processed_at": "2026-08-06T10:24:24+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "El pueblo albo podrá recibir al caboverdiano desde las 17:00 horas en el Monumental.",
+      "region": "Santiago",
+      "source_name": "Cooperativa",
+      "source_type": "rss",
+      "source_url": "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/la-recepcion-de-los-hinchas-de-colo-colo-al-portero-vozinha/2026-08-05/093928.html",
+      "summary_en": "Colo Colo fans will welcome Cape Verdean goalkeeper Vozinha. The reception starts at 5:00 PM at the Monumental stadium. Vozinha is the team's new goalkeeper.",
+      "summary_ko": "콜로 콜로 팬들이 카보베르데 출신 골키퍼 보지냐를 환영합니다. 환영 행사는 오후 5시부터 모뉴멘탈 경기장에서 열립니다. 보지냐는 팀의 새 골키퍼입니다.",
+      "title_en": "Colo Colo fans welcome goalkeeper Vozinha",
+      "title_ko": "콜로 콜로 팬들, 골키퍼 보지냐 환영 행사",
+      "title_original": "La recepción de los hinchas de Colo Colo al portero Vozinha",
       "triviality_score": 4
     }
   ]
