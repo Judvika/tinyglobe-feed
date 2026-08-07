@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-08-07T18:35:25+09:00",
+  "page": 283,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-07T18:07:48+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "78a0f4fe9c79",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/77115cfd568050619f44247750e5549e?impolicy=wcms_watermark_news&cropH=2592&cropW=4608&xPos=0&yPos=235&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-08-07T18:35:04+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Ryan Presley has won the top prize at the National Aboriginal and Torres Strait Islander Art Awards for an oil painting riffing on Renaissance art.",
+      "region": null,
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-08-07/natsiaa-art-awards-winners-ryan-presley-jenna-mayilema-lee/106992592",
+      "summary_en": "Ryan Presley won the top prize at the National Aboriginal and Torres Strait Islander Art Awards. His oil painting is based on Renaissance art and the writer George Orwell. The prize money is 100,000 dollars.",
+      "summary_ko": "라이언 프레슬리가 원주민과 토레스 해협 제도 미술상에서 최고상을 받았습니다. 그의 유화는 르네상스 미술과 작가 조지 오웰에서 영감을 받았습니다. 상금은 10만 달러입니다.",
+      "title_en": "Painting inspired by Renaissance art wins top award",
+      "title_ko": "르네상스 미술에서 영감 받은 그림, 원주민 미술상 최고상 수상",
+      "title_original": "Artwork riffing on Renaissance painting and George Orwell wins $100k",
+      "triviality_score": 3
+    }
+  ]
+}
