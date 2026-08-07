@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-08T04:31:51+09:00",
+  "built_at": "2026-08-08T06:31:40+09:00",
   "page": 285,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-08T00:05:43+09:00",
@@ -459,6 +459,30 @@
       "title_en": "Association measures air quality in village hit by factory pollution",
       "title_ko": "공장 오염 피해 마을에서 공기 질 매일 측정 시작",
       "title_original": "Associação mede qualidade do ar em aldeia do Alentejo afetada por alegada poluição de fábrica - SAPO",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-08T06:02:20+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "f1616d667deb",
+      "image_url": "https://imagens.ebc.com.br/IAbxn8J_uvXnYG6ZDa1Z7hp0Z9k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2021-06-09t195730z_322778497_rc23xn99f6x6_rtrmadp_3_soccer-copa-america.jpg?itok=sHXpOdJZ",
+      "lang_original": "pt",
+      "lat": -22.9083,
+      "lon": -43.1964,
+      "processed_at": "2026-08-08T06:25:31+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Previsão de que os ventos atinjam 90 km/h nas próximas horas levou CBF e clubes a postergarem o clássico que abriria a 15ª rodada nesta sexta (7). Duelo foi transferido para segunda (10), no Nilton Santos.",
+      "region": "리우데자네이루",
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ventania-no-rio-adia-botafogo-x-fluminense-pelo-brasileirao-feminino",
+      "summary_en": "Winds of up to 90 km/h are expected in Rio in the next few hours. The football federation and the clubs postponed the match that would open round 15. The game was moved to Monday at the Nilton Santos stadium.",
+      "summary_ko": "앞으로 몇 시간 안에 시속 90km에 이르는 강한 바람이 불 것이라는 예보 때문에 축구협회와 구단들이 15라운드 개막전 연기를 결정했습니다. 이 경기는 월요일로 미뤄져 니우통 산투스 경기장에서 열립니다.",
+      "title_en": "Strong wind in Rio delays Botafogo vs Fluminense women's match",
+      "title_ko": "리우 강풍으로 보타포고 대 플루미넨세 여자축구 경기 연기",
+      "title_original": "Ventania no Rio adia Botafogo x Fluminense pelo Brasileirão Feminino",
       "triviality_score": 3
     }
   ]
