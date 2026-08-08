@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-08-09T08:29:20+09:00",
+  "page": 292,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-09T08:07:28+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "3ed12a2cf44f",
+      "image_url": "https://th-i.thgim.com/public/incoming/i85fzw/article71319330.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UL36LSE2I_R1572877553_3_694c5c87-3db8-4e54-bdba-d200f5ad20c2.jpg",
+      "lang_original": "en",
+      "lat": 9.9312,
+      "lon": 76.2673,
+      "processed_at": "2026-08-09T08:29:05+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A woman autorickshaw driver in Kochi alleges union discrimination, resulting in her reinstatement after media attention highlighted her plight.",
+      "region": "Kerala",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/kerala/woman-auto-driver-in-keralas-kochi-alleges-denial-of-right-to-work-by-union/article71319254.ece",
+      "summary_en": "A woman autorickshaw driver in Kochi said a union denied her the right to work. After the media shared her story, she was reinstated.",
+      "summary_ko": "코치의 한 여성 오토릭샤 운전기사가 노조의 차별로 일할 권리를 빼앗겼다고 주장했습니다. 언론이 그 사연을 알리면서 다시 일자리를 되찾았습니다.",
+      "title_en": "Woman auto driver in Kochi gets her job back after union dispute",
+      "title_ko": "코치 오토릭샤 여성 운전기사, 노조 차별 시비 끝에 복직",
+      "title_original": "Woman auto driver, allegedly denied right to work, reinstated in Kerala’s Kochi",
+      "triviality_score": 4
+    }
+  ]
+}
