@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-09T16:33:57+09:00",
+  "built_at": "2026-08-09T18:33:47+09:00",
   "page": 293,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-09T12:22:07+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "영국에서 가장 비가 많이 온 마을, 이번엔 폭염과 싸우는 중",
       "title_original": "Cornwall village dubbed UK's 'wettest place' battling heatwave after 55 days of rain - Cornwall Live",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-08-09T18:02:44+09:00",
+      "country": "KZ",
+      "country_ko": "카자흐스탄",
+      "fallback_reason": "",
+      "id": "8bb72b2217fd",
+      "image_url": "https://vcdn1-english.vnecdn.net/2026/08/09/a117546583737311183940628-1786-7949-8926-1786242038.png?w=680&h=0&q=100&dpr=1&fit=crop&s=_zjRJ7oK4C0eiJ2ropKgLA",
+      "lang_original": "en",
+      "lat": 51.16,
+      "lon": 71.47,
+      "processed_at": "2026-08-09T18:28:40+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Seven of Vietnam’s eight contestants won medals at the third International Olympiad in artificial intelligence (IOAI), held in Kazakhstan's Astana.",
+      "region": "Astana",
+      "source_name": "VNExpress International",
+      "source_type": "rss",
+      "source_url": "https://e.vnexpress.net/news/news/education/vietnam-wins-seven-medals-at-3rd-international-olympiad-in-artificial-intelligence-5106966.html",
+      "summary_en": "Vietnam sent eight students to an artificial intelligence contest in Kazakhstan. Seven of them won medals. The contest was the third International Olympiad in Artificial Intelligence.",
+      "summary_ko": "베트남에서 온 학생 여덟 명이 카자흐스탄에서 열린 인공지능 대회에 참가했습니다. 그중 일곱 명이 메달을 받았습니다. 이 대회는 세 번째 국제 인공지능 올림피아드였습니다.",
+      "title_en": "Vietnam students win seven medals at AI olympiad",
+      "title_ko": "베트남 학생들, 인공지능 올림피아드에서 메달 일곱 개",
+      "title_original": "Vietnam wins seven medals at 3rd International Olympiad in artificial intelligence",
+      "triviality_score": 3
     }
   ]
 }
