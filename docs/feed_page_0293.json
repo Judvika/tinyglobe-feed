@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-08-09T12:31:16+09:00",
+  "page": 293,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-09T12:22:07+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "3e9ffdd796ef",
+      "image_url": "https://www.edmarlyra.com/wp-content/uploads/2026/08/IMG_2814.png",
+      "lang_original": "pt",
+      "lat": -8.0476,
+      "lon": -34.877,
+      "processed_at": "2026-08-09T12:31:15+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Com investimento de R$ 318,7 mil, a Rua Olga passa a contar com drenagem, pavimentação e acessibilidade. O programa já transformou quase 200 ruas em diferentes bairros do Recife Quem passa pela Rua Olga, no bairro da Encruzilhada, já encontra uma realidade diferente. A via foi totalmente requalificada pela Prefeitura do Recife, por meio da […]",
+      "region": "Recife, Pernambuco",
+      "source_name": "Blog Edmar Lyra",
+      "source_type": "google",
+      "source_url": "https://www.edmarlyra.com/recife-avanca-em-requalificacao-de-vias-com-mais-uma-entrega-do-programa-rua-tinindo-no-bairro-da-encruzilhada/",
+      "summary_en": "Rua Olga in the Encruzilhada neighborhood got new drainage, paving, and accessibility. The work cost 318,700 reais. The program has already improved almost 200 streets across different parts of Recife.",
+      "summary_ko": "엔크루지야다 동네의 올가 거리에 새 배수 시설과 포장, 접근성 시설이 들어섰다. 이 공사에는 약 31만 8700헤알이 투입됐다. 이 사업은 이미 레시페 곳곳에서 약 200개의 거리를 개선했다.",
+      "title_en": "Recife upgrades another street in the Rua Tinindo program",
+      "title_ko": "레시페, 루아 티닌두 사업으로 또 한 거리 정비",
+      "title_original": "Recife avança em requalificação de vias com mais uma entrega do Programa Rua Tinindo no bairro da Encruzilhada - Blog Edmar Lyra",
+      "triviality_score": 4
+    }
+  ]
+}
