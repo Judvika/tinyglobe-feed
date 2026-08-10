@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-11T04:34:13+09:00",
+  "built_at": "2026-08-11T06:31:36+09:00",
   "page": 302,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-11T04:02:50+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "이스트요크셔 주택단지 땅속에서 고대 유물 발견",
       "title_original": "The 'discovery of the millennium' has been unearthed beneath an East Yorkshire housing estate - Hull Live",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-11T06:02:22+09:00",
+      "country": "JP",
+      "country_ko": "일본",
+      "fallback_reason": "",
+      "id": "d75d81aaa56d",
+      "image_url": "https://media.japantoday.com/img/store/ff/8b/e0c53c48f7c3c6a4a1fb865a6dbee8fd380b/2026-08-10t064943z_32417399_mt1zuma0001vynve_rtrmadp_3_zuma/_w1700.jpg",
+      "lang_original": "en",
+      "lat": 35.6812,
+      "lon": 139.7671,
+      "processed_at": "2026-08-11T06:24:43+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Travelers wait at Tokyo Station on Monday at the beginning of Japan's Obon summer holiday period. People travel to their hometowns or vacation spots for the mid-August Obon holiday, which runs until August 16.",
+      "region": "도쿄",
+      "source_name": "Japan Today",
+      "source_type": "rss",
+      "source_url": "https://japantoday.com/category/picture-of-the-day/obon-wait",
+      "summary_en": "Travelers wait at Tokyo Station on Monday. Japan's Obon summer holiday has started. People are heading to their hometowns or vacation spots for the mid-August break.",
+      "summary_ko": "월요일, 오본 여름 연휴가 시작된 일본의 도쿄역에서 여행객들이 기차를 기다리고 있다. 사람들은 8월 중순에 걸쳐 16일까지 이어지는 오본 연휴를 맞아 고향이나 휴양지로 떠나고 있다.",
+      "title_en": "Obon wait",
+      "title_ko": "오본 연휴 시작, 도쿄역은 여행객으로 북적",
+      "title_original": "Obon wait",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-08-11T06:02:29+09:00",
+      "country": "NZ",
+      "country_ko": "뉴질랜드",
+      "fallback_reason": "",
+      "id": "33f644aa1fbb",
+      "image_url": "https://media.rnztools.nz/rnz/image/upload/s--JaY3FQCr--/t_tohu-badge-facebook/f_auto/q_auto/4JK328E_VUWSA_SURVEY_2_jfif",
+      "lang_original": "en",
+      "lat": -41.2866,
+      "lon": 174.7756,
+      "processed_at": "2026-08-11T06:26:00+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A Wellington student is doubting that pursuing a degree is a smart move as she skips meals because she can't afford to eat.",
+      "region": "Wellington",
+      "source_name": "RNZ National",
+      "source_type": "rss",
+      "source_url": "https://www.rnz.co.nz/news/education/956794/uni-students-skipping-meals-and-classes-to-keep-on-top-of-bills",
+      "summary_en": "A Wellington student is skipping meals because she can't afford to eat. She is now doubting whether a university degree is a smart choice. Many students are cutting back on food and classes to pay their bills.",
+      "summary_ko": "웰링턴의 한 여대생은 먹을 돈이 없어 밥을 거르면서 학위를 따는 것이 현명한 선택인지 의심하고 있다. 생활비를 감당하기 위해 밥과 수업을 거르는 대학생들이 늘고 있다.",
+      "title_en": "Uni students skipping meals and classes to keep on top of bills",
+      "title_ko": "생활비 때문에 밥과 수업을 거르는 대학생들",
+      "title_original": "Uni students skipping meals and classes to keep on top of bills",
+      "triviality_score": 3
     }
   ]
 }
