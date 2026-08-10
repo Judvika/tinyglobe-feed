@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-10T18:44:34+09:00",
+  "built_at": "2026-08-10T20:43:48+09:00",
   "page": 298,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-10T12:05:26+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "이탈리아 과학자들, 개기일식 시험 앞두고 새 태양 관측 장비 마무리",
       "title_original": "Italian scientists ready new solar instrument for high-stakes eclipse test",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-10T20:02:26+09:00",
+      "country": "SE",
+      "country_ko": "스웨덴",
+      "fallback_reason": "",
+      "id": "0400deecb938",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/08/watermarks-logo-a001_NormalPreviewsperm.jpg@webp",
+      "lang_original": "en",
+      "lat": 59.3498,
+      "lon": 18.0719,
+      "processed_at": "2026-08-10T20:26:36+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A Danish SS soldier was a sperm donor in the 1960s thanks to Sweden's Karolinska hospital. He is the biological father to at least 15 children who now want to know if they are the result of an ideological racial project.",
+      "region": "Stockholm",
+      "source_name": "The Local Sweden",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.se/20260810/danish-nazi-became-sperm-donor-in-sweden-now-his-children-want-answers",
+      "summary_en": "A Danish SS soldier gave sperm at Sweden's Karolinska hospital in the 1960s. He is the biological father of at least 15 children. Those children now want to know if they were part of an ideological racial plan.",
+      "summary_ko": "덴마크 출신 나치 친위대 군인이 1960년대 스웨덴 카롤린스카 병원에서 정자를 기증했다. 그는 최소 15명 아이들의 친아버지다. 이제 그 아이들은 자신들이 인종주의적 계획의 결과인지 알고 싶어 한다.",
+      "title_en": "Danish Nazi was a sperm donor in Sweden in the 1960s",
+      "title_ko": "덴마크 출신 나치 군인이 스웨덴에서 정자 기증자였다",
+      "title_original": "Danish Nazi became sperm donor in Sweden – now his children want answers",
+      "triviality_score": 3
     }
   ]
 }
