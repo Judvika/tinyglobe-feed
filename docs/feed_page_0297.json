@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-10T10:04:41+09:00",
+  "built_at": "2026-08-10T12:34:02+09:00",
   "page": 297,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-10T06:02:32+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "대부분의 교사들은 엔시이에이(NCEA)를 없애기보다 개선하기를 원해",
       "title_original": "Most teachers want NCEA to be improved, not removed - survey",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-10T12:02:20+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "967440c3b9ef",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/b2a38c105164ad1a18b8157c962fd754?impolicy=wcms_watermark_news&cropH=432&cropW=768&xPos=0&yPos=237&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -12.0,
+      "lon": 142.3,
+      "processed_at": "2026-08-10T12:27:09+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Telecommunications across western Cape York have suffered another outage this morning just hours after services were restored following a bushfire which crippled the network over the weekend.",
+      "region": "Western Cape York, Queensland",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-08-10/western-cape-telstra-secondary-outage/107016010",
+      "summary_en": "Phone service in western Cape York went down again this morning. It failed just hours after crews restored an outage caused by a weekend bushfire. Many local people have had unreliable phone service since the fire.",
+      "summary_ko": "서부 케이프요크 지역의 전화 통신이 오늘 아침 또 다시 끊겼습니다. 주말에 발생한 산불로 통신망이 마비됐다가 겨우 복구된 지 몇 시간 만에 다시 장애가 난 것입니다. 지역 주민들은 산불 이후 계속 불안정한 통신 서비스를 겪고 있습니다.",
+      "title_en": "Phones across western Cape York down again",
+      "title_ko": "서부 케이프요크 통신망 또 다시 마비",
+      "title_original": "Phones across western Cape York down again",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-10T12:05:22+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "cadc9d6c1642",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/4f572b676a90d2c68f96f10d9fc90831?impolicy=wcms_watermark_news&cropH=324&cropW=576&xPos=0&yPos=557&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-08-10T12:29:43+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A Brazilian footballer has fallen into a stadium tunnel after celebrating a goal before it was disallowed. Almost a decade ago, another footballer fell into the same tunnel.",
+      "region": null,
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-08-10/brazilian-footballer-falls-tunnel-disallowed-goal/107015946",
+      "summary_en": "A Brazilian footballer fell into a stadium tunnel while celebrating a goal. The goal was then disallowed. Another footballer fell into the same tunnel almost a decade ago.",
+      "summary_ko": "브라질 축구 선수가 골을 넣고 기뻐하다가 경기장 터널에 빠졌습니다. 그런데 그 골은 인정되지 않았습니다. 약 10년 전에도 같은 터널에 빠진 선수가 있었습니다.",
+      "title_en": "Brazilian footballer falls into stadium tunnel after disallowed goal celebration",
+      "title_ko": "골을 넣고 터널에 빠진 축구 선수",
+      "title_original": "Brazilian footballer falls in tunnel after scoring disallowed goal",
+      "triviality_score": 5
     }
   ]
 }
