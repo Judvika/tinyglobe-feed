@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-10T08:31:38+09:00",
+  "built_at": "2026-08-10T10:04:41+09:00",
   "page": 297,
   "page_size": 20,
-  "count": 16,
+  "count": 18,
   "items": [
     {
       "collected_at": "2026-08-10T06:02:32+09:00",
@@ -388,6 +388,54 @@
       "title_ko": "화롄 신청의 관광 명소",
       "title_original": "新城景點 - 黑崎時代",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-10T10:01:06+09:00",
+      "country": "NZ",
+      "country_ko": "뉴질랜드",
+      "fallback_reason": "",
+      "id": "6124ade78761",
+      "image_url": "https://media.rnztools.nz/rnz/image/upload/s--QtEqHbTp--/t_tohu-badge-facebook/f_auto/q_auto/4JK49RN_shared_image_75_jpg",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-08-10T10:02:21+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The Ruapehu District Council has reversed an earlier assessment of Ohakune's water issues, saying water could be restored today.",
+      "region": null,
+      "source_name": "RNZ National",
+      "source_type": "rss",
+      "source_url": "https://www.rnz.co.nz/news/emergencies_local/950129/council-reverses-ohakune-water-assessment-says-water-could-be-back-today",
+      "summary_en": "The Ruapehu District Council changed its earlier statement about Ohakune's water problem. It now says water could be restored today.",
+      "summary_ko": "루아페후 지역 의회가 오하쿠네의 물 문제에 대한 기존 판단을 뒤집고, 오늘 중으로 수돗물이 복구될 수 있다고 밝혔다.",
+      "title_en": "Ohakune's water may be back today, council says",
+      "title_ko": "오하쿠네 수돗물, 오늘 복구될 수도 있다고 의회가 밝혀",
+      "title_original": "Council reverses Ohakune water assessment, says water could be back today",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-10T10:01:56+09:00",
+      "country": "NZ",
+      "country_ko": "뉴질랜드",
+      "fallback_reason": "",
+      "id": "ca32190c7f20",
+      "image_url": "https://media.rnztools.nz/rnz/image/upload/s--ibatF0hs--/t_tohu-badge-facebook/f_auto/q_auto/4K2ZYH8_EDU3_Copy_png",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-08-10T10:04:14+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Most secondary teachers are not convinced the NCEA school qualification needs replacing, a new national survey shows.",
+      "region": "뉴질랜드",
+      "source_name": "RNZ National",
+      "source_type": "rss",
+      "source_url": "https://www.rnz.co.nz/news/education/951701/most-teachers-want-ncea-to-be-improved-not-removed-survey",
+      "summary_en": "A new national survey found most secondary teachers do not want to replace the NCEA school qualification. They prefer to improve it instead of removing it.",
+      "summary_ko": "새로운 전국 조사에서 대부분의 중등학교 교사들이 엔시이에이(NCEA) 자격제도를 교체할 필요가 없다고 생각하는 것으로 나타났습니다. 교사들은 제도를 없애기보다는 개선하기를 더 원하는 것으로 조사됐습니다.",
+      "title_en": "Most teachers want NCEA improved, not removed",
+      "title_ko": "대부분의 교사들은 엔시이에이(NCEA)를 없애기보다 개선하기를 원해",
+      "title_original": "Most teachers want NCEA to be improved, not removed - survey",
+      "triviality_score": 3
     }
   ]
 }
