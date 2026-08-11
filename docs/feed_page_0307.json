@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-11T22:42:32+09:00",
+  "built_at": "2026-08-12T00:40:21+09:00",
   "page": 307,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-11T20:19:36+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "프랑스 해변 선베드 예약 규칙은 무엇일까?",
       "title_original": "What are the rules on booking a sun lounger on a French beach?",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-08-12T00:02:52+09:00",
+      "country": "CA",
+      "country_ko": "캐나다",
+      "fallback_reason": "",
+      "id": "9405da4ef0fa",
+      "image_url": "https://i.cbc.ca/ais/5e1af2a3-5851-4369-ab9a-9bf6f39a7177,1786396182763/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1595%2C4284%2C2409%29%3BResize%3D620",
+      "lang_original": "en",
+      "lat": 43.2557,
+      "lon": -79.8711,
+      "processed_at": "2026-08-12T00:26:31+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "McMaster University researchers studying the soot falling on Hamilton neighbourhoods have determined the grimy, black substance contains toxic chemicals consistent with coal combustion. For the \"What's the Grime?\" study, they worked with volunteers to collect samples throughout the city.",
+      "region": "Hamilton, Ontario",
+      "source_name": "CBC Canada",
+      "source_type": "rss",
+      "source_url": "https://www.cbc.ca/news/canada/hamilton/what-s-the-grime-9.7302194",
+      "summary_en": "Researchers at McMaster University studied the black soot falling on Hamilton neighborhoods. They found it contains toxic chemicals linked to burning coal. Volunteers collected samples across the city for the study.",
+      "summary_ko": "맥마스터 대학 연구진이 해밀턴 동네에 떨어지는 검은 검댕을 분석했습니다. 검댕에서 석탄 연소와 관련된 유해 물질이 발견됐습니다. 시민 자원봉사자들이 도시 곳곳에서 표본을 모았습니다.",
+      "title_en": "Soot in Hamilton contains toxic coal chemicals, study finds",
+      "title_ko": "해밀턴에 떨어지는 검댕, 석탄 연소 유해 물질 포함 확인",
+      "title_original": "Soot falling across Hamilton contains toxic chemicals linked to burning coal, researchers find",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-12T00:02:53+09:00",
+      "country": "MX",
+      "country_ko": "멕시코",
+      "fallback_reason": "",
+      "id": "e9380706a240",
+      "image_url": "https://mexiconewsdaily.com/wp-content/uploads/2026/08/Cloud_forest_vegetation_in_El_Cielo_Biosphere_Reserve_24_September_2003-1.jpg",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-08-12T00:26:49+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Deep in the heart of the El Cielo Biosphere Reserve in Tamaulipas live Mexico's mysterious forest guardians, \"The Forgotten Ones.\"",
+      "region": "Tamaulipas",
+      "source_name": "Mexico News Daily",
+      "source_type": "rss",
+      "source_url": "https://mexiconewsdaily.com/culture/the-forgotten-ones-mexicos-mysterious-forest-guardians/",
+      "summary_en": "Deep in the El Cielo Biosphere Reserve in Tamaulipas live Mexico's mysterious forest guardians. They are called 'The Forgotten Ones.'",
+      "summary_ko": "타마울리파스의 엘 시엘로 생물권 보전 지역 깊숙한 곳에 멕시코의 신비로운 숲의 수호자들이 살고 있다. 그들은 '잊힌 이들'이라고 불린다.",
+      "title_en": "The Forgotten Ones: Mexico's mysterious forest guardians",
+      "title_ko": "'잊힌 이들': 멕시코의 신비로운 숲의 수호자들",
+      "title_original": "‘The Forgotten Ones’: Mexico’s mysterious forest guardians",
+      "triviality_score": 4
     }
   ]
 }
