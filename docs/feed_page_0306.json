@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-08-11T18:46:45+09:00",
+  "page": 306,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-11T18:27:48+09:00",
+      "country": "FI",
+      "country_ko": "핀란드",
+      "fallback_reason": "",
+      "id": "1447a596d4c9",
+      "image_url": "https://ouluntaidemuseo.fi/app/uploads/sites/9/2025/09/Verkkoon1-2-e1756969981410.jpg",
+      "lang_original": "en",
+      "lat": 65.0121,
+      "lon": 25.4651,
+      "processed_at": "2026-08-11T18:46:44+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "An exhibition showcasing the creations and process of leading Japanese couture designer, Yuima Nakazato.",
+      "region": "Oulu",
+      "source_name": "Oulun taidemuseo",
+      "source_type": "google",
+      "source_url": "https://ouluntaidemuseo.fi/en/exhibition/yuima-nakazato/",
+      "summary_en": "Oulu Art Museum is showing works by Japanese fashion designer Yuima Nakazato. The exhibition is called Glacier and shows his creations and how he makes them. Visitors can see his unique approach to fashion.",
+      "summary_ko": "오울루 미술관이 일본 패션 디자이너 유이마 나카자토의 작품을 선보입니다. 글레이셔라는 이름의 이 전시는 그의 창작물과 제작 과정을 보여줍니다. 관람객은 독특한 패션 방식을 살펴볼 수 있습니다.",
+      "title_en": "Japanese designer Yuima Nakazato's exhibition opens in Oulu",
+      "title_ko": "오울루 미술관에서 일본 디자이너 유이마 나카자토 전시",
+      "title_original": "YUIMA NAKAZATO - GLACIER - Oulun taidemuseo",
+      "triviality_score": 4
+    }
+  ]
+}
