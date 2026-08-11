@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-08-11T14:33:27+09:00",
+  "page": 305,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-11T14:07:49+09:00",
+      "country": "NZ",
+      "country_ko": "뉴질랜드",
+      "fallback_reason": "",
+      "id": "ce69c3103536",
+      "image_url": "https://media.rnztools.nz/rnz/image/upload/s--XXqje_wT--/t_tohu-badge-facebook/f_auto/q_auto/4JK43K7_shared_image_15_jfif",
+      "lang_original": "en",
+      "lat": -39.42,
+      "lon": 175.4,
+      "processed_at": "2026-08-11T14:33:15+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Ohakune residents will have to boil their tap water when it returns.",
+      "region": "Ruapehu District, Manawatu-Whanganui",
+      "source_name": "RNZ National",
+      "source_type": "rss",
+      "source_url": "https://www.rnz.co.nz/news/emergencies_local/962136/precautionary-boil-notice-for-ohakune-when-water-returns-after-good-progress-made",
+      "summary_en": "Ohakune residents will have to boil their tap water once the supply returns. The precautionary notice comes after good progress was made restoring the water service.",
+      "summary_ko": "오하쿠네 주민들은 수돗물이 다시 들어오면 물을 끓여 마셔야 한다. 수돗물 공급이 순조롭게 복구되고 있어 내려진 예방 조치다.",
+      "title_en": "Boil water notice for Ohakune when supply returns",
+      "title_ko": "오하쿠네 수돗물 복구 시 끓여 마시라는 안내",
+      "title_original": "Precautionary boil notice for Ohakune when water returns after 'good progress' made",
+      "triviality_score": 3
+    }
+  ]
+}
