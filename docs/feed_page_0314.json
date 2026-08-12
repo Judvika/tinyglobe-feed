@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-13T02:35:00+09:00",
+  "built_at": "2026-08-13T04:34:10+09:00",
   "page": 314,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-13T00:04:25+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "분보후에, 아시아 음식 가치 100선으로 인정받아",
       "title_original": "Bún bò Huế được công nhận là kỷ lục châu Á - VnExpress",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-13T04:02:48+09:00",
+      "country": "ZA",
+      "country_ko": "남아프리카공화국",
+      "fallback_reason": "",
+      "id": "f9579d64667c",
+      "image_url": "https://www.sabcnews.com/sabcnews/wp-content/uploads/2024/12/North-West-abandoned-housing-development.jpg",
+      "lang_original": "en",
+      "lat": -26.5,
+      "lon": 25.0,
+      "processed_at": "2026-08-13T04:26:21+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The R69 million incomplete housing project has been left abandoned for years",
+      "region": "North West Province",
+      "source_name": "SABC News South Africa",
+      "source_type": "rss",
+      "source_url": "https://www.sabcnews.com/sabcnews/delays-in-housing-project-in-nw-leaves-beneficiaries-without-homes/",
+      "summary_en": "A housing project in South Africa's North West province has been left abandoned for years. The project cost 69 million rand and was never finished. The people who were promised homes are still waiting.",
+      "summary_ko": "남아프리카공화국 노스웨스트 주의 주택 사업이 수년째 방치되어 있습니다. 이 사업에는 6900만 랜드가 투입됐지만 끝내 마무리되지 못했습니다. 집을 약속받은 사람들은 아직도 기다리고 있습니다.",
+      "title_en": "Delays in housing project leaves beneficiaries without homes",
+      "title_ko": "노스웨스트 주 주택 사업 지연으로 수혜자들 여전히 집 못 받아",
+      "title_original": "Delays in housing project in NW leaves beneficiaries without homes",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-13T04:03:31+09:00",
+      "country": "GB",
+      "country_ko": "영국",
+      "fallback_reason": "",
+      "id": "593419d3baf5",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/6739a461cb0c2f28c9309fbb51fe770b5e2825cb6e354dd2f47e46f81b8c2c46/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fyork_press_254%2Fed61c16304cc0bfe2923a79603a9fdfe.jpg",
+      "lang_original": "en",
+      "lat": 53.84,
+      "lon": -0.43,
+      "processed_at": "2026-08-13T04:26:34+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A village pub has been named one of the best in the UK in a national listing of standout spots.",
+      "region": "East Yorkshire, England",
+      "source_name": "Yahoo News UK",
+      "source_type": "google",
+      "source_url": "https://uk.news.yahoo.com/quirky-east-yorkshire-village-pub-151000625.html",
+      "summary_en": "A village pub in East Yorkshire has been named one of the best in the UK. It was chosen in a national list of standout spots.",
+      "summary_ko": "이스트요크셔의 한 시골 펍이 영국 최고의 펍 가운데 하나로 꼽혔다. 이 펍은 전국 단위로 빛나는 명소를 모은 목록에 이름을 올렸다.",
+      "title_en": "Quirky East Yorkshire village pub named among the best in the UK",
+      "title_ko": "이스트요크셔의 아기자기한 시골 펍, 영국 최고의 펍으로 선정",
+      "title_original": "Quirky East Yorkshire village pub named among the best in the country - Yahoo News UK",
+      "triviality_score": 5
     }
   ]
 }
