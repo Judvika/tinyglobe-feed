@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-08-12T16:32:58+09:00",
+  "page": 312,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-12T16:08:04+09:00",
+      "country": "SG",
+      "country_ko": "싱가포르",
+      "fallback_reason": "",
+      "id": "49a4c15641e6",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Bg_BLorZ--/c_crop,h_900,w_1600,x_0,y_143/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/12/jem_0152.jpg?itok=zLClqFoS",
+      "lang_original": "en",
+      "lat": 1.3521,
+      "lon": 103.8198,
+      "processed_at": "2026-08-12T16:32:32+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The woman had originally been allowed to work from home two days a week to help her recovery but was suddenly told she had to work at the campus five days a week and that her medical documentation was inadequate.",
+      "region": "Singapore",
+      "source_name": "CNA Singapore",
+      "source_type": "rss",
+      "source_url": "https://www.channelnewsasia.com/singapore/cancer-survivor-forced-resign-work-home-arrangement-20k-6314021",
+      "summary_en": "A woman was allowed to work from home two days a week to help her recovery. She was suddenly told to work at the school campus five days a week and that her medical documents were not enough. She resigned and later won S$20,000 in a legal case.",
+      "summary_ko": "이 여성은 회복을 돕기 위해 주 2일 재택근무를 허락받았지만, 갑자기 주 5일 모두 학교에 출근해야 한다며 의료 서류가 충분하지 않다는 통보를 받았습니다. 결국 사직했고, 법적 다툼 끝에 2만 싱가포르 달러 배상을 받았습니다.",
+      "title_en": "Cancer survivor wins $20,000 after being forced to resign over work-from-home dispute",
+      "title_ko": "암 생존자, 재택근무 갈등으로 학교 떠난 뒤 2만 달러 배상 승소",
+      "title_original": "Cancer survivor forced to resign from school after tussles over work-from-home arrangements wins S$20,000",
+      "triviality_score": 4
+    }
+  ]
+}
