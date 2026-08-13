@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-13T22:39:49+09:00",
+  "built_at": "2026-08-14T00:42:34+09:00",
   "page": 320,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-13T20:04:07+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "시끄러운 사이렌으로 북극곰을 깨운 노르웨이 남성, 벌금 부과",
       "title_original": "Noruego fue multado por usar sirena para despertar a un oso polar",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-08-13T22:07:31+09:00",
+      "country": "ZA",
+      "country_ko": "남아프리카공화국",
+      "fallback_reason": "",
+      "id": "7a3b461baf7d",
+      "image_url": "https://www.sabcnews.com/sabcnews/wp-content/uploads/2026/03/SASSA-DA-website.jpg",
+      "lang_original": "en",
+      "lat": -34.04,
+      "lon": 18.68,
+      "processed_at": "2026-08-14T00:29:08+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The Minister was on an oversight visit in Khayelitsha and Bellville SASSA offices in Cape Town",
+      "region": "Cape Town, Western Cape",
+      "source_name": "SABC News South Africa",
+      "source_type": "rss",
+      "source_url": "https://www.sabcnews.com/sabcnews/minister-pule-overwhelmed-by-sassa-beneficiaries-long-queues/",
+      "summary_en": "Minister Pule visited SASSA offices in Khayelitsha and Bellville in Cape Town. She found very long queues of beneficiaries waiting for their grants. She was overwhelmed by the crowds.",
+      "summary_ko": "풀레 장관이 케이프타운의 카옐리차와 벨빌에 있는 SASSA 사무소를 방문했습니다. 장관은 복지급여를 기다리는 수급자들이 길게 늘어선 줄을 목격했습니다. 많은 인파에 장관은 압도당했습니다.",
+      "title_en": "Minister Pule overwhelmed by long queues at SASSA offices",
+      "title_ko": "풀레 장관, SASSA 사무소의 긴 줄에 압도",
+      "title_original": "Minister Pule overwhelmed by SASSA beneficiaries long queues",
+      "triviality_score": 4
     }
   ]
 }
