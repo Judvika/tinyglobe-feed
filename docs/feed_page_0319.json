@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-08-13T16:42:16+09:00",
+  "page": 319,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-13T16:24:33+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "765b83bce528",
+      "image_url": "https://static.timesnewsgroup.com.au/prod/uploads/sites/2/2026/08/port-tourism-win-better-cropped.jpg?_t=1786577594",
+      "lang_original": "en",
+      "lat": -38.115,
+      "lon": 144.651,
+      "processed_at": "2026-08-13T16:42:12+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Portarlington has been crowned Victoria’s best small tourism town at this year’s Victorian Top Tourism Town Awards.",
+      "region": "Victoria",
+      "source_name": "Times News Group",
+      "source_type": "google",
+      "source_url": "https://timesnewsgroup.com.au/surfcoasttimes/news/portarlington-crowned-victorias-best-small-town/",
+      "summary_en": "Portarlington has won the title of Victoria's best small tourism town. It received the award at this year's Victorian Top Tourism Town Awards. It is a small seaside town on the Bellarine Peninsula.",
+      "summary_ko": "포틀링턴이 올해 빅토리아 주 관광 마을 시상식에서 주 최고의 소규모 관광 마을로 뽑혔습니다. 벨라린 반도의 작은 해변 마을 포틀링턴이 이번 수상으로 관광 명소로 주목받게 되었습니다.",
+      "title_en": "Portarlington named Victoria's best small tourism town",
+      "title_ko": "포틀링턴, 빅토리아 최고 소규모 관광 마을로 선정",
+      "title_original": "Portarlington crowned Victoria’s best small tourism town - Times News Group",
+      "triviality_score": 4
+    }
+  ]
+}
