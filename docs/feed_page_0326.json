@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-14T20:53:41+09:00",
+  "built_at": "2026-08-14T22:59:46+09:00",
   "page": 326,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-14T18:08:24+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "이텔리움 아레나 공사 첫 단계 거의 완료",
       "title_original": "Itelyum Arena, primo lotto in via di completamento: per l'esordio in campionato il cantiere sarà finalmente chiuso - VareseNoi",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-14T22:03:26+09:00",
+      "country": "FI",
+      "country_ko": "핀란드",
+      "fallback_reason": "",
+      "id": "173e4954e283",
+      "image_url": "https://img.img-cdn.yle.fi/crop_extract,w_5004,h_2814,x_0,y_0/crop_fill,w_1200,h_628/f_auto/39-16912116a7ed88c970ec/1786698197",
+      "lang_original": "en",
+      "lat": 60.1699,
+      "lon": 24.9384,
+      "processed_at": "2026-08-14T22:34:03+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The Lehtola family welcomed their first child in the very early hours of Friday.",
+      "region": "헬싱키",
+      "source_name": "YLE News",
+      "source_type": "rss",
+      "source_url": "https://yle.fi/a/74-20241047",
+      "summary_en": "The Lehtola family welcomed their first child early on Friday. The baby became the 700,000th resident of Helsinki. The city reached a new population milestone.",
+      "summary_ko": "레톨라 가족이 금요일 새벽에 첫 아이를 맞이했습니다. 이 아기가 헬싱키의 70만 번째 주민이 되었습니다. 헬싱키 인구가 새로운 이정표를 넘었습니다.",
+      "title_en": "Baby's birth brings Helsinki's population to 700k",
+      "title_ko": "헬싱키 인구 70만명 만든 아기 탄생",
+      "title_original": "Baby's birth brings Helsinki's population to 700k",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-14T22:03:28+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "b7714c1d18e9",
+      "image_url": "https://th-i.thgim.com/public/incoming/srfoao/article71344980.ece/alternates/LANDSCAPE_1200/20260516080L.jpg",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-08-14T22:34:38+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "DMK plans to boost district units to over 100, enhancing organizational structure and leadership diversity under M.K. Stalin's initiative.",
+      "region": "Tamil Nadu",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-likely-to-increase-district-units-to-over-100-as-part-of-organisational-revamp/article71344871.ece",
+      "summary_en": "The DMK party in Tamil Nadu wants to grow its district units to more than 100. This is part of a plan led by leader M.K. Stalin to improve the party's structure and bring in more diverse leaders.",
+      "summary_ko": "타밀나두의 DMK 당이 지구 단위 조직을 100개 이상으로 늘리려고 합니다. 이는 당 대표 엠케이 스탈린이 이끄는 조직 개편 계획의 일부로, 당 구조를 개선하고 지도부를 다양화하기 위한 것입니다.",
+      "title_en": "DMK party plans to expand district units to over 100",
+      "title_ko": "DMK 당, 지구 단위 100개 이상으로 확대 계획",
+      "title_original": "DMK likely to increase district units to over 100 as part of organisational revamp",
+      "triviality_score": 5
     }
   ]
 }
