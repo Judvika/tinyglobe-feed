@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-15T01:05:26+09:00",
+  "built_at": "2026-08-15T02:56:06+09:00",
   "page": 327,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-14T22:03:38+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "NTU, '근본적으로 신뢰할 수 없는' AI 감지기 2027년부터 사용 중단",
       "title_original": "NTU to stop using 'fundamentally unreliable' AI detector from 2027",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-15T00:05:02+09:00",
+      "country": "DE",
+      "country_ko": "독일",
+      "fallback_reason": "",
+      "id": "31cffd6292b9",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2023/08/watermarks-logo-german-wotd-absacker-1-1.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-08-15T02:31:35+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "If it's getting late but you're not ready to go home just yet, ask your German friends if they'll stick around for one of these.",
+      "region": null,
+      "source_name": "The Local Germany",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.de/20230816/german-word-of-the-day-absacker-3",
+      "summary_en": "The German word Absacker means a last drink you have before going home. If it is getting late but you do not want to leave yet, ask your German friends to stay for one more drink with you. It is a small piece of everyday German life.",
+      "summary_ko": "독일어 단어 Absacker는 집에 돌아가기 전에 마시는 마지막 한 잔을 뜻합니다. 늦은 시간이지만 아직 자리를 뜨고 싶지 않다면, 독일 친구들에게 한 잔 더 하자고 권해 보세요. 이 단어는 독일 일상의 작은 풍경을 담고 있습니다.",
+      "title_en": "German word of the day: Absacker",
+      "title_ko": "오늘의 독일어 단어: Absacker",
+      "title_original": "German word of the day: Absacker",
+      "triviality_score": 5
     }
   ]
 }
