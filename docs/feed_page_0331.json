@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-15T12:51:16+09:00",
+  "built_at": "2026-08-15T14:59:06+09:00",
   "page": 331,
   "page_size": 20,
-  "count": 10,
+  "count": 12,
   "items": [
     {
       "collected_at": "2026-08-15T10:04:56+09:00",
@@ -244,6 +244,54 @@
       "title_ko": "콘셉시온대 축구팀, 리그 6경기 연속 무승에 강등 위기",
       "title_original": "U. de Concepción sumó seis partidos sin ganar y complicó su panorama en la Liga de Primera",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-15T14:03:16+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "32bd11e321cf",
+      "image_url": "https://th-i.thgim.com/public/incoming/uno75p/article71336285.ece/alternates/LANDSCAPE_1200/Blaveli_06.JPG",
+      "lang_original": "en",
+      "lat": 10.5,
+      "lon": 76.2,
+      "processed_at": "2026-08-15T14:37:37+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Explore the struggle of Kerala's ancient storytelling tradition, Raveli pattu, as PK Narayanan strives to preserve its legacy.",
+      "region": "Kerala",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/society/history-and-culture/how-raveli-pattu-keralas-ancient-story-telling-tradition-is-struggling-to-survive/article71336263.ece",
+      "summary_en": "Kerala has a very old storytelling tradition called Raveli pattu. A man named PK Narayanan is working hard to keep it alive. The tradition is now struggling to survive.",
+      "summary_ko": "케랄라에는 라벨리 파투라는 아주 오래된 이야기 전통이 있습니다. 피케이 나라야난이 이 전통을 지키기 위해 애쓰고 있습니다. 하지만 이 전통은 지금 사라질 위기에 처해 있습니다.",
+      "title_en": "How 'Raveli pattu', Kerala's ancient storytelling tradition, is struggling to survive",
+      "title_ko": "케랄라의 고대 이야기 전통 '라벨리 파투'가 사라질 위기",
+      "title_original": "How ‘Raveli pattu’, Kerala’s ancient storytelling tradition, is struggling to survive",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-15T14:04:39+09:00",
+      "country": "VN",
+      "country_ko": "베트남",
+      "fallback_reason": "",
+      "id": "d7e7fa4661d5",
+      "image_url": "https://danang.gov.vn/image/journal/article?img_id=4237053&t=1786766883169",
+      "lang_original": "vi",
+      "lat": 16.0544,
+      "lon": 108.2022,
+      "processed_at": "2026-08-15T14:40:59+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Sáng 15-8, tại Đình làng Nại Nam, UBND phường Hòa Cường tổ chức Lễ Chánh tế và khai mạc Lễ hội Đình làng Nại Nam năm 2026. Tham dự có Ủy viên Ban Thường vụ Thành ủy, Chủ nhiệm Ủy ban Kiểm tra Thành ủy Trần Thắng Lợi và Phó Chủ tịch UBND thành phố Lê Quang Nam.",
+      "region": "Đà Nẵng",
+      "source_name": "Cổng thông tin thành phố Đà Nẵng",
+      "source_type": "google",
+      "source_url": "https://danang.gov.vn/vi/web/dng/w/phuong-hoa-cuong-to-chuc-le-hoi-dinh-lang-nai-nam-nam-2026",
+      "summary_en": "On August 15, Hoa Cuong ward held the opening ceremony of the Nai Nam village temple festival. City officials joined the traditional ritual at the village temple.",
+      "summary_ko": "8월 15일 아침, 호아끄엉 동에서 나이남 마을 사당 축제의 정식 제례와 개막식이 열렸습니다. 도시 관계자들도 참석해 전통 의식을 함께했습니다.",
+      "title_en": "Nai Nam Village Temple Festival Opens in Da Nang",
+      "title_ko": "다낭에서 나이남 마을 사당 축제 개막",
+      "title_original": "Phường Hòa Cường tổ chức Lễ hội Đình làng Nại Nam năm 2026 - Cổng thông tin thành phố Đà Nẵng",
+      "triviality_score": 4
     }
   ]
 }
