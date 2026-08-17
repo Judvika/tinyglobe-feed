@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-08-17T12:46:34+09:00",
+  "page": 341,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-17T12:05:11+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "0a2e565a4de7",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/dd6e54ca829ea1086d5d8c01efab826c?impolicy=wcms_watermark_news&cropH=675&cropW=1200&xPos=0&yPos=210&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -16.9186,
+      "lon": 145.7781,
+      "processed_at": "2026-08-17T12:46:20+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The sighting of a redshank on the Cairns Esplanade is the talk of the birdwatching community. It is believed to be just the second time the species has been spotted in Queensland.",
+      "region": "Queensland",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-08-17/common-redshank-rare-sighting-queensland-birdwatchers/107045456",
+      "summary_en": "A redshank was seen on the Cairns Esplanade in Queensland. Birdwatchers are excited because this is believed to be only the second time the species has been spotted in the state.",
+      "summary_ko": "퀸즐랜드주 케인즈 에스플러나드에서 홍가락지가 목격되었다. 조류 관찰자들은 이 종이 퀴즈랜드에서 발견된 것이 역대 두 번째라고 말하며 기뻐하고 있다.",
+      "title_en": "Rare bird spotted in Cairns for only the second time",
+      "title_ko": "케인즈에서 희귀 철새 홍가락지 발견, 퀴نز랜드 역대 두 번째",
+      "title_original": "Twitchers excited by sighting of rare migratory shorebird",
+      "triviality_score": 5
+    }
+  ]
+}
