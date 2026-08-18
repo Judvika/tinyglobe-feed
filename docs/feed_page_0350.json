@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-08-18T14:47:09+09:00",
+  "page": 350,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-18T14:08:34+09:00",
+      "country": "CL",
+      "country_ko": "칠레",
+      "fallback_reason": "",
+      "id": "d34e1dca92ca",
+      "image_url": "https://www.cooperativa.cl/noticias/site/artic/20260817/imag/foto_0000000720260817230223.jpg",
+      "lang_original": "es",
+      "lat": -36.7,
+      "lon": -73.1,
+      "processed_at": "2026-08-18T14:47:04+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Una exfuncionaria la acusó de usar el móvil destinado a sus traslados oficiales para ir a un Starbucks y al médico.",
+      "region": "Biobío",
+      "source_name": "Cooperativa",
+      "source_type": "rss",
+      "source_url": "https://www.cooperativa.cl/noticias/pais/region-del-biobio/seremi-del-biobio-fue-denunciada-en-contraloria-por-mal-uso-de-vehiculo/2026-08-17/230223.html",
+      "summary_en": "A former employee accused a Biobío regional official of using her government vehicle for personal trips to Starbucks and to the doctor. The case was filed with Chile's Comptroller General for misuse of public property. Local media reported the incident on Monday.",
+      "summary_ko": "전 직원이 공무용 차량을 스타벅스와 병원 출장에 사용했다고 고발했습니다. 감사원이 해당 공무원의 공무 차량 사적 사용 여부를 조사 중입니다.",
+      "title_en": "Government official reported for using state car for personal errands",
+      "title_ko": "바이오바이오 주무관, 공무 차량 사적 사용으로 감사원에 고발당해",
+      "title_original": "Seremi del Biobío fue denunciada en Contraloría por mal uso de vehículo fiscal",
+      "triviality_score": 3
+    }
+  ]
+}
