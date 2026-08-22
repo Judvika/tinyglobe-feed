@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-08-22T11:07:16+09:00",
+  "page": 377,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-21T20:07:58+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "39c3a5d4ea8f",
+      "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f586743-e03d-4834-b915-f56862675516_16-9-aspect-ratio_default_0_x960y360.jpg",
+      "lang_original": "es",
+      "lat": 42.5892,
+      "lon": -6.7169,
+      "processed_at": "2026-08-22T11:07:10+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Un pueblo leonés de 3.000 habitantes , situado en El Bierzo, ya le hace la competencia a las famosas piscinas de Valencia de Don Juan con un parque acuático que tiene toboganes, puentes, cascadas, jacuzzis y hasta una isla central . Se tratan de las piscinas municipales de Carracedelo , ubicadas a algo menos de dos horas y",
+      "region": "El Bierzo, Castile and León",
+      "source_name": "LNE",
+      "source_type": "google",
+      "source_url": "https://www.lne.es/videos/asturias/2026/08/20/parque-acuatico-pueblo-leones-3-133522777.html",
+      "summary_en": "A small town of 3,000 people in Leon, Spain has opened a new public water park. It has slides, bridges, waterfalls, jacuzzis, and even a small island. The park now competes with the famous pools of Valencia de Don Juan.",
+      "summary_ko": "스페인 레온 지방의 인구 3000명 작은 마을에 새로운 공립 수상 놀이공원이 문을 열었습니다. 이곳에는 미끄럼틀과 다리, 폭포, 자쿠지, 작은 섬까지 갖춰져 있습니다. 이 공원은 이제 발렌시아 데 돈 후안의 유명한 수영장과 어깨를 나란히 하고 있습니다.",
+      "title_en": "Small Spanish Town Opens Water Park with Slides and Jacuzzis",
+      "title_ko": "인구 3000명 스페인 마을, 미끄럼틀과 자쿠지 있는 수상 놀이공원 선보여",
+      "title_original": "El parque acuático de un pueblo leonés de 3.000 habitantes que le hace competencia a las piscinas de Valencia de Don Juan: toboganes, cascadas, jacuzzis, hinchables y hasta una isla - LNE",
+      "triviality_score": 5
+    }
+  ]
+}
