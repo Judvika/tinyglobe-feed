@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-24T19:02:11+09:00",
+  "built_at": "2026-08-24T21:07:48+09:00",
   "page": 389,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-23T06:04:05+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "다르게 자라 음식으로 만난 부부, 싱가포르 음식유산을 일상으로",
       "title_original": "Raised differently, united by food: The couple making Singapore food heritage part of everyday life",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-08-23T04:06:00+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "6161c156d65b",
+      "image_url": "https://imagens.ebc.com.br/X6Gvib3fF5Vh3yqZG5UUVCzvcl0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/juventude-se_bate_portuguesa-ap_de_novo_e_esta_na_final_do_feminino_a3.jpg?itok=trWUkUG1",
+      "lang_original": "pt",
+      "lat": -10.9472,
+      "lon": -37.0731,
+      "processed_at": "2026-08-24T20:33:48+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Equipe sergipana aguarda vencedor de Planalto-GO e Realidade Jovem-SP.",
+      "region": "Sergipe",
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/juventude-se-bate-portuguesa-ap-de-novo-e-esta-na-final-do-feminino-a3",
+      "summary_en": "A team from Sergipe won its semifinal again and reached the A3 women's football final. It will now wait for the winner of another semifinal between teams from Goiás and São Paulo.",
+      "summary_ko": "세르지피 팀이 준결승 재경기에서 이기고 여자 축구 3부리스트 결승에 올랐다. 이제 고이아스와 상파울루 팀 간 준결승 승자를 기다린다.",
+      "title_en": "Sergipe women's team waits for final opponent",
+      "title_ko": "세르지피 여자 축구팀, 결승 진출",
+      "title_original": "Juventude-SE bate Portuguesa-AP de novo e está na final do Feminino A3",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-23T08:02:49+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "c8df35b94eea",
+      "image_url": "https://imagens.ebc.com.br/g-wF3chW3tfQMvFzHC4Jv1M8qAI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/campeonato_mundial_de_rugbi_em_cadeira_de_rodas.jpg?itok=N6VvP4nc",
+      "lang_original": "pt",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-08-24T20:34:18+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Seleção derrotou a Nova Zelândia em seu último compromisso. Final é neste domingo (23), às 16h30, entre Austrália e Estados Unidos.",
+      "region": null,
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-fecha-mundial-de-rugbi-em-cadeira-de-rodas-na-11a-posicao",
+      "summary_en": "Brazil beat New Zealand in its last match. The final is on Sunday between Australia and the United States.",
+      "summary_ko": "브라질이 마지막 경기에서 뉴질랜드를 이겼다. 결승전은 일요일에 호주와 미국 사이에서 열린다.",
+      "title_en": "Brazil ends wheelchair rugby World Cup in 11th place",
+      "title_ko": "브라질, 휠체어 럭비 월드컵 11위로 마무리",
+      "title_original": "Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição",
+      "triviality_score": 3
     }
   ]
 }
