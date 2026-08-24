@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-24T23:14:22+09:00",
+  "built_at": "2026-08-25T01:16:14+09:00",
   "page": 391,
   "page_size": 20,
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "collected_at": "2026-08-23T14:04:32+09:00",
@@ -52,6 +52,30 @@
       "title_ko": "옛 사진으로 보는 마드라스, 지금은 첸나이",
       "title_original": "In Pictures | Madras, then and now",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-23T12:06:55+09:00",
+      "country": "GB",
+      "country_ko": "영국",
+      "fallback_reason": "",
+      "id": "3dc74098374b",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/5e5b305d430799fce51aca6c0bd9c989?impolicy=wcms_watermark_news&cropH=2145&cropW=3813&xPos=0&yPos=333&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": 51.44,
+      "lon": -2.62,
+      "processed_at": "2026-08-25T00:45:28+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Bristol City's Dom Ballard scores a goal that's left many fans saying the Puskás Award may already be over for the season.",
+      "region": "England",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-08-23/dom-ballard-goal-stuns-for-bristol-city/107068532",
+      "summary_en": "Dom Ballard of Bristol City scored a beautiful backheel goal in an English league match. Many fans said it could already win the Puskas Award for best goal of the season. The video spread quickly online.",
+      "summary_ko": "잉글랜드 리그 경기에서 브리스틀 시티의 돔 발라드가 멋진 뒤꿈치 골을 넣었습니다. 많은 팬들은 이 골이 시즌 최고 골에 주는 푸스카스 상을 이미 받을 수 있다고 말했습니다. 해당 영상은 인터넷에서 빠르게 퍼지고 있습니다.",
+      "title_en": "Footballer scores amazing backheel goal in England",
+      "title_ko": "잉글랜드 축구장에서 터진 감탄 자아내는 뒤꿈치 골",
+      "title_original": "Bristol City striker's stunning backheel goal in England goes viral",
+      "triviality_score": 5
     }
   ]
 }
