@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-26T11:02:14+09:00",
+  "built_at": "2026-08-26T13:05:10+09:00",
   "page": 395,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-24T06:02:53+09:00",
@@ -459,6 +459,30 @@
       "title_en": "13-year-old girl catches record-breaking 711-pound tuna",
       "title_ko": "13세 소녀, 711파운드 대어 낚시 기록 세워",
       "title_original": "'I didn't think I could do it': A 13-year-old N.S. girl fought a 711-pound tuna and won",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-24T02:06:05+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "7acfb197c89f",
+      "image_url": "https://th-i.thgim.com/public/incoming/dpt6b1/article71381966.ece/alternates/LANDSCAPE_1200/Nehru_Jacket02.jpg",
+      "lang_original": "en",
+      "lat": 26.8467,
+      "lon": 80.9462,
+      "processed_at": "2026-08-26T12:34:45+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "U.P. government plans new khadi stores to enhance sales, promote rural employment, and support village industries.",
+      "region": "Uttar Pradesh",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/with-new-stores-up-aims-to-integrate-khadi-with-employment/article71381711.ece",
+      "summary_en": "The Uttar Pradesh government plans to open new khadi stores across the state. The stores aim to boost khadi sales, create rural employment, and support village industries.",
+      "summary_ko": "우타르프라데시 주정부가 새로운 카디 매장을 주 전역에 신설할 계획이다. 이번 매장은 카디 판매 촉진, 농촌 일자리 창출, 마을 산업 지원을 목표로 한다.",
+      "title_en": "New khadi stores to boost rural jobs in Uttar Pradesh",
+      "title_ko": "우타르프라데시, 농촌 일자리 창출 위해 카디 매장 신설 계획",
+      "title_original": "With new stores, U.P. aims to integrate khadi with employment",
       "triviality_score": 4
     }
   ]
