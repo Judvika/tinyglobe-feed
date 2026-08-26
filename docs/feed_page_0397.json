@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-26T17:07:22+09:00",
+  "built_at": "2026-08-26T19:00:48+09:00",
   "page": 397,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-24T12:07:34+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "부유한 네덜란드 가정이 전기차 대부분 구매",
       "title_original": "High earners buy nearly half of Dutch electric cars",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-24T16:02:57+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "2e62eecede95",
+      "image_url": "https://th-i.thgim.com/public/incoming/hi2paa/article71383507.ece/alternates/LANDSCAPE_1200/20260619229L.jpg",
+      "lang_original": "en",
+      "lat": 10.8,
+      "lon": 78.7,
+      "processed_at": "2026-08-26T18:38:59+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Women MLAs in Tamil Nadu call for replacing the term \"maiden\" speech to eliminate gendered language in the Assembly.",
+      "region": "Tamil Nadu",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/women-mlas-in-tamil-nadu-reiterate-need-to-dispense-with-usage-of-maiden-speech/article71383488.ece",
+      "summary_en": "Women MLAs in Tamil Nadu want to replace the term 'maiden' speech in the Assembly. They argue the phrase is outdated and carries gender bias. The move aims to use gender-neutral language in official records.",
+      "summary_ko": "인도 타밀나두주의 여성 의원들이 의회에서 '처녀 연설(maiden speech)'이라는 표현의 사용 중지를 요구하고 있습니다. 이들은 해당 표현이 시대에 뒤떨어지고 성차별적이라고 주장합니다. 의회 공식 기록에서 성별에 따른 차별 언어를 퇴출하려는 운동을 벌이고 있습니다.",
+      "title_en": "Women MLAs in Tamil Nadu push to change 'maiden' speech terminology",
+      "title_ko": "타밀나두 여성 의원, '처녀 연설' 표현 개정 추진",
+      "title_original": "Women MLAs in Tamil Nadu reiterate need to dispense with usage of ‘maiden’ speech",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-24T16:03:01+09:00",
+      "country": "NZ",
+      "country_ko": "뉴질랜드",
+      "fallback_reason": "",
+      "id": "35bb11147abb",
+      "image_url": "https://media.rnztools.nz/rnz/image/upload/s--JgyfdbVE--/t_tohu-badge-facebook/f_auto/q_auto/4KZX6PT_20231107_110344_jpg",
+      "lang_original": "en",
+      "lat": -40.9006,
+      "lon": 174.886,
+      "processed_at": "2026-08-26T18:40:04+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "While the threat of bird flu still hangs over the egg industry, the Egg producers Federation says it's likely free-range chickens will be going in and out of lockdown in coming months.",
+      "region": null,
+      "source_name": "RNZ National",
+      "source_type": "rss",
+      "source_url": "https://www.rnz.co.nz/news/environment/1106445/free-range-hens-likely-to-go-in-and-out-of-lockdown-as-bird-flu-cases-continue-to-emerge",
+      "summary_en": "Bird flu continues to threaten the egg industry in New Zealand. The Egg producers Federation says free-range chickens will likely be locked down repeatedly. This measure follows ongoing bird flu cases in the region.",
+      "summary_ko": "조류독감이 뉴질랜드의 가금류 산업에 계속 위협을 가하고 있습니다. 계단 생산자 연합은 자유방목 닭들이 향후 몇 달 동안 봉쇄를 오갈 가능성이 있다고 밝혔습니다. 이번 조치는 해당 지역에서 조류독감 사례가 계속 발생함에 따라 이루어지고 있습니다.",
+      "title_en": "Free-range hens likely to go in and out of lockdown as bird flu cases continue to emerge",
+      "title_ko": "조류독감 확산으로 자유방목 닭들이 봉쇄를 오갈 가능성",
+      "title_original": "Free-range hens likely to go in and out of lockdown as bird flu cases continue to emerge",
+      "triviality_score": 4
     }
   ]
 }
