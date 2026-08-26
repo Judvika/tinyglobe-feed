@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-26T07:15:03+09:00",
+  "built_at": "2026-08-26T09:08:11+09:00",
   "page": 394,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-24T00:04:57+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "카투야나와 카하야나 원주민, 예술로 영토 탈환 이야기 전시",
       "title_original": "Povos Katxuyana e Kahyana contam retomada de território pela arte",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-24T04:08:47+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "bcce00a9177e",
+      "image_url": "https://th-i.thgim.com/public/incoming/rl2xye/article71382110.ece/alternates/LANDSCAPE_1200/DSC_8530.JPG",
+      "lang_original": "en",
+      "lat": 12.97,
+      "lon": 77.59,
+      "processed_at": "2026-08-26T09:01:23+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Yellappa Reddy urges Karnataka officials to reject a proposed 5% allocation of park land for infrastructure, citing ecological concerns.",
+      "region": "Karnataka",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/yellappa-reddy-urges-karnataka-chief-secretary-to-drop-proposed-5-park-land-provision/article71381422.ece",
+      "summary_en": "Indian politician Yellappa Reddy urges Karnataka Chief Secretary to withdraw a proposal allowing 5% of park land for infrastructure. He cites ecological concerns and the importance of preserving urban green spaces for the local community.",
+      "summary_ko": "인도 정치인 엘라파 레디는 인프라 개발을 위해 공원 부지의 5%를 할당하려는 제안을 철회할 것을 카르나타카주 수석비서관에게 촉구했습니다. 그는 환경적 우려와 지역 주민들을 위한 도시 녹지 보호의 중요성을 강조했습니다.",
+      "title_en": "Yellappa Reddy urges Karnataka Chief Secretary to drop proposed 5% park land provision",
+      "title_ko": "인도 정치인 엘라파 레디, 카르나타카주 수석비서관에게 공원 부지 5% 할당 조항 철회 요구",
+      "title_original": "Yellappa Reddy urges Karnataka Chief Secretary to drop proposed 5% park land provision",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-24T06:02:46+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "1c26a5140172",
+      "image_url": "https://imagens.ebc.com.br/cLK7n-scaAWGJPV69WbnjxlpfYM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/nosso_segredo.jpg?itok=cf2fnPOC",
+      "lang_original": "pt",
+      "lat": -29.37,
+      "lon": -50.87,
+      "processed_at": "2026-08-26T09:03:44+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Nosso Segredo narra a história de uma família que vive um luto. Longa é uma produção da EntreFilmes em coprodução com a Globo Filmes.",
+      "region": "Rio Grande do Sul",
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-de-grace-passo-ganha-kikito-no-festival-de-cinema-de-gramado",
+      "summary_en": "The Brazilian film Nosso Secreto won the Kikito trophy at the Gramado Film Festival. The movie tells the story of a family dealing with grief. It was produced by EntreFilmes in partnership with Globo Filmes.",
+      "summary_ko": "브라질 영화 '노수 세크레두'가 그라마두 영화제에서 칸키토 트로피를 받았다. 이 작품은 슬픔을 겪는 한 가족의 이야기를 담고 있다. 엔트레필름스와 글로부 필메스가 공동 제작했다.",
+      "title_en": "Brazilian film 'Nosso Segredo' wins Kikito award at Gramado Film Festival",
+      "title_ko": "브라질 그라마두 영화제서 '노수 세크레두' 칸키토상 수상",
+      "title_original": "Filme de Grace Passô ganha Kikito no Festival de Cinema de Gramado",
+      "triviality_score": 4
     }
   ]
 }
