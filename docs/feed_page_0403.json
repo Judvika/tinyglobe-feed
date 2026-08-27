@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-27T17:15:17+09:00",
+  "built_at": "2026-08-27T19:14:57+09:00",
   "page": 403,
   "page_size": 20,
-  "count": 18,
+  "count": 19,
   "items": [
     {
       "collected_at": "2026-08-25T06:03:43+09:00",
@@ -435,6 +435,30 @@
       "title_en": "Eight all-inclusive beach hotels in Spain",
       "title_ko": "스페인에 있는 카리브해 같은 올인클루시브 해변 호텔 여덟 곳",
       "title_original": "Parecen el Caribe, pero están en España: ocho hoteles con todo incluido frente al mar para desconectar este verano - Viajes National Geographic",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-25T08:07:06+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "ac9abf1cab31",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/ec8b3cac996ba082a88e7171f0e09189?impolicy=wcms_watermark_news&cropH=2486&cropW=4421&xPos=0&yPos=415&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -31.95,
+      "lon": 115.86,
+      "processed_at": "2026-08-27T18:37:06+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "In a cutthroat and ever-changing industry, 102.5 ABC Perth's Mark Gibson and Nadia Mitsopoulos have each reached a significant milestone. They share how they started and the highs and challenges of their careers.",
+      "region": "Perth",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-08-25/abc-presenters-celebrate-35-years-in-media/107055362",
+      "summary_en": "Two Perth radio presenters recently reached 35 years in broadcasting. They shared how they started and the highlights and challenges of their long careers.",
+      "summary_ko": "퍼스의 라디오 진행자 두 명이 방송 경력 35주년을 맞았습니다. 그들은 시작했던 때의 일과 오랜 경력 속에서 겪은 기쁨과 어려움을 함께 이야기했습니다.",
+      "title_en": "Two ABC presenters celebrate 35 years in radio",
+      "title_ko": "라디오 진행자 두 명, 방송 35주년 맞아",
+      "title_original": "Two ABC presenters share stories of 35 years in media",
       "triviality_score": 3
     }
   ]
