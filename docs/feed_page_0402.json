@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-27T12:53:52+09:00",
+  "built_at": "2026-08-27T14:54:51+09:00",
   "page": 402,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-25T02:03:16+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "오버스타운 청소년 보호소 노조, 파업 확대 예고",
       "title_original": "Fórsa members at Oberstown to escalate strike action",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-25T04:21:57+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "fallback_reason": "",
+      "id": "5e04b66f3f7d",
+      "image_url": "https://www.pressherald.com/wp-content/uploads/sites/4/2026/08/IMG_6542.jpg?w=780",
+      "lang_original": "en",
+      "lat": 43.413,
+      "lon": -70.558,
+      "processed_at": "2026-08-27T14:32:41+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The restaurant on Alfred Road in West Kennebunk announced its closure on social media Thursday.",
+      "region": "Maine",
+      "source_name": "The Portland Press Herald",
+      "source_type": "google",
+      "source_url": "https://www.pressherald.com/2026/08/21/kennebunks-village-tavern-closes-permanently/",
+      "summary_en": "A restaurant called Village Tavern on Alfred Road in West Kennebunk, Maine has shut down. The owner announced the permanent closure on social media on Thursday. The eatery was a local spot in the small coastal town.",
+      "summary_ko": "메인주 킨네벤크의 Alfred Road에 위치한 빌리지 Tavern이 영영 문을 닫았다. 업주는 목요일 SNS를 통해 영업 종료 소식을 전했다. 해안 소도시의 로컬 맛집이 사라지게 되었다.",
+      "title_en": "Kennebunk's Village Tavern closes permanently",
+      "title_ko": "킨네벤크 빌리지_TAVERN 영업 종료",
+      "title_original": "Kennebunk’s Village Tavern closes permanently - The Portland Press Herald",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-08-25T06:03:38+09:00",
+      "country": "MX",
+      "country_ko": "멕시코",
+      "fallback_reason": "",
+      "id": "1d4980ee4383",
+      "image_url": "https://www.infobae.com/resizer/v2/CAIG67KZUNFATCRUSZV7TO3X6A.png?auth=8e4da5f8940561ae5e76be7f5320d82d10fb4dfa434781f5aab59fee64150fb2&smart=true&width=1200&height=630&quality=85",
+      "lang_original": "es",
+      "lat": 15.82,
+      "lon": -96.53,
+      "processed_at": "2026-08-27T14:33:10+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "La Ventanilla transformó la explotación de fauna en un modelo comunitario que protege al cocodrilo de río, restaura manglares y genera ingresos mediante el ecoturismo",
+      "region": "Oaxaca",
+      "source_name": "Infobae",
+      "source_type": "google",
+      "source_url": "https://www.infobae.com/mexico/2026/08/24/de-cazadores-a-guardianes-el-pueblo-de-oaxaca-que-convirtio-a-300-cocodrilos-en-aliados-del-turismo/",
+      "summary_en": "The village of La Ventanilla in Oaxaca, Mexico, transformed from hunting wildlife into a community conservation model. Villagers now protect river crocodiles, restore mangrove forests, and earn income through ecotourism. Over 300 crocodiles now live peacefully alongside the community as protected partners.",
+      "summary_ko": "멕시코 오아하카주 라 벤타니야 마을은 야생동물 사냥에서 벗어나 보호 모델로 전환했다. 주민들은 강악어를 보호하고 맹그로브 숲을 복원하며 에코투어로 소득을 올리고 있다. 300마리가 넘는 악어들이 이제 공동체와 평화롭게 공존하며 보호받고 있다.",
+      "title_en": "From hunters to guardians: Oaxaca village turns 300 crocodiles into tourism allies",
+      "title_ko": "사냥꾼에서 수호자로: 오아하카 마을, 300마리 악어를 관광 파트너로",
+      "title_original": "De cazadores a guardianes: el pueblo de Oaxaca que convirtió a 300 cocodrilos en aliados del turismo - Infobae",
+      "triviality_score": 5
     }
   ]
 }
