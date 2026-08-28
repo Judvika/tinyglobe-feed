@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-28T07:15:01+09:00",
+  "built_at": "2026-08-28T09:04:26+09:00",
   "page": 403,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-25T06:03:43+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "라디오 진행자 두 명, 방송 35주년 맞아",
       "title_original": "Two ABC presenters share stories of 35 years in media",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-08-25T12:04:11+09:00",
+      "country": "JP",
+      "country_ko": "일본",
+      "fallback_reason": "",
+      "id": "61b2de064331",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--JOgOjy_i--/c_crop,h_576,w_1024,x_0,y_93/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/25/000_c67m76d.jpg?itok=uaeaOJpi",
+      "lang_original": "en",
+      "lat": 34.5794,
+      "lon": 135.5885,
+      "processed_at": "2026-08-28T09:00:25+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "HIGASHIOSAKA, Japan: Feeling dizzy and unwell after cycling to work in Japan's punishing summer heat, warehouse worker Isao Tabuchi headed for his company's newest acquisition: a refrigerator for humans.The phonebo",
+      "region": "Higashiosaka, Osaka",
+      "source_name": "CNA Singapore",
+      "source_type": "rss",
+      "source_url": "https://www.channelnewsasia.com/east-asia/japan-extreme-heat-human-fridge-chill-6338961",
+      "summary_en": "Feeling dizzy after cycling to work in Japan's extreme heat, warehouse worker Isao Tabuchi went to his company's latest purchase: a refrigerator for humans. This human-sized cooling box lets workers chill down before their shift. It is a small and curious answer to the punishing summer heat.",
+      "summary_ko": "일본의 심한 폭염 속에서 자전거로 출근하다 어지러움을 느낀 창고 노동자 이사오 타부치 씨는 회사가 새로 들여온 '사람용 냉장고'를 찾아갔다. 사람이 들어갈 수 있는 이 냉방 상자는 근무 전에 몸을 식히려는 노동자에게 작고 기발한 해결책이 되고 있다.",
+      "title_en": "The human fridge that cools workers in extreme heat",
+      "title_ko": "'사람용 냉장고'로 폭염을 버티는 일본 노동자들",
+      "title_original": "Cool Japan: Human fridge chills workers in extreme heat",
+      "triviality_score": 5
     }
   ]
 }
