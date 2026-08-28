@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-28T18:51:43+09:00",
+  "built_at": "2026-08-28T20:47:28+09:00",
   "page": 407,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-25T20:03:08+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "축소 인플레이션 줄었지만 업체들 더 교묘해져, 네덜란드 소비자 단체",
       "title_original": "Shrinkflation eases but manufacturers turn sneaky, watchdog says",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-25T20:04:51+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "a467c7aac591",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1787648492/Capture.PNG",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-08-28T20:28:57+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Portugal is set to get a new luxury hotel on rails, with plans to transform old CP carriages into accommodation offering overnight journeys, regional food and experiences around the country.",
+      "region": null,
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-08-25/portugal-plans-luxury-hotel-train-inspired-by-orient-express/1075135",
+      "summary_en": "Portugal plans a new luxury hotel on rails. Old train carriages will become hotel rooms. Guests can take overnight journeys and eat regional food.",
+      "summary_ko": "포르투갈이 레일 위의 새로운 럭셔리 호텔을 준비하고 있습니다. 오래된 기차 객차를 숙박 시설로 바꿀 예정입니다. 손님들은 밤새 여행을 즐기고 지역 음식도 맛볼 수 있습니다.",
+      "title_en": "Portugal Plans Luxury Hotel Train",
+      "title_ko": "포르투갈, 럭셔리 호텔 열차 계획",
+      "title_original": "Portugal plans luxury hotel train inspired by Orient Express",
+      "triviality_score": 3
     }
   ]
 }
