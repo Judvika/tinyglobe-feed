@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-08-29T09:04:54+09:00",
+  "page": 410,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-26T06:07:15+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "8a04a45577b6",
+      "image_url": "https://th-i.thgim.com/public/incoming/qwlq3k/article71390213.ece/alternates/LANDSCAPE_1200/Onam22.JPG",
+      "lang_original": "en",
+      "lat": 10.0159,
+      "lon": 76.3419,
+      "processed_at": "2026-08-29T09:04:17+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Kochi's Thiruvonam festivities begin amidst improved weather, drawing crowds to Thrikkakara temple while traffic police manage increasing congestion.",
+      "region": "Kerala",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/kerala/kochi-wakes-to-thiruvonam-festivities/article71389927.ece",
+      "summary_en": "Kochi's Thiruvonam festivities begin as the weather improves. Crowds gather at Thrikkakara temple. Traffic police manage the increasing congestion.",
+      "summary_ko": "날씨가 좋아지면서 코치의 온암 축제가 시작됐다. 트리카카라 사원에 많은 사람들이 모였다. 교통 경찰이 늘어나는 혼잡을 관리하고 있다.",
+      "title_en": "Kochi wakes to Thiruvonam festivities",
+      "title_ko": "코치 온암 축제의 시작",
+      "title_original": "Kochi wakes to Thiruvonam festivities",
+      "triviality_score": 4
+    }
+  ]
+}
