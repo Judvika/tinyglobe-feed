@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-08-31T07:02:00+09:00",
+  "built_at": "2026-08-31T09:02:44+09:00",
   "page": 422,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-27T22:29:16+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "콜로 콜로에서의 보지냐 데뷔, 국제 언론의 주목을 받다",
       "title_original": "Cruzó fronteras: La prensa internacional reaccionó al esperado debut de Vozinha en Colo Colo",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-28T04:02:49+09:00",
+      "country": "AR",
+      "country_ko": "아르헨티나",
+      "fallback_reason": "",
+      "id": "e5f4c3f066eb",
+      "image_url": "https://buenosairesherald.com/wp-content/uploads/2024/07/BCRA-Banco-Central-03ENE-ignacio-petunchi-17-scaled.jpg",
+      "lang_original": "en",
+      "lat": -34.6037,
+      "lon": -58.3816,
+      "processed_at": "2026-08-31T09:01:27+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A fiery online debate prompted the Herald to create a chatbot that answers questions about loan delinquency, credit, and interest rates in Argentina using Central Bank data",
+      "region": "Buenos Aires",
+      "source_name": "Buenos Aires Herald",
+      "source_type": "rss",
+      "source_url": "https://buenosairesherald.com/business/everything-you-wanted-to-know-about-debt-delinquency-and-now-you-can-ask",
+      "summary_en": "The Buenos Aires Herald created a chatbot to answer questions about debt in Argentina. The tool uses data from the Central Bank. It helps people understand credit and interest rates.",
+      "summary_ko": "부에노스아이레스 헤럴드는 아르헨티나의 부채 연체, 신용, 이자율에 관한 질문에 답하는 챗봇을 만들었습니다. 이 챗봇은 중앙은행의 데이터를 활용하여 시민들의 금융 이해를 돕고 있습니다.",
+      "title_en": "Everything you wanted to know about debt delinquency (and now you can ask)",
+      "title_ko": "부채 연체, 알고 싶었던 모든 것 (이제는 질문해 보세요)",
+      "title_original": "Everything you wanted to know about debt delinquency (and now you can ask)",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-08-28T04:04:24+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "707853a51693",
+      "image_url": "https://imagens.ebc.com.br/sTcPBy7c_biwC41Uhh03tVRS7f4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/29/foto1.jpg?itok=QCGHmPwO",
+      "lang_original": "pt",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-08-31T09:02:43+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Instituto Nacional de Câncer alerta para efeitos opostos da prática de exercícios e do uso de produtos de tabaco e nicotina sobre o organismo.",
+      "region": null,
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-de-combate-ao-fumo-treinar-nao-combina-com-fumar-destaca-inca",
+      "summary_en": "Brazil's National Cancer Institute warns about the opposite effects of exercise and tobacco use. Exercising does not mix with smoking. The message comes for the anti-smoking day.",
+      "summary_ko": "브라질 국립암연구소가 운동과 담배 사용이 몸에 반대 영향을 준다고 경고했다. 운동과 흡연은 함께할 수 없다는 것이다. 이 메시지는 금연의 날을 맞아 나왔다.",
+      "title_en": "National Cancer Institute warns exercise and smoking have opposite effects on the body",
+      "title_ko": "운동과 흡연은 몸에 반대 영향을 준다고 국립암연구소가 경고",
+      "title_original": "Dia de Combate ao Fumo: treinar não combina com fumar, destaca Inca",
+      "triviality_score": 3
     }
   ]
 }
