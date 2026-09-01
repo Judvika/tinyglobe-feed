@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-01T10:37:09+09:00",
+  "built_at": "2026-09-01T12:39:48+09:00",
   "page": 430,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-29T00:09:30+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "겨울이 끝나가는 퀸즐랜드에 햇빛과 파도 예고",
       "title_original": "Sunshine and surf expected across Queensland as winter winds down",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-08-29T04:07:13+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "a2bf2a37fadf",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1785433731/1.jpg",
+      "lang_original": "en",
+      "lat": 38.7223,
+      "lon": -9.1393,
+      "processed_at": "2026-09-01T12:26:06+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "In 2026, Lisbon will also reinforce its tsunami warning and alert system by installing two new sirens along the city's coastline.",
+      "region": "Lisbon",
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-08-28/portugal-strengthens-tsunami-safety-measures/1077077",
+      "summary_en": "Lisbon is installing two new sirens along its coastline to improve tsunami warnings. The upgrade is part of a broader safety plan for 2026. The system will help alert residents near the shore during emergencies.",
+      "summary_ko": "리스본시가 해안선을 따라 쓰나미 경보용 사이렌 2기를 추가 설치한다. 이번 설치는 2026년 안전 강화 계획의 일환이다. 새 사이렌은 해안 근처 주민들에게 비상 상황을 신속히 알려줄 예정이다.",
+      "title_en": "Portugal adds new tsunami sirens along Lisbon coast",
+      "title_ko": "리스본 해안에 쓰나미 경보 사이렌 2기 추가 설치",
+      "title_original": "Portugal strengthens tsunami safety measures",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-29T06:04:05+09:00",
+      "country": "IE",
+      "country_ko": "아일랜드",
+      "fallback_reason": "",
+      "id": "cf827bab51eb",
+      "image_url": "https://www.rte.ie/images/001b6cee-1600.jpg",
+      "lang_original": "en",
+      "lat": 53.4,
+      "lon": -7.9,
+      "processed_at": "2026-09-01T12:30:09+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "AI technology and road cameras could be used to alert people more quickly to someone driving the wrong way down a motorway.",
+      "region": null,
+      "source_name": "RTE News",
+      "source_type": "rss",
+      "source_url": "https://www.rte.ie/news/politics/2026/0828/1589622-ai-motorways/",
+      "summary_en": "AI technology and road cameras could help detect wrong-way drivers on motorways faster. The system would alert authorities and drivers more quickly to prevent serious accidents. Officials are exploring this approach to improve road safety.",
+      "summary_ko": "AI 기술과 도로 카메라를 활용하여 고속도로 역주행 차량을 더 빠르게 발견하고 운전자에게 경고할 수 있게 될 전망이다. 관계 당국은 교통사고 예방을 위한 이 시스템 도입을 검토 중이다.",
+      "title_en": "New AI tech considered to tackle wrong-way driving",
+      "title_ko": "고속도로 역주행 방지를 위한 새로운 AI 기술 검토",
+      "title_original": "New AI tech considered to tackle wrong-way driving",
+      "triviality_score": 3
     }
   ]
 }
