@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-02T00:46:34+09:00",
+  "page": 437,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-30T04:02:39+09:00",
+      "country": "ZA",
+      "country_ko": "남아프리카공화국",
+      "fallback_reason": "",
+      "id": "2f60f3714ea7",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1778601508/jonathan-hsu-PQZHHkXN18Y-unsplash.jpg",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-02T00:46:20+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Sightings of the world’s two largest whale species have increased substantially off southern Africa, four decades after a global moratorium on commercial whaling.",
+      "region": "Southern Africa",
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-08-29/whale-sightings-rise-as-populations-recover/1077109",
+      "summary_en": "Sightings of blue and fin whales have increased off southern Africa. This is a positive sign after decades of protection from commercial whaling.",
+      "summary_ko": "남아프리카 해역에서 고래 목격이 크게 늘었다. 상업적 고래잡이 금지 이후 수십 년간의 보호가 효과를 보이고 있다.",
+      "title_en": "Whale Sightings Rise as Populations Recover",
+      "title_ko": "고래 목격 증가, 개체 수 회복 중",
+      "title_original": "Whale sightings rise as populations recover",
+      "triviality_score": 4
+    }
+  ]
+}
