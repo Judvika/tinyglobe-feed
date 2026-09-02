@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-02T20:43:35+09:00",
+  "page": 445,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-31T08:02:26+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "fallback_reason": "",
+      "id": "3ac11e3e3c6a",
+      "image_url": "https://media.japantoday.com/img/store/8c/2a/11418b7e60fbcd8fd8d32d4497ab493f93d6/ap26242590173440/_w1700.jpg",
+      "lang_original": "en",
+      "lat": 41.2398,
+      "lon": -77.0003,
+      "processed_at": "2026-09-02T20:42:29+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Japan's Ayumu Hasegawa (2) celebrates with teammates after driving in the game-winning run with a walk-off bunt off Hamilton, Ohio's Bryson Williams (2) during the sixth inning of the Consolation baseball game at the Little League World Series tournament in South Williamsport, Pa, on Sunday.",
+      "region": "Pennsylvania",
+      "source_name": "Japan Today",
+      "source_type": "rss",
+      "source_url": "https://japantoday.com/category/picture-of-the-day/little-league-2",
+      "summary_en": "Japan's Ayumu Hasegawa drove in the game-winning run with a walk-off bunt in the Little League World Series consolation game. The thrilling play happened in the sixth inning in South Williamsport, Pennsylvania. Hasegawa and his teammates celebrated the exciting victory on the field.",
+      "summary_ko": "일본의 아유무 하세가와가 펜실베이니아주 사우스윌리엄스포트에서 열린 리틀리그 월드시리즈 위로전 경기에서 6회말 끝내기 번트로 결승점을 올렸다. 하세가와와 동료들은 승리 후 필드에서 환호하며 기쁨을 나눴다.",
+      "title_en": "Little League World Series Walk-Off Bunt",
+      "title_ko": "리틀리그 월드시리즈 끝내기 번트 승리",
+      "title_original": "Little League",
+      "triviality_score": 5
+    }
+  ]
+}
