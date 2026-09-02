@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-03T04:37:11+09:00",
+  "built_at": "2026-09-03T06:46:30+09:00",
   "page": 448,
   "page_size": 20,
-  "count": 1,
+  "count": 3,
   "items": [
     {
       "collected_at": "2026-08-31T18:06:52+09:00",
@@ -28,6 +28,54 @@
       "title_ko": "포르투갈에서 환경 영화제 개최",
       "title_original": "Portugal to host environmental film festival",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-31T20:03:18+09:00",
+      "country": "DK",
+      "country_ko": "덴마크",
+      "fallback_reason": "",
+      "id": "1e401d574e70",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/08/watermarks-logo-20250904-144050-L-1920x1280web.jpg@webp",
+      "lang_original": "en",
+      "lat": 56.2639,
+      "lon": 9.5018,
+      "processed_at": "2026-09-03T06:02:38+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Ahead of Danish flag day, our journalist, Emma Pouncey, explains the Danes’ obsession with flags, whether foreign residents find it a little too much and something to feel unsettled by and the many rules around displaying Danish flags.",
+      "region": null,
+      "source_name": "The Local Denmark",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.dk/20260831/opinion-the-danish-flag-obsession-is-hyggelig-not-threatening",
+      "summary_en": "Ahead of Danish flag day, a journalist explains why Danes love their national flag so much. The article explores whether foreign residents find the many flag-display rules excessive and the cultural meaning behind the tradition.",
+      "summary_ko": "덴마크 국기의 날을 앞두고 기자가 덴마크인들의 국기 사랑을 소개한다. 외국인 주민들이 국기 게양 규칙을 지나치게 느끼는지, 그리고 그 전통 뒤에 숨긴 문화적 의미를 살펴본다.",
+      "title_en": "The Danish flag obsession is cozy, not threatening",
+      "title_ko": "덴마크의 국기 사랑은 위협이 아닌 아늑함이다",
+      "title_original": "OPINION: The Danish flag-obsession is 'hyggelig' not threatening",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-08-31T20:03:19+09:00",
+      "country": "NO",
+      "country_ko": "노르웨이",
+      "fallback_reason": "",
+      "id": "14b197368893",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/08/watermarks-logo-Kondolere-1.jpg@webp",
+      "lang_original": "en",
+      "lat": 60.0,
+      "lon": 10.0,
+      "processed_at": "2026-09-03T06:02:50+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Following the passing of King Harald V, which has deeply affected the nation, you might come across today's word of the day frequently in Norwegian media.",
+      "region": null,
+      "source_name": "The Local Norway",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.no/20260831/norwegian-word-of-the-day-kondolerer",
+      "summary_en": "Following the passing of King Harald V, the Norwegian word kondolerer, meaning to express condolences, is appearing frequently in Norwegian media. The word has become especially relevant as the nation mourns its beloved king.",
+      "summary_ko": "하랄드 5세 국왕의 서거 이후 노르웨이 언론에서 애도를 표하는 뜻의 노르웨이어 단어 kondolerer가 자주 등장하고 있다. 이 단어는 전국이 애도에 빠진 지금 특히 많이 쓰이고 있다.",
+      "title_en": "Norwegian word of the day: kondolerer",
+      "title_ko": "오늘의 노르웨이어: kondolerer",
+      "title_original": "Norwegian word of the day: kondolerer",
+      "triviality_score": 3
     }
   ]
 }
