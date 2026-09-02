@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-02T16:48:19+09:00",
+  "built_at": "2026-09-02T18:44:14+09:00",
   "page": 442,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-08-30T20:12:41+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "당신의 오래된 차, 새 차를 살까 그대로 둘까?",
       "title_original": "The old pal sitting on your driveway: Is it time to go modern or stay sentimental?",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-08-30T22:02:55+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "fallback_reason": "",
+      "id": "afa756653fa4",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3303x1858+0+173/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F77%2F6afa1b9f44fa9f7548f57bbd6922%2Fmarmot-stonehenge-blumstein-1.jpeg",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-02T18:24:49+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Dawn was crowned fattest marmot by popular vote.",
+      "region": null,
+      "source_name": "NPR News",
+      "source_type": "rss",
+      "source_url": "https://www.npr.org/2026/08/30/nx-s1-5945683/exclusive-meet-the-inaugural-winner-of-fat-marmot-week",
+      "summary_en": "A marmot named Dawn was crowned the fattest marmot by popular vote. It was the first ever Fat Marmot Week contest.",
+      "summary_ko": "다운이라는 이름의 마모트가 대중 투표로 가장 뚱뚱한 마모트로 선정됐다. 이번이 사상 첫 Fat Marmot Week 대회였다.",
+      "title_en": "Meet the inaugural winner of Fat Marmot Week",
+      "title_ko": "Fat Marmot Week 초대 챔피언을 만나보세요",
+      "title_original": "Exclusive: Meet the inaugural winner of Fat Marmot Week",
+      "triviality_score": 5
     }
   ]
 }
