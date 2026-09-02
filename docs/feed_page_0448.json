@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-03T04:37:11+09:00",
+  "page": 448,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-08-31T18:06:52+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "ccd9d4315288",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1784215105/krists-luhaers-AtPWnYNDJnM-unsplash--1-.jpg",
+      "lang_original": "en",
+      "lat": 40.4167,
+      "lon": -7.4333,
+      "processed_at": "2026-09-03T04:35:37+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The 32nd edition of CineEco, the Serra da Estrela International Environmental Film Festival, will feature 87 films from 34 countries in competition from 9 October to 17 October in Seia (Guarda district), the organisers announced.",
+      "region": "Guarda",
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-08-31/portugal-to-host-environmental-film-festival/1076270",
+      "summary_en": "The 32nd CineEco, the Serra da Estrela International Environmental Film Festival, will take place in Seia, Guarda district, from 9 to 17 October. The festival will screen 87 films from 34 countries in competition. It is one of the oldest environmental film festivals in Europe.",
+      "summary_ko": "시에라다에스트렐라 국제 환경 영화제 CineEco 제32회가 10월 9일부터 17일까지 포르투갈 세아시에서 열린다. 34개국에서 출품된 87편의 영화가 경쟁 부문으로 상영될 예정이다. 이번 영화제는 유럽에서 가장 오래된 환경 영화 중 하나로 꼽힌다.",
+      "title_en": "Portugal to Host Environmental Film Festival",
+      "title_ko": "포르투갈에서 환경 영화제 개최",
+      "title_original": "Portugal to host environmental film festival",
+      "triviality_score": 4
+    }
+  ]
+}
