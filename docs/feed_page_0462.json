@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-05T02:39:03+09:00",
+  "built_at": "2026-09-05T05:04:26+09:00",
   "page": 462,
   "page_size": 20,
-  "count": 17,
+  "count": 18,
   "items": [
     {
       "collected_at": "2026-09-02T14:07:59+09:00",
@@ -411,6 +411,30 @@
       "title_en": "Property taxes are going up in parts of France this year",
       "title_ko": "프랑스 일부 지역, 올해 재산세 인상",
       "title_original": "Where in France are property taxes rising in 2026",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-02T18:02:36+09:00",
+      "country": "JP",
+      "country_ko": "일본",
+      "fallback_reason": "",
+      "id": "abbd5e45c24e",
+      "image_url": "https://media.japantoday.com/img/store/6c/b6/ad8bb937219a2a256bc085929fba66f9a99d/1f7b5da726eb7b55225b72908c84c2c531093188/_w1700.jpg",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-05T04:26:51+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Cricketers at this month's Asian Games in Japan will have better accommodation than athletes from many other sports, the head of Japanese cricket said Wednesday, after concerns were raised about a lack of five-star hotels for players. A Sri Lankan official said this week that some of Asia's top teams…",
+      "region": null,
+      "source_name": "Japan Today",
+      "source_type": "rss",
+      "source_url": "https://japantoday.com/category/sports/cricketers-to-get-best-rooms-at-asian-games-says-japan-chief",
+      "summary_en": "The head of Japanese cricket says cricket players will stay in better hotels than athletes from many other sports at this month's Asian Games. A Sri Lankan official had raised concerns about a lack of five-star hotels for top Asian teams. Japan confirmed that cricketers will receive premium accommodation at the games.",
+      "summary_ko": "일본 크리켓 협회장은 이번 아시안게임에서 크리켓 선수들이 다른 종목 선수들보다 더 좋은 호텔에 머물게 될 것이라고 밝혔다. 일부 아시아 상위 팀 관계자들이 5성급 호텔 부족 문제를 제기했으나, 일본 측은 크리켓 선수들에게 프리미엄 숙소를 제공할 것을 확인했다.",
+      "title_en": "Cricketers to get best rooms at Asian Games in Japan",
+      "title_ko": "아시안게임 크리켓 선수, 최고 숙소 배정",
+      "title_original": "Cricketers to get best rooms at Asian Games, says Japan chief",
       "triviality_score": 4
     }
   ]
