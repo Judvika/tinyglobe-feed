@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-05T00:47:37+09:00",
+  "built_at": "2026-09-05T02:39:03+09:00",
   "page": 461,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-02T10:02:35+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "차이치 바이니안 푸드코트, 7개월 만에 25만 싱가포르달러 적자",
       "title_original": "Bai Nian Food Court at Chai Chee lost S$250,000 in 7 months: 'There are just no people anymore'",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-02T12:06:34+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "b734cd2571cc",
+      "image_url": "https://www.cooperativa.cl/noticias/site/artic/20260901/imag/foto_0000001220260901223907.jpg",
+      "lang_original": "es",
+      "lat": -19.9167,
+      "lon": -43.9345,
+      "processed_at": "2026-09-05T02:26:03+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Atlético Mineiro clasificó a las semifinales de la Copa de Brasil, tras remontar por 2-1 ante Cruzeiro en el Clásico de Belo Horizonte y ganar 3-2 la llave global de cuartos. Kaio Jorge abrió la cuenta, pero Víctor Hugo y Fred lo dieron vuelta para el \"Galo\", que enfrentará en la próxima fase al vencedor del clásico de Porto Alegre entre Gremio e Inter.",
+      "region": "Minas Gerais",
+      "source_name": "Cooperativa",
+      "source_type": "rss",
+      "source_url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-brasilena/atletico-mineiro-remonto-ante-cruzeiro-en-el-clasico-y-clasifico-a/2026-09-01/223907.html",
+      "summary_en": "Atlético Mineiro came from behind to beat Cruzeiro 2-1 in Belo Horizonte. They won 3-2 on aggregate to reach the Copa Brasil semifinals. They will face the winner of the Grêmio vs. Internacional match.",
+      "summary_ko": "아틀레치쿠 미네이루가 벨루오리존치에서 크루제이루에 2-1 역전승을 거뒀다. 통합 스코어 3-2로 8강 시리즈를 승리하며 브라질 컵 4강에 진출했다. 다음 라운드에서는 그레미우와 인테르나시오날의 승자를 만난다.",
+      "title_en": "Atlético Mineiro beats Cruzeiro to reach Copa Brasil semifinals",
+      "title_ko": "아틀레치쿠 미네이루, 크루제이루에 역전승으로 브라질 컵 4강 진출",
+      "title_original": "Atlético Mineiro remontó ante Cruzeiro en el clásico y clasificó a semifinales en la Copa de Brasil",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-09-02T14:06:28+09:00",
+      "country": "SG",
+      "country_ko": "싱가포르",
+      "fallback_reason": "",
+      "id": "98c66b11cfcc",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--CHLQcaQC--/c_crop,h_767,w_1364,x_0,y_71/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/08/22/Singapore Chinese Orchestra.jpeg?itok=LwRkU9ct",
+      "lang_original": "en",
+      "lat": 1.3521,
+      "lon": 103.8198,
+      "processed_at": "2026-09-05T02:26:44+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Youths accounted for the largest share of SG Culture Pass credit usage, at 43 per cent.",
+      "region": null,
+      "source_name": "CNA Singapore",
+      "source_type": "rss",
+      "source_url": "https://www.channelnewsasia.com/singapore/sg-culture-pass-credits-30-million-used-live-arts-performances-mccy-6353886",
+      "summary_en": "More than $30 million in SG Culture Pass credits have been used so far, with youths making up the largest share at 43 per cent. A new online portal has been introduced to help seniors discover and join cultural outings. The programme aims to bring more people in Singapore to enjoy live arts performances.",
+      "summary_ko": "싱가포르 문화패스 사용액이 3000만 싱가포르달러를 넘었으며, 그중 청년 사용자가 43%로 가장 많았다. 새로운 온라인 포털이 노년층이 문화 체험 활동에 쉽게 참여할 수 있도록 도입되었다. 이 프로그램은 더 많은 시민이 라이브 공연을 즐기도록 지원한다.",
+      "title_en": "Singapore Culture Pass credits surpass $30 million; new portal launched for seniors",
+      "title_ko": "싱가포르 문화패스 사용액 3000만 싱가포르달러 돌파, 시니어용 새 포털 출시",
+      "title_original": "Over S$30 million in SG Culture Pass credits used; new portal to help seniors access cultural outings",
+      "triviality_score": 5
     }
   ]
 }
