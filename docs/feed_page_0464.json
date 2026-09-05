@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-05T12:40:44+09:00",
+  "page": 464,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-09-02T22:04:23+09:00",
+      "country": "SE",
+      "country_ko": "스웨덴",
+      "fallback_reason": "",
+      "id": "d423802d5938",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-1787249071146.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-05T12:40:24+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Master's student Deepshikha Monga is one of thousands of foreign-born voters ready to cast their ballot for the first time in Sweden's local and regional elections. She tells The Local about the issues that matter to her, and what she wants native Swedish voters to know about immigrant life.",
+      "region": null,
+      "source_name": "The Local Sweden",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.se/20260902/voting-in-sweden-do-not-take-it-lightly-at-all-and-do-vote",
+      "summary_en": "Deepshikha Monga, a master's student, is one of thousands of foreign-born voters casting their ballot for the first time in Sweden's local and regional elections. She talks about the issues that matter to her. She also tells native Swedish voters what she wants them to understand about immigrant life.",
+      "summary_ko": "석사 과정 학생인 딥시카 몽가는 스웨덴 지방·지역 선거에서 처음으로 투표하는 수천 명의 외국 출신 유권자 중 한 명이다. 그녀는 자신에게 중요한 현안을 이야기하고, 스웨덴 태생 유권자들에게 이민자 생활을 어떻게 이해해 주길 바라는지도 전한다.",
+      "title_en": "Foreign-born student votes in Sweden for the first time",
+      "title_ko": "스웨덴에서 처음 투표하는 외국 출신 대학원생",
+      "title_original": "Voting in Sweden: 'Do not take it lightly at all, and do vote'",
+      "triviality_score": 3
+    }
+  ]
+}
