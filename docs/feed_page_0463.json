@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-05T09:03:12+09:00",
+  "page": 463,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-09-02T20:02:58+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "b90ac240f649",
+      "image_url": "https://th-i.thgim.com/public/incoming/faldo1/article71419163.ece/alternates/LANDSCAPE_1200/satheesan.jpg",
+      "lang_original": "en",
+      "lat": 10.85,
+      "lon": 76.27,
+      "processed_at": "2026-09-05T09:02:45+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Muslim Jamaat condemns Kerala CM's remarks on Kanthapuram, demanding an apology for misrepresenting Islamic history and context.",
+      "region": "Kerala",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/kerala/muslim-jamaat-condemns-keralam-chief-ministers-remarks-on-kanthapuram-seeks-apology/article71419034.ece",
+      "summary_en": "A Muslim religious group in Kerala condemned the chief minister's remarks about Kanthapuram. The group says the remarks distorted Islamic history and context. It is demanding an official apology,",
+      "summary_ko": "케랄라의 한 무슬림 종교 단체가 칸타푸람에 대한 주 총리의 발언을 규탄했습니다. 단체는 그 발언이 이슬람 역사와 맥락을 왜곡했다고 주장합니다. 정식 사과를 요구하고 있습니다.",
+      "title_en": "Muslim group condemns Kerala chief minister's remarks on Kanthapuram, asks for apology",
+      "title_ko": "케랄라 무슬림 단체, 칸타푸람에 대한 주 총리 발언 규탄하며 사과 요구",
+      "title_original": "Muslim Jamaat condemns Keralam Chief Minister’s remarks on Kanthapuram, seeks apology",
+      "triviality_score": 3
+    }
+  ]
+}
