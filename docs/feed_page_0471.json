@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-06T09:03:32+09:00",
+  "built_at": "2026-09-06T10:38:41+09:00",
   "page": 471,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-03T12:06:25+09:00",
@@ -459,6 +459,30 @@
       "title_en": "IndiGo flight diverted to Muscat after pilot gets sick",
       "title_ko": "인디고 항공기 조종사가 아파 무스카트로 회항",
       "title_original": "IndiGo Doha-Bengaluru flight diverted to Muscat after pilot falls ill",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-09-03T14:04:01+09:00",
+      "country": "SG",
+      "country_ko": "싱가포르",
+      "fallback_reason": "",
+      "id": "97a206a714be",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--hhtve3C3--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/03/experience_the_formula_1_pit_lane_up_close.jpeg?itok=Or2FxYNk",
+      "lang_original": "en",
+      "lat": 1.3521,
+      "lon": 103.8198,
+      "processed_at": "2026-09-06T10:27:12+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Up to 4,500 fans will get the chance to walk down the pit lane, see team garages and cars up close, and explore the Zone 1 F1 Village before the Singapore Grand Prix weekend in October.",
+      "region": "Singapore",
+      "source_name": "CNA Singapore",
+      "source_type": "rss",
+      "source_url": "https://cnalifestyle.channelnewsasia.com/living/f1-thursday-pit-lane-experience-singapore-grand-prix-2026-588496",
+      "summary_en": "Up to 4,500 fans can join the Thursday Pit Lane Experience before the Singapore Grand Prix weekend in October. They can walk down the pit lane, see team garages and cars up close, and explore the Zone 1 F1 Village. Ballots are now open.",
+      "summary_ko": "최대 4,500명의 팬이 10월 싱가포르 그랑프리 주말 전 목요일 피트레인 체험에 참여할 수 있다. 참가자는 피트레인을 걸으며 팀 개러지와 경주차를 가까이서 보고, 존 1 F1 빌리지를 둘러볼 수 있다. 현재 추첨 응모가 진행 중이다.",
+      "title_en": "Singapore F1: Ballots open for Thursday Pit Lane Experience, up to 4,500 fans eligible",
+      "title_ko": "싱가포르 F1 목요일 피트레인 체험 응모 시작, 최대 4,500명 참여 가능",
+      "title_original": "Singapore F1: Ballots open for Thursday Pit Lane Experience, with up to 4,500 fans eligible",
       "triviality_score": 3
     }
   ]
