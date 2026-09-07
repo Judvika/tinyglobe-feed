@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-08T03:11:10+09:00",
+  "page": 490,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-09-05T02:02:58+09:00",
+      "country": "CL",
+      "country_ko": "칠레",
+      "fallback_reason": "",
+      "id": "114ccb9610c9",
+      "image_url": "https://www.cooperativa.cl/noticias/site/artic/20260904/imag/foto_0000000120260904124508.jpg",
+      "lang_original": "es",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-08T02:30:33+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "El destacado folclorista actualizó su clásica canción.",
+      "region": null,
+      "source_name": "Cooperativa",
+      "source_type": "rss",
+      "source_url": "https://www.cooperativa.cl/noticias/magazine/musica/musica-chilena/pablo-chill-e-debuta-en-la-cueca-junto-a-nano-parra-con-lolos/2026-09-04/124508.html",
+      "summary_en": "Chilean musician Pablo Chill-E updated his classic song into a cueca. He performed the new version together with Nano Parra. The song is titled \"Lolos marihuaneros\".",
+      "summary_ko": "칠레 뮤지션 파블로 칠리에는 자신의 대표곡을 쿠에카 버전으로 새롭게 편곡했다. 그는 새 버전을 나노 파라와 함께 불렀다. 곡의 제목은 '롤로스 마리우아네로스'다.",
+      "title_en": "Pablo Chill-E debuts in cueca with Nano Parra",
+      "title_ko": "파블로 칠리에, 나노 파라와 함께 쿠에카 데뷔",
+      "title_original": "Pablo Chill-E debuta con la cueca junto a Nano Parra con \"Lolos marihuaneros\"",
+      "triviality_score": 4
+    }
+  ]
+}
