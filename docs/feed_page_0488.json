@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-07T22:50:39+09:00",
+  "built_at": "2026-09-08T00:43:04+09:00",
   "page": 488,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-04T22:02:46+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "오늘의 노르웨이어 단어: Helg",
       "title_original": "Norwegian word of the day: Helg",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-09-04T22:04:33+09:00",
+      "country": "CH",
+      "country_ko": "스위스",
+      "fallback_reason": "",
+      "id": "1bcd396d8129",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-markus-winkler-XKKuY4ottJ0-unsplash-1.jpg@webp",
+      "lang_original": "en",
+      "lat": 46.8182,
+      "lon": 8.2275,
+      "processed_at": "2026-09-08T00:26:59+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Finding a job or a place to live in Switzerland can be hard enough without the prospect of facing discrimination. We want to hear from readers about their own experiences.",
+      "region": null,
+      "source_name": "The Local Switzerland",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.ch/20260904/tell-us-have-you-experienced-discrimination-when-job-or-flat-hunting-in-switzerland",
+      "summary_en": "A Swiss news outlet is asking readers to share their personal stories about facing discrimination when looking for a job or a flat in Switzerland. Finding work or a place to live in Switzerland is already challenging, and the article explores how discrimination makes it even harder for many people.",
+      "summary_ko": "스위스 뉴스 매체가 구직이나 주택을 구하는 과정에서 겪은 차별 경험을 독자들에게 공유해 달라고 요청하고 있습니다. 스위스에서 일자리나 거처를 찾는 것 자체가 어려운데, 차별까지 더해져 많은 사람들이 더 큰 어려움을 겪고 있다고 전합니다.",
+      "title_en": "Tell Us Your Story: Discrimination in Swiss Jobs and Housing Search",
+      "title_ko": "구직과 주택 구할 때 차별 경험을 들려주세요",
+      "title_original": "TELL US: Have you experienced discrimination when job or flat hunting in Switzerland?",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-09-05T00:03:03+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "06a3c78e49e1",
+      "image_url": "https://th-i.thgim.com/public/incoming/2sva00/article71428755.ece/alternates/LANDSCAPE_1200/PTI09_04_2026_000223B.jpg",
+      "lang_original": "en",
+      "lat": 24.82,
+      "lon": 87.87,
+      "processed_at": "2026-09-08T00:27:48+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Land subsidence near Farakka has disrupted train services to north Bengal, prompting the deployment of extra buses for commuters.",
+      "region": "West Bengal",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/west-bengal/farakka-track-subsidence-forces-cancellation-of-several-trains-to-north-bengal/article71428560.ece",
+      "summary_en": "Land subsidence near Farakka in West Bengal has forced the cancellation of several trains to North Bengal. Extra buses have been deployed to help commuters who are stranded by the disruptions.",
+      "summary_ko": "인도 서벵갈주 파르카 인근에서 지반 침하가 발생해 북벵갈행 여러 열차가 운행을 중단했다. 지역 교통 당국은 통행이 어려워진 주민들을 위해 추가 버스를 투입했다.",
+      "title_en": "Land subsidence near Farakka disrupts train services to North Bengal",
+      "title_ko": "파르카 부근 지반 침하로 북벵갈행 열차 운행 중단",
+      "title_original": "Farakka track subsidence forces cancellation of several trains to North Bengal",
+      "triviality_score": 3
     }
   ]
 }
