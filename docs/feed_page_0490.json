@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-08T07:11:30+09:00",
+  "built_at": "2026-09-08T09:02:36+09:00",
   "page": 490,
   "page_size": 20,
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "collected_at": "2026-09-05T02:02:58+09:00",
@@ -27,6 +27,30 @@
       "title_en": "Pablo Chill-E debuts in cueca with Nano Parra",
       "title_ko": "파블로 칠리에, 나노 파라와 함께 쿠에카 데뷔",
       "title_original": "Pablo Chill-E debuta con la cueca junto a Nano Parra con \"Lolos marihuaneros\"",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-05T04:05:34+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "406d31be8db7",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1788521783/zunder.png",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-08T09:02:11+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Zunder is pressing ahead with its international expansion strategy by opening new ultra-fast charging stations in Portugal, with the first station opening in Caldas da Rainha.",
+      "region": null,
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-09-04/spanish-company-opens-electric-vehicle-charging-station-in-portugal/1081326",
+      "summary_en": "Zunder is expanding into Portugal with new ultra-fast charging stations. The first one is in Caldas da Rainha.",
+      "summary_ko": "준더가 포르투갈에 초고속 충전소를 열고 해외 확장을 이어가고 있습니다. 첫 충전소는 칼다스다라이냐에 들어섰습니다.",
+      "title_en": "Spanish company opens EV charging station in Portugal",
+      "title_ko": "스페인 업체, 포르투갈에 전기차 충전소 개소",
+      "title_original": "Spanish company opens electric vehicle charging station in Portugal",
       "triviality_score": 4
     }
   ]
