@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-08T12:42:10+09:00",
+  "page": 492,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-09-05T06:20:49+09:00",
+      "country": "NO",
+      "country_ko": "노르웨이",
+      "fallback_reason": "",
+      "id": "e75d02b1e0ff",
+      "image_url": "https://www.unn.no/48f2e5/contentassets/c1201e4faa2c4b08b82545c4613af426/lefoko_mabote_botswana-1075x772.jpg?width=1200&height=628&quality=80",
+      "lang_original": "no",
+      "lat": 69.6496,
+      "lon": 18.956,
+      "processed_at": "2026-09-08T12:40:24+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Planen var at Lefoko Mabote skulle flytte hjem til Botswana etter medisinstudiet. Muligheten for å ta spesialisering gjorde at han ble, og havnet i Tromsø.",
+      "region": "Troms",
+      "source_name": "Universitetssykehuset Nord-Norge HF",
+      "source_type": "google",
+      "source_url": "https://www.unn.no/pingvinavisa/nyheter/en-varig-utveksling/",
+      "summary_en": "Lefoko Mabote planned to return home to Botswana after finishing medical school in Norway. The chance to specialize made him stay, and he settled in Tromsø.",
+      "summary_ko": "레포코 마보테는 노르웨이 의대를 마치고 고향인 보츠와나로 돌아갈 예정이었다. 전문의 과정을 밟을 기회가 생기면서 자리를 잡았고, 결국 트롬쇠에 정착하게 되었다.",
+      "title_en": "Medical student from Botswana stays in Tromsø after discovering specialization chance",
+      "title_ko": "보츠와나 출신 의대생, 전문의 과정 기회로 트롬쇠에 정착",
+      "title_original": "Spesialisering ga varig utveksling - Universitetssykehuset Nord-Norge HF",
+      "triviality_score": 5
+    }
+  ]
+}
