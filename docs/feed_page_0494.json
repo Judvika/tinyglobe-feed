@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-08T16:42:39+09:00",
+  "page": 494,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-09-05T14:02:49+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "a1cda510f733",
+      "image_url": "https://th-i.thgim.com/public/news/national/kerala/j2n4lr/article71431061.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-05%20at%2009.49.27.jpeg",
+      "lang_original": "en",
+      "lat": 11.2588,
+      "lon": 75.7804,
+      "processed_at": "2026-09-08T16:42:15+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Keralam CM V.D. Satheesan and Cabinet skip press interactions at IIM Kozhikode due to tight schedule and security concerns.",
+      "region": "Kerala",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/kerala/keralam-cm-cabinet-to-skip-press-interaction-at-iim-kozhikode-citing-tight-schedule-security/article71431009.ece",
+      "summary_en": "Kerala Chief Minister V.D. Satheesan and his Cabinet will not meet the media at IIM Kozhikode. Officials say the decision is due to a tight schedule and security concerns.",
+      "summary_ko": "케랄라 주지사 V.D. Satheesan과 각료들이 IIM 코지코드에서 기자회견을 열지 않기로 했다. 관계자들은 빡빡한 일정과 보안 우려를 이유로 이번 결정을 내렸다고 밝혔다.",
+      "title_en": "Kerala CM and Cabinet Skip Press Interaction at IIM Kozhikode",
+      "title_ko": "케랄라 주지사, IIM 코지코드 언론 만남 취소",
+      "title_original": "Keralam CM, Cabinet to skip press interaction at IIM Kozhikode citing tight schedule, security",
+      "triviality_score": 3
+    }
+  ]
+}
