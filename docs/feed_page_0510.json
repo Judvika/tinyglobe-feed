@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-10T14:43:32+09:00",
+  "built_at": "2026-09-10T16:46:28+09:00",
   "page": 510,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-07T18:07:32+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "스위스 이민세 제안, 정부 지지 얻어",
       "title_original": "Swiss 'immigration tax' proposal gets a boost from the government",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-09-07T22:04:52+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "c1da5f68d2f3",
+      "image_url": "https://imagens.ebc.com.br/pi2vxzQg9Oq8rtophlLMItrLzWE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/nacional90.jpg?itok=UbLvLfF7",
+      "lang_original": "pt",
+      "lat": -15.7801,
+      "lon": -47.9292,
+      "processed_at": "2026-09-10T16:29:31+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "De 7 a 11 de setembro, as atrações apresentam edições especiais com memórias, entrevistas, quadros e registros que reforçam a conexão histórica e afetiva com o público brasileiro.",
+      "region": null,
+      "source_name": "Agencia Brasil",
+      "source_type": "rss",
+      "source_url": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/radio-nacional-celebra-90-anos-com-transmissoes-de-momentos-marcantes",
+      "summary_en": "Brazil's National Radio marks its 90th anniversary with special programming from September 7 to 11. The week-long celebration features memories, interviews, and historic recordings that highlight the station's deep connection with listeners across the country.",
+      "summary_ko": "브라질 국영 라디오가 90주년을 맞아 9월 7일부터 11일까지 특별 프로그램을 방송한다. 이번 기념 주간에는 기억에 남는 인터뷰와 고 archived 녹음 등 청취자와의 깊은 유대를 보여주는 콘텐츠가 소개된다.",
+      "title_en": "National Radio celebrates 90 years with broadcasts of memorable moments",
+      "title_ko": "국영 라디오, 90주년 기념 특별 방송 진행",
+      "title_original": "Rádio Nacional celebra 90 anos com transmissões de momentos marcantes",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-07T22:05:01+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "88d8f7ccef39",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1778507920/view-of-carvoeiro-fishing-village-with-beautiful-b-2026-01-07-01-29-40-utc.jpg",
+      "lang_original": "en",
+      "lat": 37.09,
+      "lon": -8.47,
+      "processed_at": "2026-09-10T16:30:58+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Plans for a long-awaited new parking facility in Praia do Carvoeiro have taken another step forward, with the project now expected to move towards a public tender next year.",
+      "region": "Algarve",
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-09-07/new-parking-facility-planned-for-algarve-tourism-hotspot/1082753",
+      "summary_en": "Plans for a new parking facility in Praia do Carvoeiro have moved forward. The project is now expected to go to public tender next year.",
+      "summary_ko": "포르투갈 프라이아두카르보에이루에 오랫동안 기다려온 새 주차장 건립 계획이 한 단계 더 진전됐다. 이 프로젝트는 내년에 공개 입찰 절차를 밟을 것으로 예상된다.",
+      "title_en": "New parking facility planned for Algarve tourism hotspot",
+      "title_ko": "알가르베 관광지 신규 주차장 계획 진전",
+      "title_original": "New parking facility planned for Algarve tourism hotspot",
+      "triviality_score": 5
     }
   ]
 }
