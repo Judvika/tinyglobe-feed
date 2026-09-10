@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-10T16:46:28+09:00",
+  "built_at": "2026-09-10T18:48:39+09:00",
   "page": 511,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-07T22:06:31+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "외국인이 프랑스의 거꾸로 말하기 '베를랑'을 피해야 할까?",
       "title_original": "Should foreigners steer clear of France's 'backwards language' Verlan?",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-09-08T00:04:59+09:00",
+      "country": "DK",
+      "country_ko": "덴마크",
+      "fallback_reason": "",
+      "id": "11aa21cda804",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2022/06/watermarks-logo-word-of-the-day-template-9.jpg@webp",
+      "lang_original": "en",
+      "lat": 56.2639,
+      "lon": 9.5018,
+      "processed_at": "2026-09-10T18:28:36+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "It's an uphill battle for today's Danish word of the day.",
+      "region": null,
+      "source_name": "The Local Denmark",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.dk/20220610/danish-word-of-the-day-bakke",
+      "summary_en": "Today's Danish word is 'bakke,' which means hill. The article plays with the phrase 'an uphill battle' to teach this common word. Learning small words like this helps you understand Danish culture.",
+      "summary_ko": "오늘의 덴마크어 단어는 'bakke'로, 언덕이라는 뜻입니다. 이 글은 '오르막길 싸움'이라는 표현을 활용해 이 단어를 재미있게 소개합니다. 이런 작은 단어 하나하나가 덴마크 문화를 이해하는 데 도움이 됩니다.",
+      "title_en": "Danish word of the day: Bakke",
+      "title_ko": "오늘의 덴마크어 단어: Bakke",
+      "title_original": "Danish word of the day: Bakke",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-09-08T00:05:02+09:00",
+      "country": "AT",
+      "country_ko": "오스트리아",
+      "fallback_reason": "",
+      "id": "d799b9e33ef9",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-TL-Word-of-the-day-Hausübung.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-10T18:28:54+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "For pupils in Vienna, Lower Austria and Burgenland, Monday marks the end of the summer holidays and the start of a new school year. That also means the return of the Hausübung.",
+      "region": "Vienna, Lower Austria and Burgenland",
+      "source_name": "The Local Austria",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.at/20260907/german-word-of-the-day-die-hausubung",
+      "summary_en": "In Austria, students in Vienna, Lower Austria, and Burgenland return to school after summer holidays. This also means the start of 'Hausübung', which means homework in German. It is a popular daily word feature from a local English-language newspaper.",
+      "summary_ko": "오스트리아 빈, 니더외스터라이히, 부르겐란트 지역의 학생들이 여름 방학 후 학교에 돌아옵니다. 이는 독일어로 '과제'를 뜻하는 'Hausübung'도 시작됨을 의미합니다. 이는 현지 영어 신문의 인기 있는 일일 단어 코너입니다.",
+      "title_en": "German Word of the Day: die Hausübung",
+      "title_ko": "오늘의 독일어: die Hausübung",
+      "title_original": "German Word of the Day: die Hausübung",
+      "triviality_score": 4
     }
   ]
 }
