@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-11T07:09:49+09:00",
+  "built_at": "2026-09-11T09:03:13+09:00",
   "page": 515,
   "page_size": 20,
-  "count": 18,
+  "count": 19,
   "items": [
     {
       "collected_at": "2026-09-08T08:02:30+09:00",
@@ -436,6 +436,30 @@
       "title_ko": "뉴질랜드 배터리 기술로 전기료 2700달러 절약 가능",
       "title_original": "Kiwi battery tech promises $2700 power bill cut",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-08T16:03:04+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "c265b73d80fe",
+      "image_url": "https://i.blogs.es/d52bdf/fotojet-49-/840_560.jpeg",
+      "lang_original": "es",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-11T09:02:45+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "La España vaciada es una cara de la moneda de la crisis demográfica en las poblaciones más pequeñas: la otra cara es la de aquellos que apuestan por sus...",
+      "region": null,
+      "source_name": "Directo al Paladar",
+      "source_type": "google",
+      "source_url": "https://www.directoalpaladar.com/consumidores/mario-23-anos-dejo-valencia-para-abrir-bar-pueblo-100-vecinos-exito-no-tener-que-irme",
+      "summary_en": "Mario is a 23-year-old man. He left the city of Valencia to open a bar in a town with fewer than 100 residents. He says success means not having to leave.",
+      "summary_ko": "마리오는 23살 청년입니다. 그는 대도시 발렌시아를 떠나 주민 100명도 되는지 의문인 작은 마을에 바를 열었습니다. 그에게 성공이란 그곳에 계속 머무를 수 있는 것입니다.",
+      "title_en": "Mario, 23, left Valencia to open a bar in a town of fewer than 100 people",
+      "title_ko": "23살 마리오, 발렌시아를 떠나 주민 100명 미만의 마을에서 바를 열다",
+      "title_original": "Mario, 23 años, dejó Valencia para abrir un bar en un pueblo de menos de 100 vecinos: “El éxito es no tener que irme” - Directo al Paladar",
+      "triviality_score": 5
     }
   ]
 }
