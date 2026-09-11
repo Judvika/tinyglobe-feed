@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-11T09:03:13+09:00",
+  "built_at": "2026-09-11T10:41:07+09:00",
   "page": 515,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-08T08:02:30+09:00",
@@ -459,6 +459,30 @@
       "title_en": "Mario, 23, left Valencia to open a bar in a town of fewer than 100 people",
       "title_ko": "23살 마리오, 발렌시아를 떠나 주민 100명 미만의 마을에서 바를 열다",
       "title_original": "Mario, 23 años, dejó Valencia para abrir un bar en un pueblo de menos de 100 vecinos: “El éxito es no tener que irme” - Directo al Paladar",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-09-08T12:06:10+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "a9457ba09c23",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/1356c91b8514c02c0d5b3fbe514a8fdc?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-11T10:28:33+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "It's been hard for me to make friends as an adult. My ever-present anxiety tells me it would be far safer to stay silent and isolated than to reach out and risk rejection.",
+      "region": null,
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-09-08/perspective-on-friendship-cupids/106995546",
+      "summary_en": "An adult shares how hard it is to make new friends and how anxiety makes it easier to stay quiet. A friend who acted as a friendship cupid introduced them to new people, creating connections they never thought possible.",
+      "summary_ko": "성인이 된 후 새 친구를 사귀기 어렵다고 고백하는 이야기. 불안 때문에 조용히 지내는 게 안전하다고 느끼지만, 우정 중매쟁이 역할을 한 친구 덕분에 상상하지 못했던 새로운 사람들을 만날 수 있었다.",
+      "title_en": "My friendship cupid helped me make connections",
+      "title_ko": "내 우정 중매쟁이가 연결해 준 놀라운 만남",
+      "title_original": "My 'friendship cupid' gave me connections I didn't think were possible",
       "triviality_score": 5
     }
   ]
