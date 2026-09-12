@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-12T20:38:20+09:00",
+  "page": 526,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-09-10T02:05:14+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "70c0ccca781e",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1788957459/Michael-Jackson.jpg",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-12T20:37:52+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Michael Jackson fans will have two opportunities to see one of the world’s best-known tribute shows when “This Is Michael” returns to Portugal later this year.",
+      "region": null,
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-09-09/michael-jackson-tribute-show-returning-to-portugal/1083582",
+      "summary_en": "Michael Jackson fans in Portugal will get two chances to see one of the world's best-known tribute shows. The show 'This Is Michael' returns to Portugal later this year.",
+      "summary_ko": "포르투갈의 마이클 잭슨 팬들은 세계에서 가장 유명한 추모 공연을 두 번 볼 기회를 얻게 된다. '디스 이즈 마이클' 공연이 올해 안에 포르투갈로 돌아온다.",
+      "title_en": "Michael Jackson tribute show returning to Portugal",
+      "title_ko": "마이클 잭슨 추모 공연이 포르투갈로 돌아온다",
+      "title_original": "Michael Jackson tribute show returning to Portugal",
+      "triviality_score": 4
+    }
+  ]
+}
