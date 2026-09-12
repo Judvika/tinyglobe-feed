@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-12T07:10:29+09:00",
+  "built_at": "2026-09-12T09:03:25+09:00",
   "page": 522,
   "page_size": 20,
-  "count": 10,
+  "count": 11,
   "items": [
     {
       "collected_at": "2026-09-09T10:04:51+09:00",
@@ -244,6 +244,30 @@
       "title_ko": "베이글에 버터 바르다 운전하다 벌금 1000달러 낸 운전자",
       "title_original": "Driver fined $1,000 for allegedly buttering bagel at the wheel",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-09T16:04:11+09:00",
+      "country": "DK",
+      "country_ko": "덴마크",
+      "fallback_reason": "",
+      "id": "03a740e0caa3",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-20210225-135129-L-1920x1213web.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-12T09:01:45+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "New partnership pledges 2,000 new student homes in Copenhagen, invites sent for influenza and Covid-19 vaccinations and other news from Denmark on Wednesday.",
+      "region": null,
+      "source_name": "The Local Denmark",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.dk/20260909/today-in-denmark-a-roundup-of-the-latest-news-on-wednesday-70",
+      "summary_en": "A new partnership will build about 2,000 new student homes in Copenhagen. Invitations for influenza and Covid-19 vaccinations have been sent out. This is part of the latest news roundup from Denmark.",
+      "summary_ko": "새로운 협약으로 코펜하겐에 학생 주택 약 2천 채가 들어설 예정입니다. 독감과 코로나19 백신 접종 초대장도 발송되기 시작했습니다. 이상 덴마크의 최신 소식입니다.",
+      "title_en": "Denmark plans 2,000 new student homes in Copenhagen",
+      "title_ko": "코펜하겐에 학생 주택 2천 채 신설 추진",
+      "title_original": "Today in Denmark: A roundup of the latest news on Wednesday",
+      "triviality_score": 3
     }
   ]
 }
