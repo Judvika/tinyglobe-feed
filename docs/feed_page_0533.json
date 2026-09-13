@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-14T00:47:00+09:00",
+  "built_at": "2026-09-14T02:43:47+09:00",
   "page": 533,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-11T04:06:33+09:00",
@@ -459,6 +459,30 @@
       "title_en": "Boyup Brook adopts four-day work week to keep staff",
       "title_ko": "보이업 브룩, 4일 근무제로 직원 확보 성공",
       "title_original": "Four-day week the answer to country town's staffing challenges",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-11T06:03:49+09:00",
+      "country": "ZA",
+      "country_ko": "남아프리카공화국",
+      "fallback_reason": "",
+      "id": "84db1bc85fe0",
+      "image_url": "https://www.sabcnews.com/sabcnews/wp-content/uploads/2025/09/SABC-News_Maidens-Reed-Dance_Skhangiwe-Mthiyane.png",
+      "lang_original": "en",
+      "lat": -27.2,
+      "lon": 31.3,
+      "processed_at": "2026-09-14T02:27:00+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "About 30 000 maidens are expected to take part in the traditional annual cultural ceremony.",
+      "region": "KwaZulu-Natal",
+      "source_name": "SABC News South Africa",
+      "source_type": "rss",
+      "source_url": "https://www.sabcnews.com/sabcnews/final-preparations-for-the-reed-dance-under-way/",
+      "summary_en": "About 30,000 AmaZulu maidens are getting ready for the Reed Dance festival this weekend in KwaZulu-Natal, South Africa. The ceremony at eMashobeni Royal Palace celebrates AmaZulu culture and teaches young women respect and self-pride. A maiden minder for more than 200 girls from Durban shared how they prepare for the journey.",
+      "summary_ko": "남아프리카공화국 콰줄루나탈 지역에서 주말에 열리는 줄춤 축제에 아마줄루 소녀 약 3만 명이 참가할 예정입니다. 왕궁에서 열리는 전통 축제는 아마줄루 문화를 기리고 젊은 여성들의 순결과 자존감을 키우는 자리입니다. 더반에서 온 두백여 명의 소녀들을 책임지는 보호자도 여정 준비를 전했습니다.",
+      "title_en": "Final preparations for the Reed Dance under way",
+      "title_ko": "줄춤 축제를 위한 마지막 준비가 한창",
+      "title_original": "Final preparations for the Reed Dance under way",
       "triviality_score": 4
     }
   ]
