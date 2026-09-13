@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-13T18:41:36+09:00",
+  "built_at": "2026-09-13T20:41:24+09:00",
   "page": 531,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-11T00:02:57+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "독일에서 휴대전화 사용으로 문제 될 수 있는 상황",
       "title_original": "When you can get in trouble for using a mobile phone in Germany",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-09-11T02:03:05+09:00",
+      "country": "NZ",
+      "country_ko": "뉴질랜드",
+      "fallback_reason": "",
+      "id": "f0be82e957fd",
+      "image_url": "https://media.rnztools.nz/rnz/image/upload/s--m3Tfcq6D--/t_tohu-badge-facebook/f_auto/q_auto/4JIHPLS_Gisborne_Burnoff_1_jfif",
+      "lang_original": "en",
+      "lat": -38.6623,
+      "lon": 178.0176,
+      "processed_at": "2026-09-13T20:27:52+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The Mayor of Gisborne says the council will decide on Friday whether to go ahead with burning massive piles of wood on the city's beaches after a test run saw 1100 cubic metres of logs and debris go up in flames on Thursday.",
+      "region": "Gisborne",
+      "source_name": "RNZ National",
+      "source_type": "rss",
+      "source_url": "https://www.rnz.co.nz/news/regions_gisborne/1329966/gisborne-district-council-to-decide-on-torching-wood-and-debris-on-city-beaches",
+      "summary_en": "The Mayor of Gisborne says the council will decide on Friday whether to burn massive piles of wood on the city's beaches. A test run on Thursday burned 1100 cubic metres of logs and debris.",
+      "summary_ko": "기스본 시장은 시의회가 금요일에 도시 해변의 대규모 목재 더미를 태울지 여부를 결정할 것이라고 밝혔다. 목요일에 진행된 시범 운영에서는 1100세제미터의 통나무와 잔해가 소각되었다.",
+      "title_en": "Gisborne Council to decide on burning wood and debris on beaches",
+      "title_ko": "기스본 시의회, 해변 목재 소각 여부 결정 예정",
+      "title_original": "Gisborne District Council to decide on torching wood and debris on city beaches",
+      "triviality_score": 4
     }
   ]
 }
