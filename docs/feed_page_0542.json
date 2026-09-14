@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-15T04:43:26+09:00",
+  "built_at": "2026-09-15T07:01:01+09:00",
   "page": 542,
   "page_size": 20,
-  "count": 16,
+  "count": 17,
   "items": [
     {
       "collected_at": "2026-09-12T12:02:39+09:00",
@@ -388,6 +388,30 @@
       "title_ko": "수벤두, 두르가 푸자 논란 속 칼리가트 사원에서 생선 보그 올려",
       "title_original": "Suvendu eats fish offering at Kalighat temple amidst Bageshwar Baba row",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-12T12:06:22+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "296de96c83ad",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/1cc5927b0d1e47dea68f872b2b052a91?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=1&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -37.843,
+      "lon": 145.092,
+      "processed_at": "2026-09-15T06:24:14+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A chalet in Melbourne's east that was due to host a wedding on Saturday night has been gutted by fire, with the owners scrambling to find the couple a new venue.",
+      "region": "Melbourne, Victoria",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-09-12/wattle-park-chalet-burns-down/107146518",
+      "summary_en": "A fire destroyed a historic chalet in Melbourne's east on a Saturday night. The chalet was going to host a wedding that evening. The owners are now finding the couple a new venue.",
+      "summary_ko": "멜버른 동부의 역사적인 샬레 건물이 토요일 밤 화재로 전소됐습니다. 이 건물은 그날 저녁 결혼식이 열릴 예정이었습니다. 주인 측은 결혼하는 커플을 위해 새 장소를 찾느라 애쓰고 있습니다.",
+      "title_en": "Fire Destroys Historic Chalet on Its Wedding Day",
+      "title_ko": "결혼식 당일, 역사적인 와틀 파크 샬레 전소",
+      "title_original": "Historic Wattle Park Chalet catches fire on day of scheduled wedding",
+      "triviality_score": 3
     }
   ]
 }
