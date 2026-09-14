@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-14T07:09:53+09:00",
+  "built_at": "2026-09-14T09:02:41+09:00",
   "page": 534,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-11T06:06:16+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "고아 주, 주민 반대로 코다르 마을 IIT 캠퍼스 계획 철회",
       "title_original": "Goa govt scraps plan for IIT campus at Codar village amid opposition from locals - News18",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-11T14:04:24+09:00",
+      "country": "GB",
+      "country_ko": "영국",
+      "fallback_reason": "",
+      "id": "f82b03bb136c",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/09d95429662381facc2ebc2198cac53413eb448562d75db295e8752e9dd1e850/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_northern_echo_uk_642%2F89226078e6526e7efe5d680e06197906.jpg",
+      "lang_original": "en",
+      "lat": 54.16,
+      "lon": -1.36,
+      "processed_at": "2026-09-14T09:01:36+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "North Yorkshire is full of places whose names are harder to say than they first appear. How you pronounce Asenby near Thirsk.",
+      "region": "North Yorkshire",
+      "source_name": "Yahoo News UK",
+      "source_type": "google",
+      "source_url": "https://uk.news.yahoo.com/pronounce-quiet-north-yorkshire-village-043000644.html",
+      "summary_en": "A quiet village in North Yorkshire has a name that is harder to say than it looks. Asenby is a small place near Thirsk. Its name comes from Viking times, and people still say it in their own local way.",
+      "summary_ko": "노스요크셔에는 겉보기보다 발음하기 훨씬 어려운 이름을 가진 곳이 많습니다. 서스크 근처의 조용한 마을 아센비도 그런 경우입니다. 이 마을 이름은 바이킹 시절에서 비롯됐으며, 지금도 현지인만의 방식으로 발음됩니다.",
+      "title_en": "How to say the name of this quiet North Yorkshire village",
+      "title_ko": "발음하기 어려운 노스요크셔 마을 이름",
+      "title_original": "How to pronounce this 'quiet' North Yorkshire village with Viking roots near Thirsk - Yahoo News UK",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-09-11T14:06:07+09:00",
+      "country": "SG",
+      "country_ko": "싱가포르",
+      "fallback_reason": "",
+      "id": "f5c26b19797b",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Sqx5kct5--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/11/obs_coney_island_5.jpg?itok=m9u3dCk1",
+      "lang_original": "en",
+      "lat": 1.411,
+      "lon": 103.925,
+      "processed_at": "2026-09-14T09:02:39+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "\"We want OBS to become a rite of passage for all young Singaporeans,\" says Prime Minister Lawrence Wong at the launch of the new OBS Coney Island campus.",
+      "region": "Coney Island",
+      "source_name": "CNA Singapore",
+      "source_type": "rss",
+      "source_url": "https://www.channelnewsasia.com/singapore/outward-bound-singapore-coney-island-open-6375226",
+      "summary_en": "Outward Bound Singapore opened a new campus on Coney Island. It includes high adventure elements that wheelchair users can also use. The prime minister said he wants OBS to be a rite of passage for all young Singaporeans.",
+      "summary_ko": "아웃워드 바운드 싱가포르가 코니 아일랜드에 새 캠퍼스를 열었습니다. 휠체어 이용자도 즐길 수 있는 고난도 어드벤처 시설을 갖추고 있습니다. 로렌스 웡 총리는 OBS를 모든 싱가포르 청년의 통과 의례로 만들고 싶다고 말했습니다.",
+      "title_en": "New OBS Coney Island campus opens with wheelchair-accessible high adventure elements",
+      "title_ko": "싱가포르 코니 아일랜드에 OBS 새 캠퍼스 개관",
+      "title_original": "New OBS Coney Island campus officially opens, features wheelchair-accessible high adventure elements",
+      "triviality_score": 3
     }
   ]
 }
