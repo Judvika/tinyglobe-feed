@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-14T16:52:25+09:00",
+  "built_at": "2026-09-14T18:47:24+09:00",
   "page": 537,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-11T20:04:46+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "오르후스 vs 코펜하겐: 덴마크 두 대도시의 차이점과 공통점",
       "title_original": "Aarhus versus Copenhagen: The differences (and similarities) between Denmark’s two largest cities",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-09-11T20:04:57+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "fallback_reason": "",
+      "id": "2ed4eb56be80",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--CTsjz0No--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-11T104310Z_1_LYNXMPEM8A0TS_RTROPTP_3_CRICKET-ODI-ENG-AUS-PREVIEW.JPG?itok=371c3jL2",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-14T18:27:37+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Sept 11 : Ricky Ponting said the growth of cricket in the United States has not been as fast as he expected, but he still sees potential with the U.S. national team becoming more competitive, and the sport set to feature in the 2028 Los Angeles Olympics.Former Australia captain Ponting, who coaches Washington",
+      "region": null,
+      "source_name": "CNA Singapore",
+      "source_type": "rss",
+      "source_url": "https://www.channelnewsasia.com/sport/growth-cricket-in-us-slow-burn-says-ponting-6378661",
+      "summary_en": "Former Australia captain Ricky Ponting says cricket has not grown in the United States as fast as he expected. He still sees potential, with the US national team becoming more competitive. Cricket will be in the 2028 Los Angeles Olympics.",
+      "summary_ko": "전 호주 주장 리키 폰팅은 미국에서 크리켓의 성장이 예상보다 빠르지 않다고 말했다. 하지만 미국 대표팀이 점점 경쟁력을 갖추면서 여전히 가능성이 있다고 본다. 크리켓은 2028년 로스앤젤레스 올림픽에 정식 종목으로 포함된다.",
+      "title_en": "Ponting says cricket growth in the US is a 'slow-burn'",
+      "title_ko": "폰팅, 미국 크리켓 성장은 '천천히 번지는 불씨'",
+      "title_original": "Growth of cricket in US a 'slow-burn', says Ponting",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-09-11T22:05:40+09:00",
+      "country": "DK",
+      "country_ko": "덴마크",
+      "fallback_reason": "",
+      "id": "7458785e9b41",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2023/08/watermarks-logo-20211024-133017-L-1920x1279we.jpg@webp",
+      "lang_original": "en",
+      "lat": 55.68,
+      "lon": 12.57,
+      "processed_at": "2026-09-14T18:30:13+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Autumn is the most \"hyggelig\" season to be outside in Denmark, and the country's large beech and oak forests make it a perfect place to see the autumn colours. We asked foreigners from Copenhagen for some of their favourite places to go.",
+      "region": "Zealand",
+      "source_name": "The Local Denmark",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.dk/20200915/six-great-places-to-visit-during-autumn-in-denmark",
+      "summary_en": "Foreigners living in Copenhagen share their favourite spots to enjoy Denmark's beautiful autumn colours. The country's large beech and oak forests offer perfect seasonal scenery.",
+      "summary_ko": "코펜하겐에 사는 외국인들이 가을 단풍을 감상하기 좋은 자신만의 추천 장소를 공유합니다. 덴마크의 넓은 너도밤나무와 참나무 숲이 아름다운 가을 풍경을 만들어줍니다.",
+      "title_en": "Eight great places to visit during autumn in Denmark",
+      "title_ko": "덴마크에서 가을을 즐기기 좋은 여덟 곳",
+      "title_original": "Eight great places to visit during autumn in Denmark",
+      "triviality_score": 5
     }
   ]
 }
