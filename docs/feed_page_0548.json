@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-15T22:25:32+09:00",
+  "built_at": "2026-09-16T00:45:23+09:00",
   "page": 548,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-13T10:12:11+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "럭비 팀, 안전벨트 캠페인 지지",
       "title_original": "Rugby teams support campaign encouraging men to buckle up",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-09-13T16:04:02+09:00",
+      "country": "NO",
+      "country_ko": "노르웨이",
+      "fallback_reason": "",
+      "id": "bbb85fe093ce",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2023/12/watermarks-logo-daniel-vogel-Jdvvs2JqKD0-unsplash.jpg@webp",
+      "lang_original": "en",
+      "lat": 60.472,
+      "lon": 8.4689,
+      "processed_at": "2026-09-16T00:26:59+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "While Norwegian traits of indirect communication and politeness generally make for pleasant social interactions, they can also give rise to passive-aggressive behaviour.",
+      "region": null,
+      "source_name": "The Local Norway",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.no/20231212/five-norwegian-passive-aggressive-habits-and-how-to-handle-them",
+      "summary_en": "Norwegian people are often polite and indirect. This can sometimes lead to passive-aggressive behavior. The article lists five common habits and shows how to deal with them.",
+      "summary_ko": "노르웨이 사람들은 보통 예의 바르고 간접적으로 의사소통합니다. 이는 때로 간접적인 공격성으로 이어질 수 있습니다. 이 기사는 흔한 5가지 습관을 소개하고 대처 방법을 알려줍니다.",
+      "title_en": "Five Norwegian passive-aggressive habits and how to handle them",
+      "title_ko": "노르웨이의 5가지 간접적 행동 습관과 대처법",
+      "title_original": "Five Norwegian passive-aggressive habits and how to handle them",
+      "triviality_score": 4
     }
   ]
 }
