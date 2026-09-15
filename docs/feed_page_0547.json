@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-15T18:50:30+09:00",
+  "page": 547,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-09-13T08:03:53+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "fallback_reason": "",
+      "id": "275ef5d55e47",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--fqZrm0nx--/c_crop,h_900,w_1600,x_0,y_182/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/06/h_why-architects-buildings-venice_beach_house-kulapat.jpg?itok=bPRKZy3H",
+      "lang_original": "en",
+      "lat": 33.9862,
+      "lon": -118.4807,
+      "processed_at": "2026-09-15T18:48:49+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Kulapat Yantrasast, Why Architecture founder, has created a three-storey Los Angeles home filled with art, exposed concrete and spaces that open to the garden.",
+      "region": "California",
+      "source_name": "CNA Singapore",
+      "source_type": "rss",
+      "source_url": "https://cnaluxury.channelnewsasia.com/obsessions/thai-architect-kulapat-yantrasast-venice-beach-home-295286",
+      "summary_en": "Kulapat Yantrasast, founder of Why Architecture, has designed a three-story Los Angeles home filled with art and exposed concrete. The Venice Beach house features spaces that open to the garden, blending indoor and outdoor living. The design shows how architecture can unite art, nature, and natural light.",
+      "summary_ko": "건축가 쿨라파트 얀트라사스트가 로스앤젤레스에 노출 콘크리트와 예술 작품으로 채운 3층 주택을 완성했습니다. 베니스비치의 이 집은 정원으로 열리는 공간들이 실내와 실외를 자연스럽게 연결합니다. 건축이 예술, 자연, 빛을 하나로 모으는 방식을 보여줍니다.",
+      "title_en": "Thai architect's Venice Beach home brings together art, nature and California light",
+      "title_ko": "태국 건축가의 베니스비치 집, 예술과 자연, 캘리포니아 햇살을 품다",
+      "title_original": "This Thai architect’s Venice Beach home brings together art, nature and California light",
+      "triviality_score": 4
+    }
+  ]
+}
