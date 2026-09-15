@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-15T09:03:45+09:00",
+  "built_at": "2026-09-15T10:37:02+09:00",
   "page": 542,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-12T12:02:39+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "인사이드 덴마크: 덴마크 호이스콜레에 머물며 배운 것들",
       "title_original": "Inside Denmark: What my stay in a Danish 'højskole' taught me about Denmark",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-09-12T16:04:23+09:00",
+      "country": "ZA",
+      "country_ko": "남아프리카공화국",
+      "fallback_reason": "",
+      "id": "6dd0545ff361",
+      "image_url": "https://www.sabcnews.com/sabcnews/wp-content/uploads/2026/09/reed-dance-3-mlondi.jpg",
+      "lang_original": "en",
+      "lat": -27.9,
+      "lon": 31.65,
+      "processed_at": "2026-09-15T10:27:27+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The Zulu Royal Household says the safety of the maidens attending the ceremony remains a priority.",
+      "region": "KwaZulu-Natal",
+      "source_name": "SABC News South Africa",
+      "source_type": "rss",
+      "source_url": "https://www.sabcnews.com/sabcnews/scores-of-maidens-arrive-at-emashobeni-royal-palace-for-reed-dance/",
+      "summary_en": "The Zulu Reed Dance ceremony is about to begin. Many young women have arrived at the eMashobeni Royal Palace to take part. The Zulu Royal Household says the safety of the maidens remains a priority.",
+      "summary_ko": "줄루족 리드 댄스 축제가 곧 열린다. 많은 젊은 여성들이 참가하기 위해 엠쇼베니 왕궁에 도착했다. 줄루 왕실 가문은 참석하는 처녀들의 안전을 최우선으로 하겠다고 밝혔다.",
+      "title_en": "Scores of maidens arrive at eMashobeni Royal Palace for reed dance",
+      "title_ko": "줄루 리드 댄스 준비, 처녀 여럿 엠쇼베니 왕궁 도착",
+      "title_original": "Scores of maidens arrive at eMashobeni Royal Palace for reed dance",
+      "triviality_score": 4
     }
   ]
 }
