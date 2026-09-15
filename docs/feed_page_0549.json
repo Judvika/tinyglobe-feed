@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-16T00:45:23+09:00",
+  "built_at": "2026-09-16T02:40:56+09:00",
   "page": 549,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-13T16:04:48+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "몬트리올 근처 '작은 스위스' 가을 풍경이 아름다워",
       "title_original": "Canada's 'Little Switzerland' is near Montreal and it's even more beautiful in the fall - MTL Blog",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-09-13T20:02:57+09:00",
+      "country": "IS",
+      "country_ko": "아이슬란드",
+      "fallback_reason": "",
+      "id": "3afb69f9b366",
+      "image_url": "https://www.icelandreview.com/wp-content/uploads/2023/05/DSF0513-scaled.jpg",
+      "lang_original": "en",
+      "lat": 63.9,
+      "lon": -22.4,
+      "processed_at": "2026-09-16T02:25:12+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Iceland and Suðurnes municipalities have agreed on a 1,800 m² expansion of vocational facilities at Fjölbrautaskóli Suðurnesja.",
+      "region": "Suðurnes",
+      "source_name": "Iceland Review",
+      "source_type": "rss",
+      "source_url": "https://www.icelandreview.com/news/fjolbrautaskoli-sudurnesja-vocational-expansion-2026/",
+      "summary_en": "Iceland and Suðurnes municipalities have agreed to expand vocational facilities by 1,800 square meters at Fjölbrautaskóli Suðurnesja. The project aims to improve vocational education opportunities in the region.",
+      "summary_ko": "아이슬란드와 수르네스 지자체가 수르네스 직업훈련학교 시설을 1,800제곱미터 확장하기로 합의했습니다. 이번 사업으로 지역 직업교육 기회가 개선될 것으로 기대됩니다.",
+      "title_en": "Vocational Training Expansion Planned at Fjölbrautaskóli Suðurnesja",
+      "title_ko": "수르네스 직업훈련학교 시설 확장 계획",
+      "title_original": "Vocational Training Expansion Planned at Fjölbrautaskóli Suðurnesja",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-13T20:02:58+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "f8504c59b129",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/16542/Santarem.jpg",
+      "lang_original": "en",
+      "lat": 39.2362,
+      "lon": -8.6855,
+      "processed_at": "2026-09-16T02:25:28+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Santarém will mark International Clean Air for a Blue Skies Day on 13 September with an environmental literacy campaign dedicated to air quality, taking place at 11:30 am at the Casa do Meio Ambiente.",
+      "region": "Santarém",
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-09-13/portuguese-municipality-promotes-awareness-campaign-on-air-quality/1084443",
+      "summary_en": "Santarém will mark International Clean Air for a Blue Skies Day on 13 September. The town will host an air quality education campaign at Casa do Meio Ambiente at 11:30 am.",
+      "summary_ko": "산타렘시가 9월 13일 국제 푸른 하늘을 위한 맑은 공기의 날을 기념합니다. 오전 11시 30분 카사 두 메이오 암비엔테에서 대기 질 교육 캠페인이 열립니다.",
+      "title_en": "Santarém Holds Clean Air Awareness Day",
+      "title_ko": "산타렘, 맑은 공기의 날 캠페인 개최",
+      "title_original": "Portuguese Municipality Promotes Awareness Campaign on Air Quality",
+      "triviality_score": 4
     }
   ]
 }
