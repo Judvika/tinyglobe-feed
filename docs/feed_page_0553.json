@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-16T16:47:24+09:00",
+  "built_at": "2026-09-16T18:44:58+09:00",
   "page": 553,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-14T10:02:54+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "웰링턴 시의회, 도서관 웹사이트 과다 지출 사과",
       "title_original": "Wellington City Council apologises for library website overspend",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-14T08:16:39+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "6bb1c75e90e4",
+      "image_url": "https://www.brasil247.com/tendencias/wp-content/uploads/2026/09/Oficina-Francisco-Brennand-Pernambuco_resultado.jpg",
+      "lang_original": "pt",
+      "lat": -8.05,
+      "lon": -34.87,
+      "processed_at": "2026-09-16T18:27:06+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Conheça o complexo de templos cerâmicos no Recife, uma antiga fábrica de tijolos de 1945 transformada em museu a céu aberto na mata.",
+      "region": "Recife",
+      "source_name": "Brasil 247",
+      "source_type": "google",
+      "source_url": "https://www.brasil247.com/tendencias/2026/09/13/uma-fabrica-de-tijolos-parada-desde-1945-virou-museu-a-ceu-aberto-o-complexo-de-templos-ceramicos-escondido-na-mata-do-recife/",
+      "summary_en": "A brick factory that stopped working in 1945 has been turned into an open-air museum in Recife, Brazil. The site is called the Ceramic Temples Complex and sits hidden in the forest. Visitors can walk among the old structures and explore the art and history of the place.",
+      "summary_ko": "레시페 숲속에 자리 잡은 1945년 폐업 벽돌 공장이 야외 박물관으로 변신했다. 도예 사원 콤플렉스라 불리는 이곳은 숲에 숨겨진 독특한 문화 공간이다. 방문객은 오래된 건물 사이를 걸으며 예술과 역사를 만날 수 있다.",
+      "title_en": "An Old Brick Factory From 1945 Now Stands as an Open-Air Museum in Recife",
+      "title_ko": "1945년 멈춘 벽돌 공장이 레시페에서 야외 박물관으로 탈바꿈하다",
+      "title_original": "Uma fábrica de tijolos parada desde 1945 virou museu a céu aberto: o complexo de templos cerâmicos escondido na mata do Recife - Brasil 247",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-09-14T12:08:20+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "7bb5465f532e",
+      "image_url": "https://www.elimparcial.com/resizer/v2/I6Q24EDXBNAY3FJESYAVW7JUCE.jpg?auth=bf2b97139a0d04b91513d92f9625f458d4968be5d7a842a70316a80bae5f5161&smart=true&width=1200&height=630&quality=70",
+      "lang_original": "es",
+      "lat": 40.12,
+      "lon": -2.17,
+      "processed_at": "2026-09-16T18:27:40+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Hoy tiene 23 años. Se instaló en Valdemoro-Sierra en 2023, trabajó durante dos años como camarero y abrió Bar Haro en julio de 2025; su historia volvió a circular este septiembre, aunque el testimonio que la impulsó fue difundido en 2025.",
+      "region": "Castilla-La Mancha",
+      "source_name": "El Imparcial",
+      "source_type": "google",
+      "source_url": "https://www.elimparcial.com/dinero/2026/09/13/tiene-23-anos-dejo-valencia-y-abrio-un-bar-en-un-pueblo-de-menos-de-100-habitantes-para-mi-el-exito-es-que-no-me-tenga-que-ir-del-pueblo-dice-sobre-la-decision-que-cambio-su-forma-de-vivir/",
+      "summary_en": "A 23-year-old moved to the small village of Valdemoro-Sierra in 2023 and opened a bar called Haro in July 2025. She says success means not having to leave her village. Her inspiring story has been circulating in Spanish local news.",
+      "summary_ko": "23세 청년이 2023년 발데모로시에라 마을에 정착해 2025년 7월 하로 바를 열었다. 그녀는 성공이란 마을을 떠나지 않아도 되는 것이라고 말한다. 그녀의 감동적인 이야기가 스페인 지역 언론에서 다시 화제가 되었다.",
+      "title_en": "23-year-old left Valencia to open a bar in a village of under 100 people",
+      "title_ko": "23세 청년, 발렌시아 떠나 주민 100명 미만 마을에 바 열어",
+      "title_original": "Tiene 23 años, dejó Valencia y abrió un bar en un pueblo de menos de 100 habitantes: “Para mí el éxito es que no me tenga que ir del pueblo”, dice sobre la decisión que cambió su forma de vivir - El Imparcial",
+      "triviality_score": 5
     }
   ]
 }
