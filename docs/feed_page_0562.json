@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-17T20:51:13+09:00",
+  "page": 562,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-09-15T18:08:19+09:00",
+      "country": "NZ",
+      "country_ko": "뉴질랜드",
+      "fallback_reason": "",
+      "id": "f4e95698a9f2",
+      "image_url": "https://media.rnztools.nz/rnz/image/upload/s--BcINEzP0--/t_tohu-badge-facebook/f_auto/q_auto/4JI912F_4JI913P_Bittern_credit_Paul_Williams_webp_webp",
+      "lang_original": "en",
+      "lat": -41.2865,
+      "lon": 174.7762,
+      "processed_at": "2026-09-17T20:51:11+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Amateur bird-watchers are being called on to help with the great bittern bird count.",
+      "region": null,
+      "source_name": "RNZ National",
+      "source_type": "rss",
+      "source_url": "https://www.rnz.co.nz/news/environment/1395715/conservationists-call-on-bird-watchers-to-help-save-one-of-nz-s-most-endangered-birds",
+      "summary_en": "Conservationists want amateur bird-watchers to join a nationwide bittern count. The great bittern is one of New Zealand's most endangered birds. The count helps track how many are left across the country.",
+      "summary_ko": "보호 활동가들이 전국적인 큰고라니 개체 수 조사에 일반 조류 관찰자들의 참여를 요청하고 있습니다. 큰고라니는 뉴질랜드에서 가장 멸종 위기에 처한 조류 중 하나입니다. 이번 조사는 전국에 남은 개체 수를 파악하는 데 도움이 됩니다.",
+      "title_en": "Bird-watchers asked to help count rare bitterns in New Zealand",
+      "title_ko": "뉴질랜드에서 큰고라니 개체 수 조사에 조류 관찰자 참여 요청",
+      "title_original": "Conservationists call on bird-watchers to help save one of NZ's most endangered birds",
+      "triviality_score": 4
+    }
+  ]
+}
