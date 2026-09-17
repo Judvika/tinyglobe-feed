@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-18T04:32:47+09:00",
+  "built_at": "2026-09-18T07:04:32+09:00",
   "page": 564,
   "page_size": 20,
-  "count": 13,
+  "count": 15,
   "items": [
     {
       "collected_at": "2026-09-16T02:02:53+09:00",
@@ -316,6 +316,54 @@
       "title_ko": "열이 난 구조된 새끼 오랑우탄, 건강 검진을 받아",
       "title_original": "Rescued baby orangutans get health check-up after one develops fever",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-16T04:02:36+09:00",
+      "country": "NZ",
+      "country_ko": "뉴질랜드",
+      "fallback_reason": "",
+      "id": "a175a3b3c937",
+      "image_url": "https://media.rnztools.nz/rnz/image/upload/s--xHeamN_M--/t_tohu-badge-facebook/f_auto/q_auto/4JIB9JG_1000047415_jpg",
+      "lang_original": "en",
+      "lat": -36.9567,
+      "lon": 174.4677,
+      "processed_at": "2026-09-18T06:25:08+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Auckland Council has shut the Piha campground and when or even if it will reopen is uncertain.",
+      "region": "Auckland",
+      "source_name": "RNZ National",
+      "source_type": "rss",
+      "source_url": "https://www.rnz.co.nz/news/weather/1407370/auckland-council-shuts-piha-campground-with-reopening-date-uncertain",
+      "summary_en": "Auckland Council has closed the Piha campground. It is unclear when it will reopen. The campground is popular with families visiting the west coast beach.",
+      "summary_ko": "오클랜드 시의회가 피하 캠프장을 폐쇄했습니다. 언제 다시 열릴지는 아직 확실하지 않습니다. 피하 캠프장은 서쪽 해변을 찾는 가족들에게 인기 있는 곳입니다.",
+      "title_en": "Auckland Council closes Piha campground",
+      "title_ko": "오클랜드 시의회, 피하 캠프장 폐쇄",
+      "title_original": "Auckland Council shuts Piha campground with reopening date uncertain",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-16T04:03:44+09:00",
+      "country": "CA",
+      "country_ko": "캐나다",
+      "fallback_reason": "",
+      "id": "e4296053e3f2",
+      "image_url": "https://i.cbc.ca/ais/eb106657-9ef2-4b60-9da5-812a846af8f3,1789437565620/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C299%2C5740%2C3228%29%3BResize%3D620",
+      "lang_original": "en",
+      "lat": 50.158,
+      "lon": -115.821,
+      "processed_at": "2026-09-18T06:25:42+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Canal Flats in B.C.'s East Kootenay recorded usage of about 690 litres of water per person per day in 2025. The village says possible leaks, aging water mains and a lack of water meters make it hard to know where all of the water is going.",
+      "region": "British Columbia",
+      "source_name": "CBC Canada",
+      "source_type": "rss",
+      "source_url": "https://www.cbc.ca/news/canada/british-columbia/canal-flats-daily-water-use-twice-canadian-average-report-9.7344136",
+      "summary_en": "Canal Flats, a small village in British Columbia's East Kootenay region, used about 690 litres of water per person per day in 2025. That is about twice the Canadian average. Officials think leaks, aging water pipes and a lack of water meters may be the cause.",
+      "summary_ko": "브리티시컬럼비아 동부 커트니 지역의 작은 마을 캐널플래츠는 2025년 하루 한 사람이 약 690리터의 물을 썼습니다. 이는 캐나다 평균의 약 두 배입니다. 관리자들은 누수와 오래된 수도관, 물 계량기 부족이 원인일 수 있다고 보고 있습니다.",
+      "title_en": "A small B.C. village uses twice the Canadian average daily water, and officials don't know why",
+      "title_ko": "BC주 작은 마을, 하루 물 사용량 캐나다 평균의 두 배… 관리자들도 원인 몰라",
+      "title_original": "This small B.C. village records twice the Canadian average for daily water use, and officials aren’t sure why",
+      "triviality_score": 5
     }
   ]
 }
