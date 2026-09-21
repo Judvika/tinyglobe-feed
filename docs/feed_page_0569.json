@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-22T02:34:45+09:00",
+  "page": 569,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-09-17T00:04:55+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "4695cbe682ad",
+      "image_url": "https://th-i.thgim.com/public/incoming/3r8p2h/article71473271.ece/alternates/LANDSCAPE_1200/10215_16_9_2026_18_14_5_1_IMG_20260916_WA0119.JPG",
+      "lang_original": "en",
+      "lat": 14.05,
+      "lon": 78.75,
+      "processed_at": "2026-09-22T02:34:21+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Rayachoti is set for a ₹10.84 crore infrastructure upgrade, enhancing roads, drains, and water supply through multiple government grants.",
+      "region": "Andhra Pradesh",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/rayachoti-set-for-major-infrastructure-push/article71472414.ece",
+      "summary_en": "Rayachoti town will spend about 10.84 crore rupees on roads, drains, and water supply. Several government grants will pay for the improvements.",
+      "summary_ko": "라이아초티 마을이 도로, 하수도, 상수도 시설에 약 108억 원을 투입합니다. 여러 정부 보조금으로 공사가 진행됩니다.",
+      "title_en": "Rayachoti starts big road and water upgrade",
+      "title_ko": "라이아초티 도로와 수도 개선 공사 시작",
+      "title_original": "Rayachoti set for major infrastructure push",
+      "triviality_score": 3
+    }
+  ]
+}
