@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-23T00:44:29+09:00",
+  "built_at": "2026-09-23T02:41:26+09:00",
   "page": 576,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-18T02:02:51+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "학생 전학, 10년 만에 최저 수준으로 떨어져",
       "title_original": "Student transience falls to lowest point in more than a decade",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-18T04:04:51+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "73ba854d611f",
+      "image_url": "https://www.cronista.com/resizer/v2/MXLA3G6UTREQDJMTW2VXJOWPUQ.jpg?auth=291bca179623bc9dd1f315544e887f655e7a1a1455ba20a81ce9fdaf1a0c6f07&height=630&width=1200&quality=70&smart=true",
+      "lang_original": "es",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-23T02:28:35+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Después de trabajar durante dos años como camarero en la capital valenciana, encontró en este pueblo la posibilidad de abrir su propio negocio y construir un proyecto de vida lejos de los costes de las grandes ciudades.",
+      "region": null,
+      "source_name": "El Cronista",
+      "source_type": "google",
+      "source_url": "https://www.cronista.com/espana/actualidad-es/mario-23-anos-dejo-valencia-y-abrio-un-bar-en-un-pueblo-de-menos-de-100-habitantes-ahora-tengo-mi-propio-local-algo-impensable-en-la-ciudad/",
+      "summary_en": "After working two years as a waiter in Valencia, Mario found a chance to open his own business in a small village. He says having his own place was unthinkable in the big city.",
+      "summary_ko": "발렌시아에서 2년 동안 웨이터로 일한 마리오는 인구 100명 미만의 작은 마을에서 자신의 가게를 열 기회를 찾았습니다. 그는 큰 도시에서는 상상도 못 할 일이라며 기대감을 나타냈습니다.",
+      "title_en": "Mario, 23, Left Valencia to Open a Bar in a Village of Less Than 100 People",
+      "title_ko": "23살 마리오, 발렌시아 떠나 인구 100명 미만 마을에서 바 오픈",
+      "title_original": "Mario, 23 años, dejó Valencia y abrió un bar en un pueblo de menos de 100 habitantes: “Ahora tengo mi propio local, algo impensable en la ciudad” - El Cronista",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-09-18T04:05:49+09:00",
+      "country": "GB",
+      "country_ko": "영국",
+      "fallback_reason": "",
+      "id": "c0c6b8643e2d",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--XUEtzPhi--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-17T175559Z_1_LYNXMPEM8G1VF_RTROPTP_3_TELEVISION-WELCOMETOWREXHAM-FYC.JPG?itok=1cPcwlY8",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-23T02:30:09+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Sept 17 : Ryan Reynolds and Rob McElhenney are no strangers to mixing football and showbusiness, and the Wrexham co-owners did both in their latest advertisement for internet browser Firefox, playfully lampooning Southampton's \"Spygate\" scandal ahead of Saturday's Championship clash.Reynolds, the Canadian-Ame",
+      "region": null,
+      "source_name": "CNA Singapore",
+      "source_type": "rss",
+      "source_url": "https://www.channelnewsasia.com/sport/wrexham-co-owners-reynolds-mcelhenney-spoof-southampton-spygate-ahead-championship-clash-6392946",
+      "summary_en": "Ryan Reynolds and Rob McElhenney mix football and show business in a new Firefox ad. They poke fun at Southampton's 'Spygate' before a big Championship match. The two Wrexham co-owners playfully lampoon the story while promoting the browser.",
+      "summary_ko": "라이언 레이놀즈와 롭 맥엘헤니가 새 파이어폭스 광고에서 축구와 쇼비즈니스를 함께 즐겼다. 두 렉섬 구단주는 챔피언십 경기를 앞두고 사우샘프턴의 '스파이게이트' 논란을 유쾌하게 풍자했다.",
+      "title_en": "Wrexham owners spoof Southampton 'Spygate' in new ad",
+      "title_ko": "렉섬 구단주들, 사우샘프턴 '스파이게이트' 풍자 광고 공개",
+      "title_original": "Wrexham co-owners Reynolds, McElhenney spoof Southampton 'Spygate' ahead of Championship clash",
+      "triviality_score": 3
     }
   ]
 }
