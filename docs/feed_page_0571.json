@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-22T12:36:31+09:00",
+  "built_at": "2026-09-22T14:35:57+09:00",
   "page": 571,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-17T10:03:11+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "중국 경찰 표시 달린 차량, 오클랜드에서 불안 야기",
       "title_original": "Cars bearing Chinese police markings stir unease in Auckland",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-17T16:02:35+09:00",
+      "country": "AT",
+      "country_ko": "오스트리아",
+      "fallback_reason": "",
+      "id": "eeb4fa174789",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2024/01/watermarks-logo-AFP__20200306__1PN6G7__v1__Preview__AustriaOpecOilEnergyPolitics.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-22T14:28:25+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Volunteering is essential part of life in Austria with hundreds of thousands of people carrying out voluntary work on a regulat basis. But where can you find opportunities to help?",
+      "region": null,
+      "source_name": "The Local Austria",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.at/20240126/how-can-i-find-volunteering-opportunities-in-austria",
+      "summary_en": "Volunteering is a big part of life in Austria. Many people do volunteer work on a regular basis. Here is how to find an opportunity to help.",
+      "summary_ko": "봉사활동은 오스트리아 생활에서 아주 중요한 부분입니다. 많은 사람들이 정기적으로 자원봉사를 합니다. 가까운 곳에서 도움을 줄 기회를 찾는 방법을 알려드립니다.",
+      "title_en": "How can I find volunteer work in Austria?",
+      "title_ko": "오스트리아에서 봉사활동을 어떻게 찾을까요?",
+      "title_original": "How can I find volunteer work in Austria?",
+      "triviality_score": 3
     }
   ]
 }
