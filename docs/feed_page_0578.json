@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-23T09:02:18+09:00",
+  "page": 578,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-09-18T10:08:25+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "b77cba5b3eff",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/fc72be3236466a406c4106176565fa37?impolicy=wcms_watermark_news&cropH=787&cropW=1399&xPos=1&yPos=0&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -25.24,
+      "lon": 153.15,
+      "processed_at": "2026-09-23T09:02:16+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "K'gari's Kingfisher Bay Resort is set to be taken over by US-owned \"experiential tourism\" giant Journey Beyond.",
+      "region": "퀸즐랜드",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-09-18/k-gari-resort-to-be-sold-to-us-travel-giant-journey-beyond/107164492",
+      "summary_en": "Kingfisher Bay Resort on K'gari will be taken over by Journey Beyond, a US-owned tourism company. This deal changes who runs the island's famous resort.",
+      "summary_ko": "카가리의 킹피셔베이 리조트가 미국계 관광 기업 저니 비욘드에 인수될 예정입니다. 이번 거래로 섬의 유명 리조트를 운영하는 주체가 바뀌게 됩니다.",
+      "title_en": "K'gari resort to be sold to US travel giant",
+      "title_ko": "카가리 리조트, 미국 관광 기업에 매각 예정",
+      "title_original": "K'gari resort set to be sold to US travel giant",
+      "triviality_score": 4
+    }
+  ]
+}
