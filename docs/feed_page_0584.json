@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-24T04:32:32+09:00",
+  "built_at": "2026-09-24T06:34:57+09:00",
   "page": 584,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-19T04:18:36+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "통가 출신 청년의 마오리어 배움 여정",
       "title_original": "'We're one people' - a young Tongan man's te reo Māori journey",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-09-19T10:02:55+09:00",
+      "country": "VN",
+      "country_ko": "베트남",
+      "fallback_reason": "",
+      "id": "16f1583b8633",
+      "image_url": "https://vcdn1-english.vnecdn.net/2026/09/18/dji202411201202450314denha5885-4022-1445-1789736599.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=fU-FHtOe8OgMQ5dUkNj0aw",
+      "lang_original": "en",
+      "lat": 21.0278,
+      "lon": 105.8342,
+      "processed_at": "2026-09-24T06:25:23+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "A 63-year-old man's lawsuit seeking VND5 billion (US$191,000) from his former girlfriend resumed at the Region 4 People's Court in Hanoi on Sept. 18.",
+      "region": "하노이",
+      "source_name": "VNExpress International",
+      "source_type": "rss",
+      "source_url": "https://e.vnexpress.net/news/news/crime/63yo-widower-sues-ex-girlfriend-for-191-000-he-allegedly-paid-for-apartment-in-her-name-5122024.html",
+      "summary_en": "A 63-year-old man in Hanoi is suing his former girlfriend for VND5 billion, about US$191,000. He says he paid for an apartment in her name. The case restarted at the Region 4 People's Court on September 18.",
+      "summary_ko": "하노이의 63세 남성이 전 여자친구를 상대로 50억 동, 약 19만 1천 달러를 요구하는 소송을 진행하고 있다. 그는 여자친구 명의로 산 아파트값을 자신이 냈다고 주장한다. 이 사건은 지난 9월 18일 지역 인민법원에서 다시 열렸다.",
+      "title_en": "63-year-old widower sues ex-girlfriend for apartment he paid for in her name",
+      "title_ko": "63세 남성, 전 여자친구 명의 아파트값으로 소송",
+      "title_original": "63yo widower sues ex-girlfriend for $191,000 he allegedly paid for apartment in her name",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-09-19T10:03:05+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "a57995643048",
+      "image_url": "https://mid-noticias.curitiba.pr.gov.br/2026/thumb/00581945.jpg",
+      "lang_original": "pt",
+      "lat": -25.4284,
+      "lon": -49.2733,
+      "processed_at": "2026-09-24T06:25:56+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Intervenção acontece no bairro Santa Quitéria e integra o PRO Curitiba, maior programa de obras da história da cidade",
+      "region": "Curitiba",
+      "source_name": "Prefeitura de Curitiba",
+      "source_type": "google",
+      "source_url": "https://www.curitiba.pr.gov.br/noticias/populacao-e-atendida-e-prefeitura-recupera-15-km-do-pavimento-da-rua-dom-orione/85068?utm_content=mldn",
+      "summary_en": "The city of Curitiba repaired 1.5 km of pavement on Dom Orione street in the Santa Quitéria neighborhood. The work is part of PRO Curitiba, the largest construction program in the city's history.",
+      "summary_ko": "쿠리치바 시가 산타키테리아 동네의 돔 오리오네 거리 포장 1.5km를 복구했습니다. 이 공사는 쿠리치바 역사상 최대 규모의 도로 사업 프로그램인 프로 쿠리치바의 일환으로 진행됩니다.",
+      "title_en": "Curitiba repairs 1.5 km of Dom Orione street",
+      "title_ko": "쿠리치바, 돔 오리오네 거리 포장 1.5km 복구",
+      "title_original": "População é atendida e Prefeitura recupera 1,5 km do pavimento da Rua Dom Orione - Prefeitura de Curitiba",
+      "triviality_score": 4
     }
   ]
 }
