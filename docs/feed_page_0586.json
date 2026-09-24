@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-24T10:36:02+09:00",
+  "built_at": "2026-09-24T12:36:05+09:00",
   "page": 586,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-19T16:02:54+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "사이버라바드 마이홈 아바타 사거리에 새 지하차도 개통",
       "title_original": "New underpass opens on September 17 to ease traffic, improve U-turn efficiency at My Home Avatar Junction in Cyberabad",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-19T18:10:28+09:00",
+      "country": "FI",
+      "country_ko": "핀란드",
+      "fallback_reason": "",
+      "id": "153f676daecf",
+      "image_url": "https://images.sanoma-sndp.fi/2d99aef505c9b80e13c8461778c37c0c/some/is-default.jpg",
+      "lang_original": "fi",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-24T12:26:44+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Aiemmin kaupungissa on päässyt kouluauton kyytiin maksua vastaan, jos koulumatkan pituus ei ole riittänyt ilmaiseen kuljetukseen.",
+      "region": null,
+      "source_name": "Ilta-Sanomat",
+      "source_type": "google",
+      "source_url": "https://www.is.fi/kotimaa/art-2000012080964.html",
+      "summary_en": "A small Finnish town is stopping its paid school bus service for students in urban areas. Previously, students could ride the school bus for a fee when their trip was not long enough for free transport.",
+      "summary_ko": "핀란드의 작은 도시가 시가지에서 유료 통학버스 운행을 중단한다. 그동안 무료 통학 거리에 못 미치는 학생은 요금을 내고 버스를 탈 수 있었다.",
+      "title_en": "Small town ends paid school bus rides in built-up areas – here's why",
+      "title_ko": "작은 도시, 시가지 유료 통학버스 운행 종료 – 이유는",
+      "title_original": "SSS: Pikkukaupunki lopettaa maksulliset koulukyydit taajamassa – tässä syy - Ilta-Sanomat",
+      "triviality_score": 5
     }
   ]
 }
