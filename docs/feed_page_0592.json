@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-25T02:42:17+09:00",
+  "built_at": "2026-09-25T04:34:23+09:00",
   "page": 592,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-20T18:07:20+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "사진으로 보는 인도 첸나이 어부들의 위태로운 삶",
       "title_original": "PHOTOS: The precarious life of fisherfolk",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-09-20T20:26:35+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "77caea38167a",
+      "image_url": "https://static.ffx.io/images/$zoom_0.8982188295165394%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_264/t_crop_custom/q_86%2Cf_auto/t_metro_no_label_social_wm/l_text:PT%20Sans_25_bold_italic:%20from%20%2Cg_north_west%2Cy_7%2Cx_30%2Cco_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_55:%202020%20%2Cg_north_west%2Cy_32%2Cx_20%2Cco_rgb:0a1633/49a8c81b55665a0021ddc68e4448813291610c19",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-25T04:24:15+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Gippsland historian and author Flo Pearce, 101, may have quit school quite early, but her lifelong love of learning made her a formidable and knowledgeable student of local history.",
+      "region": "Gippsland, Victoria",
+      "source_name": "SMH.com.au",
+      "source_type": "google",
+      "source_url": "https://www.smh.com.au/national/victoria/if-you-think-something-is-important-you-have-to-have-a-go-20200923-p55yfs.html",
+      "summary_en": "Flo Pearce is 101 years old and lives in the Gippsland area of Australia. She left school early, but her lifelong love of learning made her a great local historian. She shows that you should try when something matters to you.",
+      "summary_ko": "호주 깁스랜드 지역에 사는 플로 피어스 할머니는 백한 살입니다. 일찍 학교를 그만뒀지만 평생 배움을 좋아해 지역 역사에 아주 밝은 역사가가 되었습니다. 자신에게 중요한 일이라면 도전해 봐야 한다는 것을 보여 줍니다.",
+      "title_en": "A 101-year-old historian who loved learning all her life",
+      "title_ko": "평생 배움을 좋아한 백한 살 역사가 플로 피어스",
+      "title_original": "‘If you think something is important, you have to have a go’ - SMH.com.au",
+      "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-09-20T22:03:07+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "0475892182ee",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1789843595/1.jpg",
+      "lang_original": "en",
+      "lat": 41.4974,
+      "lon": -6.2734,
+      "processed_at": "2026-09-25T04:24:33+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The municipality of Miranda do Douro has secured approval for a €1.4 million funding bid to protect and enhance the Douro International Natural Park (PNDI), it was announced.",
+      "region": "Miranda do Douro",
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-09-20/douro-international-natural-park-to-be-improved/1087485",
+      "summary_en": "The town of Miranda do Douro won approval for a 1.4 million euro funding bid. The money will protect and improve the Douro International Natural Park. Local leaders announced the good news.",
+      "summary_ko": "미란다두도루 지방자치단체가 두로 국제 자연공원(PNDI)을 보호하고 가꾸기 위한 140만 유로 규모의 지원금을 승인받았다. 이번 지원으로 국경을 따라 흐르는 두로 강 일대의 자연환경 보전 사업이 추진된다.",
+      "title_en": "Miranda do Douro gets 1.4 million euros for natural park",
+      "title_ko": "미란다두도루, 두로 국제 자연공원 보호에 140만 유로 지원 승인",
+      "title_original": "Douro International Natural park to be improved",
+      "triviality_score": 3
     }
   ]
 }
