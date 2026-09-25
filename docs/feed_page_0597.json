@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-25T16:43:23+09:00",
+  "page": 597,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-09-21T16:07:13+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "de959c8d8f03",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/2015c9edb8b80518367911e98df41372?impolicy=wcms_watermark_news&cropH=218&cropW=387&xPos=0&yPos=65&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -34.9285,
+      "lon": 138.6007,
+      "processed_at": "2026-09-25T16:43:22+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "On a day marking 100 years since the legendary premier was born, another former premier in Mike Rann recalls his own entry to politics under Don Dunstan's leadership.",
+      "region": "South Australia",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-09-21/don-dunstan-100-years-since-birth-mike-rann/107177174",
+      "summary_en": "Former premier Mike Rann recalled how he entered politics under Don Dunstan. He shared his memory 100 years after Dunstan's birth.",
+      "summary_ko": "마이크 랜 전 총리는 던스탄의 지도 아래 정치에 입문했던 자신의 경험을 떠올렸다. 던스탄이 태어난 지 100년이 된 날 그는 이 기억을 되살렸다.",
+      "title_en": "Mike Rann remembers Don Dunstan 100 years after his birth",
+      "title_ko": "던스탄 탄생 100년, 마이크 랜 전 총리의 회상",
+      "title_original": "Mike Rann on 'maestro of the possible' 100 years after Don Dunstan's birth",
+      "triviality_score": 4
+    }
+  ]
+}
