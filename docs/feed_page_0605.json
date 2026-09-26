@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-26T22:35:57+09:00",
+  "built_at": "2026-09-27T00:19:40+09:00",
   "page": 605,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-22T18:02:50+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "태국, 푸켓 가수 네네 로얄의 아메리카 갓탈런트 결승전 응원",
       "title_original": "Thailand rallies behind Nene Royal in AGT final",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-22T14:05:27+09:00",
+      "country": "NZ",
+      "country_ko": "뉴질랜드",
+      "fallback_reason": "",
+      "id": "0e13d165bb58",
+      "image_url": "https://media.rnztools.nz/rnz/image/upload/s--nLbGXaMi--/t_tohu-badge-facebook/f_auto/q_auto/4JXS3J5_tauranga_airport_png",
+      "lang_original": "en",
+      "lat": -37.6864,
+      "lon": 176.1847,
+      "processed_at": "2026-09-27T00:05:02+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Tauranga councillors have agreed to a working group that looks at possible future ownership and governance of its airport.",
+      "region": "Bay of Plenty",
+      "source_name": "RNZ National",
+      "source_type": "rss",
+      "source_url": "https://www.rnz.co.nz/news/regions/1521239/tauranga-council-looks-into-airport-and-governance-ownership-changes",
+      "summary_en": "Tauranga Council has agreed to form a working group. The group will look at possible future ownership and governance of Tauranga Airport. The work is only at an early stage.",
+      "summary_ko": "타우랑가 시의회는 위원회 구성을 확정했습니다. 이 위원회는 타우랑가 공항의 향후 운영권과 관리 구조를 검토합니다. 아직 초 단계의 논의에 그칩니다.",
+      "title_en": "Tauranga Council sets up group on airport ownership",
+      "title_ko": "타우랑가 의회, 공항 운영권 검토 위원회 Minutes출발",
+      "title_original": "Tauranga Council looks into airport and governance ownership changes",
+      "triviality_score": 3
     }
   ]
 }
