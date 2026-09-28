@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-28T07:10:22+09:00",
+  "built_at": "2026-09-28T09:02:47+09:00",
   "page": 610,
   "page_size": 20,
-  "count": 14,
+  "count": 15,
   "items": [
     {
       "collected_at": "2026-09-23T12:00:52+09:00",
@@ -339,6 +339,30 @@
       "title_en": "Squamish Turns Down a Big LNG Tax Deal",
       "title_ko": "스쿼미시, 1억 4,200만 달러 액화천연가스 세금 협정 거부",
       "title_original": "B.C.'s District of Squamish rejects $142M Woodfibre LNG deal",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-09-23T18:06:00+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "04b7fe961725",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1780498635/vince-fleming-aZVpxRydiJk-unsplash.jpg",
+      "lang_original": "en",
+      "lat": 39.4,
+      "lon": -8.2,
+      "processed_at": "2026-09-28T09:01:34+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Portugal is the country in the European Union where the population claims to practice sport the least, with 68% of respondents saying they never do so and only 4% exercising daily, according to a Eurobarometer survey.",
+      "region": null,
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-09-23/portugal-has-the-lowest-sport-practice-levels-in-european-union/1090169",
+      "summary_en": "A Eurobarometer survey says Portugal has the lowest sport practice in the European Union. Sixty-eight percent of people in Portugal say they never do sport, and only four percent exercise every day. Portugal also has the smallest share of people who feel they are active.",
+      "summary_ko": "유로바로미터 조사에 따르면 포르투갈은 유럽 연합에서 운동을 가장 적게 하는 나라다. 응답자의 68%는 운동을 한 번도 하지 않는다고 답했고, 매일 하는 사람은 4%에 불과했다. 운동을 충분히 한다고 느끼는 사람의 비율도 포르투갈이 가장 낮았다.",
+      "title_en": "Portugal has the lowest sport practice in the EU",
+      "title_ko": "포르투갈, 유럽 연합 중 운동을 가장 적게 하는 나라",
+      "title_original": "Portugal has the lowest sport practice levels in European Union",
       "triviality_score": 3
     }
   ]
