@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-29T20:13:49+09:00",
+  "built_at": "2026-09-29T22:19:36+09:00",
   "page": 619,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-24T22:03:19+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "산티아고 도서관에서 50개 넘는 행사 개최",
       "title_original": "\"Furia Ilustrada\" programa más de 50 actividades en sus tres días en el GAM",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-25T00:09:52+09:00",
+      "country": "CL",
+      "country_ko": "칠레",
+      "fallback_reason": "",
+      "id": "af751a079d7f",
+      "image_url": "https://www.cooperativa.cl/noticias/site/artic/20260923/imag/foto_0000006020260923150331.jpg",
+      "lang_original": "es",
+      "lat": -33.45,
+      "lon": -70.67,
+      "processed_at": "2026-09-29T22:05:01+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Copa Chile: Este es el equipo de la U para enfrentar a Everton",
+      "region": "Metropolitana",
+      "source_name": "Cooperativa",
+      "source_type": "rss",
+      "source_url": "https://www.cooperativa.cl/noticias/deportes/futbol/universidad-de-chile/copa-chile-el-equipo-de-la-u-que-trabaja-gago-para-enfrentar-a-everton/2026-09-23/150331.html",
+      "summary_en": "Universidad de Chile is getting ready for a Copa Chile game against Everton. Coach Gago is working with his young squad for the match. It is a cup game between two Chilean clubs.",
+      "summary_ko": "유니베르시다드 칠레는 코파 칠레에서 에버튼을 만나는 경기를 앞두고 준비 중이다. 가고 감독은 젊은 선수들로 팀을 꾸려 경기 준비에 나선다. 칠레의 두 클럽이 만나는 컵 경기다.",
+      "title_en": "Copa Chile: The U team Gago is building to face Everton",
+      "title_ko": "코파 칠레: 가고 감독이 꾸리는 유니대 칠레, 에버튼과 맞붙는다",
+      "title_original": "Copa Chile: El equipo de la U que trabaja Gago para enfrentar a Everton",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-09-25T02:03:47+09:00",
+      "country": "FR",
+      "country_ko": "프랑스",
+      "fallback_reason": "",
+      "id": "a5f3ccedcde3",
+      "image_url": "https://www.spaceref.com/images/meteo-meteo-france-grand-village-brittany.jpg",
+      "lang_original": "fr",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-09-29T22:08:32+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Consultez la météo heure par heure à Grand Village, Bretagne : température, pluie, vent, humidité, indice UV, qualité de l’air et prévisions météo sur 15 jours.",
+      "region": "Brittany",
+      "source_name": "SpaceRef",
+      "source_type": "google",
+      "source_url": "https://www.spaceref.com/meteo/france/grand-village-brittany/",
+      "summary_en": "This page shows the weather in Grand Village, a small place in Brittany, France. It lists the temperature, rain, wind, humidity, and air quality. You can also see a 15 day forecast.",
+      "summary_ko": "이 페이지는 프랑스 브레타뉴의 작은 마을 그랑 빌리지 날씨를 보여줍니다. 기온, 비, 바람, 습도, 대기질을 알려줍니다. 15일 예보도 볼 수 있습니다.",
+      "title_en": "Hourly Weather in Grand Village, Brittany, France",
+      "title_ko": "프랑스 브레타뉴 그랑 빌리지의 시간별 날씨",
+      "title_original": "Météo à Grand Village, Bretagne heure par heure - SpaceRef",
+      "triviality_score": 5
     }
   ]
 }
