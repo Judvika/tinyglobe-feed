@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-09-30T03:03:33+09:00",
+  "page": 621,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-09-25T06:02:37+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "5de1b8d4f537",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1790273230/cover-YouCut-20260902-120006455.0000000.jpg",
+      "lang_original": "en",
+      "lat": 40.9276,
+      "lon": -8.2597,
+      "processed_at": "2026-09-30T02:28:06+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "When visiting Águeda, I was mainly looking forward to seeing its famous umbrella-covered streets. However, before we even reached the town centre, we started noticing beautiful flower decorations covering the fronts of several buildings.",
+      "region": "Aveiro",
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-09-24/is-this-the-most-colourful-city-in-the-world/1091431",
+      "summary_en": "The town of Agueda in Portugal is famous for its streets covered with colourful umbrellas. Before you even reach the centre, you notice several buildings dressed in bright flower decorations. Some people call it the most colourful town on earth.",
+      "summary_ko": "포르투갈의 아구다 마을은 알록달록한 우산으로 뒤덮인 거리로 유명합니다. 마을 중앙에 닿기도 전에 여러 건물의 앞을 화려한 꽃 장식이 꾸민 것을 보게 됩니다. 세계에서 가장 색채로운 마을이라는 말을 듣기도 합니다.",
+      "title_en": "Is Agueda the most colourful town in the world?",
+      "title_ko": "아구다, 세계에서 가장 색채로운 마을일까",
+      "title_original": "Is this the most colourful city in the world?",
+      "triviality_score": 5
+    }
+  ]
+}
