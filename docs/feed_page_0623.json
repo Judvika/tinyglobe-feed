@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-09-30T16:40:43+09:00",
+  "built_at": "2026-09-30T18:38:01+09:00",
   "page": 623,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-25T12:06:14+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "외국인이 은퇴하기 좋은 독일 도시 10곳",
       "title_original": "Ten of the best German cities for foreigners to retire",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-09-25T10:02:44+09:00",
+      "country": "MX",
+      "country_ko": "멕시코",
+      "fallback_reason": "",
+      "id": "e5d8cf9ecb22",
+      "image_url": "https://mexiconewsdaily.com/wp-content/uploads/2026/09/1048643_Chichen-Itza-Equinoccio-Otonal_impreso.jpg",
+      "lang_original": "en",
+      "lat": 20.6843,
+      "lon": -88.5678,
+      "processed_at": "2026-09-30T18:28:25+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Thousands of people gathered at Chichén Itzá for the fall equinox and ito witness the famous descent of the serpent.",
+      "region": "Yucatán",
+      "source_name": "Mexico News Daily",
+      "source_type": "rss",
+      "source_url": "https://mexiconewsdaily.com/news/more-than-7000-ignore-clouds-to-gather-at-chichen-itza-for-equinox/",
+      "summary_en": "More than 7,000 people gathered at Chichen Itza in Mexico for the fall equinox. They waited through heavy clouds to watch the famous snake shadow slide down the temple stairs.",
+      "summary_ko": "멕시코 치친 잇자에서 7천 명이 넘는 사람이 가을 분점에 모였다. 이들은 구름이 덮인 하늘을 뚫고 기다려 피라미드 계단을 내려가는 유명한 뱀 그림자를 보았다.",
+      "title_en": "7,000 People Ignore Clouds to See Snake Shadow at Chichen Itza",
+      "title_ko": "7천 명, 구름 무시하고 치친 잇자 뱀 그림자 보러 모임",
+      "title_original": "More than 7,000 ignore clouds to gather at Chichén Itzá for the equinox",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-25T18:02:28+09:00",
+      "country": "ES",
+      "country_ko": "스페인",
+      "fallback_reason": "",
+      "id": "936c4712ce6a",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2019/07/watermarks-logo-000_19U5E3.jpg@webp",
+      "lang_original": "en",
+      "lat": 41.5912,
+      "lon": 1.5209,
+      "processed_at": "2026-09-30T18:30:16+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "\"Força, Equilibri, Valor i Seny\" – strength, balance, courage and mindfulness - is the motto of Catalonia's most famous and spectacular cultural tradition.",
+      "region": "Catalonia",
+      "source_name": "The Local Spain",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.es/20241007/els-castells-what-you-need-to-know-about-the-human-towers-of-catalonia",
+      "summary_en": "Els castells are human towers built in Catalonia, Spain. People climb on each other's shoulders to build towers up to ten levels high. Teams work together to stay balanced and raise a small flag at the top.",
+      "summary_ko": "엘스 카스텔스는 스페인 카탈루냐 지역에서 만들어지는 인간 탑이다. 사람들이 서로의 어깨에 올라 10층까지 높이 쌓는다. 팀이 함께 균형을 잡고 꼭대기에 작은 깃발을 올린다.",
+      "title_en": "Catalonia's Human Towers: Strength, Balance and Teamwork",
+      "title_ko": "카탈루냐의 인간 탑, 힘과 균형과 teamwork의 예술",
+      "title_original": "Els Castells: What you need to know about Catalonia's human towers",
+      "triviality_score": 5
     }
   ]
 }
