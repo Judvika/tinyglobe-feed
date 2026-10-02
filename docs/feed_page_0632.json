@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-10-02T13:13:16+09:00",
+  "built_at": "2026-10-02T15:05:28+09:00",
   "page": 632,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-27T02:06:12+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "시와 LGBTQIA+ 공동체 합의, 부에노스아이레스 프라이드 행진 11월 7일로 진행",
       "title_original": "Pride to take place on November 7 as BA City, LGBTQIA+ community reach agreement",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-09-27T00:04:32+09:00",
+      "country": "SG",
+      "country_ko": "싱가포르",
+      "fallback_reason": "",
+      "id": "e1ee5c548271",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--xbnDCSWf--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/25/20251004_llt_p3-8-199.jpg?itok=9m8-q2Oe",
+      "lang_original": "en",
+      "lat": 1.3521,
+      "lon": 103.8198,
+      "processed_at": "2026-10-02T14:50:38+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "As the head of the home HCSA Dayspring, Ms Valerie Wong works with teenage girls who have experienced abuse, neglect and other forms of trauma. She tells CNA TODAY why she keeps showing up – and why we should look beyond appearances when it comes to young people in distress.",
+      "region": null,
+      "source_name": "CNA Singapore",
+      "source_type": "rss",
+      "source_url": "https://www.channelnewsasia.com/today/up-close/pyschologist-help-teen-girls-trauma-6410171",
+      "summary_en": "Valerie Wong leads HCSA Dayspring, a home for teenage girls who went through abuse, neglect and other trauma. She says the girls often look fine on the outside, so adults should look closer and keep showing up. She also says she receives far more than she gives.",
+      "summary_ko": "밸리 웡은 폭행과 방임, 그 밖의 트라우마를 겪은 청소년 여성이 사는 홈 HCSA 데이스프링을 이끈다. 그녀는 아이들이 겉으로는 괜찮아 보여도 어른이 더 가까이 살펴봐야 한다고 말한다. 그녀는 자신이 주는 것보다 훨씬 많은 것을 받는다고도 말했다.",
+      "title_en": "The psychologist helping teenage girls heal from trauma others miss",
+      "title_ko": "보이지 않는 상처를 가진 청소년을 돕는 심리사",
+      "title_original": "'I receive way more than I've given': The psychologist helping teenage girls through trauma others may not see",
+      "triviality_score": 4
     }
   ]
 }
