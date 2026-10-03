@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-10-03T11:05:06+09:00",
+  "built_at": "2026-10-03T13:07:06+09:00",
   "page": 638,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-28T00:06:45+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "웨스트미드 병원에서 23시간 기다린 아드난",
       "title_original": "'Like a zombie apocalypse': Adnaan waited 23 hours at Westmead Hospital",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-09-28T00:06:43+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "b413699d42ec",
+      "image_url": "https://th-i.thgim.com/public/news/national/kerala/vphk1i/article71516489.ece/alternates/LANDSCAPE_1200/website.jpeg",
+      "lang_original": "en",
+      "lat": 11.2437,
+      "lon": 76.1945,
+      "processed_at": "2026-10-03T12:55:36+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Kondotty school launches Chirak website to connect differently-abled individuals with schemes, services, rights, and success stories.",
+      "region": "Kerala",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/kerala/kondotty-school-launches-website-to-help-differently-abled-persons/article71516485.ece",
+      "summary_en": "A school in Kondotty, Kerala, has launched a website called Chirak. It tells differently-abled people about government schemes, services, rights, and success stories.",
+      "summary_ko": "케라라주 코누티의 학교가 치라크라는 웹사이트를 문을 열었다. 이 사이트는 장애인에게 정부 지원 제도와 서비스, 권리, 성공 사례를 알려 준다.",
+      "title_en": "Kondotty school launches website for people with disabilities",
+      "title_ko": "코녹티 학교, 장애인 지원 웹사이트.launch",
+      "title_original": "Kondotty school launches website to help differently-abled persons",
+      "triviality_score": 4
     }
   ]
 }
