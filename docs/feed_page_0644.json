@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-10-04T13:12:52+09:00",
+  "built_at": "2026-10-04T15:23:20+09:00",
   "page": 644,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-29T00:06:06+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "벵갈루루-바가만달라 새 야간 버스 운행",
       "title_original": "KSRTC to introduce new Rajahamsa service between Bengaluru and Bhagamandala in Kodagu",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-29T00:08:42+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "48a4b84762fa",
+      "image_url": "https://th-i.thgim.com/public/incoming/p3q723/article71520708.ece/alternates/LANDSCAPE_1200/DSC_9216.JPG",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-10-04T14:57:02+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Karnataka Minister orders removal of acacia and eucalyptus from Bengaluru research centers to promote native species and urban forest projects.",
+      "region": "Karnataka",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-forest-minister-orders-removal-of-eucalyptus-and-acacia-trees-in-research-centres-forests-in-bengaluru/article71520583.ece",
+      "summary_en": "Karnataka's forest minister has ordered research centers in Bengaluru to remove acacia and eucalyptus trees. This is to help native species grow and support urban forest projects.",
+      "summary_ko": "카르나타카 주 산림부 장관이 벵갈루루의 연구기관들에서 아카시아와 유칼립투스 나무를 제거하라고 지시했습니다. 이 조치는 토종 식물이 자라도록 돕고 도시 숲 조성 사업을 추진하기 위한 것입니다.",
+      "title_en": "Bengaluru to remove non-native trees",
+      "title_ko": "벵갈루루 연구기관, 외래수종 제거",
+      "title_original": "Karnataka Forest Minister orders removal of eucalyptus and acacia trees in research centres, forest in Bengaluru",
+      "triviality_score": 5
     }
   ]
 }
