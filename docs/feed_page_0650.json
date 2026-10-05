@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-10-05T17:28:26+09:00",
+  "built_at": "2026-10-05T19:17:49+09:00",
   "page": 650,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-30T00:03:16+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "노스요크셔 마을에 글램핑 파드 8개 추가될 예정",
       "title_original": "Glamping pods for ‘hugely popular’ North Yorkshire village - Yorkshire Post",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-09-30T00:04:50+09:00",
+      "country": "NO",
+      "country_ko": "노르웨이",
+      "fallback_reason": "",
+      "id": "e723f366f9b8",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-katja-ano-kH4FTuafJH4-unsplash-3-2.jpg@webp",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-10-05T18:57:00+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The Norwegian Railway Drivers' Association (NLF) set set to step up its ongoing strike. Although the exact routes affected have not yet been fully confirmed, more areas across Norway could see train service disruptions.",
+      "region": null,
+      "source_name": "The Local Norway",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.no/20260929/train-driver-strike-in-norway-set-to-escalate-in-october",
+      "summary_en": "The Norwegian Railway Drivers' Association plans to step up its strike. The union has not yet said exactly which routes will be hit. More train services across Norway could be disrupted in October.",
+      "summary_ko": "노르웨이 철도 기사노조가-traditional strike를 확대할 예정이다. 노조는 아직 어느 노선이 영향을 받을지 확정하지 않았다. 10월에 노르웨이 전역에서 기차 운행이 더 많이 혼란을 겪을 수 있다.",
+      "title_en": "Norway train drivers' strike may get bigger in October",
+      "title_ko": "노르웨이 기차 기사노조_pkgдус strikes",
+      "title_original": "Train driver strike in Norway set to escalate in October",
+      "triviality_score": 3
     }
   ]
 }
