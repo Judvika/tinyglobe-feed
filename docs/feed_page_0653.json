@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-10-06T01:07:36+09:00",
+  "built_at": "2026-10-06T03:40:00+09:00",
   "page": 653,
   "page_size": 20,
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "collected_at": "2026-09-30T14:05:25+09:00",
@@ -52,6 +52,30 @@
       "title_ko": "오세아니아 7인 럭비 대회 취소에 사모아 팀 서운",
       "title_original": "Lakapi Samoa unhappy with Oceania Sevens cancellation",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-30T14:05:39+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "fallback_reason": "",
+      "id": "aa468eb9e1d0",
+      "image_url": "https://www.cooperativa.cl/noticias/site/artic/20260929/imag/foto_0000001220260929191827.png",
+      "lang_original": "es",
+      "lat": 34.0532,
+      "lon": -118.2398,
+      "processed_at": "2026-10-06T02:59:36+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "El combinado nacional cerrará su gira por Norteamérica en el Estadio Los Angeles Memorial Coliseum.",
+      "region": "California",
+      "source_name": "Cooperativa",
+      "source_type": "rss",
+      "source_url": "https://www.cooperativa.cl/noticias/deportes/futbol/seleccion-chilena/cuando-y-donde-ver-el-amistoso-de-la-roja-ante-mexico/2026-09-29/191827.html",
+      "summary_en": "Chile's national soccer team ends its North America trip in Los Angeles. The team plays Mexico in a friendly match at the Los Angeles Memorial Coliseum. It is the last stop of the tour.",
+      "summary_ko": "칠레 축구대표팀은 북아메리카 순정의 마지막 무대를 로스앤젤레스에서 잡았습니다. 팀은 로스앤젤레스 메모리얼 콜로시엄 경기장에서 멕시코 대표팀과 친선경기를 합니다. 이 경기로 이번 순정은 끝납니다.",
+      "title_en": "Chile plays Mexico in a friendly in Los Angeles",
+      "title_ko": "칠레 대표팀, 로스앤젤레스에서 멕시코와 친선경기",
+      "title_original": "¿Cuándo y dónde ver el amistoso de La Roja ante México?",
+      "triviality_score": 3
     }
   ]
 }
