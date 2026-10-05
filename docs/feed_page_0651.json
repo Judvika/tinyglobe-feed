@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-10-05T21:10:20+09:00",
+  "built_at": "2026-10-05T23:19:54+09:00",
   "page": 651,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-09-30T02:06:02+09:00",
@@ -459,6 +459,30 @@
       "title_en": "Hourly Weather Forecast for Aldeia Cimeira, Portugal",
       "title_ko": "포르투갈 알데야 시메이라 시간별 일기 예보",
       "title_original": "Previsão do tempo horária para Aldeia Cimeira, Coimbra - SpaceRef",
+      "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-09-30T08:04:59+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "8e79f2f7802d",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/146063cc3d1d56526a2a7f2975d1749b?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=94&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -37.8136,
+      "lon": 144.9631,
+      "processed_at": "2026-10-05T23:02:38+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The council has voted to overturn a 2022 decision to advocate for the federal government to move Australia Day from January 26.",
+      "region": "Victoria",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-09-30/city-of-melbourne-to-halt-australia-day-change-the-date-campaign/107209916",
+      "summary_en": "Melbourne City Council has voted to stop campaigning to move Australia Day away from January 26. The council backed the idea in 2022. Now it is ending the campaign.",
+      "summary_ko": "멜버른 시의원회는 호주데이 날짜를 1월 26일에서 옮기자는 캠페인을 그만두기로 결정했다. 시의원회는 2022년에 이 캠페인을 시작하며 찬성한 바 있다. 이번 결정으로 캠페인은 끝났다.",
+      "title_en": "Melbourne council drops its push to change the Australia Day date",
+      "title_ko": "멜버른 시의원회, 호주데이 날짜 바꾸기 캠페인 중단",
+      "title_original": "City of Melbourne to stop campaigning to change the date of Australia Day",
       "triviality_score": 4
     }
   ]
