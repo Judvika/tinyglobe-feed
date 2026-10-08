@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-10-08T21:23:31+09:00",
+  "page": 678,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-10-03T10:34:35+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "0f25f1a9b908",
+      "image_url": "https://www.diariodepernambuco.com.br/_midias/jpg/2026/10/02/600x400/1_whatsapp_image_2026_10_02_at_07_51_01-968958.jpeg",
+      "lang_original": "pt",
+      "lat": -8.05,
+      "lon": -34.88,
+      "processed_at": "2026-10-08T21:21:46+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Serviços de saúde e assistência terão plantões, enquanto parques, comércio, mercado e espaços de lazer terão horários alterados por causa da votação neste domingo (4)",
+      "region": "Pernambuco",
+      "source_name": "Diario de Pernambuco",
+      "source_type": "google",
+      "source_url": "https://www.diariodepernambuco.com.br/vida-urbana/2026/10/11725573-veja-o-que-funciona-e-o-que-muda-no-recife-neste-domingo-4-de-eleicoes.html",
+      "summary_en": "Health and care services will stay on duty this Sunday. Parks, shops, markets, and fun places will change their hours because of the election.",
+      "summary_ko": "이번 일요일 선거 때문에 보건과 복지 서비스는 당직 근무를 유지합니다. 공원, 상점, 시장, 여가 시설은 선거 때문에 운영 시간이 바뀝니다.",
+      "title_en": "What stays open in Recife on election Sunday",
+      "title_ko": "총선 일요일, 리세이프에서 열리는 곳과 달라지는 곳",
+      "title_original": "Veja o que funciona e o que muda no Recife neste domingo (4) de eleições - Diario de Pernambuco",
+      "triviality_score": 4
+    }
+  ]
+}
