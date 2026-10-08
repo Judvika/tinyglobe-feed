@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-10-09T03:23:53+09:00",
+  "page": 681,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-10-03T20:10:01+09:00",
+      "country": "GB",
+      "country_ko": "영국",
+      "fallback_reason": "",
+      "id": "28c250b03d45",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cfd/live/5bd73180-bf04-11f1-bc1a-938448dddde1.jpg",
+      "lang_original": "en",
+      "lat": 51.5074,
+      "lon": -0.1278,
+      "processed_at": "2026-10-09T03:12:42+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Southeastern said the insects were discovered in drivers' cabs, with the trains removed for cleaning.",
+      "region": "South East England",
+      "source_name": "BBC England",
+      "source_type": "rss",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3kgqwyp4n12o",
+      "summary_en": "Train operator Southeastern found bedbugs in drivers' cabs. The affected trains were taken out of service for cleaning.",
+      "summary_ko": "영국 철도 운영사는 기관실에서 바퀴벌레가 나왔다고 밝혔다. 문제의 열차들은 청소를 위해 모두 회수됐다.",
+      "title_en": "Trains cancelled after bedbugs found on board",
+      "title_ko": "바퀴벌레 발견에 기차 운행 중단",
+      "title_original": "Trains cancelled after bedbugs found on board",
+      "triviality_score": 4
+    }
+  ]
+}
