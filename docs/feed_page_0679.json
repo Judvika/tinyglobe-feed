@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-10-08T23:24:28+09:00",
+  "page": 679,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-10-03T16:05:30+09:00",
+      "country": "IN",
+      "country_ko": "인도",
+      "fallback_reason": "",
+      "id": "b75a4c820eb7",
+      "image_url": "https://th-i.thgim.com/public/incoming/nc7028/article71539871.ece/alternates/LANDSCAPE_1200/DSC_5797.JPG",
+      "lang_original": "en",
+      "lat": 12.9716,
+      "lon": 77.5946,
+      "processed_at": "2026-10-08T23:24:05+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "The event brings elders together for a day of games, performances, and joy in Bengaluru.",
+      "region": "Karnataka",
+      "source_name": "The Hindu National",
+      "source_type": "rss",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/annual-elders-fest-hiriyara-habba-in-bengaluru-on-october-4/article71538199.ece",
+      "summary_en": "Hiriyara Habba is an annual festival for elders in Bengaluru. It brings older people together for a day of games, performances, and joy. The event takes place on October 4.",
+      "summary_ko": "히리아라 하바는 벵갈루루에서 매년 열리는 어르신 축제입니다. 어르신들이 하루 동안 게임과 공연을 즐기며 함께 어울리는 자리입니다. 올해 축제는 10월 4일에 열립니다.",
+      "title_en": "Annual Elders' Fest Hiriyara Habba in Bengaluru on October 4",
+      "title_ko": "10월 4일 벵갈루루에서 어르신 축제 히리아라 하바 개최",
+      "title_original": "Annual elders’ fest Hiriyara Habba in Bengaluru on October 4",
+      "triviality_score": 5
+    }
+  ]
+}
