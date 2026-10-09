@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-10-10T03:02:55+09:00",
+  "page": 690,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-10-05T06:03:51+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "ce2cd8734228",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1790786926/cover-YouCut-20260824-155829535.0000000.jpg",
+      "lang_original": "en",
+      "lat": 38.7223,
+      "lon": -9.1393,
+      "processed_at": "2026-10-10T03:02:53+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "During our September visit to Lisbon, we loved the late-night atmosphere.",
+      "region": "Lisbon",
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-10-04/lisbon-after-dark/1094289",
+      "summary_en": "A visitor describes the late-night mood of Lisbon during a September trip. The streets feel warm and lively after the sun goes down.",
+      "summary_ko": "한 여행자가 9월 리스본 방문에서 느낀 늦은 밤의 분위기를 전한다. 해가 진 뒤에도 거리는 따뜻하고 활기차다고 한다.",
+      "title_en": "Lisbon after dark",
+      "title_ko": "해가 진 뒤의 리스본",
+      "title_original": "Lisbon after dark",
+      "triviality_score": 4
+    }
+  ]
+}
