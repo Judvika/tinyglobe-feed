@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-10-10T00:59:24+09:00",
+  "page": 689,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-10-05T02:14:01+09:00",
+      "country": "BR",
+      "country_ko": "브라질",
+      "fallback_reason": "",
+      "id": "bb787021d010",
+      "image_url": "https://admin.itatiaia.com.br/wp-content/uploads/sites/27/2026/10/FotoJet-12.jpg?resize=1280%2C720&w=1280&h=720&quality=75&crop=1",
+      "lang_original": "pt",
+      "lat": -25.4284,
+      "lon": -49.2733,
+      "processed_at": "2026-10-10T00:59:22+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Candidato pelo PL estava acompanhado de aliados que disputam o Senado, Felipe Martins (PL) e Deltan Dallagnol (Novo); após votação fez balanço da campanha e diz estar 'entusiasmado'",
+      "region": "Parana",
+      "source_name": "Rádio Itatiaia",
+      "source_type": "google",
+      "source_url": "https://www.itatiaia.com.br/politica/eleicoes/campanha-limpa-ex-juiz-sergio-moro-candidato-ao-governo-do-parana-vota-em-curitiba/",
+      "summary_en": "Former judge Sergio Moro, now running for governor of Parana, voted in Curitiba. He was joined by allies also running for the Senate. After voting, he said he was happy with the campaign.",
+      "summary_ko": "전직 판사 세르지우 모루가 파라나 주지사 후보로 쿠리치바에서 투표했다. 상원 의원에 도전하는 동료들과 함께했다. 투표를 마친 그는 선거운동에 대해 만족감을 나타냈다.",
+      "title_en": "Sergio Moro votes in Curitiba and calls it a 'clean campaign'",
+      "title_ko": "세르지우 모루, 쿠리치바에서 투표하며 '깨끗한 선거운동' 강조",
+      "title_original": "'Campanha limpa': ex-juiz Sergio Moro, candidato ao governo do Paraná, vota em Curitiba - Rádio Itatiaia",
+      "triviality_score": 3
+    }
+  ]
+}
