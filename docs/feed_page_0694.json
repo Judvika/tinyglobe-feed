@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-10-10T14:58:37+09:00",
+  "page": 694,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-10-05T22:05:47+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "7f1e62e96299",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1753189524/Porto.jpg",
+      "lang_original": "en",
+      "lat": 41.1579,
+      "lon": -8.6291,
+      "processed_at": "2026-10-10T14:58:35+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Porto City Hall is set to implement a fully digital system for tourist bus operators to access the restricted zone (ZR) in the city centre, requiring companies to pre-register their entry for specific time slots.",
+      "region": "Porto",
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-10-05/porto-digitises-access-records-for-tourist-buses-entering-the-historic-centre/1095635",
+      "summary_en": "Porto City Hall will launch a fully digital system for tourist bus operators entering the restricted city centre zone. Companies must pre-register their entry for specific time slots. The city hopes this will ease traffic and keep records of bus access.",
+      "summary_ko": "포르투시가 관광버스 업체가 구시가지 제한구역에 진입할 때 쓰는 전산 시스템을 도입한다. 업체는 정해진 시간대에 맞춰 진입을 미리 등록해야 한다. 시는 이를 통해 교통 혼잡을 줄이고 버스 진입 기록을 관리할 계획이다.",
+      "title_en": "Porto digitises tourist bus access to historic centre",
+      "title_ko": "포르투, 관광버스 구시가지 진입 전산 관리 시작",
+      "title_original": "Porto digitises access records for tourist buses entering the historic centre",
+      "triviality_score": 3
+    }
+  ]
+}
