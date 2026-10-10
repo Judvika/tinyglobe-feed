@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-10-10T09:09:35+09:00",
+  "built_at": "2026-10-10T11:10:37+09:00",
   "page": 691,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-10-05T10:11:39+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "요크셔 마을 펍, 텃밭과 카페, 상점, 캐러밴 사이트까지 문을 열다",
       "title_original": "Yorkshire village pub The Black Lion branches out with allotments, cafe, clubs, shop and caravan site - Yorkshire Post",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-10-05T08:16:02+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "9fe47b524aaf",
+      "image_url": "https://www.examiner.com.au/images/transform/v1/crop/frm/H9AemfQ3cDaTrBwqEFxwv/6536ef57-60c1-4e21-abe1-ee8e573bcadc.png/r135_103_1458_798_w1200_h630_fmax.jpg",
+      "lang_original": "en",
+      "lat": -42.0,
+      "lon": 146.5,
+      "processed_at": "2026-10-10T10:54:42+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Tasmanian business get creative to tackle surcharge ban.",
+      "region": "Tasmania",
+      "source_name": "The Examiner",
+      "source_type": "google",
+      "source_url": "https://www.examiner.com.au/story/9361490/small-town-cafe-owner-in-tasmania-asking-customers-to-pay-cash/",
+      "summary_en": "A cafe owner in a small Tasmanian town is asking customers to pay with cash. A new rule stops shops from adding card fees, so the owner must pay them from the shop pocket. The owner says the shop cannot take the extra cost anymore.",
+      "summary_ko": "태즈메이니아의 작은 마을 카페 주인이 고객에게 현금 결제를 요청했다. 새 규정 때문에 카드 수수료를 손님에게 부과할 수 없게 되어 주인이 비용을 떠안아야 한다. 주인은 추가 비용을 더는 감당할 수 없다고 말했다.",
+      "title_en": "A small town cafe owner in Tasmania asks customers to pay cash",
+      "title_ko": "작은 마을 카페 주인, 고객에게 현금 결제 요청",
+      "title_original": "'Can't wear it anymore': Small town cafe owner asking customers to pay cash - The Examiner",
+      "triviality_score": 5
     }
   ]
 }
