@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-10-10T17:10:41+09:00",
+  "built_at": "2026-10-10T19:07:30+09:00",
   "page": 694,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-10-05T22:05:47+09:00",
@@ -459,6 +459,30 @@
       "title_en": "'Unintended consequences': Poll shows independence referendum push is boosting Alberta NDP",
       "title_ko": "'의도치 않은 결과': 독립 주민투표 추진이 야당 NDP를 밀어 올려",
       "title_original": "‘Unintended consequences’: Poll shows UCP independence referendum boosting Alberta NDP",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-10-05T22:21:58+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "fallback_reason": "",
+      "id": "749adadcb0b6",
+      "image_url": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/05/1791154426862_camden-png.webp",
+      "lang_original": "vi",
+      "lat": 44.2098,
+      "lon": -69.0648,
+      "processed_at": "2026-10-10T18:46:27+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Giữa lúc kho tên lửa Mỹ suy giảm sau nhiều năm xung đột, thị trấn Camden với chỉ 10.000 dân đang trở thành mắt xích quan trọng trong nỗ lực tăng tốc sản xuất vũ khí, dù chính nơi đây lại thiếu nhân lực, nhà ở và hạ tầng để đáp ứng tham vọng của Washington.",
+      "region": "Maine",
+      "source_name": "Vietnam.vn",
+      "source_type": "google",
+      "source_url": "https://www.vietnam.vn/camden-thi-tran-nho-ganh-trong-trach-lap-day-kho-ten-lua-my",
+      "summary_en": "Camden is a small town with only 10,000 people. It is becoming a key link in the push to speed up US weapons production. But the town lacks the workers, housing, and infrastructure to meet Washington's ambitions.",
+      "summary_ko": "인구 1만 명뿐인 캠든이라는 작은 마을이 미국의 무기 생산을 서두히는 데 중요한 고리가 되고 있다. 그런데 정작 이 마을에는 워싱턴의 야심을 감당할 인력과 주택, 기반 시설이 부족하다.",
+      "title_en": "Camden: Small Town Takes On Filling US Missile Stockpiles",
+      "title_ko": "작은 마을 캠든, 미국 미사일 재고를 채우는 중책",
+      "title_original": "Camden - thị trấn nhỏ gánh trọng trách lấp đầy kho tên lửa Mỹ - Vietnam.vn",
       "triviality_score": 3
     }
   ]
