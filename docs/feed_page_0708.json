@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-10-12T06:32:47+09:00",
+  "page": 708,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-10-07T20:05:35+09:00",
+      "country": "DK",
+      "country_ko": "덴마크",
+      "fallback_reason": "",
+      "id": "73bf5df9f4a3",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-20240927-143009-L-1920x1394web.jpg@webp",
+      "lang_original": "en",
+      "lat": 56.0,
+      "lon": 8.5,
+      "processed_at": "2026-10-12T06:30:58+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Multiple areas of Denmark, particularly in the west, could see half a month of rain fall this week due to a low pressure front moving towards Denmark from France causing rain and strong winds.",
+      "region": "Denmark",
+      "source_name": "The Local Denmark",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.dk/20261007/half-a-month-of-rain-set-to-fall-this-week-in-parts-of-denmark",
+      "summary_en": "A low pressure front is moving toward Denmark from France. It will bring rain and strong winds. Western parts of the country may see half a month of rain in one week.",
+      "summary_ko": "프랑스에서 덴마크로 저기압 전선이 이동하고 있습니다. 이로 인해 비와 강한 바람이 불 것으로 보입니다. 특히 서부 지역은 일주일 만에 보름치 비가 내릴 수 있습니다.",
+      "title_en": "Half a Month of Rain Expected This Week in Parts of Denmark",
+      "title_ko": "덴마크 일부 지역, 이번 주에 한 달치 절반의 비 예상",
+      "title_original": "Half a month of rain set to fall this week in parts of Denmark",
+      "triviality_score": 3
+    }
+  ]
+}
