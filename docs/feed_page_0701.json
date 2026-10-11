@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-10-11T14:38:36+09:00",
+  "built_at": "2026-10-11T16:39:02+09:00",
   "page": 701,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-10-06T22:05:38+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "네덜란드 양치기들, 늑대 막으려 이탈리아 목양견 데려와",
       "title_original": "Shepherds turn to dogs to defend sheep from wolves on the Veluwe",
       "triviality_score": 5
+    },
+    {
+      "collected_at": "2026-10-06T22:26:37+09:00",
+      "country": "US",
+      "country_ko": "미국",
+      "fallback_reason": "",
+      "id": "0c072e12d662",
+      "image_url": "https://cdn-assets.fedwebplatform.org/fed-49/2/Peddlers_book_image.jpg",
+      "lang_original": "en",
+      "lat": 44.5588,
+      "lon": -72.6579,
+      "processed_at": "2026-10-11T16:28:59+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "22 2026",
+      "region": "Vermont",
+      "source_name": "jewishberkshires.org",
+      "source_type": "google",
+      "source_url": "https://www.jewishberkshires.org/jewish-federation-of-the-berkshires-calendar/peddlers-merchants-and-junk-dealers",
+      "summary_en": "A talk looks at the history of Jewish life in small towns across Vermont. It focuses on peddlers, merchants, and junk dealers who built their lives there. The event is part of a local Jewish community calendar.",
+      "summary_ko": "버몬트의 작은 마을들에서 유대인들이 살아온 역사를 다루는 강연이 열린다. 행상인과 상인, 고물상으로 살아간 사람들의 이야기에 초점을 맞춘다. 이 행사는 지역 유대인 커뮤니티 달력의 일부로 열린다.",
+      "title_en": "Peddlers and Merchants: Jewish Life in Small-Town Vermont",
+      "title_ko": "행상인과 상인들: 버몬트 작은 마을의 유대인 삶",
+      "title_original": "Peddlers, Merchants, and Junk Dealers: Jewish Life in Small-Town Vermont - jewishberkshires.org",
+      "triviality_score": 4
     }
   ]
 }
