@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-10-13T04:33:45+09:00",
+  "page": 716,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-10-08T20:08:54+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "a855633a652c",
+      "image_url": "https://www.noticiasdecoimbra.pt/wp-content/uploads/2026/10/pena-jose-luis-rodirgues.webp",
+      "lang_original": "pt",
+      "lat": 40.1553,
+      "lon": -8.1064,
+      "processed_at": "2026-10-13T04:30:35+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Na Pena, em Góis, há um espaço que aparece assinalado como património no percurso oficial das Aldeias do Xisto. Chama-se…",
+      "region": "Góis, Coimbra",
+      "source_name": "Notícias de Coimbra",
+      "source_type": "google",
+      "source_url": "https://www.noticiasdecoimbra.pt/a-aldeia-de-xisto-de-gois-que-tem-um-museu-familiar-privado-dentro-de-uma-casa-e-quase-ninguem-sabe-o-que-guarda",
+      "summary_en": "In Pena, in the Góis area, one stop on the official Schist Villages route is a family home. Inside, the owners keep a small private museum. Almost nobody knows what it holds.",
+      "summary_ko": "포르투갈 고이스 지역의 페나 마을에는 공식 슐레이트 마을 코스에 이름을 올린 한 집이 있다. 이 집 안에는 가족이 꾸린 작은 개인 박물관이 숨어 있다. 그 안에 무엇이 있는지 아는 사람은 거의 없다.",
+      "title_en": "The schist village in Góis that has a private family museum inside a house",
+      "title_ko": "고이스의 한 슐레이트 마을, 집 안에 개인 가족 박물관이 있다",
+      "title_original": "A Aldeia de Xisto de Góis que tem um museu privado dentro de uma casa (e quase ninguém sabe o que guarda) - Notícias de Coimbra",
+      "triviality_score": 5
+    }
+  ]
+}
