@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-10-13T14:37:33+09:00",
+  "page": 719,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-10-09T04:15:12+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "75ac6c7d3b6f",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/c6d7485e010dfe28a3ff2879b9a365d0?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=108&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-10-13T14:37:09+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Experts say people considering freezing their eggs for non-medical reasons need more evidence-based information as most will not use them and, even if they do, the procedure is not a guaranteed pathway to parenthood.",
+      "region": null,
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/health/2026-10-09/egg-freezing-decision-study-one-in-four-return/107175446",
+      "summary_en": "Freezing your eggs without a medical reason costs a lot of money. Experts say most women never use the eggs they freeze. Even when they do, it does not always lead to a baby.",
+      "summary_ko": "의학적 이유 없이 난자를 냉동하는 데는 많은 돈이 듭니다. 전문가들은 대부분의 여성이 냉동한 난자를 결국 사용하지 않는다고 말합니다. 사용하더라도 항상 임신으로 이어지는 것은 아닙니다.",
+      "title_en": "Elective egg freezing costs thousands, but most women never use them",
+      "title_ko": "비의학적 난자 냉동, 비용은 많이 들지만 대부분 사용하지 않아",
+      "title_original": "Elective egg freezing costs thousands, but most women never use them",
+      "triviality_score": 3
+    }
+  ]
+}
