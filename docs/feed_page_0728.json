@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-10-14T20:33:40+09:00",
+  "page": 728,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-10-10T18:07:29+09:00",
+      "country": "AU",
+      "country_ko": "호주",
+      "fallback_reason": "",
+      "id": "bce6bf8d8202",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/d259f1617a6669eaaa2791b6824bf112?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=208&width=862&height=485&imformat=generic",
+      "lang_original": "en",
+      "lat": -33.4453,
+      "lon": 149.5567,
+      "processed_at": "2026-10-14T20:33:11+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Zach Bates has qualified on pole for Sunday's Bathurst 1000, topping the time sheets during the Top 10 Shootout at Mount Panorama.",
+      "region": "New South Wales",
+      "source_name": "ABC Australia News",
+      "source_type": "rss",
+      "source_url": "https://www.abc.net.au/news/2026-10-10/bathurst-1000-supercars-top-10-shootout/107232638",
+      "summary_en": "Zach Bates took pole position for Sunday's Bathurst 1000. He set the fastest time in the Top 10 Shootout at Mount Panorama. The local crowd cheered as he topped the time sheets.",
+      "summary_ko": "잭 베이츠가 일요일 배서스트 1000 경기의 폴 포지션을 차지했다. 그는 마운트 파노라마에서 열린 톱10 슈트아웃에서 가장 빠른 기록을 냈다. 지역 관중들은 그가 기록표 1위에 오르자 환호했다.",
+      "title_en": "Zach Bates wins pole position for Bathurst 1000",
+      "title_ko": "잭 베이츠, 배서스트 1000 폴 포지션 차지",
+      "title_original": "Zach Bates qualifies on pole for Bathurst 1000",
+      "triviality_score": 3
+    }
+  ]
+}
