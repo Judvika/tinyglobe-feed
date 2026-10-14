@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-10-14T09:01:46+09:00",
+  "page": 724,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-10-10T00:12:02+09:00",
+      "country": "CA",
+      "country_ko": "캐나다",
+      "fallback_reason": "",
+      "id": "0f28f7a38c3c",
+      "image_url": "https://i.cbc.ca/ais/45fd7251-924f-4fca-b01f-115924cd363e,1791483805717/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C8001%2C4500%29%3BResize%3D620",
+      "lang_original": "en",
+      "lat": 43.2557,
+      "lon": -79.8711,
+      "processed_at": "2026-10-14T09:00:40+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "After years without professional hockey in Hamilton, the wait is almost over. The Hamilton Hammers will play their first regular-season home game Friday night, hosting the Toronto Marlies at TD Coliseum as the new AHL team begins its inaugural season.",
+      "region": "Ontario",
+      "source_name": "CBC Canada",
+      "source_type": "rss",
+      "source_url": "https://www.cbc.ca/news/canada/hamilton/hamilton-hammers-home-opener-toronto-marlies-9.7374440",
+      "summary_en": "The Hamilton Hammers will play their first regular-season home game on Friday night. They host the Toronto Marlies at TD Coliseum in their first AHL season. Star player Brandon Scanlin said his mom almost cried when he told her he was coming home to play.",
+      "summary_ko": "해밀턴 해머스가 금요일 밤 첫 정규 리그 홈 경기를 치른다. 새 AHL 팀인 해머스는 TD 콜로세움에서 토론토 말리스와 맞붙는다. 팀의 스타 선수 브랜든 스캔린은 고향으로 돌아와 뛰게 됐다고 어머니께 말했더니 어머니가 거의 울 뻔하셨다고 전했다.",
+      "title_en": "Hamilton Hammers play their first home game Friday",
+      "title_ko": "해밀턴 해머스, 금요일 첫 홈 경기 나선다",
+      "title_original": "When Hammers star Brandon Scanlin told his mom he's coming home to play AHL hockey 'she almost started crying'",
+      "triviality_score": 4
+    }
+  ]
+}
