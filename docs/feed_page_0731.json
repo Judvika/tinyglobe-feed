@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-10-15T04:36:16+09:00",
+  "built_at": "2026-10-15T06:34:02+09:00",
   "page": 731,
   "page_size": 20,
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-10-11T04:07:41+09:00",
@@ -436,6 +436,54 @@
       "title_ko": "전 시장, 티루바난타푸람 동물원 이전 계획에 반대",
       "title_original": "Former Mayor alleges bid to move Thiruvananthapuram Zoo animals to Vantara, Puthur",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-10-11T06:17:21+09:00",
+      "country": "RU",
+      "country_ko": "러시아",
+      "fallback_reason": "",
+      "id": "3d17ba3aa608",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Woolly-rhino-by-Mammoth-museum-of-North-Eastern-Federal-University-Yakutsk-Russia-1152x648.jpg",
+      "lang_original": "en",
+      "lat": 66.0,
+      "lon": 129.0,
+      "processed_at": "2026-10-15T06:24:08+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Fortunately for paleogeneticists, wolf puppies don't chew their food thoroughly.",
+      "region": "Siberia",
+      "source_name": "Ars Technica",
+      "source_type": "google",
+      "source_url": "https://arstechnica.com/science/2026/01/scientists-sequence-a-woolly-rhino-genome-from-a-14400-year-old-wolfs-stomach/",
+      "summary_en": "A frozen wolf from Siberia still had food in its stomach. Scientists found woolly rhino DNA inside and pieced together the rhino's genome. This is the first genome from this extinct animal.",
+      "summary_ko": "시베리아에서 발견된 얼어붙은 늑대의 뱃속에 먹이가 남아 있었습니다. 과학자들은 그 안에서 털코뿔소의 DNA를 찾아 유전체를 복원했습니다. 이 동물의 유전체가 밝혀진 것은 이번이 처음입니다.",
+      "title_en": "Scientists read a woolly rhino genome from a 14,400-year-old wolf's stomach",
+      "title_ko": "1만 4400년 된 늑대 뱃속에서 코뿔소 유전자를 읽다",
+      "title_original": "Scientists sequence a woolly rhino genome from a 14,400-year-old wolf’s stomach - Ars Technica",
+      "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-10-11T08:05:39+09:00",
+      "country": "CL",
+      "country_ko": "칠레",
+      "fallback_reason": "",
+      "id": "9b83fb6b8ff8",
+      "image_url": "https://www.cooperativa.cl/noticias/site/artic/20261010/imag/foto_0000000120261010194557.png",
+      "lang_original": "es",
+      "lat": -36.7167,
+      "lon": -73.1167,
+      "processed_at": "2026-10-15T06:24:23+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Huachipato tumbó por 2-0 a O'Higgins en Talcahuano y llegó a 10 encuentros consecutivos de forma invicta ante los de Rancagua. Con goles de Maximiliano Rodríguez y Claudio Sepúlveda no solo amplió su paternidad, si no que llegó a tres encuentros al hilo festejando en la Liga de Primera.",
+      "region": "Talcahuano",
+      "source_name": "Cooperativa",
+      "source_type": "rss",
+      "source_url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-firmo-su-tercer-triunfo-al-hilo-en-la-liga-y-estiro-su/2026-10-10/194557.html",
+      "summary_en": "Huachipato won 2-0 against O'Higgins in Talcahuano. Goals from Maximiliano Rodríguez and Claudio Sepúlveda sealed the win. It was Huachipato's third straight victory in the league.",
+      "summary_ko": "Huachipato가 Talcahuano에서 O'Higgins를 2-0으로 이겼다. Maximiliano Rodríguez와 Claudio Sepúlveda의 골로 승리를 굳혔다. 이로써 Huachipato는 리그에서 3연승을 달렸다.",
+      "title_en": "Huachipato beats O'Higgins 2-0 in Talcahuano",
+      "title_ko": "Huachipato, Talcahuano에서 O'Higgins 2-0 격파",
+      "title_original": "Huachipato firmó su tercer triunfo al hilo en la Liga y estiró su positiva racha ante O'Higgins",
+      "triviality_score": 4
     }
   ]
 }
