@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "built_at": "2026-10-15T20:45:29+09:00",
-  "total_items": 14742,
+  "built_at": "2026-10-15T22:24:28+09:00",
+  "total_items": 14760,
   "page_size": 20,
   "total_pages": 738,
   "seed": "stable",
@@ -3694,7 +3694,7 @@
     {
       "page": 738,
       "file": "feed_page_0738.json",
-      "count": 2
+      "count": 20
     }
   ]
 }
