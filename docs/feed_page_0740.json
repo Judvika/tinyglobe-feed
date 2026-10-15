@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-10-16T00:49:26+09:00",
+  "page": 740,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-10-12T18:02:16+09:00",
+      "country": "NL",
+      "country_ko": "네덜란드",
+      "fallback_reason": "",
+      "id": "19fbf4b41c44",
+      "image_url": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2026/10/ANP-572041811-scaled.jpg",
+      "lang_original": "en",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-10-16T00:47:43+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Feyenoord climbed to the top of the Eredivisie after a 2-0 win over AZ Alkmaar took them above their opponents for the first time this season. Nacho Ferri continued his strong start to the season by putting the Rotterdammers ahead in the 13th minute as he capitalised on a poor defensive header by Wouter Goes. Fellow Spaniard Javi López scored the second from a corner in the second half to make sure of the points. Coach Giovanni van Bronkhorst played...",
+      "region": null,
+      "source_name": "DutchNews.nl",
+      "source_type": "rss",
+      "source_url": "https://www.dutchnews.nl/2026/10/feyenoord-top-eredivisie-as-az-left-seething-over-denied-penalty/",
+      "summary_en": "Feyenoord moved to the top of the Dutch Eredivisie after beating AZ Alkmaar 2-0. Nacho Ferri scored first in the 13th minute, and Javi López added a second from a corner. AZ were upset about a penalty that the referee did not give.",
+      "summary_ko": "페예노르트가 AZ 알크마르를 2-0으로 이기고 네덜란드 에레디비시 선두에 올랐다. 나초 페리가 전반 13분에 선제골을 넣었고, 하비 로페즈가 코너킥에서 두 번째 골을 추가했다. AZ는 주심이 페널티를 주지 않은 것에 강한 불만을 표했다.",
+      "title_en": "Feyenoord Goes Top of the League After 2-0 Win",
+      "title_ko": "페예노르트, 2-0 승리로 리그 선두 등극",
+      "title_original": "Feyenoord top Eredivisie as AZ left seething over denied penalty",
+      "triviality_score": 4
+    }
+  ]
+}
