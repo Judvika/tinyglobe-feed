@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "built_at": "2026-10-16T02:43:15+09:00",
+  "page": 741,
+  "page_size": 20,
+  "count": 1,
+  "items": [
+    {
+      "collected_at": "2026-10-12T20:06:54+09:00",
+      "country": "DE",
+      "country_ko": "독일",
+      "fallback_reason": "",
+      "id": "f338219b1ba1",
+      "image_url": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-AFP__20260630__B8QN6T4__v1__MidRes__UneTortureLesTurcsDenoncentUneCriseDesVisasSchen.jpg@webp",
+      "lang_original": "en",
+      "lat": 51.1657,
+      "lon": 10.4515,
+      "processed_at": "2026-10-16T02:43:13+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "Citizens from a small group of countries can enter Germany freely and then apply to change their Schengen visas to longer-term residence permits. For everyone else it's a bit more complicated.",
+      "region": null,
+      "source_name": "The Local Germany",
+      "source_type": "rss",
+      "source_url": "https://www.thelocal.de/20261012/listed-the-nationalities-that-can-enter-germany-freely-for-travel-study-or-work",
+      "summary_en": "Citizens from a small group of countries can enter Germany without a visa. They can then apply to change their Schengen visa to a longer-term residence permit. For everyone else, the process is more complicated.",
+      "summary_ko": "일부 국가의 국민은 무사증으로 독일에 입국할 수 있습니다. 이후 체류허가증으로 변경하는 절차를 밟으면 됩니다. 다른 국가 국민들은 절차가 더 까다롭습니다.",
+      "title_en": "Countries Whose Citizens Can Enter Germany Freely for Travel, Study or Work",
+      "title_ko": "관광·유학·취업을 위해 무비자로 독일에 입국할 수 있는 국가 목록",
+      "title_original": "LISTED: The nationalities that can enter Germany freely for travel, study or work",
+      "triviality_score": 3
+    }
+  ]
+}
