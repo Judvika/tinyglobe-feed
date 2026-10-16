@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-10-16T18:46:51+09:00",
+  "built_at": "2026-10-16T20:20:04+09:00",
   "page": 745,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-10-13T08:03:54+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "호수와 자연, 로컬 상점이 있는 버몬트의 작은 마을",
       "title_original": "Vermont's Lakeside Destination Is A Small Town With Idyllic Nature Retreats And Local Shops - https://www.islands.com/",
       "triviality_score": 4
+    },
+    {
+      "collected_at": "2026-10-13T06:04:21+09:00",
+      "country": "CL",
+      "country_ko": "칠레",
+      "fallback_reason": "",
+      "id": "1a20fef9db50",
+      "image_url": "https://www.cooperativa.cl/noticias/site/artic/20261012/imag/foto_0000000720261012175454.jpg",
+      "lang_original": "es",
+      "lat": null,
+      "lon": null,
+      "processed_at": "2026-10-16T20:03:44+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "El delantero recibió un centro de Ignacio Vásquez y firmó su doblete.",
+      "region": null,
+      "source_name": "Cooperativa",
+      "source_type": "rss",
+      "source_url": "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/video-guerrero-le-pego-de-primera-desde-fuera-del-area-y-estiro-la/2026-10-12/175454.html",
+      "summary_en": "Guerrero scored with a first-time shot from outside the penalty area. He extended Universidad de Chile's lead over Ñublense.",
+      "summary_ko": "게레로가 페널티 구역 밖에서 한 번에 공을 차 넣어 골을 기록했습니다. 이 골로 우니베르시다드 데 칠레가 뉴블렌세에 대한 리드를 늘렸습니다.",
+      "title_en": "Guerrero scores from long range to extend Chile lead",
+      "title_ko": "게레로, 페널티 구역 밖에서 중거리 골로 리드 확대",
+      "title_original": "[VIDEO] Guerrero le pegó de primera desde fuera del área y estiró la ventaja de la U ante Ñublense",
+      "triviality_score": 5
     }
   ]
 }
