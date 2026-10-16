@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-10-16T09:04:19+09:00",
+  "built_at": "2026-10-16T10:42:59+09:00",
   "page": 741,
   "page_size": 20,
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "collected_at": "2026-10-12T20:06:54+09:00",
@@ -460,6 +460,30 @@
       "title_ko": "이탈리아 비자 규제 피하는 사람들의 방법",
       "title_original": "‘Progressively more difficult’: How people are finding ways around Italy’s visa rules",
       "triviality_score": 3
+    },
+    {
+      "collected_at": "2026-10-12T20:07:14+09:00",
+      "country": "PT",
+      "country_ko": "포르투갈",
+      "fallback_reason": "",
+      "id": "2f7d452272f8",
+      "image_url": "https://d1mnxluw9mpf9w.cloudfront.net/media/1791800175/close-up-hand-playing-bingo.jpg",
+      "lang_original": "en",
+      "lat": 39.5,
+      "lon": -8.0,
+      "processed_at": "2026-10-16T10:25:54+09:00",
+      "provider_used": "opencode",
+      "raw_excerpt": "There's something quietly remarkable about a game that requires almost nothing — a card, a few counters, and someone reading numbers aloud — yet manages to hold a room of fifty people in shared suspense. Bingo and tombola have done exactly that in Portugal for generations, threading through patron-saint festas, parish halls, and neighbourhood evenings with a consistency that no other community game has matched. This is the story of how a simple draw-and-mark format became one of the most endurin",
+      "region": null,
+      "source_name": "The Portugal News",
+      "source_type": "rss",
+      "source_url": "http://www.theportugalnews.com/news/2026-10-12/bingo-and-tombola-in-portugal-a-social-ritual-across-generations/1099240",
+      "summary_en": "Bingo and tombola have long been a shared pastime in Portugal. People gather in parish halls and local festivals to play these simple number games. The tradition still brings neighbours together across generations.",
+      "summary_ko": "포르투갈에서는 빙고와 톰볼라가 오랫동안 함께 즐겨 온 오락이었습니다. 사람들은 본당 회관이나 지역 축제에 모여 이 간단한 숫자 게임을 즐깁니다. 이 전통은 여러 세대에 걸쳐 이웃들을 하나로 모읍니다.",
+      "title_en": "Bingo and Tombola: A Social Ritual Across Generations in Portugal",
+      "title_ko": "포르투갈에서 이어지는 빙고와 톰볼라의 세대 공동체 게임",
+      "title_original": "Bingo and Tombola in Portugal: A Social Ritual Across Generations",
+      "triviality_score": 5
     }
   ]
 }
